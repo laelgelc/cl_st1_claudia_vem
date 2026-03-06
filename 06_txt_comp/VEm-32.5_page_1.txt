@@ -1,0 +1,44 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.5_page_1.txt
+TOKEN:
+Depes
+
+=====
+AI CONTEXT:
+e Pesquisa ( [Depes] ) da Coordenadoria
+
+=====
+ORIG CONTEXT(S):
+( De- _EOL_ [pes] ) da Coordenadoria
+0.6
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.5_page_1.txt
+TOKEN:
+Guaratinguetá
+
+=====
+AI CONTEXT:
+inglês da Fatec [Guaratinguetá] , participaram de
+
+=====
+ORIG CONTEXT(S):
+inglês da Fatec [Guaratin-] _EOL_ guetá ,
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.5_page_1.txt
+TOKEN:
+Maria
+
+=====
+AI CONTEXT:
+projetos COIL _EOL_ [Maria] Claudia Nunes Delfino
+
+=====
+ORIG CONTEXT(S):
+_EOL_ M _EOL_ [aria] Claudia Nunes Delfino
+0.8
+Delfino e Neusa [Haruka] Sezaki Gritti ,
+0.5
+

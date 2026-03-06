@@ -1,0 +1,50 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-33.7_page_1.txt
+TOKEN:
+acurácia
+
+=====
+AI CONTEXT:
+preditivos , com [acurácia] próxima de 100
+
+=====
+ORIG CONTEXT(S):
+preditivos , com [acurá-] _EOL_ cia próxima
+0.62
+foi realizado por [Patrícia] Patrí- _EOL_ cio
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.7_page_1.txt
+TOKEN:
+equipa
+
+=====
+AI CONTEXT:
+de trabalho em [equipa] , partilha de
+
+=====
+ORIG CONTEXT(S):
+de interagir numa [equipe] real , _EOL_ ___SUB___
+0.83
+a atuar em [equipes] multicêntricas , foi
+0.71
+de trabalho em [equi-] _EOL_ pa ,
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.7_page_1.txt
+TOKEN:
+Patrício
+
+=====
+AI CONTEXT:
+realizado por Patrícia [Patrício] , da AIES
+
+=====
+ORIG CONTEXT(S):
+foi realizado por [Patrícia] Patrí- _EOL_ cio
+0.88
+realizado por Patrícia [Patrí-] _EOL_ cio ,
+0.62
+

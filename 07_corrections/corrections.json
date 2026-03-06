@@ -1,0 +1,17 @@
+[
+    {
+        "file":"05_json_txt\/VEm-33.7_page_1.txt",
+        "target":"equipa",
+        "substitution":"equipe"
+    },
+    {
+        "file":"05_json_txt\/VEm-33.2_page_1.txt",
+        "target":"Fatesc",
+        "substitution":"Fatecs"
+    },
+    {
+        "file":"05_json_txt\/VEm-33.5_page_1.txt",
+        "target":"Senová",
+        "substitution":"Seňová"
+    }
+]

@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-19-4.txt
+TOKEN:
+lingüístico
+
+=====
+AI CONTEXT:
+de parcerias , [lingüístico] . Acho que
+
+=====
+ORIG CONTEXT(S):
+de parcerias , [linguístico] . Acho que ___SUB___
+0.91
+

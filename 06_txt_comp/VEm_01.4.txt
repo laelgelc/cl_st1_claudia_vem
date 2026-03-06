@@ -1,0 +1,30 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_01.4.txt
+TOKEN:
+pós-graduandos
+
+=====
+AI CONTEXT:
+participantes ( entre [pós-graduandos] da FIU e
+
+=====
+ORIG CONTEXT(S):
+estudantes de _EOL_ [pós-graduação] _EOL_ da _EOL_
+0.79
+_EOL_ pós- _EOL_ [graduandos] da FIU e
+0.71
+
+-----------------------------
+TEXT: 05_json_txt/VEm_01.4.txt
+TOKEN:
+ocorreram
+
+=====
+AI CONTEXT:
+. Nossos encontros [ocorreram] com muita animação
+
+=====
+ORIG CONTEXT(S):
+_EOL_ encontros _EOL_ [ocorrem] _EOL_ com _EOL_ ___SUB___
+0.78
+

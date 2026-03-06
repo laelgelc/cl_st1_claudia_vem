@@ -1,0 +1,16 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_03.4.txt
+TOKEN:
+contribuiu
+
+=====
+AI CONTEXT:
+do encontro virtual [contribuiu] para reforçar esses
+
+=====
+ORIG CONTEXT(S):
+_EOL_ encontro virtual [contribui] para _EOL_ reforçar ___SUB___
+0.9
+_EOL_ Mona Pearl [contou] que a _EOL_
+0.5
+

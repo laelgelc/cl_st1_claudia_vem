@@ -1,0 +1,25 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_01.1.txt
+TOKEN:
+Vem
+
+=====
+AI CONTEXT:
+a nós . [Vem] com PCI !
+
+=====
+ORIG CONTEXT(S):
+manter o foco [em] coisas _EOL_ simples
+da _EOL_ equipe [em] lidar com o
+levar a internacionalização [em] _EOL_ casa às
+_EOL_ Temos parceiros [em] Instituições de Ensino
+0.67
+a Cesu _EOL_ [vem] enfrentando as turbulências
+0.67
+da newsletter _EOL_ [VEm] com PCI traz ___SUB___
+Moreira _EOL_ Expediente [VEm] _EOL_ Corpo editorial
+_EOL_ Silva _EOL_ [VEm] : Virtual Exchange
+a nós . [VEm] com PCI !
+da newsletter _EOL_ [VEm] com PCI .
+0.67
+

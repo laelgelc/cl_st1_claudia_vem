@@ -1,0 +1,80 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.2_page_3.txt
+TOKEN:
+técnicas
+
+=====
+AI CONTEXT:
+” , pesquisando [técnicas] e oferecendo os
+
+=====
+ORIG CONTEXT(S):
+pesquisando téc- _EOL_ [nicas] e oferecendo os
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.2_page_3.txt
+TOKEN:
+enriquecida
+
+=====
+AI CONTEXT:
+A discussão foi [enriquecida] por dados locais
+
+=====
+ORIG CONTEXT(S):
+foi enri- _EOL_ [quecida] por dados locais
+0.64
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.2_page_3.txt
+TOKEN:
+Colaborativo
+
+=====
+AI CONTEXT:
+relato de Projeto [Colaborativo] Internacional entre Brasil
+
+=====
+ORIG CONTEXT(S):
+Projeto Colabo- _EOL_ [rativo] Internacional entre Brasil
+0.5
+relato de Projeto [Colabo-] _EOL_ rativo Internacional
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.2_page_3.txt
+TOKEN:
+Biologia
+
+=====
+AI CONTEXT:
+, Agroecologia e [Biologia] e alinhada com
+
+=====
+ORIG CONTEXT(S):
+, Agroecologia e [Biolo-] _EOL_ gia e
+0.62
+Perimeter College / [Georgia] State University (
+0.5
+Língua Inglesa , [Agroecologia] e Biolo- _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.2_page_3.txt
+TOKEN:
+compartilharam
+
+=====
+AI CONTEXT:
+que realizaram PCIs [compartilharam] suas experiências nas
+
+=====
+ORIG CONTEXT(S):
+, as equipes [compararam] esforços de conservação
+0.71
+que realizaram PCIs [comparti-] _EOL_ lharam suas
+0.57
+_EOL_ os estudantes [trabalharam] o tema “
+0.5
+

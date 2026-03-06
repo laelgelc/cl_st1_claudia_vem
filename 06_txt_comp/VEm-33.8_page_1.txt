@@ -1,0 +1,81 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-33.8_page_1.txt
+TOKEN:
+Colaborativa
+
+=====
+AI CONTEXT:
+ou Aprendizagem Internacional [Colaborativa] Online ) .
+
+=====
+ORIG CONTEXT(S):
+graças aos Projetos [Colaborativos] Internacionais ( PCIs
+0.85
+( Col- _EOL_ [laborative] Online International Learning
+0.75
+Internacional Cola- _EOL_ [borativa] Online ) .
+0.67
+ocorre porque a [colaboração] inter- _EOL_ nacional
+0.58
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.8_page_1.txt
+TOKEN:
+internacional
+
+=====
+AI CONTEXT:
+porque a colaboração [internacional] aumenta a empatia
+
+=====
+ORIG CONTEXT(S):
+, ou Aprendizagem [Internacional] Cola- _EOL_ borativa
+0.92
+_EOL_ laborative Online [International] Learning , ou
+0.85
+aos Projetos Colaborativos [Internacionais] ( PCIs )
+0.79
+seguem a abordagem [internacionalmente] conhecida como COIL
+0.72
+a prática de [Internacionalização] em Casa _EOL_
+da Área de [Internacionalização] do Ensino Superior
+0.63
+colaboração inter- _EOL_ [nacional] aumenta a empatia
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.8_page_1.txt
+TOKEN:
+Collaborative
+
+=====
+AI CONTEXT:
+como COIL ( [Collaborative] Online International Learning
+
+=====
+ORIG CONTEXT(S):
+graças aos Projetos [Colaborativos] Internacionais ( PCIs
+0.77
+( Col- _EOL_ [laborative] Online International Learning
+0.77
+ocorre porque a [colaboração] inter- _EOL_ nacional
+0.54
+Internacional Cola- _EOL_ [borativa] Online ) .
+0.54
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.8_page_1.txt
+TOKEN:
+realizados
+
+=====
+AI CONTEXT:
+( PCIs ) [realizados] sob orientação da
+
+=====
+ORIG CONTEXT(S):
+( PCIs ) [realiza-] _EOL_ dos sob
+0.7
+_EOL_ é uma [realidade] graças aos Projetos
+0.7
+

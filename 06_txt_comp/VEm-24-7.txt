@@ -1,0 +1,21 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-24-7.txt
+TOKEN:
+representarem
+
+=====
+AI CONTEXT:
+da IA não [representarem] os diferentes contextos
+
+=====
+ORIG CONTEXT(S):
+da IA não [representam] os diferentes contextos ___SUB___
+0.85
+) , de [apresentações] _EOL_ ( gamma.app
+0.62
+. Sua _EOL_ [apresentação] está disponível em
+perguntas após a [apresentação] , Gabi _EOL_
+0.62
+essa questão da [representatividade] ” . Usar
+0.56
+

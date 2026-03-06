@@ -1,0 +1,20 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-20-7.txt
+TOKEN:
+Università
+
+=====
+AI CONTEXT:
+da Polônia e [Università] Cattolica del Sacro
+
+=====
+ORIG CONTEXT(S):
+da Polônia e [Universitá] Cattolica del Sacro ___SUB___
+0.9
+de Israel ; [University] _EOL_ of Opole
+0.9
+com a _EOL_ [Universidade] de Aveiro (
+e da _EOL_ [Universidade] de Aveiro preparam
+Internacionais _EOL_ na [Universidade] Federal Fluminense )
+0.67
+

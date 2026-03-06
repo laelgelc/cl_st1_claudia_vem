@@ -1,0 +1,121 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-33.4_page_2.txt
+TOKEN:
+digitais
+
+=====
+AI CONTEXT:
+, linguísticas , [digitais] e de trabalho
+
+=====
+ORIG CONTEXT(S):
+, linguísticas , [digi-] _EOL_ tais e
+0.5
+Intercâm- _EOL_ bios [Virtuais] como COIL Connect
+0.5
+, digi- _EOL_ [tais] e de trabalho
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.4_page_2.txt
+TOKEN:
+presença
+
+=====
+AI CONTEXT:
+de estimular a [presença] e reputação do
+
+=====
+ORIG CONTEXT(S):
+a pre- _EOL_ [sença] e reputação do
+0.62
+português . _EOL_ [Apresentação] de _EOL_ Osvaldo
+0.58
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.4_page_2.txt
+TOKEN:
+compartilhando
+
+=====
+AI CONTEXT:
+colegas internacionais , [compartilhando] os resultados dos
+
+=====
+ORIG CONTEXT(S):
+colegas internacionais , [compartilhan-] _EOL_ do os
+0.86
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.4_page_2.txt
+TOKEN:
+estudantes
+
+=====
+AI CONTEXT:
+e 15 mil [estudantes] das instituições parceiras
+
+=====
+ORIG CONTEXT(S):
+mil estu- _EOL_ [dantes] das instituições parceiras
+0.6
+94 _EOL_ instituições [estrangeiras] , engajando cerca
+0.5
+da multiplicidade de [assuntos] , já foram
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.4_page_2.txt
+TOKEN:
+Intercâmbios
+
+=====
+AI CONTEXT:
+colaboração internacional em [Intercâmbios] Virtuais como COIL
+
+=====
+ORIG CONTEXT(S):
+colaboração internacional em [Intercâm-] _EOL_ bios Virtuais
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.4_page_2.txt
+TOKEN:
+International
+
+=====
+AI CONTEXT:
+( Collaborative Online [International] Learning ) ,
+
+=====
+ORIG CONTEXT(S):
+Brasileira de Educação [Internacional] ) . Em
+0.92
+CPS no cenário [internacional] . _EOL_ Nesse
+redes de colaboração [internacional] em Intercâm- _EOL_
+0.85
+Online In- _EOL_ [ternational] Learning ) ,
+0.85
+com os colegas [internacionais] , compartilhan- _EOL_
+0.71
+a promoção da [internacionalização] com o objetivo
+0.58
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.4_page_2.txt
+TOKEN:
+poluição
+
+=====
+AI CONTEXT:
+, agricultura , [poluição] do ar ,
+
+=====
+ORIG CONTEXT(S):
+, po- _EOL_ [luição] do ar ,
+0.75
+do ar , [comunicação] empresarial , entre
+0.55
+_EOL_ formaliza a [promoção] da internacionalização com
+0.5
+

@@ -1,0 +1,44 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.4_page_2.txt
+TOKEN:
+corretor-guardião
+
+=====
+AI CONTEXT:
+, como “ [corretor-guardião] de dados pessoais
+
+=====
+ORIG CONTEXT(S):
+“ corre- _EOL_ [tor-guardião] de dados pessoais
+0.71
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.4_page_2.txt
+TOKEN:
+específicas
+
+=====
+AI CONTEXT:
+transcendam as descrições [específicas] de cargos ,
+
+=====
+ORIG CONTEXT(S):
+transcendam as descrições [especí-] _EOL_ ficas de
+0.55
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.4_page_2.txt
+TOKEN:
+negócios
+
+=====
+AI CONTEXT:
+no mundo dos [negócios] , as incertezas
+
+=====
+ORIG CONTEXT(S):
+no mundo dos [negó-] _EOL_ cios ,
+0.5
+dos negó- _EOL_ [cios] , as incertezas
+0.5
+

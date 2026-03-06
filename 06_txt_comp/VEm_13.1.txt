@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_13.1.txt
+TOKEN:
+notificou
+
+=====
+AI CONTEXT:
+maio 2021 ) [notificou] as primeiras tratativas
+
+=====
+ORIG CONTEXT(S):
+maio 2021 ) [noticiou] _EOL_ as primeiras ___SUB___
+0.78
+

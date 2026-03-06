@@ -1,0 +1,91 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_1.txt
+TOKEN:
+Cuarto
+
+=====
+AI CONTEXT:
+Nacional de Río [Cuarto] ( Argentina )
+
+=====
+ORIG CONTEXT(S):
+Nacional de Río [Cuar-] _EOL_ to (
+0.67
+_EOL_ estar “ [muito] satisfeitos ” com
+0.5
+, Sorocaba , [Santo] André e Bebedouro
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_1.txt
+TOKEN:
+Internacional
+
+=====
+AI CONTEXT:
+– Aprendizagem Colaborativa [Internacional] realizada on-line )
+
+=====
+ORIG CONTEXT(S):
+( Collaborative Online [International] Learning – Aprendizagem ___SUB___
+0.92
+dos Projetos Colaborativos [Internacionais] é debater _EOL_
+Colaborati- _EOL_ vos [Internacionais] ( PCIs )
+de Projetos Colaborativos [Internacionais] ( PCIs )
+dos Projetos Colaborativos [Internacionais] 2024 - https://tinyurl
+0.86
+Colaborativos In- _EOL_ [ternacionais] 2024 e traz
+0.69
+o tema “ [Internacionalização] , pesquisa _EOL_
+0.68
+Colaborativa Inter- _EOL_ [nacional] realizada on-line )
+0.62
+Fluminense e Universidad [Nacional] de Río Cuar-
+0.54
+dos Projetos Colaborativos [Interna-] _EOL_ cionais 2025
+0.54
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_1.txt
+TOKEN:
+No
+
+=====
+AI CONTEXT:
+_EOL_ Abertura _EOL_ [No] dia 9 de
+
+=====
+ORIG CONTEXT(S):
+142 inscrições . [Na] pesquisa rea- _EOL_
+0.5
+Río Cuar- _EOL_ [to] ( Argentina )
+0.5
+_EOL_ Abertura _EOL_ [N] _EOL_ o dia
+0.5
+pela Coordenadoria Geral [do] Ensino Superior de
+CGESG ) _EOL_ [do] CPS . A
+e em projetos [do] tipo COIL _EOL_
+na _EOL_ playlist [do] canal da CGESG
+das edições anteriores [do] evento : _EOL_
+0.5
+_EOL_ N _EOL_ [o] dia 9 de
+deste ano abordou [o] tema “ Internacionalização
+_EOL_ lizada após [o] evento com os
+0.5
+canal da CGESG [no] YouTube : https://bit.ly/4rpWGPD
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_1.txt
+TOKEN:
+Catarina
+
+=====
+AI CONTEXT:
+Federal de Santa [Catarina] , Universidade Federal
+
+=====
+ORIG CONTEXT(S):
+Santa Ca- _EOL_ [tarina] , Universidade Federal
+0.75
+

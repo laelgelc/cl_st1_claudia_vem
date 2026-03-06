@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_06.4.txt
+TOKEN:
+bem-sucedido
+
+=====
+AI CONTEXT:
+Colaborativo Internacional seja [bem-sucedido] , há vários
+
+=====
+ORIG CONTEXT(S):
+seja bem- _EOL_ [sucedido] , há vários
+0.67
+

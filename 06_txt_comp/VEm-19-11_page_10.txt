@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-19-11_page_10.txt
+TOKEN:
+Malgorzata
+
+=====
+AI CONTEXT:
+com a professora [Malgorzata] Marchewka , da
+
+=====
+ORIG CONTEXT(S):
+com a professora [Małgorzata] Marchewka , da
+0.9
+

@@ -1,0 +1,30 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_09.1.txt
+TOKEN:
+Ibáñez
+
+=====
+AI CONTEXT:
+Talca e Adolfo [Ibáñez] . Na seção
+
+=====
+ORIG CONTEXT(S):
+e Adolfo _EOL_ [Ibañez] . _EOL_ Na
+0.83
+
+-----------------------------
+TEXT: 05_json_txt/VEm_09.1.txt
+TOKEN:
+detelha
+
+=====
+AI CONTEXT:
+site Cesu Línguas [detelha] essa iniciativa :
+
+=====
+ORIG CONTEXT(S):
+site Cesu Línguas [detalha] essa _EOL_ iniciativa ___SUB___
+0.86
+? _EOL_ Caso [tenha] interesse , _EOL_
+0.57
+

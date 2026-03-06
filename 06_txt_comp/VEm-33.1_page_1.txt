@@ -1,0 +1,82 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-33.1_page_1.txt
+TOKEN:
+novembro
+
+=====
+AI CONTEXT:
+online realizados entre [novembro] de 2025 e
+
+=====
+ORIG CONTEXT(S):
+entre no- _EOL_ [vembro] de 2025 e
+0.75
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.1_page_1.txt
+TOKEN:
+EEL-USP
+
+=====
+AI CONTEXT:
+São Paulo ( [EEL-USP] ) e _EOL_
+
+=====
+ORIG CONTEXT(S):
+( EEL- _EOL_ [-USP] ) e _EOL_
+0.57
+São Paulo ( [EEL-] _EOL_ -USP )
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.1_page_1.txt
+TOKEN:
+Nesta
+
+=====
+AI CONTEXT:
+de Projetos _EOL_ [Nesta] edição , destacamos
+
+=====
+ORIG CONTEXT(S):
+_EOL_ N _EOL_ [esta] edição , destacamos
+0.8
+Campos e Zona [Leste] com a Universidade
+0.6
+Casa . _EOL_ [Deseja] contribuir com Artigo
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.1_page_1.txt
+TOKEN:
+negociação
+
+=====
+AI CONTEXT:
+como branding , [negociação] intercultural e modelos
+
+=====
+ORIG CONTEXT(S):
+, nego- _EOL_ [ciação] intercultural e modelos
+0.6
+N _EOL_ esta [edição] , destacamos a
+0.5
+à Internacio- _EOL_ [nalização] do Ensino Superior
+0.5
+, destacamos a [participação] da equipe de
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.1_page_1.txt
+TOKEN:
+empreendedorismo
+
+=====
+AI CONTEXT:
+em projetos de [empreendedorismo] e desenvolvimento intercultural
+
+=====
+ORIG CONTEXT(S):
+em projetos de [empreendedoris-] _EOL_ mo e
+0.88
+

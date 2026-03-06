@@ -1,0 +1,91 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-33.5_page_2.txt
+TOKEN:
+trabalho
+
+=====
+AI CONTEXT:
+digitais e de [trabalho] em equipe ,
+
+=====
+ORIG CONTEXT(S):
+digitais e de [traba-] _EOL_ lho em
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.5_page_2.txt
+TOKEN:
+mesmo
+
+=====
+AI CONTEXT:
+. “ Ao [mesmo] tempo que é
+
+=====
+ORIG CONTEXT(S):
+. “ Ao [mes-] _EOL_ mo tempo
+0.6
+organizados em grupos [mistos] compostos por alunos
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.5_page_2.txt
+TOKEN:
+Quanto
+
+=====
+AI CONTEXT:
+a professora . [Quanto] à barreira da
+
+=====
+ORIG CONTEXT(S):
+a professora . [Quan-] _EOL_ to à
+0.67
+entusiasmada e aprendeu [junto] com os estu-
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.5_page_2.txt
+TOKEN:
+brasileiros
+
+=====
+AI CONTEXT:
+compostos por alunos [brasileiros] e eslovacos ,
+
+=====
+ORIG CONTEXT(S):
+alunos bra- _EOL_ [sileiros] e eslovacos ,
+0.73
+projeto com alunos [estrangeiros] utilizando _EOL_ a
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.5_page_2.txt
+TOKEN:
+planos
+
+=====
+AI CONTEXT:
+estudantes elaboraram colaborativamente [planos] de negócios ,
+
+=====
+ORIG CONTEXT(S):
+mistos compostos por [alunos] bra- _EOL_ sileiros
+_EOL_ desafio dos [alunos] foi a execução
+do projeto com [alunos] estrangeiros utilizando _EOL_
+0.67
+nossa , encontramos [pontos] em _EOL_ comum
+0.5
+nem sempre nós [vamos] _EOL_ encontrar um
+0.5
+Eslováquia , um [país] sobre o qual
+0.5
+estudantes elaboraram colaborativamente [pla-] _EOL_ nos de
+0.5
+colaborativamente pla- _EOL_ [nos] de negócios ,
+e alu- _EOL_ [nos] aprenderem mais e
+0.5
+despertar do nosso [aluno] , essa expansão
+0.5
+

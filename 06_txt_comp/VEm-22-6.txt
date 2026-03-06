@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-22-6.txt
+TOKEN:
+Arménia
+
+=====
+AI CONTEXT:
+State University ( [Arménia] ) , no
+
+=====
+ORIG CONTEXT(S):
+State University ( [Armênia] ) , no ___SUB___
+0.86
+

@@ -1,0 +1,32 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.5_page_3.txt
+TOKEN:
+transformação
+
+=====
+AI CONTEXT:
+, em uma [transformação] pedagógica : de
+
+=====
+ORIG CONTEXT(S):
+, em uma [transfor-] _EOL_ mação pedagógica
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.5_page_3.txt
+TOKEN:
+Internacionalização
+
+=====
+AI CONTEXT:
+o COIL promove [Internacionalização] em Casa de
+
+=====
+ORIG CONTEXT(S):
+o COIL promove [Internacionaliza-] _EOL_ ção em
+0.84
+parceiro da IES [internacional] , gerenciamento das
+0.63
+envolve um planejamento [intencional] junto com o
+0.53
+

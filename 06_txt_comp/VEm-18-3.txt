@@ -1,0 +1,30 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-18-3.txt
+TOKEN:
+sugeriu
+
+=====
+AI CONTEXT:
+isso , ele [sugeriu] que os professores
+
+=====
+ORIG CONTEXT(S):
+isso , ele [sugere] que os professores ___SUB___
+0.71
+
+-----------------------------
+TEXT: 05_json_txt/VEm-18-3.txt
+TOKEN:
+atender
+
+=====
+AI CONTEXT:
+os professores podem [atender] aos alunos dentro
+
+=====
+ORIG CONTEXT(S):
+: “ Humanos [aprendem] melhor quando _EOL_
+0.62
+_EOL_ Jornalismo . [Defendeu] a abordagem interdisciplinar
+0.5
+

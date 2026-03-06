@@ -1,0 +1,48 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.6_page_1.txt
+TOKEN:
+convite
+
+=====
+AI CONTEXT:
+ministrou webinário a [convite] da UNICollaboration em
+
+=====
+ORIG CONTEXT(S):
+a con- _EOL_ [vite] da UNICollaboration em
+0.57
+humana e de [contexto] cultural ; _EOL_
+0.5
+dos docentes ; [considerar] diferentes tipos de
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.6_page_1.txt
+TOKEN:
+conhecimento
+
+=====
+AI CONTEXT:
+áreas específicas de [conhecimento] dos docentes ;
+
+=====
+ORIG CONTEXT(S):
+de co- _EOL_ [nhecimento] dos docentes ;
+0.83
+humana e de [contexto] cultural ; _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.6_page_1.txt
+TOKEN:
+Extensão
+
+=====
+AI CONTEXT:
+da Divisão de [Extensão] e Pesquisa no
+
+=====
+ORIG CONTEXT(S):
+de Ex- _EOL_ [tensão] e Pesquisa no
+0.75
+

@@ -1,0 +1,16 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_7.txt
+TOKEN:
+homo-logação
+
+=====
+AI CONTEXT:
+os métodos de [homo-logação] veicular e eu
+
+=====
+ORIG CONTEXT(S):
+inspeção veicular e [homologação] , que _EOL_ ___SUB___
+0.92
+de homo- _EOL_ [logação] veicular e eu
+0.58
+

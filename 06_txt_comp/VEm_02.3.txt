@@ -1,0 +1,34 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_02.3.txt
+TOKEN:
+contribuiu
+
+=====
+AI CONTEXT:
+, o PCI [contribuiu] para que os
+
+=====
+ORIG CONTEXT(S):
+, o PCI [contribui] _EOL_ para que ___SUB___
+0.9
+Fatec Barueri , [conduziu] _EOL_ um projeto
+0.5
+ou _EOL_ discriminação [contra] as mulheres ;
+0.5
+Essa etapa não [contou] com a _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_02.3.txt
+TOKEN:
+Moura-Kocoglu
+
+=====
+AI CONTEXT:
+parceria com Michaela [Moura-Kocoglu] , da Florida
+
+=====
+ORIG CONTEXT(S):
+com Michaela _EOL_ [Moura-Koçoglu] , da Florida
+0.92
+

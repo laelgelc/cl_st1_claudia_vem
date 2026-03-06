@@ -1,0 +1,67 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.1.txt
+TOKEN:
+Os
+
+=====
+AI CONTEXT:
+de Projetos _EOL_ [Os] meses de outubro
+
+=====
+ORIG CONTEXT(S):
+_EOL_ O _EOL_ [s] meses de outubro
+0.5
+de Projetos _EOL_ [O] _EOL_ s meses
+_EOL_ 2025 . [O] evento online ,
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.1.txt
+TOKEN:
+aca-
+
+=====
+AI CONTEXT:
+repletos de eventos [aca-] micos com participação
+
+=====
+ORIG CONTEXT(S):
+repletos de eventos [acadê-] _EOL_ micos com
+0.67
+CGESG , reuniu [pa-] _EOL_ lestrantes da
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.1.txt
+TOKEN:
+zação
+
+=====
+AI CONTEXT:
+Apoio à Internacionali- [zação] do Ensino Superior
+
+=====
+ORIG CONTEXT(S):
+à Internaciona- _EOL_ [lização] do Ensino Superior ___MANUAL___
+0.71
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.1.txt
+TOKEN:
+Internacionali-
+
+=====
+AI CONTEXT:
+de Apoio à [Internacionali-] zação do Ensino
+
+=====
+ORIG CONTEXT(S):
+dos Projetos Colaborativos [Internacionais] _EOL_ 2025 .
+de Projetos Colaborativos [Internacionais] ( PCIs )
+0.87
+de Apoio à [Internaciona-] _EOL_ lização do
+0.87
+e em webinários [internacionais] _EOL_ da UNICollaboration
+rede de contatos [internacionais] desenvolvida pela equipe
+0.8
+

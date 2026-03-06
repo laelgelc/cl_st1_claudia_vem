@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.6_page_2.txt
+TOKEN:
+aplicando
+
+=====
+AI CONTEXT:
+avaliar soluções , [aplicando] sabedoria e contexto
+
+=====
+ORIG CONTEXT(S):
+, apli- _EOL_ [cando] sabedoria e contexto
+0.56
+

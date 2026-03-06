@@ -1,0 +1,16 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.4_page_3.txt
+TOKEN:
+Colaborativa
+
+=====
+AI CONTEXT:
+, ou Aprendizagem [Colaborativa] Internacional On-line ):
+
+=====
+ORIG CONTEXT(S):
+_EOL_ COIL ( [Collaborative] Online International Learning
+0.85
+, ou Aprendizagem [Colaborati-] _EOL_ va Internacional
+0.83
+

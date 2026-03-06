@@ -1,0 +1,32 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-23-6_page_2.txt
+TOKEN:
+videocurrículos
+
+=====
+AI CONTEXT:
+à produção de [videocurrículos] . _EOL_ Conhecidos
+
+=====
+ORIG CONTEXT(S):
+à produção de [vídeocurrículos] _EOL_ p. 9 ___SUB___
+0.82
+
+-----------------------------
+TEXT: 05_json_txt/VEm-23-6_page_2.txt
+TOKEN:
+Mônica
+
+=====
+AI CONTEXT:
+professoras Regiane e [Mônica] conduziram , por
+professoras Regiane e [Mônica] : https://publicacoescesu.cps.sp.gov.br/VEm/article/view/265/204 _EOL_
+
+=====
+ORIG CONTEXT(S):
+_EOL_ e _EOL_ [Mónica] : _EOL_ https://publicacoescesu.cps.sp.gov.br/VEm/article/view/265/204
+professoras Regiane e [Mónica] conduziram , por
+0.83
+redes sociais . [Maria] _EOL_ Auxiliadora está
+0.5
+

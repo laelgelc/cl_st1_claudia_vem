@@ -1,0 +1,28 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_14.5.txt
+TOKEN:
+Whatsapp
+
+=====
+AI CONTEXT:
+pelos professores _EOL_ [Whatsapp] ( 84 )
+
+=====
+ORIG CONTEXT(S):
+professores _EOL_ W [hatsapp] ( 84 )
+0.88
+
+-----------------------------
+TEXT: 05_json_txt/VEm_14.5.txt
+TOKEN:
+APERCEPÇÃO
+
+=====
+AI CONTEXT:
+[APERCEPÇÃO] DOS PROFESSORES PESQUISA
+
+=====
+ORIG CONTEXT(S):
+) _EOL_ A [PERCEPÇÃO] DOS PROFESSORES _EOL_ ___SUB___
+0.9
+

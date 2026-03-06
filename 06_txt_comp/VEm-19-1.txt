@@ -1,0 +1,33 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-19-1.txt
+TOKEN:
+Aos
+
+=====
+AI CONTEXT:
+Leitores _EOL_ [Aos] _EOL_ Osvaldo Succi
+
+=====
+ORIG CONTEXT(S):
+o ensino voltado [aos] Objetivos de Desenvolvimento
+0.67
+Leitores _EOL_ A [os] _EOL_ Osvaldo Succi
+projetos e trazem [os] depoimentos da _EOL_
+em Casa , [os] resultados logo _EOL_
+lá são chamados [os] Intercâmbios Virtuais ou
+0.67
+matéria traz resumo [dos] dois projetos e
+Farani , e [dos] professores Jorge _EOL_
+3 _EOL_ Newsletter [dos] Projetos _EOL_ Colaborativos
+0.67
+a entrevista com [Rosi] León , diretora
+0.5
+da Rocha realizou [dois] Projetos _EOL_ Colaborativos
+traz resumo dos [dois] projetos e trazem
+COIL _EOL_ em [dois] eventos internacionais realizados
+0.5
+Edição 19 | [Agosto] e Setembro |
+0.5
+instituição completa 10 [anos] de Global Learning
+0.5
+

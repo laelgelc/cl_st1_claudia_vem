@@ -1,0 +1,16 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-24-6_page_1.txt
+TOKEN:
+Explicou
+
+=====
+AI CONTEXT:
+Sul Global . [Explicou] tópicos como compromisso
+
+=====
+ORIG CONTEXT(S):
+Sul Global . [Explanou] tópicos como _EOL_ ___SUB___
+0.75
+Global . Explanou [tópicos] como _EOL_ compromisso
+0.5
+

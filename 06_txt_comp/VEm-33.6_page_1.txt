@@ -1,0 +1,64 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-33.6_page_1.txt
+TOKEN:
+Em
+
+=====
+AI CONTEXT:
+com Portugal _EOL_ [Em] 2025 , a
+
+=====
+ORIG CONTEXT(S):
+edição 31 de [VEm] . _EOL_
+0.67
+_EOL_ E _EOL_ [m] 2025 , a
+0.5
+_EOL_ Portugal _EOL_ [E] _EOL_ m 2025
+0.5
+) , realizado [em] setembro – leia
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.6_page_1.txt
+TOKEN:
+socioemocionais
+
+=====
+AI CONTEXT:
+pesquisa sobre competências [socioemocionais] , realizada no
+
+=====
+ORIG CONTEXT(S):
+pesquisa sobre competências [socioemocio-] _EOL_ nais ,
+0.73
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.6_page_1.txt
+TOKEN:
+Coordenadoria
+
+=====
+AI CONTEXT:
+Depes ) da [Coordenadoria] de Ensino Superior
+
+=====
+ORIG CONTEXT(S):
+Depes ) da [Coordena-] _EOL_ doria de
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.6_page_1.txt
+TOKEN:
+portuguesas
+
+=====
+AI CONTEXT:
+com duas instituições [portuguesas] : Instituto Politécnico
+
+=====
+ORIG CONTEXT(S):
+instituições portu- _EOL_ [guesas] : Instituto Politécnico
+0.55
+projetos com _EOL_ [Portugal] _EOL_ E _EOL_
+0.55
+

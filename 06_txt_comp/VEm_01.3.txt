@@ -1,0 +1,51 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_01.3.txt
+TOKEN:
+internacionalizar
+
+=====
+AI CONTEXT:
+aliança para se [internacionalizar] em um terceiro
+
+=====
+ORIG CONTEXT(S):
+Fatec para se [internacionalizarem] em um _EOL_ ___SUB___
+0.89
+semestre de _EOL_ [internacionais] ” , desenvolvido
+0.76
+a _EOL_ profissionalização [internacional] dos _EOL_ alunos
+0.76
+( Marketing _EOL_ [Internacional] ) , Carlos
+aliança _EOL_ Estratégica [Internacional] na Fatec para
+0.71
+( Negócios _EOL_ [Internacionais] ) e Talita
+0.71
+
+-----------------------------
+TEXT: 05_json_txt/VEm_01.3.txt
+TOKEN:
+norte-americanos
+
+=====
+AI CONTEXT:
+Exterior ) e [norte-americanos] . Juntos ,
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Nóbrega , [americanos] . _EOL_ Juntos ___MANUAL___
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm_01.3.txt
+TOKEN:
+Estratégia
+
+=====
+AI CONTEXT:
+de Gestão e [Estratégia] Internacional na Fatec
+
+=====
+ORIG CONTEXT(S):
+uma aliança _EOL_ [Estratégica] Internacional na Fatec
+0.91
+

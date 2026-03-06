@@ -1,0 +1,289 @@
+token	lemma	pos	is_alpha	is_stop
+QUEBRA-GELO	QUEBRA-GELO	NOUN	False	False
+Prospectar	prospectar	VERB	True	False
+novas	novo	ADJ	True	True
+colaborações	colaboração	NOUN	True	False
+,	,	PUNCT	False	False
+garantir	garantir	VERB	True	False
+uma	um	DET	True	True
+média	média	NOUN	True	False
+semestral	semestral	ADJ	True	False
+de	de	ADP	True	True
+25	25	NUM	False	False
+Projetos	Projetos	NOUN	True	False
+Colaborativos	Colaborativos	PROPN	True	False
+Internacionais	Internacionais	PROPN	True	False
+(	(	PUNCT	False	False
+PCIs	PCIs	PROPN	True	False
+/	/	PUNCT	False	False
+Cesu	Cesu	PROPN	True	False
+)	)	PUNCT	False	False
+e	e	CCONJ	True	True
+manter	manter	VERB	True	False
+a	o	DET	True	True
+“	“	PROPN	False	False
+boa	bom	ADJ	True	True
+qualidade	qualidade	NOUN	True	False
+dos	de o	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+relatada	relatar	VERB	True	False
+pelos	por o	ADP	True	True
+participantes	participante	NOUN	True	False
+por	por	ADP	True	True
+meio	meio	NOUN	True	True
+de	de	ADP	True	True
+Pesquisas	Pesquisas	PROPN	True	False
+de	de	ADP	True	True
+Percepção	Percepção	PROPN	True	False
+aplicadas	aplicar	VERB	True	False
+junto	junto	ADV	True	False
+a	a	ADP	True	True
+alunos	aluno	NOUN	True	False
+e	e	CCONJ	True	True
+professores	professor	NOUN	True	False
+participantes	participante	ADJ	True	False
+ao	a o	ADP	True	True
+final	final	NOUN	True	True
+dos	de o	ADP	True	True
+projetos	projeto	NOUN	True	False
+”	”	PUNCT	False	False
+.	.	PUNCT	False	False
+Eis	Eis	VERB	True	False
+algumas	algum	PRON	True	True
+das	de o	ADP	True	True
+metas	meta	NOUN	True	False
+do	de o	ADP	True	True
+Programa	Programa	PROPN	True	False
+de	de	ADP	True	True
+Línguas	Línguas	PROPN	True	False
+e	e	CCONJ	True	True
+Projetos	Projetos	PROPN	True	False
+Internacionais	Internacionais	PROPN	True	False
+no	em o	ADP	True	True
+Plano	Plano	PROPN	True	False
+de	de	ADP	True	True
+Metas	Metas	PROPN	True	False
+2022	2022	NUM	False	False
+da	de o	ADP	True	True
+Unidade	Unidade	PROPN	True	False
+do	de o	ADP	True	True
+Ensino	Ensino	PROPN	True	False
+Superior	Superior	PROPN	True	False
+de	de	ADP	True	True
+Graduação	Graduação	PROPN	True	False
+(	(	PUNCT	False	False
+Cesu	Cesu	PROPN	True	False
+)	)	PUNCT	False	False
+.	.	PUNCT	False	False
+Para	para	SCONJ	True	True
+avaliar	avaliar	VERB	True	False
+a	o	DET	True	True
+qualidade	qualidade	NOUN	True	False
+dos	de o	ADP	True	True
+projetos	projeto	NOUN	True	False
+,	,	PUNCT	False	False
+a	o	DET	True	True
+equipe	equipe	NOUN	True	False
+dos	de o	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+/	/	PUNCT	False	False
+Cesu	Cesu	PROPN	True	False
+desenvolveu	desenvolver	VERB	True	False
+um	um	DET	True	True
+instrumento	instrumento	NOUN	True	False
+de	de	ADP	True	True
+pesquisa	pesquisa	NOUN	True	False
+para	para	SCONJ	True	True
+verificar	verificar	VERB	True	False
+a	o	DET	True	True
+percepção	percepção	NOUN	True	False
+de	de	ADP	True	True
+professores	professor	NOUN	True	False
+e	e	CCONJ	True	True
+estudantes	estudante	NOUN	True	False
+envolvidos	envolver	VERB	True	False
+nos	em o	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+,	,	PUNCT	False	False
+ao	a o	ADP	True	True
+fim	fim	NOUN	True	True
+de	de	ADP	True	True
+cada	cada	DET	True	True
+semestre	semestre	NOUN	True	False
+letivo	letivo	ADJ	True	False
+.	.	PUNCT	False	False
+Os	o	DET	True	True
+questionários	questionário	NOUN	True	False
+são	ser	AUX	True	True
+aplicados	aplicar	VERB	True	False
+na	em o	ADP	True	True
+plataforma	plataforma	NOUN	True	False
+Microsoft	Microsoft	PROPN	True	False
+Forms	Forms	PROPN	True	False
+desde	desde	ADP	True	True
+o	o	DET	True	True
+segundo	segundo	ADJ	True	True
+semestre	semestre	NOUN	True	False
+de	de	ADP	True	True
+2020	2020	NUM	False	False
+e	e	CCONJ	True	True
+a	o	DET	True	True
+boa	bom	ADJ	True	True
+avaliação	avaliação	NOUN	True	False
+vem	vir	VERB	True	True
+se	se	SCONJ	True	True
+mantendo	manter	VERB	True	False
+ao	a o	ADP	True	True
+longo	longo	NOUN	True	False
+do	de o	ADP	True	True
+tempo	tempo	NOUN	True	True
+.	.	PUNCT	False	False
+Nas	em o	ADP	True	True
+páginas	página	NOUN	True	False
+2	2	NUM	False	False
+e	e	CCONJ	True	True
+3	3	NUM	False	False
+desta	de este	ADP	True	True
+edição	edição	NOUN	True	False
+,	,	PUNCT	False	False
+você	você	PRON	True	True
+pode	poder	VERB	True	True
+conferir	conferir	VERB	True	False
+uma	um	DET	True	True
+síntese	síntese	NOUN	True	False
+dos	de o	ADP	True	True
+principais	principal	ADJ	True	False
+resultados	resultado	NOUN	True	False
+colhidos	colhir	VERB	True	False
+no	em o	ADP	True	True
+segundo	segundo	ADJ	True	True
+semestre	semestre	NOUN	True	False
+de	de	ADP	True	True
+2021	2021	NUM	False	False
+.	.	PUNCT	False	False
+Por	por	ADP	True	True
+exemplo	exemplo	NOUN	True	True
+:	:	PUNCT	False	False
+96	96	NUM	False	False
+%	%	SYM	False	False
+dos	de o	ADP	True	True
+alunos	aluno	NOUN	True	False
+recomendariam	recomendar	VERB	True	False
+aos	a o	ADP	True	True
+colegas	colega	NOUN	True	False
+realizar	realizar	VERB	True	False
+um	um	DET	True	True
+PCI	PCI	NOUN	True	False
+e	e	CCONJ	True	True
+93	93	NUM	False	False
+%	%	SYM	False	False
+acreditam	acreditar	VERB	True	False
+que	que	SCONJ	True	True
+participar	participar	VERB	True	False
+do	de o	ADP	True	True
+projeto	projeto	NOUN	True	False
+melhora	melhorar	VERB	True	False
+o	o	DET	True	True
+desempenho	desempenho	NOUN	True	False
+acadêmico	acadêmico	ADJ	True	False
+e	e	CCONJ	True	True
+as	o	DET	True	True
+chances	chance	NOUN	True	False
+no	em o	ADP	True	True
+mercado	mercado	NOUN	True	False
+de	de	ADP	True	True
+trabalho	trabalho	NOUN	True	False
+.	.	PUNCT	False	False
+Todos	todo	DET	True	True
+professores	professor	NOUN	True	False
+que	que	PRON	True	True
+responderam	responder	VERB	True	False
+à	a o	ADP	True	True
+pesquisa	pesquisa	NOUN	True	False
+recomendam	recomendar	VERB	True	False
+os	o	DET	True	True
+PCIs	PCIs	PROPN	True	False
+para	para	ADP	True	True
+os	o	DET	True	True
+colegas	colega	NOUN	True	False
+e	e	CCONJ	True	True
+concordam	concordar	VERB	True	False
+que	que	SCONJ	True	True
+a	o	DET	True	True
+iniciativa	iniciativa	NOUN	True	False
+possibilita	possibilito	ADJ	True	False
+realizar	realizar	VERB	True	False
+novas	novo	ADJ	True	True
+atividades	atividade	NOUN	True	False
+acadêmicas	acadêmico	ADJ	True	False
+,	,	PUNCT	False	False
+além	além	ADV	True	True
+de	de	ADP	True	True
+melhorar	melhorar	VERB	True	False
+a	o	DET	True	True
+interação	interação	NOUN	True	False
+com	com	ADP	True	True
+seus	seu	DET	True	True
+alunos	aluno	NOUN	True	False
+.	.	PUNCT	False	False
+A	o	DET	True	True
+equipe	equipe	NOUN	True	False
+dos	de o	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+vem	vir	VERB	True	True
+trabalhando	trabalhar	VERB	True	False
+para	para	SCONJ	True	True
+fortalecer	fortalecer	VERB	True	False
+parcerias	parceria	NOUN	True	False
+com	com	ADP	True	True
+Portugal	Portugal	PROPN	True	False
+.	.	PUNCT	False	False
+É	ser	AUX	True	True
+o	o	DET	True	True
+caso	caso	NOUN	True	False
+da	de o	ADP	True	True
+Universidade	Universidade	PROPN	True	False
+de	de	ADP	True	True
+Aveiro	Aveiro	PROPN	True	False
+,	,	PUNCT	False	False
+que	que	PRON	True	True
+desde	desde	ADP	True	True
+o	o	DET	True	True
+segundo	segundo	ADJ	True	True
+semestre	semestre	NOUN	True	False
+de	de	ADP	True	True
+2021	2021	NUM	False	False
+desenvolve	desenvolver	VERB	True	False
+PCIs	PCIs	PROPN	True	False
+com	com	ADP	True	True
+três	três	NUM	True	True
+Fatecs	Fatecs	PROPN	True	False
+–	–	PROPN	False	False
+Guaratinguetá	Guaratinguetá	PROPN	True	False
+,	,	PUNCT	False	False
+Lins	Lins	PROPN	True	False
+e	e	CCONJ	True	True
+Ipiranga	Ipiranga	PROPN	True	False
+–	–	PROPN	False	False
+,	,	PUNCT	False	False
+nas	em o	ADP	True	True
+áreas	área	NOUN	True	False
+de	de	ADP	True	True
+comunicação	comunicação	NOUN	True	False
+empresarial	empresarial	ADJ	True	False
+,	,	PUNCT	False	False
+turismo	turismo	NOUN	True	False
+e	e	CCONJ	True	True
+marketing	marketing	NOUN	True	False
+.	.	PUNCT	False	False
+Essas	esse	DET	True	True
+colaborações	colaboração	NOUN	True	False
+estão	estar	AUX	True	True
+descritas	descrita	ADJ	True	False
+na	em o	ADP	True	True
+página	página	NOUN	True	False
+4	4	NUM	False	False
+.	.	PUNCT	False	False
+Boa	Boa	ADJ	True	True
+leitura	leitura	NOUN	True	False
+!	!	PUNCT	False	False

@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_07.4.txt
+TOKEN:
+médico-hospitalares
+
+=====
+AI CONTEXT:
+projeto sobre equipamentos [médico-hospitalares] com Luiz Roberto
+
+=====
+ORIG CONTEXT(S):
+equipamentos médico- _EOL_ [hospitalares] com Luiz Roberto
+0.63
+

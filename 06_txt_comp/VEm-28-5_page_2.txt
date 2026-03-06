@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-28-5_page_2.txt
+TOKEN:
+técnico-profissionais
+
+=====
+AI CONTEXT:
+disciplinas das áreas [técnico-profissionais] do curso ,
+
+=====
+ORIG CONTEXT(S):
+áreas técnico- _EOL_ [profissionais] do curso ,
+0.62
+

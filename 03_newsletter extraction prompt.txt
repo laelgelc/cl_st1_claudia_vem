@@ -1,0 +1,67 @@
+The text in the image is primarily in Portuguese.
+Do NOT translate, paraphrase, normalize, or modernize the text.
+Preserve the original language of every word exactly as it appears.
+
+Some words or phrases may appear in English or Spanish.
+These must be preserved verbatim and must NOT be translated or corrected.
+
+Extract the text from the provided image and return it as structured JSON.
+
+You must return valid JSON that strictly conforms to the following schema.
+No additional keys are allowed.
+
+{
+  "title": "string | null",
+  "subtitle": "string | null",
+  "sections": [
+    {
+      "heading": "string | null",
+      "paragraphs": [
+        "string",
+        { "list": ["string"] }
+      ]
+    }
+  ]
+}
+
+Mapping rules:
+• Title = most visually dominant document-level heading.
+• Subtitle = secondary line directly associated with the title.
+• Each distinct visual or semantic block = one section.
+• Section headings may be inferred from typography, spacing, or layout.
+• Paragraphs are continuous prose.
+• Bulleted or enumerated content must be represented as:
+  { "list": ["item 1", "item 2", ...] }
+
+Exclusion rules:
+• Do NOT extract text from the masthead.
+  – The masthead is the top-of-page region containing the publication name,
+    issue number, date, logos, or branding.
+
+• Do NOT extract text from the boiler-plate footer.
+  – The boiler-plate footer is the bottom-of-page region containing recurring
+    institutional information, legal text, credits, or logos.
+
+• Do NOT extract any text that is part of a graphic or embedded image.
+  – This includes photographs, screenshots, charts, diagrams, slides, posters,
+    or any visually framed graphic element.
+
+• Do NOT extract captions, labels, or titles associated with graphics.
+  – This includes text directly below, above, or adjacent to a graphic when it
+    functions as a caption or description.
+
+• Do NOT extract personal names or identifiers that appear next to or within
+  photographs or graphic elements.
+
+• All masthead, boiler-plate footer, graphic-contained, and graphic-associated
+  text must be ignored entirely and must NOT appear anywhere in the output JSON.
+
+Constraints:
+• Do not translate between languages.
+• Do not standardize spelling or grammar.
+• Do not invent or infer text not visible in the image.
+• Preserve original wording, spelling, punctuation, and order.
+• Text that is visually dependent on a graphic element must be excluded even if
+  it appears linguistically well-formed or paragraph-like.
+• If a field cannot be populated, use null or [].
+• Return JSON only. No explanations or commentary.

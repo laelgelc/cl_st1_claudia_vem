@@ -1,0 +1,94 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.1.txt
+TOKEN:
+Productividad
+
+=====
+AI CONTEXT:
+Congreso Internacional sobre [Productividad] Investigativa en el
+
+=====
+ORIG CONTEXT(S):
+sobre Produc- _EOL_ [tividad] Investigativa en el
+0.54
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.1.txt
+TOKEN:
+empregos
+
+=====
+AI CONTEXT:
+preparar profissionais para [empregos] que ainda não
+
+=====
+ORIG CONTEXT(S):
+para em- _EOL_ [pregos] que ainda não
+0.75
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.1.txt
+TOKEN:
+profissional
+
+=====
+AI CONTEXT:
+para a qualificação [profissional] contemporânea também é
+
+=====
+ORIG CONTEXT(S):
+COIL podem preparar [profissionais] para em- _EOL_
+0.85
+assinado pelas _EOL_ [professoras] Kátia Cristina Galatti
+0.67
+no congresso por [professores] das Fatecs Barue-
+0.58
+_EOL_ professoras Kátia [Cristina] Galatti , Talita
+0.5
+para a qualificação [profis-] _EOL_ sional contemporânea
+0.5
+qualificação profis- _EOL_ [sional] contemporânea também é
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.1.txt
+TOKEN:
+Barueri
+
+=====
+AI CONTEXT:
+professores das Fatecs [Barueri] , Bragança Paulista
+
+=====
+ORIG CONTEXT(S):
+professores das Fatecs [Barue-] _EOL_ ri ,
+0.71
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.1.txt
+TOKEN:
+Instituto
+
+=====
+AI CONTEXT:
+que ocorreu no [Instituto] Cervantes de São
+
+=====
+ORIG CONTEXT(S):
+no Ins- _EOL_ [tituto] Cervantes de São
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.1.txt
+TOKEN:
+debatei
+
+=====
+AI CONTEXT:
+de setembro , [debatei] com Luciane Stallivieri
+
+=====
+ORIG CONTEXT(S):
+de setembro , [debati] com Luciane _EOL_ ___SUB___
+0.86
+

@@ -1,0 +1,32 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_09.4.txt
+TOKEN:
+Pesquisa
+
+=====
+AI CONTEXT:
+Virtuais . _EOL_ [Pesquisa] com professores dos
+
+=====
+ORIG CONTEXT(S):
+Virtuais . _EOL_ [•Pesquisa] com professores dos
+0.89
+Na [pesquisa] de percepção finalizada
+0.88
+
+-----------------------------
+TEXT: 05_json_txt/VEm_09.4.txt
+TOKEN:
+aumentado
+
+=====
+AI CONTEXT:
+de participantes vem [aumentado] consideravelmente , como
+
+=====
+ORIG CONTEXT(S):
+de participantes vem [aumentando] consideravelmente , como ___SUB___
+0.9
+30 professores _EOL_ [orientadores] de PCIs responderam
+0.5
+

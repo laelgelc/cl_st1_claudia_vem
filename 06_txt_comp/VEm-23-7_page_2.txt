@@ -1,0 +1,20 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-23-7_page_2.txt
+TOKEN:
+facto
+
+=====
+AI CONTEXT:
+Você vê de [facto] o impacto da
+
+=====
+ORIG CONTEXT(S):
+Você vê de [fato] o impacto da ___SUB___
+0.8
+era fascinante . [Tanto] _EOL_ a experiência
+0.6
+de fato o [impacto] da mobilidade global
+0.57
+experiência no Cazaquistão [quanto] em Osaka me
+0.5
+

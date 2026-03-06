@@ -1,0 +1,16 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_6.txt
+TOKEN:
+elaboração
+
+=====
+AI CONTEXT:
+2024 , sobre [elaboração] de anúncios utilizando
+
+=====
+ORIG CONTEXT(S):
+sobre ela- _EOL_ [boração] de anúncios utilizando
+0.7
+no México , [abordando] Objetivos de Desenvolvimento
+0.5
+

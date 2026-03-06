@@ -1,0 +1,16 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-28-4_page_2.txt
+TOKEN:
+insere-se
+
+=====
+AI CONTEXT:
+PCI / Cesu [insere-se] precisamente nesse terceiro
+
+=====
+ORIG CONTEXT(S):
+PCI / Cesu [insere-] _EOL_ se precisamente
+0.78
+A metodologia adotada [baseia-se] em princípios das
+0.56
+

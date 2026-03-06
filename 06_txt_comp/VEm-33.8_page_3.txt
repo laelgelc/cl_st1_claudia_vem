@@ -1,0 +1,30 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-33.8_page_3.txt
+TOKEN:
+espanhol
+
+=====
+AI CONTEXT:
+a comunicação em [espanhol] ( o nosso
+
+=====
+ORIG CONTEXT(S):
+em espa- _EOL_ [nhol] ( o nosso
+0.5
+a comunicação em [espa-] _EOL_ nhol (
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.8_page_3.txt
+TOKEN:
+internacional
+
+=====
+AI CONTEXT:
+receita de colaboração [internacional] deu certo é
+
+=====
+ORIG CONTEXT(S):
+colaboração in- _EOL_ [ternacional] deu certo é
+0.85
+

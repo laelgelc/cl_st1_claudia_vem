@@ -1,0 +1,30 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-33.2_page_2.txt
+TOKEN:
+professores
+
+=====
+AI CONTEXT:
+com alunos e [professores] . Os números
+
+=====
+ORIG CONTEXT(S):
+oficina , a [professora] Patrícia abordou recursos
+0.82
+e pro- _EOL_ [fessores] . Os números
+0.73
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.2_page_2.txt
+TOKEN:
+informações
+
+=====
+AI CONTEXT:
+. Compartilharam essas [informações] no Padlet e
+
+=====
+ORIG CONTEXT(S):
+essas infor- _EOL_ [mações] no Padlet e
+0.55
+

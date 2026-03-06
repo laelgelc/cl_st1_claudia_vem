@@ -1,0 +1,35 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.2_page_1.txt
+TOKEN:
+representou
+
+=====
+AI CONTEXT:
+Coordenador Acadêmico-Pedagógico , [representou] a Coordenadoria Geral
+
+=====
+ORIG CONTEXT(S):
+, re- _EOL_ [presentou] a Coordenadoria Geral
+0.82
+ainda com a [presença] de Carla Aparecida
+0.55
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.2_page_1.txt
+TOKEN:
+Desafios
+
+=====
+AI CONTEXT:
+Formação Profissional : [Desafios] e Inovações no
+
+=====
+ORIG CONTEXT(S):
+CBTecLE : _EOL_ [desafios] e inovações na ___SUB___
+tema “ Os [desafios] _EOL_ do ensino
+0.88
+: De- _EOL_ [safios] e Inovações no
+0.75
+e fundamentos teóricos [relativos] ao ensino de
+0.56
+

@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-20-4.txt
+TOKEN:
+Abbutul
+
+=====
+AI CONTEXT:
+Delfino e Denise [Abbutul] ; _EOL_ “
+
+=====
+ORIG CONTEXT(S):
+Delfino e Denise [Abutbul] ; _EOL_ “ ___SUB___
+0.71
+

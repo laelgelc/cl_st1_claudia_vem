@@ -1,0 +1,19 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-33.8_page_2.txt
+TOKEN:
+tipos
+
+=====
+AI CONTEXT:
+para receber diversos [tipos] de arquivos (
+
+=====
+ORIG CONTEXT(S):
+diversos ti- _EOL_ [pos] de arquivos (
+0.6
+produções dos grupos [mistos] de forma rápida
+0.5
+se comunicavam em [grupos] de WhatsApp para
+_EOL_ produções dos [grupos] mistos de forma
+0.5
+

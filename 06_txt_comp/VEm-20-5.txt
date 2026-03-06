@@ -1,0 +1,16 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-20-5.txt
+TOKEN:
+Acadêmico-Pedagógico
+
+=====
+AI CONTEXT:
+diretor do Departamento [Acadêmico-Pedagógico] da Cesu ,
+
+=====
+ORIG CONTEXT(S):
+diretor do Departamento [Acadêmico-] _EOL_ Pedagógico da
+0.5
+Departamento Acadêmico- _EOL_ [Pedagógico] da Cesu ,
+0.5
+

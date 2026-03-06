@@ -1,0 +1,43 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_02.4.txt
+TOKEN:
+pós-graduação
+
+=====
+AI CONTEXT:
+e estudantes de [pós-graduação] da Florida International
+
+=====
+ORIG CONTEXT(S):
+de pós- _EOL_ [graduação] da Florida International
+0.69
+
+-----------------------------
+TEXT: 05_json_txt/VEm_02.4.txt
+TOKEN:
+Fates
+
+=====
+AI CONTEXT:
+práticas entre as [Fates] e instituições de
+
+=====
+ORIG CONTEXT(S):
+diretores de _EOL_ [Fatecs] e estudantes de
+práticas entre as [Fatecs] e _EOL_ instituições ___SUB___
+0.83
+Biomédicos da _EOL_ [Fatec] Bauru e do
+e docentes da [Fatec] Bauru , pois
+o diretor da [Fatec] _EOL_ Bauru ,
+laços _EOL_ entre [Fatec] Bauru e BridgeValley
+, diretora da [Fatec] São _EOL_ Caetano
+, da _EOL_ [Fatec] Bauru _EOL_ Professora
+Kami , da [Fatec] Bauru _EOL_ Professora
+0.8
+possível conversar com [pares] para _EOL_ que
+0.6
+nos _EOL_ dois [países] . Cada equipe
+_EOL_ nos dois [países] e , principalmente
+em _EOL_ outros [países] ; nesse sentido
+0.5
+

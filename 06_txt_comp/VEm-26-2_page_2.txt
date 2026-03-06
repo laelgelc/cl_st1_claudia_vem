@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-26-2_page_2.txt
+TOKEN:
+AI-Enhanced
+
+=====
+AI CONTEXT:
+apresentação foi " [AI-Enhanced] Perception Analysis in
+
+=====
+ORIG CONTEXT(S):
+“ AI- _EOL_ [Enhanced] Perception Analysis in
+0.73
+

@@ -1,0 +1,108 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-33.5_page_1.txt
+TOKEN:
+Košice
+
+=====
+AI CONTEXT:
+Universidade Técnica de [Košice] ( TUKE )
+
+=====
+ORIG CONTEXT(S):
+Universidade Técnica de [Koši-] _EOL_ ce (
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.5_page_1.txt
+TOKEN:
+desenvolvimento
+
+=====
+AI CONTEXT:
+internacional e o [desenvolvimento] de competências empreendedoras
+
+=====
+ORIG CONTEXT(S):
+de Análise e [Desenvolvimento] _EOL_ de Sistemas
+0.93
+e Desen- _EOL_ [volvimento] de Sistemas ,
+o desen- _EOL_ [volvimento] de competências empreendedoras
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.5_page_1.txt
+TOKEN:
+Empresarial
+
+=====
+AI CONTEXT:
+Inglês e Comunicação [Empresarial] no curso de
+
+=====
+ORIG CONTEXT(S):
+Comunicação Empre- _EOL_ [sarial] no curso de
+0.55
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.5_page_1.txt
+TOKEN:
+Senová
+
+=====
+AI CONTEXT:
+dos professores Andrea [Senová] ( TUKE )
+
+=====
+ORIG CONTEXT(S):
+professores Andrea _EOL_ [Seňová] ( TUKE ) ___SUB___
+0.83
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.5_page_1.txt
+TOKEN:
+compreensão
+
+=====
+AI CONTEXT:
+de estimular a [compreensão] intercultural , o
+
+=====
+ORIG CONTEXT(S):
+de estimular a [compreen-] _EOL_ são intercultural
+0.73
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.5_page_1.txt
+TOKEN:
+No
+
+=====
+AI CONTEXT:
+a Eslováquia _EOL_ [No] segundo semestre de
+
+=====
+ORIG CONTEXT(S):
+a Eslováquia _EOL_ [N] _EOL_ o segundo
+0.5
+Apoio à Internacionalização [do] _EOL_ Ensino Superior
+( CGESG ) [do] _EOL_ Centro Paula
+a _EOL_ realização [do] Projeto Colaborativo Internacional
+Duque ( coordenador [do] curso de Análise
+coordena- _EOL_ dor [do] curso de Logística
+Favalli ( professor [do] curso de Manutenção
+Hoewls ( coordenador [do] curso de Gestão
+0.5
+_EOL_ N _EOL_ [o] segundo semestre de
+A equipe conduziu [o] planejamento e acompanhou
+colaboração internacional e [o] desen- _EOL_ volvimento
+são intercultural , [o] trabalho em equipe
+0.5
+Extensão e Pesquisa [no] Ensino Superior _EOL_
+Empre- _EOL_ sarial [no] curso de Gestão
+0.5
+Sistemas ) , [Nilo] Vieira ( professor
+0.5
+Leste . _EOL_ [Na] Fatec São José
+) . _EOL_ [Na] Fatec Zona Leste
+0.5
+

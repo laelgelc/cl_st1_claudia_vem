@@ -1,0 +1,74 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-33.1_page_2.txt
+TOKEN:
+Pesquisa
+
+=====
+AI CONTEXT:
+de Extensão e [Pesquisa] ( Depes )
+
+=====
+ORIG CONTEXT(S):
+e Pes- _EOL_ [quisa] ( Depes )
+0.62
+Camargo , da [equipe] de Apoio à
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.1_page_2.txt
+TOKEN:
+conduziram
+
+=====
+AI CONTEXT:
+, as professoras [conduziram] uma atividade prática
+
+=====
+ORIG CONTEXT(S):
+professoras con- _EOL_ [duziram] uma atividade prática
+0.7
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.1_page_2.txt
+TOKEN:
+Internacionais
+
+=====
+AI CONTEXT:
+os Projetos Colaborativos [Internacionais] ( PCIs )
+
+=====
+ORIG CONTEXT(S):
+( Collaborative Online [International] Learning ) ,
+0.79
+Apoio à _EOL_ [Internacionalização] do Ensino Superior
+0.68
+Após apresentar dados [institucionais] sobre os Projetos
+0.57
+os Projetos Colaborativos [Interna-] _EOL_ cionais (
+0.5
+Colaborativos Interna- _EOL_ [cionais] ( PCIs )
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.1_page_2.txt
+TOKEN:
+As
+
+=====
+AI CONTEXT:
+projetos COIL _EOL_ [As] professoras Patrícia Patrício
+
+=====
+ORIG CONTEXT(S):
+Learning ) , [as] professoras con- _EOL_
+0.5
+projetos COIL _EOL_ [A] _EOL_ s professoras
+0.5
+dados institucionais sobre [os] Projetos Colaborativos Interna-
+0.5
+” . _EOL_ [Após] apresentar dados institucionais
+0.5
+_EOL_ A _EOL_ [s] professoras Patrícia Patrício
+0.5
+

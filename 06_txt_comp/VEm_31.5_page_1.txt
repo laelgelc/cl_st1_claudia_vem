@@ -1,0 +1,114 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.5_page_1.txt
+TOKEN:
+Internacionalização
+
+=====
+AI CONTEXT:
+de Apoio à [Internacionalização] do Ensino Superior
+
+=====
+ORIG CONTEXT(S):
+No II Congreso [Internacional] sobre Productividad Investigativa
+0.68
+Cola- _EOL_ borativos [Internacionais] ( PCIs )
+0.68
+à Interna- _EOL_ [cionalização] do Ensino Superior
+0.63
+( Collaborative Online [International] Learning ) .
+0.63
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.5_page_1.txt
+TOKEN:
+abordagem
+
+=====
+AI CONTEXT:
+Souza e a [abordagem] COIL ( Collaborative
+
+=====
+ORIG CONTEXT(S):
+a abor- _EOL_ [dagem] COIL ( Collaborative
+0.56
+eventos voltados à [aprendizagem] de _EOL_ língua
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.5_page_1.txt
+TOKEN:
+Colaborativos
+
+=====
+AI CONTEXT:
+responsável pelos Projetos [Colaborativos] Internacionais ( PCIs
+
+=====
+ORIG CONTEXT(S):
+dagem COIL ( [Collaborative] Online International Learning
+0.77
+Projetos Cola- _EOL_ [borativos] Internacionais ( PCIs
+0.69
+em diferentes contextos [comunicativos] , _EOL_ na
+0.54
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.5_page_1.txt
+TOKEN:
+começa
+
+=====
+AI CONTEXT:
+fala de Regiane [começa] em 5h34 ’
+
+=====
+ORIG CONTEXT(S):
+Regiane co- _EOL_ [meça] em 5h34 ’
+0.67
+PCIs _EOL_ realizados [com] a Colômbia ,
+intercultural clara , [com] respeito a diferenças
+0.5
+pela audiência sobre [como] planejar um projeto
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.5_page_1.txt
+TOKEN:
+Em
+
+=====
+AI CONTEXT:
+língua espanhola _EOL_ [Em] setembro de 2025
+
+=====
+ORIG CONTEXT(S):
+língua espanhola _EOL_ [E] _EOL_ m setembro
+e avaliação . [E] relatou três PCIs
+0.5
+Regiane Camargo _EOL_ [em] eventos sobre _EOL_
+( PCIs ) [em] espanhol na equipe
+de Lenguas , [em] 17 de setembro
+, sobre gírias [em] diferentes contextos comunicativos
+co- _EOL_ meça [em] 5h34 ’ :
+0.5
+_EOL_ E _EOL_ [m] setembro de 2025
+0.5
+língua espanhola – [um] online e um
+um online e [um] presencial . _EOL_
+sobre como planejar [um] projeto eficaz para
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.5_page_1.txt
+TOKEN:
+religiosas
+
+=====
+AI CONTEXT:
+diferenças políticas e [religiosas] para evitar desconfortos
+
+=====
+ORIG CONTEXT(S):
+e reli- _EOL_ [giosas] para evitar desconfortos
+0.6
+

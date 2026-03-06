@@ -1,0 +1,18 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_12.4.txt
+TOKEN:
+mantém
+
+=====
+AI CONTEXT:
+As atividades se [mantém] em 2022 .
+
+=====
+ORIG CONTEXT(S):
+atividades se _EOL_ [mantêm] em 2022 . ___SUB___
+0.83
+virtuais , _EOL_ [também] chamados de COIL
+0.5
+Sérgio Tenório dos [Santos] _EOL_ Neto ,
+0.5
+

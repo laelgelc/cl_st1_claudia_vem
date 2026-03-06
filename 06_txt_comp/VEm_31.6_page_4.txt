@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.6_page_4.txt
+TOKEN:
+Pátricia
+
+=====
+AI CONTEXT:
+. Tradução de [Pátricia] Chittoni Ramos .
+
+=====
+ORIG CONTEXT(S):
+. Tradução de [Patrícia] _EOL_ Chittoni Ramos ___SUB___
+0.75
+

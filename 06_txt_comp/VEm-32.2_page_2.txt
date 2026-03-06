@@ -1,0 +1,47 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_2.txt
+TOKEN:
+Instituições
+
+=====
+AI CONTEXT:
+Fatecs e 94 [Instituições] de Ensino Superior
+
+=====
+ORIG CONTEXT(S):
+mil estudantes das [instituições] parceiras . Por
+as cinco maiores [instituições] _EOL_ do mundo
+0.92
+Fatecs e 94 [Institui-] _EOL_ ções de
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_2.txt
+TOKEN:
+Extensão
+
+=====
+AI CONTEXT:
+da Divisão de [Extensão] e Pesquisa no
+
+=====
+ORIG CONTEXT(S):
+envolvendo pesquisa e [extensão] . _EOL_ Entre
+0.88
+da Divisão de [Exten-] _EOL_ são e
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_2.txt
+TOKEN:
+apresentação
+
+=====
+AI CONTEXT:
+houve uma breve [apresentação] sobre a equipe
+
+=====
+ORIG CONTEXT(S):
+breve apre- _EOL_ [sentação] sobre a equipe
+0.67
+

@@ -1,0 +1,17 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_8.txt
+TOKEN:
+aspectos
+
+=====
+AI CONTEXT:
+PCI permitiu conhecer [aspectos] do país vizinho
+
+=====
+ORIG CONTEXT(S):
+conhecer as- _EOL_ [pectos] do país vizinho
+0.75
+reduzir o _EOL_ [impacto] ambiental ” desses
+_EOL_ foi “ [impacto] ambiental do transporte
+0.5
+

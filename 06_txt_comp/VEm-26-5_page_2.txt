@@ -1,0 +1,16 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-26-5_page_2.txt
+TOKEN:
+Sul-Brasileiro
+
+=====
+AI CONTEXT:
+no Contexto Universitário [Sul-Brasileiro] : uma análise
+
+=====
+ORIG CONTEXT(S):
+Universitário Sul- _EOL_ [Brasileiro] : uma análise
+0.71
+Cesu reuniu alunos [brasileiros] e chilenos em
+0.57
+

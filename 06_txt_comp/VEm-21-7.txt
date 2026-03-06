@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-21-7.txt
+TOKEN:
+latino-americana
+
+=====
+AI CONTEXT:
+sob a perspectiva [latino-americana] : barreira linguística
+
+=====
+ORIG CONTEXT(S):
+perspectiva latino- _EOL_ [americana] : barreira linguística
+0.56
+

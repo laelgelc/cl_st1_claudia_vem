@@ -1,0 +1,32 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-33.4_page_1.txt
+TOKEN:
+cerimônias
+
+=====
+AI CONTEXT:
+foi mestre de [cerimônias] . Maria Claudia
+
+=====
+ORIG CONTEXT(S):
+mestre _EOL_ de [cerimônia] do _EOL_ evento
+0.9
+foi mestre de [cerimô-] _EOL_ nias .
+0.6
+a curadoria das [perguntas] enviadas pelos _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.4_page_1.txt
+TOKEN:
+Colaborativos
+
+=====
+AI CONTEXT:
+sobre os Projetos [Colaborativos] Internacionais ( PCIs
+
+=====
+ORIG CONTEXT(S):
+Projetos Cola- _EOL_ [borativos] Internacionais ( PCIs
+0.69
+

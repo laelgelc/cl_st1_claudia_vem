@@ -1,0 +1,260 @@
+token	lemma	pos	is_alpha	is_stop
+Leitores	Leitores	PROPN	True	False
+Aos	a o	ADP	True	True
+Osvaldo	Osvaldo	PROPN	True	False
+Succi	Succi	PROPN	True	False
+Jr.	Jr.	PROPN	False	False
+Coordenador	Coordenador	PROPN	True	False
+PCIs	PCIs	PROPN	True	False
+Este	este	DET	True	True
+número	número	NOUN	True	True
+21	21	NUM	False	False
+de	de	ADP	True	True
+VEm	VEm	PROPN	True	True
+está	estar	AUX	True	True
+dedicado	dedicado	ADJ	True	False
+à	a o	ADP	True	True
+cobertura	cobertura	NOUN	True	False
+da	de o	ADP	True	True
+principal	principal	ADJ	True	False
+conferência	conferência	NOUN	True	False
+internacional	internacional	ADJ	True	False
+sobre	sobre	ADP	True	True
+Intercâmbios	Intercâmbios	PROPN	True	False
+Virtuais	Virtuais	PROPN	True	False
+.	.	PUNCT	False	False
+A	o	DET	True	True
+IVEC	IVEC	PROPN	True	False
+2023	2023	NUM	False	False
+ocorreu	ocorrer	VERB	True	False
+de	de	ADP	True	True
+30	30	NUM	False	False
+de	de	ADP	True	True
+outubro	outubro	NOUN	True	False
+a	a	ADP	True	True
+1	1	NUM	False	False
+de	de	ADP	True	True
+novembro	novembro	NOUN	True	False
+de	de	ADP	True	True
+2023	2023	NUM	False	False
+,	,	PUNCT	False	False
+pela	por o	ADP	True	True
+primeira	primeira	ADP	True	True
+vez	vez	NOUN	True	True
+no	em o	ADP	True	True
+Hemisfério	Hemisfério	PROPN	True	False
+Sul	Sul	PROPN	True	False
+,	,	PUNCT	False	False
+no	em o	ADP	True	True
+Brasil	Brasil	PROPN	True	False
+(	(	PUNCT	False	False
+em	em	ADP	True	True
+São	São	PROPN	True	True
+Paulo	Paulo	PROPN	True	False
+)	)	PUNCT	False	False
+.	.	PUNCT	False	False
+Contou	contar	VERB	True	False
+com	com	ADP	True	True
+496	496	NUM	False	False
+participantes	participante	NOUN	True	False
+,	,	PUNCT	False	False
+presenciais	presencial	ADJ	True	False
+e	e	CCONJ	True	True
+virtuais	virtual	ADJ	True	False
+,	,	PUNCT	False	False
+de	de	ADP	True	True
+41	41	NUM	False	False
+países	país	NOUN	True	False
+,	,	PUNCT	False	False
+e	e	CCONJ	True	True
+foi	ser	AUX	True	True
+organizada	organizar	VERB	True	False
+pela	por o	ADP	True	True
+Associação	Associação	PROPN	True	False
+Brasileira	Brasileira	PROPN	True	False
+de	de	ADP	True	True
+Educação	Educação	PROPN	True	False
+Internacional	Internacional	PROPN	True	False
+(	(	PUNCT	False	False
+Faubai	Faubai	PROPN	True	False
+)	)	PUNCT	False	False
+e	e	CCONJ	True	True
+pela	por o	ADP	True	True
+Unesp	Unesp	PROPN	True	False
+.	.	PUNCT	False	False
+Os	o	DET	True	True
+PCIs	PCIs	PROPN	True	False
+/	/	PUNCT	False	False
+Cesu	Cesu	PROPN	True	False
+demonstram	demonstrar	VERB	True	False
+o	o	DET	True	True
+vanguardismo	vanguardismo	NOUN	True	False
+de	de	ADP	True	True
+suas	seu	DET	True	True
+ações	ação	NOUN	True	False
+no	em o	ADP	True	True
+Brasil	Brasil	PROPN	True	False
+e	e	CCONJ	True	True
+no	em o	ADP	True	True
+mundo	mundo	NOUN	True	False
+e	e	CCONJ	True	True
+,	,	PUNCT	False	False
+na	em o	ADP	True	True
+conferência	conferência	NOUN	True	False
+IVEC	IVEC	PROPN	True	False
+,	,	PUNCT	False	False
+isso	isso	PRON	True	True
+ficou	ficar	VERB	True	False
+claro	claro	ADV	True	False
+por	por	ADP	True	True
+alguns	algum	DET	True	True
+motivos	motivo	NOUN	True	False
+:	:	PUNCT	False	False
+a	o	DET	True	True
+quantidade	quantidade	NOUN	True	False
+de	de	ADP	True	True
+trabalhos	trabalho	NOUN	True	False
+aceitos	aceito	ADJ	True	False
+(	(	PUNCT	False	False
+duas	dois	NUM	True	True
+oficinas	oficina	NOUN	True	False
+e	e	CCONJ	True	True
+três	três	NUM	True	True
+comunicações	comunicação	NOUN	True	False
+orais	oral	ADJ	True	False
+)	)	PUNCT	False	False
+;	;	PUNCT	False	False
+a	o	DET	True	True
+conquista	conquista	NOUN	True	False
+de	de	ADP	True	True
+bolsas	bolsa	NOUN	True	False
+para	para	ADP	True	True
+cobertura	cobertura	NOUN	True	False
+de	de	ADP	True	True
+gastos	gasto	NOUN	True	False
+com	com	ADP	True	True
+inscrição	inscrição	NOUN	True	False
+e	e	CCONJ	True	True
+estadia	estadia	NOUN	True	False
+,	,	PUNCT	False	False
+oferecidas	oferecir	VERB	True	False
+pela	por o	ADP	True	True
+Stevens	Stevens	PROPN	True	False
+Initiative	Initiative	PROPN	True	False
+,	,	PUNCT	False	False
+patrocinadora	patrocinador	VERB	True	False
+“	“	PROPN	False	False
+Platinum	Platinum	PROPN	True	False
+”	”	VERB	False	False
+do	de o	ADP	True	True
+evento	evento	NOUN	True	False
+,	,	PUNCT	False	False
+por	por	ADP	True	True
+três	três	NUM	True	True
+membros	membro	NOUN	True	False
+da	de o	ADP	True	True
+equipe	equipe	NOUN	True	False
+(	(	PUNCT	False	False
+Ana	Ana	PROPN	True	False
+Carolina	Carolina	PROPN	True	False
+Freschi	Freschi	PROPN	True	False
+,	,	PUNCT	False	False
+Regiane	Regiane	PROPN	True	False
+Souza	Souza	PROPN	True	False
+Camargo	Camargo	PROPN	True	False
+Moreira	Moreira	PROPN	True	False
+e	e	CCONJ	True	True
+eu	eu	PROPN	True	True
+)	)	PUNCT	False	False
+;	;	PUNCT	False	False
+a	o	DET	True	True
+participação	participação	NOUN	True	False
+como	como	ADP	True	True
+moderadores	moderadore	NOUN	True	False
+em	em	ADP	True	True
+quatro	quatro	NUM	True	True
+sessões	sessão	NOUN	True	False
+de	de	ADP	True	True
+comunicação	comunicação	NOUN	True	False
+oral	oral	ADJ	True	False
+;	;	PUNCT	False	False
+o	o	DET	True	True
+convite	convite	NOUN	True	False
+da	de o	ADP	True	True
+Unesp	Unesp	PROPN	True	False
+e	e	CCONJ	True	True
+da	de o	ADP	True	True
+Faubai	Faubai	PROPN	True	False
+à	a o	ADP	True	True
+professora	professora	NOUN	True	False
+Patrícia	Patrícia	PROPN	True	False
+Sales	Sales	PROPN	True	False
+Patrício	Patrício	PROPN	True	False
+,	,	PUNCT	False	False
+jornalista	jornalista	NOUN	True	False
+responsável	responsável	ADJ	True	False
+pela	por o	ADP	True	True
+comunicação	comunicação	NOUN	True	False
+dos	de o	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+,	,	PUNCT	False	False
+para	para	SCONJ	True	True
+realizar	realizar	VERB	True	False
+a	o	DET	True	True
+cobertura	cobertura	NOUN	True	False
+do	de o	ADP	True	True
+evento	evento	NOUN	True	False
+;	;	PUNCT	False	False
+a	o	DET	True	True
+participação	participação	NOUN	True	False
+deste	de este	ADP	True	True
+coordenador	coordenador	NOUN	True	False
+da	de o	ADP	True	True
+equipe	equipe	NOUN	True	False
+de	de	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+no	em o	ADP	True	True
+painel	painel	NOUN	True	False
+de	de	ADP	True	True
+encerramento	encerramento	NOUN	True	False
+da	de o	ADP	True	True
+conferência	conferência	NOUN	True	False
+,	,	PUNCT	False	False
+“	“	PROPN	False	False
+What	What	PROPN	True	False
+is	is	PROPN	True	False
+the	the	PROPN	True	False
+future	future	PROPN	True	False
+of	of	PROPN	True	False
+COIL	COIL	PROPN	True	False
+/	/	PUNCT	False	False
+virtual	virtual	ADJ	True	False
+exchange	exchange	VERB	True	False
+?	?	PUNCT	False	False
+”	”	PROPN	False	False
+(	(	PUNCT	False	False
+Qual	qual	DET	True	True
+o	o	DET	True	True
+futuro	futuro	NOUN	True	False
+do	de o	ADP	True	True
+COIL	COIL	PROPN	True	False
+/	/	PUNCT	False	False
+Intercâmbio	Intercâmbio	PROPN	True	False
+Virtual	Virtual	PROPN	True	False
+)	)	PUNCT	False	False
+.	.	PUNCT	False	False
+Nas	em o	ADP	True	True
+páginas	página	NOUN	True	False
+a	a	SCONJ	True	True
+seguir	seguir	VERB	True	False
+,	,	PUNCT	False	False
+você	você	PRON	True	True
+encontra	encontrar	VERB	True	False
+uma	um	DET	True	True
+síntese	síntese	NOUN	True	False
+dessas	de esse	ADP	True	False
+produções	produção	NOUN	True	False
+.	.	PUNCT	False	False
+Boa	Boa	ADJ	True	True
+leitura	leitura	NOUN	True	False
+!	!	PUNCT	False	False

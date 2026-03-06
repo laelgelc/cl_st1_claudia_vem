@@ -1,0 +1,44 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_15.3.txt
+TOKEN:
+Lindiwe
+
+=====
+AI CONTEXT:
+mais viáveis . [Lindiwe] Mkhize , coordenadora
+
+=====
+ORIG CONTEXT(S):
+mais viáveis . [Lindewa] Mkhize , _EOL_ ___SUB___
+0.71
+. _EOL_ Hope [Windle] , diretora do
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/VEm_15.3.txt
+TOKEN:
+não-nativos
+
+=====
+AI CONTEXT:
+parte de falantes [não-nativos] , envolveu nove
+
+=====
+ORIG CONTEXT(S):
+falantes não- _EOL_ [nativos] , envolveu nove
+0.64
+
+-----------------------------
+TEXT: 05_json_txt/VEm_15.3.txt
+TOKEN:
+PERSPECTIVAINTERNACIONAL
+
+=====
+AI CONTEXT:
+[PERSPECTIVAINTERNACIONAL] _EOL_ A parte
+
+=====
+ORIG CONTEXT(S):
+PERSPECTIVA [INTERNACIONAL] _EOL_ A parte ___MANUAL___
+0.54
+

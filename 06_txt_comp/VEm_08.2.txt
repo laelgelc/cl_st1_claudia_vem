@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_08.2.txt
+TOKEN:
+UFSCar
+
+=====
+AI CONTEXT:
+Produção _EOL_ ( [UFSCar] , 2004 )
+
+=====
+ORIG CONTEXT(S):
+Produção _EOL_ ( [UFSCAR] , 2004 ) ___SUB___
+0.67
+

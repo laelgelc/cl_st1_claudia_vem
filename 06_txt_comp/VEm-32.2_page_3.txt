@@ -1,0 +1,32 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_3.txt
+TOKEN:
+comuni-
+
+=====
+AI CONTEXT:
+entre ensino , [comuni-] de e investigação
+
+=====
+ORIG CONTEXT(S):
+entre ensino , [comunida-] _EOL_ de e ___MANUAL___
+0.78
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_3.txt
+TOKEN:
+pesquisa
+
+=====
+AI CONTEXT:
+articula ensino , [pesquisa] e extensão .
+
+=====
+ORIG CONTEXT(S):
+extensionistas , gerem [pesquisas] _EOL_ e promovam
+0.89
+, Extensão e [Pesquisa] ” . _EOL_
+0.88
+, pes- _EOL_ [quisa] e extensão .
+0.62
+

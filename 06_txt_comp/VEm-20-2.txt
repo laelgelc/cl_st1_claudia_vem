@@ -1,0 +1,28 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-20-2.txt
+TOKEN:
+CBTECLE
+
+=====
+AI CONTEXT:
+mesas-redondas do VI [CBTECLE] , realizado na
+
+=====
+ORIG CONTEXT(S):
+redondas do VI [CBTecLE] , realizado na ___SUB___
+0.71
+
+-----------------------------
+TEXT: 05_json_txt/VEm-20-2.txt
+TOKEN:
+mesas-redondas
+
+=====
+AI CONTEXT:
+de trabalhos e [mesas-redondas] do VI CBTECLE
+
+=====
+ORIG CONTEXT(S):
+e mesas- _EOL_ [redondas] do VI CBTecLE
+0.57
+

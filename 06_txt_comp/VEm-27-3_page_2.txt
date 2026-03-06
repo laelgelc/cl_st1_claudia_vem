@@ -1,0 +1,19 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-27-3_page_2.txt
+TOKEN:
+técnico-profissional
+
+=====
+AI CONTEXT:
+oportunidades da formação [técnico-profissional] em contextos internacionais
+
+=====
+ORIG CONTEXT(S):
+da formação _EOL_ [técnica-profissional] em contextos internacionais ___SUB___
+0.95
+e institutos _EOL_ [técnico-profissionais] , e busca
+0.9
+docência técnica _EOL_ [profissional] para um mundo
+ensino _EOL_ técnico [profissional] do Chile participaram
+0.6
+

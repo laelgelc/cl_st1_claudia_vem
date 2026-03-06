@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.7_page_3.txt
+TOKEN:
+Exchange
+
+=====
+AI CONTEXT:
+it from Virtual [Exchange] . TechTrends ,
+
+=====
+ORIG CONTEXT(S):
+Virtual Ex- _EOL_ [change] . TechTrends ,
+0.75
+

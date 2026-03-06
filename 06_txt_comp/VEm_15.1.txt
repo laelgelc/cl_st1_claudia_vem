@@ -1,0 +1,114 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_15.1.txt
+TOKEN:
+Patricio
+
+=====
+AI CONTEXT:
+Comunicação : Patricia [Patricio] - MTb 25.131
+
+=====
+ORIG CONTEXT(S):
+: _EOL_ Patrícia [Patrício] - MTb 25.131 ___SUB___
+0.88
+Comunicação : _EOL_ [Patrícia] Patrício - MTb
+0.75
+: Armando Natal [Maurício] _EOL_ Expediente Cesu
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm_15.1.txt
+TOKEN:
+Butignon
+
+=====
+AI CONTEXT:
+Administrativo : Elisete [Butignon] _EOL_ EDI -
+
+=====
+ORIG CONTEXT(S):
+Administrativo : Elisete [Buttignon] _EOL_ EDI - ___SUB___
+0.89
+
+-----------------------------
+TEXT: 05_json_txt/VEm_15.1.txt
+TOKEN:
+Patricia
+
+=====
+AI CONTEXT:
+e Comunicação : [Patricia] Patricio - MTb
+
+=====
+ORIG CONTEXT(S):
+Comunicação : _EOL_ [Patrícia] Patrício - MTb ___SUB___
+0.88
+: _EOL_ Patrícia [Patrício] - MTb 25.131
+0.75
+https://forms.office.com/r/eH5ER2ZNKb _EOL_ Para [participar] do grupo de
+0.5
+_EOL_ https://forms.office.com/r/eH5ER2ZNKb _EOL_ [Para] participar do grupo
+0.5
+: Armando Natal [Maurício] _EOL_ Expediente Cesu
+0.5
+( DUT / [África] do Sul )
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_15.1.txt
+TOKEN:
+ProCIn
+
+=====
+AI CONTEXT:
+Colaborativa Internacional ( [ProCIn] ) , que
+
+=====
+ORIG CONTEXT(S):
+Colaborativa Internacional ( [ProCin] ) , que ___SUB___
+0.83
+_EOL_ Internacional ( [PCI] ) com alguma
+de WhatsApp _EOL_ [PCI] Informações : _EOL_
+_EOL_ Acompanhamento pedagógico [PCI] : Ana Carolina
+0.5
+Colaborativos Internacionais ( [PCIs] / Cesu )
+_EOL_ realização de [PCIs] com as Fatecs
+_EOL_ desenvolvida nos [PCIs] das Fatecs desde
+da Rocha relataram [PCIs] em suas unidades
+_EOL_ Coordenador dos [PCIs] _EOL_ EXPEDIENTE _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_15.1.txt
+TOKEN:
+William
+
+=====
+AI CONTEXT:
+Gestão Educacional : [William] Marcos Muniz Menezes
+
+=====
+ORIG CONTEXT(S):
+Gestão Educacional : [Willian] Marcos Muniz Menezes ___SUB___
+0.86
+Thais Lari Braga [Cilli] _EOL_ Expediente Línguas
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/VEm_15.1.txt
+TOKEN:
+Natali
+
+=====
+AI CONTEXT:
+Gabinete : Armando [Natali] Maurício _EOL_ Expediente
+
+=====
+ORIG CONTEXT(S):
+Gabinete : Armando [Natal] Maurício _EOL_ Expediente ___SUB___
+0.83
+Isabel Cristina Contro [Castaldo] , da ARInter
+0.5
+_EOL_ transmitido pelo [Canal] do YouTube da
+0.5
+

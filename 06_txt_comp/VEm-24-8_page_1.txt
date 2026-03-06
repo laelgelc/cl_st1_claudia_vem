@@ -1,0 +1,28 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-24-8_page_1.txt
+TOKEN:
+ganho
+
+=====
+AI CONTEXT:
+Exchange ) têm [ganho] papel de protagonismo
+
+=====
+ORIG CONTEXT(S):
+) têm _EOL_ [ganhado] papel de protagonismo ___SUB___
+0.71
+
+-----------------------------
+TEXT: 05_json_txt/VEm-24-8_page_1.txt
+TOKEN:
+O'Dowd
+
+=====
+AI CONTEXT:
+de protagonismo ( [O'Dowd] , 2018 )
+
+=====
+ORIG CONTEXT(S):
+de protagonismo ( [O’Dowd] , 2018 )
+0.83
+

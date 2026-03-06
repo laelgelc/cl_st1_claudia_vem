@@ -1,0 +1,16 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_01.2.txt
+TOKEN:
+vice-versa
+
+=====
+AI CONTEXT:
+EUA ( e [vice-versa] ) e já
+
+=====
+ORIG CONTEXT(S):
+e vice- _EOL_ [versa] ) e já
+0.5
+EUA ( e [vice-] _EOL_ versa )
+0.5
+

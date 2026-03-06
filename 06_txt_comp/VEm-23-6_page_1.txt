@@ -1,0 +1,41 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-23-6_page_1.txt
+TOKEN:
+Espanhol
+
+=====
+AI CONTEXT:
+no XXXI Seminário [Espanhol] em Brasil 2024
+
+=====
+ORIG CONTEXT(S):
+realizados em _EOL_ [espanhol] na equipe dos
+aprendizagem inovadora em [espanhol] ” ) .
+virtuais _EOL_ em [espanhol] _EOL_ p. 8
+0.88
+de Cultura da [Espanha] no Brasil ;
+da Embaixada da [Espanha] no Brasil e
+0.75
+no XXXI Seminário [Español] _EOL_ em Brasil ___SUB___
+0.75
+innovador en _EOL_ [español] ” ( em
+0.62
+la Embajada de [España] en Brasil e
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-23-6_page_1.txt
+TOKEN:
+Consejería
+
+=====
+AI CONTEXT:
+, organizado pela [Consejería] de Educación de
+
+=====
+ORIG CONTEXT(S):
+, organizado pela [Consejeria] de _EOL_ Educación
+0.9
+Rodríguez , _EOL_ [conselheira] de Educação da
+0.55
+

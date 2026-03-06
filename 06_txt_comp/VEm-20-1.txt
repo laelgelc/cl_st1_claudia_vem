@@ -1,0 +1,16 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-20-1.txt
+TOKEN:
+mediu
+
+=====
+AI CONTEXT:
+da abertura , [mediu] mesa redonda e
+
+=====
+ORIG CONTEXT(S):
+da abertura , [mediou] mesa redonda e ___SUB___
+0.83
+_EOL_ A Jornada [reuniu] três painéis temáticos
+0.5
+

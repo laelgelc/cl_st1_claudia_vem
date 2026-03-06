@@ -1,0 +1,44 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.7_page_1.txt
+TOKEN:
+conhecidos
+
+=====
+AI CONTEXT:
+CGESG ) , [conhecidos] mundialmente como Collaborative
+
+=====
+ORIG CONTEXT(S):
+, co- _EOL_ [nhecidos] mundialmente como Collaborative
+0.8
+tituições dos Estados [Unidos] , Armênia ,
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.7_page_1.txt
+TOKEN:
+Após
+
+=====
+AI CONTEXT:
+de Opinião _EOL_ [Após] ser convidada para
+
+=====
+ORIG CONTEXT(S):
+_EOL_ A _EOL_ [pós] ser convidada para
+0.75
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.7_page_1.txt
+TOKEN:
+instituições
+
+=====
+AI CONTEXT:
+de PCIs com [instituições] dos Estados Unidos
+
+=====
+ORIG CONTEXT(S):
+com ins- _EOL_ [tituições] dos Estados Unidos
+0.75
+

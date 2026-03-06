@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_10.5.txt
+TOKEN:
+Itaquauquecetuba
+
+=====
+AI CONTEXT:
+interculturalidade da Fatec [Itaquauquecetuba] com a UDEM
+
+=====
+ORIG CONTEXT(S):
+interculturalidade da Fatec [Itaquaquecetuba] com a UDEM ___SUB___
+0.94
+

@@ -1,0 +1,96 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.6_page_3.txt
+TOKEN:
+liderando
+
+=====
+AI CONTEXT:
+institucional para continuar [liderando] essa ampliação essencial
+
+=====
+ORIG CONTEXT(S):
+institucional para continuar [lideran-] _EOL_ do essa
+0.78
+_EOL_ pedagógico , [evidenciando] as competências profissionais
+0.58
+pro- _EOL_ fessor [moderno] , como a
+0.56
+a rea- _EOL_ [lidade] local . Isso
+0.56
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.6_page_3.txt
+TOKEN:
+tecnologias
+
+=====
+AI CONTEXT:
+e crítico das [tecnologias] educacionais são os
+
+=====
+ORIG CONTEXT(S):
+das tecno- _EOL_ [logias] educacionais são os
+0.55
+internacional interagiram com [colegas] dos EUA ,
+0.55
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.6_page_3.txt
+TOKEN:
+vislumbraram
+
+=====
+AI CONTEXT:
+Alunos que nunca [vislumbraram] uma experiência internacional
+
+=====
+ORIG CONTEXT(S):
+nunca vis- _EOL_ [lumbraram] uma experiência internacional
+0.75
+_EOL_ inglês , [superaram] o medo do
+0.58
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.6_page_3.txt
+TOKEN:
+realidade
+
+=====
+AI CONTEXT:
+diretamente com a [realidade] local . Isso
+
+=====
+ORIG CONTEXT(S):
+a rea- _EOL_ [lidade] local . Isso
+0.67
+Mesmo sem a [mobilidade] física , _EOL_
+0.6
+, como a [capacidade] de organizar situações
+0.6
+. _EOL_ A [criatividade] , o engajamento
+0.58
+não apenas desenvolveu [habilidades] digitais , mas
+0.55
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.6_page_3.txt
+TOKEN:
+professor
+
+=====
+AI CONTEXT:
+profissionais necessárias ao [professor] moderno , como
+
+=====
+ORIG CONTEXT(S):
+espontâneo entre os [professores] . _EOL_ Isso
+notáveis . Os [professores] relataram maior _EOL_
+pública . Os [professores] , como «
+0.82
+distintas geraram um [processo] formativo espontâneo entre
+0.78
+ao pro- _EOL_ [fessor] moderno , como
+0.67
+evidenciando as competências [profissionais] necessárias ao pro-
+0.54
+

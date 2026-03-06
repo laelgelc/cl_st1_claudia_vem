@@ -1,0 +1,37 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_4.txt
+TOKEN:
+argentina
+
+=====
+AI CONTEXT:
+docentes da universidade [argentina] e 18 estudantes
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Cuarto , [Argentina] ) compartilharam uma
+no Brasil , [Argentina] e França ”
+Cuarto , _EOL_ [Argentina] ) _EOL_
+0.89
+universidade ar- _EOL_ [gentina] e 18 estudantes
+0.78
+Fontana e Silvia [Cristina] Bertolo ( Universidad
+Fluminense ) _EOL_ [Cristina] Bertolo _EOL_ (
+0.56
+meio da comunicação [autêntica] _EOL_ entre estudantes
+0.56
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_4.txt
+TOKEN:
+engajamento
+
+=====
+AI CONTEXT:
+“ Apesar do [engajamento] e interesse ,
+
+=====
+ORIG CONTEXT(S):
+“ Apesar do [engaja-] _EOL_ mento e
+0.55
+

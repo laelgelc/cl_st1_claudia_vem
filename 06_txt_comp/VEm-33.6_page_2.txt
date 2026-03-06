@@ -1,0 +1,28 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-33.6_page_2.txt
+TOKEN:
+metodologia
+
+=====
+AI CONTEXT:
+, segundo a [metodologia] COIL ( Colaborative
+
+=====
+ORIG CONTEXT(S):
+a me- _EOL_ [todologia] COIL ( Colaborative
+0.82
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.6_page_2.txt
+TOKEN:
+identificadas
+
+=====
+AI CONTEXT:
+em Portugal foram [identificadas] pelos alunos participantes
+
+=====
+ORIG CONTEXT(S):
+em Portugal foram [identifica-] _EOL_ das pelos
+0.77
+

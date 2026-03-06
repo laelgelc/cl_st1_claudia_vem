@@ -1,0 +1,33 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_15.2.txt
+TOKEN:
+BrAVE
+
+=====
+AI CONTEXT:
+_EOL_ o selo [BrAVE] ( acrônimo para
+
+=====
+ORIG CONTEXT(S):
+_EOL_ o selo [BraVE] ( acrônimo para ___SUB___
+0.8
+
+-----------------------------
+TEXT: 05_json_txt/VEm_15.2.txt
+TOKEN:
+Cárdas
+
+=====
+AI CONTEXT:
+cerimonial de Renata [Cárdas] ( Cesu )
+
+=====
+ORIG CONTEXT(S):
+cerimonial de Renata [Cardias] ( Cesu ) ___SUB___
+0.71
+de dezembro , [das] 9 às 16h
+processo de internacionalização [das] Fatecs . _EOL_
+incentiva a qualificação [das] Instituições de Ensino
+línguas nos cursos [das] Fatecs _EOL_ e
+0.5
+

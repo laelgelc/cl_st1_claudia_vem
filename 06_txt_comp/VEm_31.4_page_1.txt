@@ -1,0 +1,46 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.4_page_1.txt
+TOKEN:
+Collaborative
+
+=====
+AI CONTEXT:
+projetos COIL ( [Collaborative] Online International Learning
+
+=====
+ORIG CONTEXT(S):
+, ou Aprendizagem [Colaborativa] _EOL_ Internacional On-line
+0.85
+( Col- _EOL_ [laborative] Online International Learning
+0.77
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.4_page_1.txt
+TOKEN:
+Prepping
+
+=====
+AI CONTEXT:
+existem _EOL_ “ [Prepping] COIL students for
+
+=====
+ORIG CONTEXT(S):
+“ P _EOL_ [repping] COIL students for
+0.88
+12 _EOL_ [Preparando] alunos _EOL_ para
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.4_page_1.txt
+TOKEN:
+CGESG
+
+=====
+AI CONTEXT:
+da Depes / [CGESG] / CPS ,
+
+=====
+ORIG CONTEXT(S):
+da Depes / [CGESG/] _EOL_ CPS ,
+0.83
+

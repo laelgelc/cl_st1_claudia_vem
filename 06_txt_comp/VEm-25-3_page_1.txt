@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-25-3_page_1.txt
+TOKEN:
+Bielorrússia
+
+=====
+AI CONTEXT:
+EUA e da [Bielorrússia] . Essa foi
+
+=====
+ORIG CONTEXT(S):
+_EOL_ e da [Bielorússia] . Essa foi ___SUB___
+0.92
+

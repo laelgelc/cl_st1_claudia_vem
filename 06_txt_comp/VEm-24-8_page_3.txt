@@ -1,0 +1,28 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-24-8_page_3.txt
+TOKEN:
+O'DOWD
+
+=====
+AI CONTEXT:
+2010 . _EOL_ [O'DOWD] , Robert .
+
+=====
+ORIG CONTEXT(S):
+2010 . _EOL_ [O’DOWD] , Robert .
+0.83
+
+-----------------------------
+TEXT: 05_json_txt/VEm-24-8_page_3.txt
+TOKEN:
+ESpecialist
+
+=====
+AI CONTEXT:
+CALLT . The [ESpecialist] , São Paulo
+
+=====
+ORIG CONTEXT(S):
+CALLT . The [ESPecialist] , São Paulo ___SUB___
+0.91
+

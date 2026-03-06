@@ -1,0 +1,126 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.3_page_2.txt
+TOKEN:
+interculturais
+
+=====
+AI CONTEXT:
+projeto consolida competências [interculturais] , linguísticas (
+
+=====
+ORIG CONTEXT(S):
+dificuldades na aprendizagem [intercultural] e assín- _EOL_
+0.86
+projeto consolida competências [intercultu-] _EOL_ rais ,
+0.71
+importância da troca [cultural] nesse PCI :
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.3_page_2.txt
+TOKEN:
+superior
+
+=====
+AI CONTEXT:
+currículo no ensino [superior] ” , coordenado
+
+=====
+ORIG CONTEXT(S):
+no _EOL_ Ensino [Superior] , _EOL_ coordenado
+0.88
+ensino su- _EOL_ [perior] ” , coordenado
+0.75
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.3_page_2.txt
+TOKEN:
+global
+
+=====
+AI CONTEXT:
+Do local ao [global] : multiplicidade de
+
+=====
+ORIG CONTEXT(S):
+) “ Do [local] ao glo- _EOL_
+0.67
+ao glo- _EOL_ [bal] : multiplicidade de
+0.5
+Do local ao [glo-] _EOL_ bal :
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.3_page_2.txt
+TOKEN:
+CBTeCLE
+
+=====
+AI CONTEXT:
+projeto no VII [CBTeCLE] ( veja reportagem
+
+=====
+ORIG CONTEXT(S):
+projeto no VII [CBTecLE] ( veja reportagem ___SUB___
+0.86
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.3_page_2.txt
+TOKEN:
+Extensão
+
+=====
+AI CONTEXT:
+da Divisão de [Extensão] e Pesquisa da
+
+=====
+ORIG CONTEXT(S):
+de Ex- _EOL_ [tensão] e Pesquisa da
+0.75
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.3_page_2.txt
+TOKEN:
+resiliência
+
+=====
+AI CONTEXT:
+um exemplo de [resiliência] , adaptabilidade e
+
+=====
+ORIG CONTEXT(S):
+um exemplo de [resiliên-] _EOL_ cia ,
+0.73
+, adaptabilidade e [relevância] pedagógica ” ,
+0.55
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.3_page_2.txt
+TOKEN:
+assíncrona
+
+=====
+AI CONTEXT:
+aprendizagem intercultural e [assíncrona] , considerando a
+
+=====
+ORIG CONTEXT(S):
+e assín- _EOL_ [crona] , considerando a
+0.5
+aprendizagem intercultural e [assín-] _EOL_ crona ,
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.3_page_2.txt
+TOKEN:
+Itaquáquecetuba
+
+=====
+AI CONTEXT:
+, Franca , [Itaquáquecetuba] , Garça ,
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Franca , [Itaquaquecetuba] , Garça , ___SUB___
+0.93
+

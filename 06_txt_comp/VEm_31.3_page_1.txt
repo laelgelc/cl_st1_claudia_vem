@@ -1,0 +1,52 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.3_page_1.txt
+TOKEN:
+Relatos
+
+=====
+AI CONTEXT:
+de educação _EOL_ [Relatos] de experiência com
+
+=====
+ORIG CONTEXT(S):
+_EOL_ R _EOL_ [elatos] de experiência com
+0.86
+_EOL_ situações e [desaﬁos] _EOL_ acadêmicos _EOL_
+0.57
+Paula Pinheiro compartilharam [resultados] de _EOL_ pesquisa
+0.5
+PCIs ) _EOL_ [realizados] em Fatecs marcaram
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.3_page_1.txt
+TOKEN:
+Internacional
+
+=====
+AI CONTEXT:
+Colóquio de Educação [Internacional] para o Sul
+
+=====
+ORIG CONTEXT(S):
+em colóquio _EOL_ [internacional] de educação _EOL_
+0.92
+com Projetos Colaborativos [Internacionais] ( PCIs )
+0.86
+Educação Inter- _EOL_ [nacional] para o Sul
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.3_page_1.txt
+TOKEN:
+infográfico
+
+=====
+AI CONTEXT:
+) . O [infográfico] a seguir apresenta
+
+=====
+ORIG CONTEXT(S):
+O info- _EOL_ [gráfico] a seguir apresenta
+0.64
+

@@ -1,0 +1,20 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-25-6_page_1.txt
+TOKEN:
+alguns
+
+=====
+AI CONTEXT:
+se “ fornece [alguns] informações de fundo
+
+=====
+ORIG CONTEXT(S):
+se “ fornece [algumas] informações de fundo ___SUB___
+0.71
+que provocam o [aluno] por meio do
+0.67
+e envolveu _EOL_ [alunos] de três cursos
+0.67
+terá _EOL_ outras [paragens] , naturalmente .
+0.5
+

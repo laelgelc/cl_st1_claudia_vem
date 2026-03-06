@@ -1,0 +1,33 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_10.1.txt
+TOKEN:
+Fatesc
+
+=====
+AI CONTEXT:
+práticas utilizadas nas [Fatesc] na realização de
+
+=====
+ORIG CONTEXT(S):
+apoio _EOL_ da [Fatec] Guaratinguetá e a
+0.83
+utilizadas nas _EOL_ [Fatecs] na realização de ___SUB___
+_EOL_ participação das [Fatecs] _EOL_ Americana ,
+0.67
+[Fale] conosco no Teams
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_10.1.txt
+TOKEN:
+ensino-aprendizagem
+
+=====
+AI CONTEXT:
+o processo de [ensino-aprendizagem] na formação profissional
+
+=====
+ORIG CONTEXT(S):
+de ensino- _EOL_ [aprendizagem] na formação _EOL_
+0.63
+

@@ -1,0 +1,34 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_29.3_page_2.txt
+TOKEN:
+gloicais
+
+=====
+AI CONTEXT:
+em questões “ [gloicais] ” e multiculturais
+
+=====
+ORIG CONTEXT(S):
+em questões “ [glocais] ” e _EOL_ ___SUB___
+0.88
+as tecnologias _EOL_ [digitais] aplicadas à cooperação
+0.5
+pessoal ao _EOL_ [global] , capacitando-os a
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_29.3_page_2.txt
+TOKEN:
+ODSS
+
+=====
+AI CONTEXT:
+a realização dos [ODSS] . _EOL_ Com
+
+=====
+ORIG CONTEXT(S):
+Desenvolvimento Sustentável ( [ODS] ) da ONU
+0.75
+a realização dos [ODSs] . _EOL_ Com ___SUB___
+0.75
+

@@ -1,0 +1,30 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.6_page_1.txt
+TOKEN:
+Diante
+
+=====
+AI CONTEXT:
+ensino superior _EOL_ [Diante] do avanço tecnológico
+
+=====
+ORIG CONTEXT(S):
+_EOL_ D _EOL_ [iante] do avanço tecnológico
+0.83
+Os PCIs como [ponte] _EOL_ global para
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.6_page_1.txt
+TOKEN:
+competência
+
+=====
+AI CONTEXT:
+com responsabilidade e [competência] em escala global
+
+=====
+ORIG CONTEXT(S):
+e com- _EOL_ [petência] em escala global
+0.73
+

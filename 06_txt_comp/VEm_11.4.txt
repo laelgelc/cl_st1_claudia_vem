@@ -1,0 +1,28 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_11.4.txt
+TOKEN:
+Sorrcoce
+
+=====
+AI CONTEXT:
+( Danilo Sergio [Sorrcoce] e Rafaeli Cardozo
+
+=====
+ORIG CONTEXT(S):
+( Danilo Sergio [Sorroce] e Rafaeli _EOL_ ___SUB___
+0.88
+
+-----------------------------
+TEXT: 05_json_txt/VEm_11.4.txt
+TOKEN:
+bem-sucedidos
+
+=====
+AI CONTEXT:
+PCIs foram muito [bem-sucedidos] e bem avaliados
+
+=====
+ORIG CONTEXT(S):
+muito bem- _EOL_ [sucedidos] e bem avaliados
+0.69
+

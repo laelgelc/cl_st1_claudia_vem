@@ -1,0 +1,31 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-28-3_page_3.txt
+TOKEN:
+Itaquaque­cetuba
+
+=====
+AI CONTEXT:
+Fatec Itaquaquecetuba , [Itaquaque­cetuba] , v. 14
+
+=====
+ORIG CONTEXT(S):
+. REGIT Fatec [Itaquaquecetuba] , Itaquaquecetuba ,
+Fatec Itaquaquecetuba , [Itaquaquecetuba] , v. 14 ___SUB___
+0.94
+
+-----------------------------
+TEXT: 05_json_txt/VEm-28-3_page_3.txt
+TOKEN:
+permitindo-lhes
+
+=====
+AI CONTEXT:
+dos envolvidos , [permitindo-lhes] uma visão de
+
+=====
+ORIG CONTEXT(S):
+dos envolvidos , [permitindo-] _EOL_ lhes uma
+0.73
+enquanto cidadãos , [fornecendo-lhes] ferramentas para a
+0.6
+

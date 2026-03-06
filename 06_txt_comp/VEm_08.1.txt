@@ -1,0 +1,18 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_08.1.txt
+TOKEN:
+vice-diretora-superintendente
+
+=====
+AI CONTEXT:
+entrevista com a [vice-diretora-superintendente] do CPS ,
+
+=====
+ORIG CONTEXT(S):
+Laura Laganá _EOL_ [Vice-Diretora-Superintendente] : Emilena Lorenzon
+0.9
+Expediente CPS _EOL_ [Diretora-Superintendente] : Laura Laganá
+0.76
+a vice-diretora- _EOL_ [superintendente] _EOL_ do _EOL_
+0.52
+

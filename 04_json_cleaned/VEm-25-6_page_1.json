@@ -1,0 +1,29 @@
+{
+  "title": "Artigo de opinião",
+  "subtitle": "As WebQuests como ferramentas de sala de aula invertida",
+  "sections": [
+    {
+      "heading": null,
+      "paragraphs": [
+        "Edilene Gasparini Fernandes Fatec São José do Rio Preto edilene@fatecriopreto.edu.br"
+      ]
+    },
+    {
+      "heading": null,
+      "paragraphs": [
+        "As WebQuests foram criadas por Bernie Dodge, em 1995, e foram usadas com o objetivo de integrar disciplinas e trazer a web para dentro das salas de aula do ensino fundamental e médio. Elas podem ser consideradas como uma das ferramentas para a metodologia ativa conhecida como sala de aula invertida (flipped classroom), em que o conteúdo é apresentado fora do ambiente escolar e o tempo em sala de aula é usado pelo professor para tirar dúvidas e promover debates com seus estudantes.",
+        "Em 2020, as WebQuests voltaram a ser discutidas no Brasil por meio da pesquisa de Lilian Bacich sobre seu uso dentro do meio acadêmico (Bacich, 2020). Motivada por esse ressurgimento, propus uma adaptação de seu uso no ensino superior tecnológico das Fatecs com o objetivo de melhoria do ensino-aprendizagem de língua inglesa.",
+        "Essa pesquisa foi financiada pelo CPS, como Regime de Jornada Integral, e envolveu alunos de três cursos diferentes da Fatec São José do Rio Preto (Tecnologia em Agronegócio, Tecnologia em Informática para Negócios e Tecnologia em Análise e Desenvolvimento de Sistemas), que colaboraram na criação e hospedagem das WebQuests na plataforma Google Sites.",
+        "As WebQuests são ferramentas que provocam o aluno por meio do questionamento, da curiosidade, e o motivam a buscar uma solução para o problema apresentado. As etapas de uma WebQuest podem variar conforme o alvo de sua questão, mas, classicamente, Bernie Dodge estabelece:",
+        {
+          "list": [
+            "1. Introdução - fase em que se prepara o “palco” e se “fornece alguns informações de fundo”.",
+            "2. Apresentação de uma tarefa “factível e interessante” que instigará o grupo pela curiosidade e aderência com sua realidade e aplicação.",
+            "3. Indicação de endereços eletrônicos que sejam a base de partida para a aventura que terá outras paragens, naturalmente.",
+            "4. Abordagem da estrutura de etapas na qual será construída a WebQuest: a introdução do problema ou questão, a tarefa dividida entre os membros do grupo, o processo de construção da abordagem e os recursos de que farão uso."
+          ]
+        }
+      ]
+    }
+  ]
+}

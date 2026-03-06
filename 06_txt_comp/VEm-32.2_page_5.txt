@@ -1,0 +1,34 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_5.txt
+TOKEN:
+interação
+
+=====
+AI CONTEXT:
+a melhoria na [interação] com os alunos
+
+=====
+ORIG CONTEXT(S):
+_EOL_ satisfação e [motivação] no trabalho e
+0.56
+na inte- _EOL_ [ração] com os alunos
+0.56
+temas como _EOL_ [satisfação] e motivação no
+0.5
+participação em eventos [internacionais] , escrita de
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.2_page_5.txt
+TOKEN:
+socioemocionais
+
+=====
+AI CONTEXT:
+desenvolvimento de competências [socioemocionais] ( soft skills
+
+=====
+ORIG CONTEXT(S):
+competências so- _EOL_ [cioemocionais] ( soft skills
+0.87
+

@@ -1,0 +1,51 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-27-2_page_7.txt
+TOKEN:
+iniciativas
+
+=====
+AI CONTEXT:
+instituição que aliam [iniciativas] como o Programa
+
+=====
+ORIG CONTEXT(S):
+. Uma outra [iniciativa] de _EOL_ Internacionalização
+0.91
+instituição que aliam [inciativas] como o Programa
+0.91
+Após essa explanação [inicial] , ele citou
+0.55
+desenvolvimento das competências [linguísticas] no idioma inglês
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-27-2_page_7.txt
+TOKEN:
+norte-americanos
+
+=====
+AI CONTEXT:
+( brasileiros e [norte-americanos] ) . Trocas
+
+=====
+ORIG CONTEXT(S):
+do _EOL_ instituto [norte-americano] , discutindo temas
+0.94
+brasileiros e 80 [americanos] na _EOL_ partilha
+e norte- _EOL_ [americanos] ) . Trocas
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm-27-2_page_7.txt
+TOKEN:
+Cavahleri
+
+=====
+AI CONTEXT:
+e Silvana Chorratt [Cavahleri] ( PUC-Campinas )
+
+=====
+ORIG CONTEXT(S):
+Silvana Chorratt _EOL_ [Cavalheri] ( PUC-Campinas ) ___SUB___
+0.78
+

@@ -1,0 +1,18 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-27-3_page_1.txt
+TOKEN:
+universitaria
+
+=====
+AI CONTEXT:
+en la formación [universitaria] ” para docentes
+
+=====
+ORIG CONTEXT(S):
+en la formación [universitária] ” para docentes
+0.92
+visita técnica à [Universidad] Nacional Autónoma de
+0.62
+Coordenação _EOL_ de [Universidade] Aberta e Educação
+0.62
+

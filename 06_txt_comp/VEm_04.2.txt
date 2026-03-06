@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_04.2.txt
+TOKEN:
+pressupõe
+
+=====
+AI CONTEXT:
+, e isso [pressupõe] o apoio da
+
+=====
+ORIG CONTEXT(S):
+_EOL_ e isso [pressupe] o apoio da
+0.89
+

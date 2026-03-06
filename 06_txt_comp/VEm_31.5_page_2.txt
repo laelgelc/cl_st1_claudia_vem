@@ -1,0 +1,30 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.5_page_2.txt
+TOKEN:
+empregabilidade
+
+=====
+AI CONTEXT:
+crucial para a [empregabilidade] . Regiane apresentou
+
+=====
+ORIG CONTEXT(S):
+a em- _EOL_ [pregabilidade] . Regiane apresentou
+0.87
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.5_page_2.txt
+TOKEN:
+enfoques
+
+=====
+AI CONTEXT:
+, complementando os [enfoques] do currículo EFE
+
+=====
+ORIG CONTEXT(S):
+os enfo- _EOL_ [ques] do currículo EFE
+0.5
+, complementando os [enfo-] _EOL_ ques do
+0.5
+

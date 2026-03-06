@@ -1,0 +1,60 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_02.2.txt
+TOKEN:
+Itaququecetuba
+
+=====
+AI CONTEXT:
+de Vasconcelos , [Itaququecetuba] e Mogi das
+coordenadores da Fatec [Itaququecetuba] Francisco Claudio Tavares
+, da Fatec [Itaququecetuba] , acompanhou a
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Vasconcelos , [Itaquaquecetuba] e _EOL_ Mogi ___SUB___
+da _EOL_ Fatec [Itaquaquecetuba] Francisco _EOL_ Claudio
+da Fatec _EOL_ [Itaquaquecetuba] , acompanhou a
+0.93
+
+-----------------------------
+TEXT: 05_json_txt/VEm_02.2.txt
+TOKEN:
+vice-chanceler
+
+=====
+AI CONTEXT:
+Sally Crimmins-Villela , [vice-chanceler] associada para assuntos
+
+=====
+ORIG CONTEXT(S):
+, vice- _EOL_ [chanceler] associada para assuntos
+0.64
+
+-----------------------------
+TEXT: 05_json_txt/VEm_02.2.txt
+TOKEN:
+Zotovicci
+
+=====
+AI CONTEXT:
+de Vasconcelos Andrea [Zotovicci] ( Análise e
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Vasconcelos Andrea [Zotovici] _EOL_ ( Análise ___SUB___
+0.89
+
+-----------------------------
+TEXT: 05_json_txt/VEm_02.2.txt
+TOKEN:
+Panciconi
+
+=====
+AI CONTEXT:
+, Bruno Marques [Panciconi] ; os coordenadores
+
+=====
+ORIG CONTEXT(S):
+Bruno Marques _EOL_ [Panccioni] ; os coordenadores ___SUB___
+0.78
+

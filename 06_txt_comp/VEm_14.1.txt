@@ -1,0 +1,35 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_14.1.txt
+TOKEN:
+MTB
+
+=====
+AI CONTEXT:
+Patrícia Patrício - [MTB] 25.131 _EOL_ Editoração
+
+=====
+ORIG CONTEXT(S):
+Patrícia Patrício - [MTb] 25.131 _EOL_ Editoração ___SUB___
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm_14.1.txt
+TOKEN:
+Mauricio
+
+=====
+AI CONTEXT:
+: Armando Natal [Mauricio] _EOL_ Expediente Cesu
+
+=====
+ORIG CONTEXT(S):
+: Armando Natal [Maurício] _EOL_ Expediente Cesu ___SUB___
+0.88
+: _EOL_ Patrícia [Patrício] - MTb 25.131
+0.62
+Comunicação : _EOL_ [Patrícia] Patrício - MTb
+0.5
+Projetos Internacionais : [Mariane] Teixeira _EOL_ Coordenação
+Carolina Freschi , [Mariane] Teixeira , Neusa
+0.5
+

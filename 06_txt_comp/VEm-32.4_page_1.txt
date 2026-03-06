@@ -1,0 +1,56 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.4_page_1.txt
+TOKEN:
+superior
+
+=====
+AI CONTEXT:
+desafiadores da educação [superior] ” , comenta
+
+=====
+ORIG CONTEXT(S):
+do Ensino _EOL_ [Superior] ( Depes )
+Geral de Ensino [Superior] de Graduação _EOL_
+0.88
+educação su- _EOL_ [perior] ” , comenta
+0.75
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.4_page_1.txt
+TOKEN:
+organizational
+
+=====
+AI CONTEXT:
+apresentação “ Examining [organizational] patterns and linguistic
+
+=====
+ORIG CONTEXT(S):
+identificando seus padrões [organizacionais] e _EOL_ linguísticos
+0.8
+apresentação “ Examining [organiza-] _EOL_ tional patterns
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.4_page_1.txt
+TOKEN:
+Em
+
+=====
+AI CONTEXT:
+Visitantes internacionais _EOL_ [Em] outubro e novembro
+
+=====
+ORIG CONTEXT(S):
+Visitantes internacionais _EOL_ [E] _EOL_ m outubro
+0.5
+Depes/ _EOL_ CGESG [em] 3 de outubro
+do evento presencial [em] inglês foi analisar
+Cortes , doutora [em] linguística aplicada pela
+Viviana Cortes _EOL_ [em] visita ao _EOL_
+0.5
+_EOL_ E _EOL_ [m] outubro e novembro
+0.5
+escrita acadêmica é [um] dos aspectos mais
+0.5
+

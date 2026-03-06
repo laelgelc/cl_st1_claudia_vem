@@ -1,0 +1,94 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.4_page_2.txt
+TOKEN:
+visitou
+
+=====
+AI CONTEXT:
+Chile ) , [visitou] as Fatecs Praia
+
+=====
+ORIG CONTEXT(S):
+, vi- _EOL_ [sitou] as Fatecs Praia
+0.71
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.4_page_2.txt
+TOKEN:
+disciplina
+
+=====
+AI CONTEXT:
+convenções específicas da [disciplina] , organizar ideias
+
+=====
+ORIG CONTEXT(S):
+convenções específicas da [discipli-] _EOL_ na ,
+0.8
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.4_page_2.txt
+TOKEN:
+ecossistema
+
+=====
+AI CONTEXT:
+palestras sobre o [ecossistema] de marketing digital
+
+=====
+ORIG CONTEXT(S):
+o ecos- _EOL_ [sistema] de marketing digital
+0.64
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.4_page_2.txt
+TOKEN:
+conteúdo
+
+=====
+AI CONTEXT:
+, além do [conteúdo] ” , ressalta
+
+=====
+ORIG CONTEXT(S):
+, além do [conteú-] _EOL_ do ”
+0.75
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.4_page_2.txt
+TOKEN:
+especí-ficos
+
+=====
+AI CONTEXT:
+inglês para fins [especí-ficos] e escrita acadêmica
+
+=====
+ORIG CONTEXT(S):
+precisa dominar convenções [específicas] da discipli- _EOL_
+0.83
+inglês para fins [especí-] _EOL_ ficos e
+0.58
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.4_page_2.txt
+TOKEN:
+revisar
+
+=====
+AI CONTEXT:
+sua importância , [revisar] itens de pesquisas
+
+=====
+ORIG CONTEXT(S):
+abstracts publicados em [revistas] científicas , realizado
+0.75
+ser bem-sucedida , [precisa] dominar convenções específicas
+0.57
+sua importância , [revi-] _EOL_ sar itens
+0.57
+o nicho – [delinear] propósitos do trabalho
+0.5
+preencher ) , [levantar] questões / problemas
+0.5
+

@@ -1,0 +1,42 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.3_page_2.txt
+TOKEN:
+Tecnologia
+
+=====
+AI CONTEXT:
+“ 911 : [Tecnologia] ao resgate frente
+
+=====
+ORIG CONTEXT(S):
+“ 911 : [Tecnología] ao res- _EOL_
+0.9
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.3_page_2.txt
+TOKEN:
+resgate
+
+=====
+AI CONTEXT:
+: Tecnologia ao [resgate] frente a linguistic
+
+=====
+ORIG CONTEXT(S):
+ao res- _EOL_ [gate] frente a linguistic
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.3_page_2.txt
+TOKEN:
+tensions
+
+=====
+AI CONTEXT:
+frente a linguistic [tensions] e intercultural challenges
+
+=====
+ORIG CONTEXT(S):
+frente a linguistic [tensiones] e intercultural challenges
+0.89
+

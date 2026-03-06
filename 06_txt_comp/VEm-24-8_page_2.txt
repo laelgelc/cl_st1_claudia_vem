@@ -1,0 +1,40 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-24-8_page_2.txt
+TOKEN:
+classes
+
+=====
+AI CONTEXT:
+ministrar aulas em [classes] espelho , quando
+
+=====
+ORIG CONTEXT(S):
+_EOL_ aulas em [clases] espejo , quando ___SUB___
+0.86
+. Para esses [casos] , faz-se necessário
+0.57
+estrangeira . Para [esses] casos , faz-se
+0.57
+de _EOL_ diferentes [países] em projetos que
+0.57
+os _EOL_ esforços [desses] professores , cria-se
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/VEm-24-8_page_2.txt
+TOKEN:
+espelho
+
+=====
+AI CONTEXT:
+aulas em classes [espelho] , quando o
+
+=====
+ORIG CONTEXT(S):
+aulas em clases [espejo] , quando o ___SUB___
+0.71
+de língua _EOL_ [espanhola] . Esse corpo
+0.56
+focado em vocabulário [específico] e _EOL_ acompanhamento
+0.5
+

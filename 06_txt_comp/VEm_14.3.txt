@@ -1,0 +1,16 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_14.3.txt
+TOKEN:
+IILC_22
+
+=====
+AI CONTEXT:
+e Comunicação ( [IILC_22] ) . Patrícia
+também apresentou no [IILC_22] o trabalho “
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Comunicação ( [ILIC_22] ) . Patrícia ___SUB___
+apresentou _EOL_ no [ILIC_22] o trabalho “
+0.71
+

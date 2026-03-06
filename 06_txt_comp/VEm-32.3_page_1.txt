@@ -1,0 +1,110 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.3_page_1.txt
+TOKEN:
+mesas-redondas
+
+=====
+AI CONTEXT:
+de palestras , [mesas-redondas] , encontros temáticos
+
+=====
+ORIG CONTEXT(S):
+de palestras , [mesas-re-] _EOL_ dondas ,
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.3_page_1.txt
+TOKEN:
+oportunidade
+
+=====
+AI CONTEXT:
+, é uma [oportunidade] de destacar as
+
+=====
+ORIG CONTEXT(S):
+uma opor- _EOL_ [tunidade] de destacar as
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.3_page_1.txt
+TOKEN:
+Graduação
+
+=====
+AI CONTEXT:
+Ensino Superior de [Graduação] ( CGESG )
+
+=====
+ORIG CONTEXT(S):
+Ensino Superior de [Gradua-] _EOL_ ção (
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.3_page_1.txt
+TOKEN:
+Extensão
+
+=====
+AI CONTEXT:
+da Divisão de [Extensão] e Pesquisa (
+
+=====
+ORIG CONTEXT(S):
+da Divisão de [Exten-] _EOL_ são e
+0.62
+IVEC trouxe programação [extensa] de palestras ,
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.3_page_1.txt
+TOKEN:
+educacionais
+
+=====
+AI CONTEXT:
+estudantes e líderes [educacionais] , a conferência
+
+=====
+ORIG CONTEXT(S):
+estudantes e líderes [educacio-] _EOL_ nais ,
+0.67
+de Projetos Colaborativos [Internacionais] ( PCIs )
+Projetos _EOL_ Colaborativos [Internacionais] , consolidando a
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.3_page_1.txt
+TOKEN:
+inspirando
+
+=====
+AI CONTEXT:
+como referência e [inspirando] novas colaborações ”
+
+=====
+ORIG CONTEXT(S):
+e ins- _EOL_ [pirando] novas colaborações ”
+0.7
+Colaborativos Internacionais , [consolidando] a instituição como
+0.58
+da Coordenadoria de [Ensino] Superior de Gradua-
+à Internacionalização do [Ensino] Superior da Depes
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.3_page_1.txt
+TOKEN:
+intercâmbios
+
+=====
+AI CONTEXT:
+na área de [intercâmbios] virtuais / COIL
+
+=====
+ORIG CONTEXT(S):
+inovação em _EOL_ [Intercâmbios] Virtuais _EOL_ A
+0.92
+na área de [intercâm-] _EOL_ bios virtuais
+0.67
+

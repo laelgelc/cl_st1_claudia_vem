@@ -1,0 +1,135 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.7_page_2.txt
+TOKEN:
+continuar
+
+=====
+AI CONTEXT:
+nova razão para [continuar] estudando . Para
+
+=====
+ORIG CONTEXT(S):
+COIL lhes deu [confiança] , propósito ou
+0.56
+projetos ajudam a [cultivar] cidadania global .
+0.56
+confirmação de que [ensinar] é , antes
+0.56
+nais . Outros [contaram] que o intercâmbio
+0.56
+aluno que lutava [contra] a de- _EOL_
+0.56
+nova razão para [conti-] _EOL_ nuar estudando
+0.56
+se sentido mais [confiantes] depois de interagir
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.7_page_2.txt
+TOKEN:
+ção
+
+=====
+AI CONTEXT:
+burocracia , limita- [ção] tecnológica , engajamento
+
+=====
+ORIG CONTEXT(S):
+gua inglesa : [não] mais apenas um
+_EOL_ Esse investimento [não] é apenas estratégico
+_EOL_ internacionalização virtual [não] serve apenas para
+0.67
+, engajamento ) [são] compartilhados por professores
+0.67
+, limi- _EOL_ [tação] tecnológica , engajamento ___MANUAL___
+0.6
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.7_page_2.txt
+TOKEN:
+limita-
+
+=====
+AI CONTEXT:
+( burocracia , [limita-] ção tecnológica ,
+
+=====
+ORIG CONTEXT(S):
+( burocracia , [limi-] _EOL_ tação tecnológica
+0.71
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.7_page_2.txt
+TOKEN:
+língua
+
+=====
+AI CONTEXT:
+seu interesse pela [língua] inglesa : não
+
+=====
+ORIG CONTEXT(S):
+seu interesse pela [lín-] _EOL_ gua inglesa
+0.5
+pela lín- _EOL_ [gua] inglesa : não
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.7_page_2.txt
+TOKEN:
+restrições
+
+=====
+AI CONTEXT:
+infraestrutura desigual e [restrições] tecnológicas . Mas
+
+=====
+ORIG CONTEXT(S):
+infraestrutura desigual e [restri-] _EOL_ ções tecnológicas
+0.6
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.7_page_2.txt
+TOKEN:
+depressão
+
+=====
+AI CONTEXT:
+lutava contra a [depressão] . Ele disse
+
+=====
+ORIG CONTEXT(S):
+a de- _EOL_ [pressão] . Ele disse
+0.78
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.7_page_2.txt
+TOKEN:
+cursos
+
+=====
+AI CONTEXT:
+crescimento . Planejar [cursos] com parceiros internacionais
+
+=====
+ORIG CONTEXT(S):
+para planejamento , [recursos] tecnológicos , capacitação
+0.75
+obstáculos reais : [fusos] horários , infraestrutura
+0.67
+crescimento . Planejar [cur-] _EOL_ sos com
+0.5
+_EOL_ colegas de [outros] países . Alguns
+às realidades dos [outros] . Mesmo com
+0.5
+_EOL_ percebo que [muitos] desafios educacionais que
+0.5
+pelo inglês , [criou] um canal no
+0.5
+Planejar cur- _EOL_ [sos] com parceiros internacionais
+0.5
+_EOL_ nais . [Outros] contaram que o
+0.5
+_EOL_ 25 _EOL_ [Muitos] alunos relataram terem
+0.5
+

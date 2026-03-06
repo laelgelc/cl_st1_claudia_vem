@@ -1,0 +1,28 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-33.3_page_2.txt
+TOKEN:
+mostrando
+
+=====
+AI CONTEXT:
+seu cotidiano , [mostrando] os abrigos antibombas
+
+=====
+ORIG CONTEXT(S):
+seu cotidiano , [mostran-] _EOL_ do os
+0.78
+
+-----------------------------
+TEXT: 05_json_txt/VEm-33.3_page_2.txt
+TOKEN:
+instituição
+
+=====
+AI CONTEXT:
+por semestre à [instituição] . “ Quanto
+
+=====
+ORIG CONTEXT(S):
+à insti- _EOL_ [tuição] . “ Quanto
+0.55
+

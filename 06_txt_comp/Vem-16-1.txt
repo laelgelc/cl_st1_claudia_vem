@@ -1,0 +1,1168 @@
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Venício
+
+=====
+AI CONTEXT:
+FAUBAI , Márcio [Venício] Barbosa , comenta
+
+=====
+ORIG CONTEXT(S):
+: Armando Natal [Maurício] _EOL_ Expediente Cesu
+: Armando Natal [Maurício] _EOL_ Expediente Cesu
+0.5
+Comunicação : Patrícia [Patrício] - MTb 25.131
+: _EOL_ Patrícia [Patrício] - MTb 25.131
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+avaliação
+
+=====
+AI CONTEXT:
+revista que conquistou [avaliação] Qualis B1 da
+
+=====
+ORIG CONTEXT(S):
+um informativo com [publicação] _EOL_ bimestral da
+um informativo com [publicação] bimestral da _EOL_
+0.6
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+edição
+
+=====
+AI CONTEXT:
+Cesu . Nesta [edição] , o presidente
+três artigos na [edição] mais recente da
+
+=====
+ORIG CONTEXT(S):
+MTb 25.131 _EOL_ [Editoração] e diagramação :
+MTb 25.131 _EOL_ [Editoração] e diagramação :
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Edilene
+
+=====
+AI CONTEXT:
+o relato de [Edilene] Gasparini Fernandes ,
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Vice-Diretora-Superintendente : [Emilena] Lorenzon Bianco _EOL_
+_EOL_ Vice-Diretora-Superintendente : [Emilena] Lorenzon Bianco _EOL_
+0.71
+Departamento Administrativo : [Elisete] Buttignon _EOL_ EDI
+0.57
+[Expediente] CPS _EOL_ Diretora-Superintendente
+Natal Maurício _EOL_ [Expediente] Cesu _EOL_ Coordenador
+Thais Cilli _EOL_ [Expediente] Línguas e Projetos
+Regiane Moreira _EOL_ [Expediente] VEm _EOL_ Corpo
+- SP _EOL_ [Expediente] CPS _EOL_ Diretora-Superintendente
+Natal Maurício _EOL_ [Expediente] Cesu _EOL_ Coordenador
+Braga Cilli _EOL_ [Expediente] Línguas e Projetos
+Regiane Moreira _EOL_ [Expediente] VEm _EOL_ Corpo
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Virtuais
+
+=====
+AI CONTEXT:
+eventos sobre Intercâmbios [Virtuais] : o IVES
+
+=====
+ORIG CONTEXT(S):
+_EOL_ VEm : [Virtual] Exchange Medium é
+_EOL_ VEm : [Virtual] Exchange Medium é
+0.75
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+seção
+
+=====
+AI CONTEXT:
+Casa , na [seção] “ Quem é
+. _EOL_ A [seção] “ Boas Práticas
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Departamento de [Gestão] Educacional : William
+Braun Galvão _EOL_ [Gestão] Educacional : Willian
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+ano
+
+=====
+AI CONTEXT:
+Cesu ) no [ano] . BRaVE é
+. _EOL_ O [ano] de 2023 está
+, que neste [ano] será em São
+
+=====
+ORIG CONTEXT(S):
+: Emilena Lorenzon [Bianco] _EOL_ Chefe de
+: Emilena Lorenzon [Bianco] _EOL_ Chefe de
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Qualis
+
+=====
+AI CONTEXT:
+que conquistou avaliação [Qualis] B1 da CAPES
+
+=====
+ORIG CONTEXT(S):
+Desenvolvimento Instrucional : [Thais] Cilli _EOL_ Expediente
+Desenvolvimento Instrucional : [Thais] Lari Braga Cilli
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+projeto
+
+=====
+AI CONTEXT:
+campus Dearborn , [projeto] que envolveu sete
+
+=====
+ORIG CONTEXT(S):
+Expediente Línguas e [Projetos] Colaborativos Internacionais -
+de Línguas e [Projetos] Internacionais : Mariane
+_EOL_ Coordenação de [Projetos] Colaborativos Internacionais :
+Expediente Línguas e [Projetos] Colaborativos Internacionais -
+de Línguas e [Projetos] Internacionais : Mariane
+_EOL_ Coordenação de [Projetos] Colaborativos Internacionais :
+0.75
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+casos
+
+=====
+AI CONTEXT:
+de relatos de [casos] de PCIs .
+
+=====
+ORIG CONTEXT(S):
+Educacional : William [Marcos] Muniz Menezes _EOL_
+Educacional : Willian [Marcos] Muniz Menezes _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+CAPES
+
+=====
+AI CONTEXT:
+Qualis B1 da [CAPES] . Confira na
+
+=====
+ORIG CONTEXT(S):
+Expediente [CPS] _EOL_ Diretora-Superintendente :
+SP _EOL_ Expediente [CPS] _EOL_ Diretora-Superintendente :
+0.6
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+sete
+
+=====
+AI CONTEXT:
+projeto que envolveu [sete] professores de seis
+
+=====
+ORIG CONTEXT(S):
+Departamento Administrativo : [Elisete] Buttignon _EOL_ EDI
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Confira
+
+=====
+AI CONTEXT:
+da CAPES . [Confira] na página 5
+
+=====
+ORIG CONTEXT(S):
+Gritti e Regiane [Moreira] _EOL_ Expediente VEm
+Junior e Regiane [Moreira] _EOL_ Jornalista responsável
+e _EOL_ Regiane [Moreira] _EOL_ Expediente VEm
+Junior e Regiane [Moreira] _EOL_ Jornalista responsável
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+das
+
+=====
+AI CONTEXT:
+Essa foi uma [das] principais conquistas da
+
+=====
+ORIG CONTEXT(S):
+publicação _EOL_ bimestral [da] Cesu / CEETEPS
+: Fábio Gomes [da] Silva _EOL_ VEm
+com publicação bimestral [da] _EOL_ Cesu /
+0.67
+CEETEPS : Rua [dos] Andradas , 140
+CEETEPS : Rua [dos] Andradas , 140
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+atribuição
+
+=====
+AI CONTEXT:
+Exchange e a [atribuição] do selo ao
+
+=====
+ORIG CONTEXT(S):
+_EOL_ EDI - [Estruturação] e Desenvolvimento Instrucional
+_EOL_ EDI - [Estruturação] e Desenvolvimento Instrucional
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Brasileira
+
+=====
+AI CONTEXT:
+, da Associação [Brasileira] de Educação Internacional
+
+=====
+ORIG CONTEXT(S):
+Internacionais : Mariane [Teixeira] _EOL_ Coordenação de
+Freschi , Mariane [Teixeira] , Neusa Haruka
+Internacionais : Mariane [Teixeira] _EOL_ Coordenação de
+Freschi , Mariane [Teixeira] , Neusa Haruka
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+CETE
+
+=====
+AI CONTEXT:
+da Cesu / [CETE] PS : Rua
+
+=====
+ORIG CONTEXT(S):
+da Cesu / [CEETEPS] : Rua dos
+_EOL_ Cesu / [CEETEPS] : Rua dos
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Preto
+
+=====
+AI CONTEXT:
+José do Rio [Preto] , sobre um
+
+=====
+ORIG CONTEXT(S):
+Expediente Línguas e [Projetos] Colaborativos Internacionais -
+de Línguas e [Projetos] Internacionais : Mariane
+_EOL_ Coordenação de [Projetos] Colaborativos Internacionais :
+Expediente Línguas e [Projetos] Colaborativos Internacionais -
+de Línguas e [Projetos] Internacionais : Mariane
+_EOL_ Coordenação de [Projetos] Colaborativos Internacionais :
+0.62
+Ferreira Alves _EOL_ [Diretor] Acadêmico-Pedagógico : André
+Ferreira Alves _EOL_ [Diretor] Acadêmico-Pedagógico : André
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Nesta
+
+=====
+AI CONTEXT:
+/ Cesu . [Nesta] edição , o
+
+=====
+ORIG CONTEXT(S):
+Carolina Freschi , [Neusa] Haruka _EOL_ Gritti
+Mariane Teixeira , [Neusa] Haruka _EOL_ Gritti
+Carolina Freschi , [Neusa] Haruka Gritti e
+Mariane Teixeira , [Neusa] Haruka Gritti ,
+0.6
+_EOL_ Departamento de [Gestão] Educacional : William
+Braun Galvão _EOL_ [Gestão] Educacional : Willian
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Paula
+
+=====
+AI CONTEXT:
+, o Centro [Paula] Souza recebeu o
+
+=====
+ORIG CONTEXT(S):
+01208-000 - São [Paulo] - SP _EOL_
+01208-000 - São [Paulo] - SP _EOL_
+0.8
+_EOL_ Diretora-Superintendente : [Laura] Laganá _EOL_ Vice-Diretora-Superintendente
+_EOL_ Diretora-Superintendente : [Laura] Laganá _EOL_ Vice-Diretora-Superintendente
+0.6
+Freschi , Neusa [Haruka] _EOL_ Gritti e
+Teixeira , Neusa [Haruka] _EOL_ Gritti ,
+Freschi , Neusa [Haruka] Gritti e _EOL_
+Teixeira , Neusa [Haruka] Gritti , _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+terceiro
+
+=====
+AI CONTEXT:
+2023 , o [terceiro] congresso da Red
+
+=====
+ORIG CONTEXT(S):
+Administrativo : Silvia [Pereira] Abranches _EOL_ Departamento
+0.62
+Técnico : Rafael [Ferreira] Alves _EOL_ Diretor
+Técnico : Rafael [Ferreira] Alves _EOL_ Diretor
+0.62
+Internacionais : Mariane [Teixeira] _EOL_ Coordenação de
+Freschi , Mariane [Teixeira] , Neusa Haruka
+Internacionais : Mariane [Teixeira] _EOL_ Coordenação de
+Freschi , Mariane [Teixeira] , Neusa Haruka
+0.5
+Gritti e Regiane [Moreira] _EOL_ Expediente VEm
+Junior e Regiane [Moreira] _EOL_ Jornalista responsável
+e _EOL_ Regiane [Moreira] _EOL_ Expediente VEm
+Junior e Regiane [Moreira] _EOL_ Jornalista responsável
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+em
+
+=====
+AI CONTEXT:
+sobre a internacionalização [em] Casa , na
+neste ano será [em] São Paulo .
+sobre um PCI [em] parceria com a
+
+=====
+ORIG CONTEXT(S):
+EDI - Estruturação [e] Desenvolvimento Instrucional :
+_EOL_ Expediente Línguas [e] Projetos Colaborativos Internacionais
+Coordenação de Línguas [e] Projetos Internacionais :
+Haruka _EOL_ Gritti [e] Regiane Moreira _EOL_
+Osvaldo Succi Junior [e] Regiane Moreira _EOL_
+_EOL_ Jornalista responsável [e] Comunicação : Patrícia
+25.131 _EOL_ Editoração [e] diagramação : Fábio
+EDI - Estruturação [e] Desenvolvimento Instrucional :
+_EOL_ Expediente Línguas [e] Projetos Colaborativos Internacionais
+Coordenação de Línguas [e] Projetos Internacionais :
+Neusa Haruka Gritti [e] _EOL_ Regiane Moreira
+Osvaldo Succi Junior [e] Regiane Moreira _EOL_
+_EOL_ Jornalista responsável [e] Comunicação : _EOL_
+25.131 _EOL_ Editoração [e] diagramação : Fábio
+0.5
+Exchange Medium é [um] informativo com publicação
+Exchange Medium é [um] informativo com publicação
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+os
+
+=====
+AI CONTEXT:
+feito e brinda [os] leitores com reflexões
+Paulo . Veja [os] detalhes na página
+
+=====
+ORIG CONTEXT(S):
+CEETEPS : Rua [dos] Andradas , 140
+CEETEPS : Rua [dos] Andradas , 140
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+PCIs
+
+=====
+AI CONTEXT:
+Colaborativos Internacionais ( [PCIs] / Cesu )
+a qualidade dos [PCIs] / Cesu .
+a Jornada de [PCIs] e o IVEC
+de casos de [PCIs] . Prova disso
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Acompanhamento pedagógico [PCI] : Ana Carolina
+_EOL_ Acompanhamento pedagógico [PCI] : Ana Carolina
+0.75
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Boas
+
+=====
+AI CONTEXT:
+A seção “ [Boas] Práticas ” traz
+
+=====
+ORIG CONTEXT(S):
+CEETEPS : Rua [dos] Andradas , 140
+CEETEPS : Rua [dos] Andradas , 140
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+revista
+
+=====
+AI CONTEXT:
+da CBTeCLE , [revista] que conquistou avaliação
+
+=====
+ORIG CONTEXT(S):
+Regiane Moreira _EOL_ [Jornalista] responsável e Comunicação
+Regiane Moreira _EOL_ [Jornalista] responsável e Comunicação
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+IVES
+
+=====
+AI CONTEXT:
+Virtuais : o [IVES] Cesu 2023 ,
+
+=====
+ORIG CONTEXT(S):
+Moreira _EOL_ Expediente [VEm] _EOL_ Corpo editorial
+Fábio Silva _EOL_ [VEm] : Virtual Exchange
+Moreira _EOL_ Expediente [VEm] _EOL_ Corpo editorial
+da Silva _EOL_ [VEm] : Virtual Exchange
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Emiliano
+
+=====
+AI CONTEXT:
+_EOL_ Vice-Diretora-Superintendente : [Emiliano] Lorenzon Bianco _EOL_
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Vice-Diretora-Superintendente : [Emilena] Lorenzon Bianco _EOL_
+_EOL_ Vice-Diretora-Superintendente : [Emilena] Lorenzon Bianco _EOL_
+0.62
+Gestão Educacional : [Willian] Marcos Muniz Menezes
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Mtb
+
+=====
+AI CONTEXT:
+Patrícia Parito - [Mtb] 25.131 _EOL_ Editoração
+
+=====
+ORIG CONTEXT(S):
+Patrícia Patrício - [MTb] 25.131 _EOL_ Editoração
+Patrícia Patrício - [MTb] 25.131 _EOL_ Editoração
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Intercâmbios
+
+=====
+AI CONTEXT:
+de eventos sobre [Intercâmbios] Virtuais : o
+
+=====
+ORIG CONTEXT(S):
+e Projetos Colaborativos [Internacionais] - Cesu _EOL_
+Línguas e Projetos [Internacionais] : Mariane Teixeira
+de Projetos Colaborativos [Internacionais] : Osvaldo Succi
+e Projetos Colaborativos [Internacionais] - Cesu _EOL_
+Línguas e Projetos [Internacionais] : Mariane Teixeira
+de Projetos Colaborativos [Internacionais] : Osvaldo Succi
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+desenvolvendo
+
+=====
+AI CONTEXT:
+, vem se [desenvolvendo] a produção acadêmica
+
+=====
+ORIG CONTEXT(S):
+- Estruturação e [Desenvolvimento] Instrucional : Thais
+- Estruturação e [Desenvolvimento] Instrucional : Thais
+0.73
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Educação
+
+=====
+AI CONTEXT:
+Associação Brasileira de [Educação] Internacional ( FAUBAI
+
+=====
+ORIG CONTEXT(S):
+MTb 25.131 _EOL_ [Editoração] e diagramação :
+MTb 25.131 _EOL_ [Editoração] e diagramação :
+0.6
+Departamento de Gestão [Educacional] : William Marcos
+Galvão _EOL_ Gestão [Educacional] : Willian Marcos
+0.55
+Jornalista responsável e [Comunicação] : Patrícia Patrício
+Jornalista responsável e [Comunicação] : _EOL_ Patrícia
+0.55
+um informativo com [publicação] _EOL_ bimestral da
+um informativo com [publicação] bimestral da _EOL_
+0.5
+_EOL_ EDI - [Estruturação] e Desenvolvimento Instrucional
+_EOL_ EDI - [Estruturação] e Desenvolvimento Instrucional
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+feito
+
+=====
+AI CONTEXT:
+, comenta esse [feito] e brinda os
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Departamento de [Gestão] Educacional : William
+Braun Galvão _EOL_ [Gestão] Educacional : Willian
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Jornada
+
+=====
+AI CONTEXT:
+COIL , a [Jornada] de PCIs e
+
+=====
+ORIG CONTEXT(S):
+Regiane Moreira _EOL_ [Jornalista] responsável e Comunicação
+Regiane Moreira _EOL_ [Jornalista] responsável e Comunicação
+0.6
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+partir
+
+=====
+AI CONTEXT:
+produção acadêmica a [partir] de relatos de
+
+=====
+ORIG CONTEXT(S):
+Instrucional : Thais [Lari] Braga Cilli _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+está
+
+=====
+AI CONTEXT:
+ano de 2023 [está] repleto de eventos
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Departamento de [Gestão] Educacional : William
+Braun Galvão _EOL_ [Gestão] Educacional : Willian
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+leitura
+
+=====
+AI CONTEXT:
+. _EOL_ Boa [leitura] ! _EOL_ EXPEDIENTE
+
+=====
+ORIG CONTEXT(S):
+Internacionais : Mariane [Teixeira] _EOL_ Coordenação de
+Freschi , Mariane [Teixeira] , Neusa Haruka
+Internacionais : Mariane [Teixeira] _EOL_ Coordenação de
+Freschi , Mariane [Teixeira] , Neusa Haruka
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+internacionalização
+
+=====
+AI CONTEXT:
+reflexões sobre a [internacionalização] em Casa ,
+
+=====
+ORIG CONTEXT(S):
+e Projetos Colaborativos [Internacionais] - Cesu _EOL_
+Línguas e Projetos [Internacionais] : Mariane Teixeira
+de Projetos Colaborativos [Internacionais] : Osvaldo Succi
+e Projetos Colaborativos [Internacionais] - Cesu _EOL_
+Línguas e Projetos [Internacionais] : Mariane Teixeira
+de Projetos Colaborativos [Internacionais] : Osvaldo Succi
+0.63
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+conquistas
+
+=====
+AI CONTEXT:
+uma das principais [conquistas] da equipe dos
+
+=====
+ORIG CONTEXT(S):
+Regiane Moreira _EOL_ [Jornalista] responsável e Comunicação
+Regiane Moreira _EOL_ [Jornalista] responsável e Comunicação
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Barbosa
+
+=====
+AI CONTEXT:
+, Márcio Venício [Barbosa] , comenta esse
+
+=====
+ORIG CONTEXT(S):
+Educacional : William [Marcos] Muniz Menezes _EOL_
+Educacional : Willian [Marcos] Muniz Menezes _EOL_
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Casa
+
+=====
+AI CONTEXT:
+a internacionalização em [Casa] , na seção
+
+=====
+ORIG CONTEXT(S):
+Maurício _EOL_ Expediente [Cesu] _EOL_ Coordenador Técnico
+Colaborativos Internacionais - [Cesu] _EOL_ Coordenação de
+_EOL_ bimestral da [Cesu] / CEETEPS :
+Maurício _EOL_ Expediente [Cesu] _EOL_ Coordenador Técnico
+Colaborativos Internacionais - [Cesu] _EOL_ Coordenação de
+bimestral da _EOL_ [Cesu] / CEETEPS :
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+recente
+
+=====
+AI CONTEXT:
+na edição mais [recente] da CBTeCLE ,
+
+=====
+ORIG CONTEXT(S):
+[Expediente] CPS _EOL_ Diretora-Superintendente
+Natal Maurício _EOL_ [Expediente] Cesu _EOL_ Coordenador
+Thais Cilli _EOL_ [Expediente] Línguas e Projetos
+Regiane Moreira _EOL_ [Expediente] VEm _EOL_ Corpo
+- SP _EOL_ [Expediente] CPS _EOL_ Diretora-Superintendente
+Natal Maurício _EOL_ [Expediente] Cesu _EOL_ Coordenador
+Braga Cilli _EOL_ [Expediente] Línguas e Projetos
+Regiane Moreira _EOL_ [Expediente] VEm _EOL_ Corpo
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+PS
+
+=====
+AI CONTEXT:
+Cesu / CETE [PS] : Rua dos
+
+=====
+ORIG CONTEXT(S):
+Expediente [CPS] _EOL_ Diretora-Superintendente :
+SP _EOL_ Expediente [CPS] _EOL_ Diretora-Superintendente :
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Internacional
+
+=====
+AI CONTEXT:
+Brasileira de Educação [Internacional] ( FAUBAI )
+
+=====
+ORIG CONTEXT(S):
+e Projetos Colaborativos [Internacionais] - Cesu _EOL_
+Línguas e Projetos [Internacionais] : Mariane Teixeira
+de Projetos Colaborativos [Internacionais] : Osvaldo Succi
+e Projetos Colaborativos [Internacionais] - Cesu _EOL_
+Línguas e Projetos [Internacionais] : Mariane Teixeira
+de Projetos Colaborativos [Internacionais] : Osvaldo Succi
+0.86
+Estruturação e Desenvolvimento [Instrucional] : Thais Cilli
+Estruturação e Desenvolvimento [Instrucional] : Thais Lari
+0.69
+Departamento de Gestão [Educacional] : William Marcos
+Galvão _EOL_ Gestão [Educacional] : Willian Marcos
+0.54
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+do
+
+=====
+AI CONTEXT:
+e a atribuição [do] selo ao CPS
+Fatec São José [do] Rio Preto ,
+
+=====
+ORIG CONTEXT(S):
+CEETEPS : Rua [dos] Andradas , 140
+CEETEPS : Rua [dos] Andradas , 140
+0.67
+publicação _EOL_ bimestral [da] Cesu / CEETEPS
+: Fábio Gomes [da] Silva _EOL_ VEm
+com publicação bimestral [da] _EOL_ Cesu /
+0.5
+Bianco _EOL_ Chefe [de] Gabinete : Armando
+Abranches _EOL_ Departamento [de] Gestão Educacional :
+Cesu _EOL_ Coordenação [de] Línguas e Projetos
+Teixeira _EOL_ Coordenação [de] Projetos Colaborativos Internacionais
+Bianco _EOL_ Chefe [de] Gabinete : Armando
+Cesu _EOL_ Coordenação [de] Línguas e Projetos
+Teixeira _EOL_ Coordenação [de] Projetos Colaborativos Internacionais
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Michigan
+
+=====
+AI CONTEXT:
+a Universidade de [Michigan] , campus Dearborn
+
+=====
+ORIG CONTEXT(S):
+Gestão Educacional : [Willian] Marcos Muniz Menezes
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Institucional
+
+=====
+AI CONTEXT:
+Estruturação e Desenvolvimento [Institucional] : Thais Lari
+
+=====
+ORIG CONTEXT(S):
+Estruturação e Desenvolvimento [Instrucional] : Thais Cilli
+Estruturação e Desenvolvimento [Instrucional] : Thais Lari
+0.85
+e Projetos Colaborativos [Internacionais] - Cesu _EOL_
+Línguas e Projetos [Internacionais] : Mariane Teixeira
+de Projetos Colaborativos [Internacionais] : Osvaldo Succi
+e Projetos Colaborativos [Internacionais] - Cesu _EOL_
+Línguas e Projetos [Internacionais] : Mariane Teixeira
+de Projetos Colaborativos [Internacionais] : Osvaldo Succi
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+na
+
+=====
+AI CONTEXT:
+em Casa , [na] seção “ Quem
+Veja os detalhes [na] página 5 .
+de três artigos [na] edição mais recente
+CAPES . Confira [na] página 5 .
+professora de Inglês [na] Fatec São José
+
+=====
+ORIG CONTEXT(S):
+pedagógico PCI : [Ana] Carolina Freschi ,
+Corpo editorial : [Ana] Carolina Freschi ,
+pedagógico PCI : [Ana] Carolina Freschi ,
+Corpo editorial : [Ana] Carolina Freschi ,
+0.67
+publicação _EOL_ bimestral [da] Cesu / CEETEPS
+: Fábio Gomes [da] Silva _EOL_ VEm
+com publicação bimestral [da] _EOL_ Cesu /
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+uma
+
+=====
+AI CONTEXT:
+. Essa foi [uma] das principais conquistas
+
+=====
+ORIG CONTEXT(S):
+Exchange Medium é [um] informativo com publicação
+Exchange Medium é [um] informativo com publicação
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+a
+
+=====
+AI CONTEXT:
+Virtual Exchange e [a] atribuição do selo
+ao CPS atesta [a] qualidade dos PCIs
+com reflexões sobre [a] internacionalização em Casa
+Latinoamericana COIL , [a] Jornada de PCIs
+vem se desenvolvendo [a] produção acadêmica a
+a produção acadêmica [a] partir de relatos
+Prova disso é [a] publicação de três
+em parceria com [a] Universidade de Michigan
+
+=====
+ORIG CONTEXT(S):
+publicação _EOL_ bimestral [da] Cesu / CEETEPS
+: Fábio Gomes [da] Silva _EOL_ VEm
+com publicação bimestral [da] _EOL_ Cesu /
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Parito
+
+=====
+AI CONTEXT:
+Comunicação : Patrícia [Parito] - Mtb 25.131
+
+=====
+ORIG CONTEXT(S):
+Instrucional : Thais [Lari] Braga Cilli _EOL_
+0.5
+Comunicação : Patrícia [Patrício] - MTb 25.131
+: _EOL_ Patrícia [Patrício] - MTb 25.131
+0.5
+01208-000 - São [Paulo] - SP _EOL_
+01208-000 - São [Paulo] - SP _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+para
+
+=====
+AI CONTEXT:
+BRaVE é acrônimo [para] Brazilian Virtual Exchange
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Diretora-Superintendente : [Laura] Laganá _EOL_ Vice-Diretora-Superintendente
+_EOL_ Diretora-Superintendente : [Laura] Laganá _EOL_ Vice-Diretora-Superintendente
+0.6
+Instrucional : Thais [Lari] Braga Cilli _EOL_
+0.5
+Freschi , Neusa [Haruka] _EOL_ Gritti e
+Teixeira , Neusa [Haruka] _EOL_ Gritti ,
+Freschi , Neusa [Haruka] Gritti e _EOL_
+Teixeira , Neusa [Haruka] Gritti , _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+mais
+
+=====
+AI CONTEXT:
+artigos na edição [mais] recente da CBTeCLE
+
+=====
+ORIG CONTEXT(S):
+Desenvolvimento Instrucional : [Thais] Cilli _EOL_ Expediente
+Desenvolvimento Instrucional : [Thais] Lari Braga Cilli
+0.6
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+presidente
+
+=====
+AI CONTEXT:
+edição , o [presidente] da FAUBAI ,
+
+=====
+ORIG CONTEXT(S):
+[Expediente] CPS _EOL_ Diretora-Superintendente
+Natal Maurício _EOL_ [Expediente] Cesu _EOL_ Coordenador
+Thais Cilli _EOL_ [Expediente] Línguas e Projetos
+Regiane Moreira _EOL_ [Expediente] VEm _EOL_ Corpo
+- SP _EOL_ [Expediente] CPS _EOL_ Diretora-Superintendente
+Natal Maurício _EOL_ [Expediente] Cesu _EOL_ Coordenador
+Braga Cilli _EOL_ [Expediente] Línguas e Projetos
+Regiane Moreira _EOL_ [Expediente] VEm _EOL_ Corpo
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Centro
+
+=====
+AI CONTEXT:
+2022 , o [Centro] Paula Souza recebeu
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Departamento de [Gestão] Educacional : William
+Braun Galvão _EOL_ [Gestão] Educacional : Willian
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+José
+
+=====
+AI CONTEXT:
+na Fatec São [José] do Rio Preto
+
+=====
+ORIG CONTEXT(S):
+CEETEPS : Rua [dos] Andradas , 140
+CEETEPS : Rua [dos] Andradas , 140
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Em
+
+=====
+AI CONTEXT:
+AOS LEITORES _EOL_ [Em] outubro de 2022
+
+=====
+ORIG CONTEXT(S):
+Moreira _EOL_ Expediente [VEm] _EOL_ Corpo editorial
+Fábio Silva _EOL_ [VEm] : Virtual Exchange
+Moreira _EOL_ Expediente [VEm] _EOL_ Corpo editorial
+da Silva _EOL_ [VEm] : Virtual Exchange
+0.67
+Exchange Medium é [um] informativo com publicação
+Exchange Medium é [um] informativo com publicação
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+relatos
+
+=====
+AI CONTEXT:
+a partir de [relatos] de casos de
+
+=====
+ORIG CONTEXT(S):
+Expediente Línguas e [Projetos] Colaborativos Internacionais -
+de Línguas e [Projetos] Internacionais : Mariane
+_EOL_ Coordenação de [Projetos] Colaborativos Internacionais :
+Expediente Línguas e [Projetos] Colaborativos Internacionais -
+de Línguas e [Projetos] Internacionais : Mariane
+_EOL_ Coordenação de [Projetos] Colaborativos Internacionais :
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+se
+
+=====
+AI CONTEXT:
+Fatecs , vem [se] desenvolvendo a produção
+
+=====
+ORIG CONTEXT(S):
+EDI - Estruturação [e] Desenvolvimento Instrucional :
+_EOL_ Expediente Línguas [e] Projetos Colaborativos Internacionais
+Coordenação de Línguas [e] Projetos Internacionais :
+Haruka _EOL_ Gritti [e] Regiane Moreira _EOL_
+Osvaldo Succi Junior [e] Regiane Moreira _EOL_
+_EOL_ Jornalista responsável [e] Comunicação : Patrícia
+25.131 _EOL_ Editoração [e] diagramação : Fábio
+EDI - Estruturação [e] Desenvolvimento Instrucional :
+_EOL_ Expediente Línguas [e] Projetos Colaborativos Internacionais
+Coordenação de Línguas [e] Projetos Internacionais :
+Neusa Haruka Gritti [e] _EOL_ Regiane Moreira
+Osvaldo Succi Junior [e] Regiane Moreira _EOL_
+_EOL_ Jornalista responsável [e] Comunicação : _EOL_
+25.131 _EOL_ Editoração [e] diagramação : Fábio
+0.5
+Bianco _EOL_ Chefe [de] Gabinete : Armando
+Abranches _EOL_ Departamento [de] Gestão Educacional :
+Cesu _EOL_ Coordenação [de] Línguas e Projetos
+Teixeira _EOL_ Coordenação [de] Projetos Colaborativos Internacionais
+Bianco _EOL_ Chefe [de] Gabinete : Armando
+Cesu _EOL_ Coordenação [de] Línguas e Projetos
+Teixeira _EOL_ Coordenação [de] Projetos Colaborativos Internacionais
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Márcio
+
+=====
+AI CONTEXT:
+da FAUBAI , [Márcio] Venício Barbosa ,
+
+=====
+ORIG CONTEXT(S):
+: Armando Natal [Maurício] _EOL_ Expediente Cesu
+: Armando Natal [Maurício] _EOL_ Expediente Cesu
+0.62
+e diagramação : [Fábio] Silva _EOL_ VEm
+e diagramação : [Fábio] Gomes da Silva
+0.5
+Comunicação : Patrícia [Patrício] - MTb 25.131
+: _EOL_ Patrícia [Patrício] - MTb 25.131
+0.5
+Educacional : William [Marcos] Muniz Menezes _EOL_
+Educacional : Willian [Marcos] Muniz Menezes _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+neste
+
+=====
+AI CONTEXT:
+área , que [neste] ano será em
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Departamento de [Gestão] Educacional : William
+Braun Galvão _EOL_ [Gestão] Educacional : Willian
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+Quem
+
+=====
+AI CONTEXT:
+na seção “ [Quem] é Quem ”
+“ Quem é [Quem] ” . _EOL_
+
+=====
+ORIG CONTEXT(S):
+Exchange Medium é [um] informativo com publicação
+Exchange Medium é [um] informativo com publicação
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/Vem-16-1.txt
+TOKEN:
+IVEC
+
+=====
+AI CONTEXT:
+PCIs e o [IVEC] , principal conferência
+
+=====
+ORIG CONTEXT(S):
+Moreira _EOL_ Expediente [VEm] _EOL_ Corpo editorial
+Fábio Silva _EOL_ [VEm] : Virtual Exchange
+Moreira _EOL_ Expediente [VEm] _EOL_ Corpo editorial
+da Silva _EOL_ [VEm] : Virtual Exchange
+0.5
+

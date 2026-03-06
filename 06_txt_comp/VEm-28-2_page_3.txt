@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-28-2_page_3.txt
+TOKEN:
+lingüísticas
+
+=====
+AI CONTEXT:
+melhoria das competências [lingüísticas] dos alunos ,
+
+=====
+ORIG CONTEXT(S):
+melhoria das competências [linguísticas] dos alunos , ___SUB___
+0.92
+

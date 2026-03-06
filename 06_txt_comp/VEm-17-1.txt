@@ -1,0 +1,884 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+iniciativa
+
+=====
+AI CONTEXT:
+, tropicalizamos a [iniciativa] , batizando-a de
+
+=====
+ORIG CONTEXT(S):
+Medium é um [informativo] com publicação bimestral
+0.55
+Menezes _EOL_ Departamento [Administrativo] : Silvia Pereira
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+edição
+
+=====
+AI CONTEXT:
+se vê nesta [edição] , os resultados
+a entrevistada desta [edição] é Hope Windle
+
+=====
+ORIG CONTEXT(S):
+MTb 25.131 _EOL_ [Editoração] e diagramação :
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Learning
+
+=====
+AI CONTEXT:
+Collaborative Online International [Learning] ( COIL )
+
+=====
+ORIG CONTEXT(S):
+Instrucional : Thais [Lari] Braga Cilli _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Virtuais
+
+=====
+AI CONTEXT:
+proposta dos Intercâmbios [Virtuais] ou , como
+
+=====
+ORIG CONTEXT(S):
+_EOL_ VEm : [Virtual] Exchange Medium é
+0.75
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+ano
+
+=====
+AI CONTEXT:
+. _EOL_ O [ano] de 2021 foi
+
+=====
+ORIG CONTEXT(S):
+: Emilena Lorenzon [Bianco] _EOL_ Chefe de
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+MTB
+
+=====
+AI CONTEXT:
+Patrícia Patrício - [MTB] 25.131 _EOL_ Editoração
+
+=====
+ORIG CONTEXT(S):
+Patrícia Patrício - [MTb] 25.131 _EOL_ Editoração
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+desta
+
+=====
+AI CONTEXT:
+, a entrevistada [desta] edição é Hope
+
+=====
+ORIG CONTEXT(S):
+Braun Galvão _EOL_ [Gestão] Educacional : Willian
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+comunicação
+
+=====
+AI CONTEXT:
+de TI e [comunicação] . _EOL_ O
+
+=====
+ORIG CONTEXT(S):
+Jornalista responsável e [Comunicação] : _EOL_ Patrícia
+0.91
+um informativo com [publicação] bimestral da _EOL_
+0.55
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Portugal
+
+=====
+AI CONTEXT:
+, e com [Portugal] . Foi assim
+
+=====
+ORIG CONTEXT(S):
+_EOL_ VEm : [Virtual] Exchange Medium é
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Aos
+
+=====
+AI CONTEXT:
+em 2014 . [Aos] poucos , outras
+
+=====
+ORIG CONTEXT(S):
+CEETEPS : Rua [dos] Andradas , 140
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Guia
+
+=====
+AI CONTEXT:
+recebeu o prêmio [Guia] do Estudante /
+
+=====
+ORIG CONTEXT(S):
+Acadêmico-Pedagógico : André [Luiz] Braun Galvão _EOL_
+0.5
+/ CEETEPS : [Rua] dos Andradas ,
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Santander
+
+=====
+AI CONTEXT:
+do Estudante / [Santander] em 2014 .
+
+=====
+ORIG CONTEXT(S):
+, 140 - [Santa] Efigênia – _EOL_
+0.56
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+são
+
+=====
+AI CONTEXT:
+ou , como [são] chamados na SUNY
+, desde 2020 [são] realizadas Pesquisas de
+
+=====
+ORIG CONTEXT(S):
+_EOL_ 01208-000 - [São] Paulo - SP
+0.67
+Braun Galvão _EOL_ [Gestão] Educacional : Willian
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Paula
+
+=====
+AI CONTEXT:
+Fatecs do Centro [Paula] Souza . O
+. No Centro [Paula] Souza , tropicalizamos
+
+=====
+ORIG CONTEXT(S):
+01208-000 - São [Paulo] - SP _EOL_
+0.8
+_EOL_ Diretora-Superintendente : [Laura] Laganá _EOL_ Vice-Diretora-Superintendente
+0.6
+Freschi , Neusa [Haruka] Gritti e _EOL_
+Teixeira , Neusa [Haruka] Gritti , _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+semestrais
+
+=====
+AI CONTEXT:
+Pesquisas de Percepção [semestrais] com alunos e
+
+=====
+ORIG CONTEXT(S):
+informativo com publicação [bimestral] da _EOL_ Cesu
+0.6
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+responsáveis
+
+=====
+AI CONTEXT:
+, com docentes [responsáveis] por apoio pedagógico
+
+=====
+ORIG CONTEXT(S):
+Moreira _EOL_ Jornalista [responsável] e Comunicação :
+0.83
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+em
+
+=====
+AI CONTEXT:
+PCI , realizado [em] 2013 pelo professor
+Estudante / Santander [em] 2014 . Aos
+participantes de PCIs [em] 2020 , saltamos
+saltamos para 1.799 [em] 2021 . As
+ensino do mundo [em] número de PCIs
+
+=====
+ORIG CONTEXT(S):
+EDI - Estruturação [e] Desenvolvimento Instrucional :
+_EOL_ Expediente Línguas [e] Projetos Colaborativos Internacionais
+Coordenação de Línguas [e] Projetos Internacionais :
+Neusa Haruka Gritti [e] _EOL_ Regiane Moreira
+Osvaldo Succi Junior [e] Regiane Moreira _EOL_
+_EOL_ Jornalista responsável [e] Comunicação : _EOL_
+25.131 _EOL_ Editoração [e] diagramação : Fábio
+0.5
+Exchange Medium é [um] informativo com publicação
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+mundo
+
+=====
+AI CONTEXT:
+de ensino do [mundo] em número de
+
+=====
+ORIG CONTEXT(S):
+de Gabinete : [Armando] Natal Maurício _EOL_
+0.57
+: Osvaldo Succi [Junior] _EOL_ Acompanhamento pedagógico
+_EOL_ Osvaldo Succi [Junior] e Regiane Moreira
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+os
+
+=====
+AI CONTEXT:
+Em 2018 , [os] PCIs se integraram
+Global , com [os] vizinhos latino-americanos ,
+nesta edição , [os] resultados expressam o
+
+=====
+ORIG CONTEXT(S):
+CEETEPS : Rua [dos] Andradas , 140
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+PCIs
+
+=====
+AI CONTEXT:
+Colaborativos Internacionais ( [PCIs] ) nas Fatecs
+2018 , os [PCIs] se integraram à
+a equipe de [PCIs] , com docentes
+pela expansão dos [PCIs] , conquistando mais
+alunos participantes de [PCIs] em 2020 ,
+em número de [PCIs] e para garantir
+professores participantes de [PCIs] . Como se
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Acompanhamento pedagógico [PCI] : Ana Carolina
+0.75
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+colaborações
+
+=====
+AI CONTEXT:
+Fatecs , ampliando [colaborações] com países do
+10 anos de [colaborações] com a SUNY
+
+=====
+ORIG CONTEXT(S):
+Línguas e Projetos [Colaborativos] Internacionais - Cesu
+Coordenação de Projetos [Colaborativos] Internacionais : Osvaldo
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+William
+
+=====
+AI CONTEXT:
+Gestão Educacional : [William] Marcos Muniz Menezes
+
+=====
+ORIG CONTEXT(S):
+Gestão Educacional : [Willian] Marcos Muniz Menezes
+0.86
+Departamento Administrativo : [Silvia] Pereira Abranches _EOL_
+0.57
+Thais Lari Braga [Cilli] _EOL_ Expediente Línguas
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Estudante
+
+=====
+AI CONTEXT:
+prêmio Guia do [Estudante] / Santander em
+
+=====
+ORIG CONTEXT(S):
+[Expediente] CPS _EOL_ Diretora-Superintendente
+Natal Maurício _EOL_ [Expediente] Cesu _EOL_ Coordenador
+Braga Cilli _EOL_ [Expediente] Línguas e Projetos
+Regiane Moreira _EOL_ [Expediente] VEm _EOL_ Corpo
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Intercâmbios
+
+=====
+AI CONTEXT:
+à proposta dos [Intercâmbios] Virtuais ou ,
+
+=====
+ORIG CONTEXT(S):
+e Projetos Colaborativos [Internacionais] - Cesu _EOL_
+Línguas e Projetos [Internacionais] : Mariane Teixeira
+de Projetos Colaborativos [Internacionais] : Osvaldo Succi
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Amaral
+
+=====
+AI CONTEXT:
+professor Carlos Augusto [Amaral] Moreira ( Fatec
+
+=====
+ORIG CONTEXT(S):
+Gabinete : Armando [Natal] Maurício _EOL_ Expediente
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Com
+
+=====
+AI CONTEXT:
+AOS LEITORES _EOL_ [Com] orgulho , revemos
+
+=====
+ORIG CONTEXT(S):
+é um informativo [com] publicação bimestral da
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+aderiram
+
+=====
+AI CONTEXT:
+, outras Fatecs [aderiram] à proposta dos
+
+=====
+ORIG CONTEXT(S):
+Administrativo : Silvia [Pereira] Abranches _EOL_ EDI
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Collaborative
+
+=====
+AI CONTEXT:
+na SUNY , [Collaborative] Online International Learning
+
+=====
+ORIG CONTEXT(S):
+Línguas e Projetos [Colaborativos] Internacionais - Cesu
+Coordenação de Projetos [Colaborativos] Internacionais : Osvaldo
+0.77
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+International
+
+=====
+AI CONTEXT:
+, Collaborative Online [International] Learning ( COIL
+
+=====
+ORIG CONTEXT(S):
+e Projetos Colaborativos [Internacionais] - Cesu _EOL_
+Línguas e Projetos [Internacionais] : Mariane Teixeira
+de Projetos Colaborativos [Internacionais] : Osvaldo Succi
+0.79
+Estruturação e Desenvolvimento [Instrucional] : Thais Lari
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+dessa
+
+=====
+AI CONTEXT:
+expressam o sucesso [dessa] trajetória que envolveu
+
+=====
+ORIG CONTEXT(S):
+Carolina Freschi , [Neusa] Haruka Gritti e
+Mariane Teixeira , [Neusa] Haruka Gritti ,
+0.6
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+projetos
+
+=====
+AI CONTEXT:
+melhoria contínua dos [projetos] , desde 2020
+
+=====
+ORIG CONTEXT(S):
+Expediente Línguas e [Projetos] Colaborativos Internacionais -
+de Línguas e [Projetos] Internacionais : Mariane
+_EOL_ Coordenação de [Projetos] Colaborativos Internacionais :
+0.88
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+leitura
+
+=====
+AI CONTEXT:
+. _EOL_ Boa [leitura] ! _EOL_ EXPEDIENTE
+
+=====
+ORIG CONTEXT(S):
+Internacionais : Mariane [Teixeira] _EOL_ Coordenação de
+Freschi , Mariane [Teixeira] , Neusa Haruka
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Como
+
+=====
+AI CONTEXT:
+de PCIs . [Como] se vê nesta
+
+=====
+ORIG CONTEXT(S):
+Expediente VEm _EOL_ [Corpo] editorial : Ana
+0.6
+é um informativo [com] publicação bimestral da
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Graduação
+
+=====
+AI CONTEXT:
+Ensino Superior de [Graduação] ( Cesu )
+
+=====
+ORIG CONTEXT(S):
+_EOL_ EDI - [Estruturação] e Desenvolvimento Instrucional
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+do
+
+=====
+AI CONTEXT:
+) nas Fatecs [do] Centro Paula Souza
+o prêmio Guia [do] Estudante / Santander
+colaborações com países [do] Sul Global ,
+instituições de ensino [do] mundo em número
+Windle , diretora [do] SUNY COIL Center
+
+=====
+ORIG CONTEXT(S):
+CEETEPS : Rua [dos] Andradas , 140
+0.67
+: Fábio Gomes [da] Silva _EOL_ VEm
+com publicação bimestral [da] _EOL_ Cesu /
+0.5
+Bianco _EOL_ Chefe [de] Gabinete : Armando
+Cesu _EOL_ Coordenação [de] Línguas e Projetos
+Teixeira _EOL_ Coordenação [de] Projetos Colaborativos Internacionais
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+na
+
+=====
+AI CONTEXT:
+como são chamados [na] SUNY , Collaborative
+
+=====
+ORIG CONTEXT(S):
+pedagógico PCI : [Ana] Carolina Freschi ,
+Corpo editorial : [Ana] Carolina Freschi ,
+0.67
+: Fábio Gomes [da] Silva _EOL_ VEm
+com publicação bimestral [da] _EOL_ Cesu /
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+poucos
+
+=====
+AI CONTEXT:
+2014 . Aos [poucos] , outras Fatecs
+
+=====
+ORIG CONTEXT(S):
+Educacional : Willian [Marcos] Muniz Menezes _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+a
+
+=====
+AI CONTEXT:
+Americana ) com [a] SUNY Ulster (
+Souza , tropicalizamos [a] iniciativa , batizando-a
+) , sob [a] Coordenação de Línguas
+2020 , formou-se [a] equipe de PCIs
+e para garantir [a] melhoria contínua dos
+de colaborações com [a] SUNY , a
+a SUNY , [a] entrevistada desta edição
+
+=====
+ORIG CONTEXT(S):
+: Fábio Gomes [da] Silva _EOL_ VEm
+com publicação bimestral [da] _EOL_ Cesu /
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+CETEPS
+
+=====
+AI CONTEXT:
+da Cesu / [CETEPS] : Rua dos
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Cesu / [CEETEPS] : Rua dos
+0.86
+Expediente [CPS] _EOL_ Diretora-Superintendente :
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+primeiro
+
+=====
+AI CONTEXT:
+Souza . O [primeiro] PCI , realizado
+
+=====
+ORIG CONTEXT(S):
+Internacionais : Mariane [Teixeira] _EOL_ Coordenação de
+Freschi , Mariane [Teixeira] , Neusa Haruka
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+nesta
+
+=====
+AI CONTEXT:
+Como se vê [nesta] edição , os
+
+=====
+ORIG CONTEXT(S):
+Braun Galvão _EOL_ [Gestão] Educacional : Willian
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+para
+
+=====
+AI CONTEXT:
+2020 , saltamos [para] 1.799 em 2021
+de PCIs e [para] garantir a melhoria
+
+=====
+ORIG CONTEXT(S):
+_EOL_ Diretora-Superintendente : [Laura] Laganá _EOL_ Vice-Diretora-Superintendente
+0.6
+Instrucional : Thais [Lari] Braga Cilli _EOL_
+0.5
+Freschi , Neusa [Haruka] Gritti e _EOL_
+Teixeira , Neusa [Haruka] Gritti , _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+revemos
+
+=====
+AI CONTEXT:
+Com orgulho , [revemos] 10 anos de
+
+=====
+ORIG CONTEXT(S):
+Expediente Línguas e [Projetos] Colaborativos Internacionais -
+de Línguas e [Projetos] Internacionais : Mariane
+_EOL_ Coordenação de [Projetos] Colaborativos Internacionais :
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+mais
+
+=====
+AI CONTEXT:
+PCIs , conquistando [mais] professores e Fatecs
+
+=====
+ORIG CONTEXT(S):
+Desenvolvimento Instrucional : [Thais] Lari Braga Cilli
+0.6
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Sílvia
+
+=====
+AI CONTEXT:
+Departamento Administrativo : [Sílvia] Pereira Abranches _EOL_
+
+=====
+ORIG CONTEXT(S):
+Departamento Administrativo : [Silvia] Pereira Abranches _EOL_
+0.83
+Fábio Gomes da [Silva] _EOL_ VEm :
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+diretora
+
+=====
+AI CONTEXT:
+Hope Windle , [diretora] do SUNY COIL
+
+=====
+ORIG CONTEXT(S):
+Ferreira Alves _EOL_ [Diretor] Acadêmico-Pedagógico : André
+0.75
+Administrativo : Silvia [Pereira] Abranches _EOL_ EDI
+0.5
+e _EOL_ Regiane [Moreira] _EOL_ Expediente VEm
+Junior e Regiane [Moreira] _EOL_ Jornalista responsável
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Centro
+
+=====
+AI CONTEXT:
+nas Fatecs do [Centro] Paula Souza .
+) . No [Centro] Paula Souza ,
+
+=====
+ORIG CONTEXT(S):
+Braun Galvão _EOL_ [Gestão] Educacional : Willian
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+estão
+
+=====
+AI CONTEXT:
+. As Fatecs [estão] entre as 10
+
+=====
+ORIG CONTEXT(S):
+Braun Galvão _EOL_ [Gestão] Educacional : Willian
+0.83
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Em
+
+=====
+AI CONTEXT:
+PCI . _EOL_ [Em] 2018 , os
+Projetos Internacionais . [Em] 2020 , formou-se
+
+=====
+ORIG CONTEXT(S):
+Moreira _EOL_ Expediente [VEm] _EOL_ Corpo editorial
+da Silva _EOL_ [VEm] : Virtual Exchange
+0.67
+Exchange Medium é [um] informativo com publicação
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Carlos
+
+=====
+AI CONTEXT:
+2013 pelo professor [Carlos] Augusto Amaral Moreira
+
+=====
+ORIG CONTEXT(S):
+Educacional : Willian [Marcos] Muniz Menezes _EOL_
+0.67
+PCI : Ana [Carolina] Freschi , Neusa
+editorial : Ana [Carolina] Freschi , Mariane
+0.5
+Expediente VEm _EOL_ [Corpo] editorial : Ana
+0.5
+01208-000 - São [Paulo] - SP _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+como
+
+=====
+AI CONTEXT:
+Virtuais ou , [como] são chamados na
+
+=====
+ORIG CONTEXT(S):
+é um informativo [com] publicação bimestral da
+0.75
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+anos
+
+=====
+AI CONTEXT:
+, revemos 10 [anos] de Projetos Colaborativos
+. Celebrando 10 [anos] de colaborações com
+
+=====
+ORIG CONTEXT(S):
+CEETEPS : Rua [dos] Andradas , 140
+0.5
+Educacional : Willian [Marcos] Muniz Menezes _EOL_
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+se
+
+=====
+AI CONTEXT:
+, os PCIs [se] integraram à Unidade
+PCIs . Como [se] vê nesta edição
+
+=====
+ORIG CONTEXT(S):
+EDI - Estruturação [e] Desenvolvimento Instrucional :
+_EOL_ Expediente Línguas [e] Projetos Colaborativos Internacionais
+Coordenação de Línguas [e] Projetos Internacionais :
+Neusa Haruka Gritti [e] _EOL_ Regiane Moreira
+Osvaldo Succi Junior [e] Regiane Moreira _EOL_
+_EOL_ Jornalista responsável [e] Comunicação : _EOL_
+25.131 _EOL_ Editoração [e] diagramação : Fábio
+0.5
+Bianco _EOL_ Chefe [de] Gabinete : Armando
+Cesu _EOL_ Coordenação [de] Línguas e Projetos
+Teixeira _EOL_ Coordenação [de] Projetos Colaborativos Internacionais
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-17-1.txt
+TOKEN:
+Superior
+
+=====
+AI CONTEXT:
+Unidade de Ensino [Superior] de Graduação (
+
+=====
+ORIG CONTEXT(S):
+: Osvaldo Succi [Junior] _EOL_ Acompanhamento pedagógico
+_EOL_ Osvaldo Succi [Junior] e Regiane Moreira
+0.5
+

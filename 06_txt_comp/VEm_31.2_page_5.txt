@@ -1,0 +1,64 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.2_page_5.txt
+TOKEN:
+Espanhol
+
+=====
+AI CONTEXT:
+o pôster " [Espanhol] para fins específicos
+
+=====
+ORIG CONTEXT(S):
+no ensino de [espanhol] ” , de
+0.88
+“ Es- _EOL_ [panhol] para fins específicos
+0.75
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.2_page_5.txt
+TOKEN:
+narrativas
+
+=====
+AI CONTEXT:
+projeto internacional de [narrativas] audiovisuais no ensino
+
+=====
+ORIG CONTEXT(S):
+“ Escrituras [Narrativas] : cinco edições
+0.9
+de nar- _EOL_ [rativas] audiovisuais no ensino
+0.7
+Internacional Colabo- _EOL_ [rativo] ” . A
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.2_page_5.txt
+TOKEN:
+construídos
+
+=====
+AI CONTEXT:
+crítica : sentidos [construídos] por alunos de
+
+=====
+ORIG CONTEXT(S):
+crítica : sentidos [construí-] _EOL_ dos por
+0.73
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.2_page_5.txt
+TOKEN:
+Colaborativo
+
+=====
+AI CONTEXT:
+em Projeto Internacional [Colaborativo] " . A
+
+=====
+ORIG CONTEXT(S):
+Internacional Colabo- _EOL_ [rativo] ” . A
+0.5
+em Projeto Internacional [Colabo-] _EOL_ rativo ”
+0.5
+

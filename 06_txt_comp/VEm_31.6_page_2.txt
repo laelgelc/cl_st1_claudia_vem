@@ -1,0 +1,75 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.6_page_2.txt
+TOKEN:
+estrangeiro
+
+=====
+AI CONTEXT:
+praticar o idioma [estrangeiro] , os alunos
+
+=====
+ORIG CONTEXT(S):
+praticar o idioma [estrangei-] _EOL_ ro ,
+0.82
+e do uso [estratégico] de tecnolo- _EOL_
+0.64
+que , mesmo [estando] em uma cidade
+0.55
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.6_page_2.txt
+TOKEN:
+socioambiental
+
+=====
+AI CONTEXT:
+crítico e responsabilidade [socioambiental] . Os alunos
+
+=====
+ORIG CONTEXT(S):
+responsabilidade so- _EOL_ [cioambiental] . Os alunos
+0.86
+sustentabilidade , preservação [ambiental] , agricultura urbana
+0.64
+buscou criar um [ambiente] de apren- _EOL_
+0.5
+conjuntas para problemas [ambientais] comuns aos dois
+, econômicas e [ambientais] _EOL_ de suas
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.6_page_2.txt
+TOKEN:
+aprendizado
+
+=====
+AI CONTEXT:
+um ambiente de [aprendizado] multicultural e problematizador
+
+=====
+ORIG CONTEXT(S):
+de apren- _EOL_ [dizado] multicultural e problematizador
+0.55
+
+-----------------------------
+TEXT: 05_json_txt/VEm_31.6_page_2.txt
+TOKEN:
+prática
+
+=====
+AI CONTEXT:
+quando concebida como [prática] pedagógica , e
+
+=====
+ORIG CONTEXT(S):
+trocaram experiências sobre [práticas] agrícolas locais e
+0.88
+Mais do que [praticar] o idioma estrangei-
+0.75
+quando concebida como [práti-] _EOL_ ca pedagógica
+0.71
+apenas como uma [política] institucional distante ,
+0.62
+colaborativo , pensamento [crítico] e responsabilidade so-
+0.57
+

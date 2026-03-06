@@ -1,0 +1,29 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-27-2_page_5.txt
+TOKEN:
+Educación
+
+=====
+AI CONTEXT:
+Universidad Nacional de [Educación] ( Unae )
+
+=====
+ORIG CONTEXT(S):
+Artificial e a [Educação] , em diálogo
+Nacional _EOL_ de [Educação] ( Unae ) ___SUB___
+0.56
+
+-----------------------------
+TEXT: 05_json_txt/VEm-27-2_page_5.txt
+TOKEN:
+Erlangen-Nürnberg
+
+=====
+AI CONTEXT:
+IES University of [Erlangen-Nürnberg] ( Alemanha )
+
+=====
+ORIG CONTEXT(S):
+IES University of [Erlangen-] _EOL_ Nürnberg (
+0.53
+

@@ -1,0 +1,20 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_04.3.txt
+TOKEN:
+Maraboli
+
+=====
+AI CONTEXT:
+) . Patrício [Maraboli] , do campus
+
+=====
+ORIG CONTEXT(S):
+. _EOL_ Patrício [Marabolí] , do campus ___SUB___
+0.88
+Maria Pérez e [Marisol] Tapia . _EOL_
+0.62
+; Tatiane _EOL_ [Manzoli] e Evelyn Prado
+0.62
+” ) ; [Marcos] de Carvalho Dias
+0.5
+

@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_31.2_page_2.txt
+TOKEN:
+referencial
+
+=====
+AI CONTEXT:
+publicações serviu como [referencial] para levantar perguntas
+
+=====
+ORIG CONTEXT(S):
+como refe- _EOL_ [rencial] para levantar perguntas
+0.64
+

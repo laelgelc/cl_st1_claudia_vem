@@ -1,0 +1,14 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_30.2_page_4.txt
+TOKEN:
+Couture-Matte
+
+=====
+AI CONTEXT:
+) e Robin [Couture-Matte] , professor da
+
+=====
+ORIG CONTEXT(S):
+) e Robin [Couture-] _EOL_ Matte ,
+0.62
+

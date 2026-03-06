@@ -1,0 +1,40 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-32.4_page_3.txt
+TOKEN:
+investigação
+
+=====
+AI CONTEXT:
+que corresponde à [investigação] ativa , a
+
+=====
+ORIG CONTEXT(S):
+à in- _EOL_ [vestigação] ativa , a
+0.83
+empreendedorismo na _EOL_ [iniciação] científica . _EOL_
+trajetória desde sua [iniciação] científica e _EOL_
+0.58
+Diálogos Globais em [Iniciação] Científica e Tecnológica
+VII Simpósio de [Iniciação] Científica e _EOL_
+0.5
+a questão da [inovação] em negócios com
+Frisou que a [inovação] pode ser incre-
+locais de _EOL_ [inovação] e a importância
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-32.4_page_3.txt
+TOKEN:
+naturais
+
+=====
+AI CONTEXT:
+inclui as ciências [naturais] , humanas e
+
+=====
+ORIG CONTEXT(S):
+inclui as ciências [natu-] _EOL_ rais ,
+0.5
+ciências natu- _EOL_ [rais] , humanas e
+0.5
+

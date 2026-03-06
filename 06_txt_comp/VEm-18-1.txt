@@ -1,0 +1,82 @@
+-----------------------------
+TEXT: 05_json_txt/VEm-18-1.txt
+TOKEN:
+Patricio
+
+=====
+AI CONTEXT:
+Comunicação : Patrícia [Patricio] - MTB 25.131
+
+=====
+ORIG CONTEXT(S):
+: _EOL_ Patrícia [Patrício] _EOL_ Reportagem e
+: _EOL_ Patrícia [Patrício] - MTb 25.131
+: _EOL_ Patrícia [Patrício] - MTb 25.131
+0.88
+Comunicação : _EOL_ [Patrícia] Patrício _EOL_ Reportagem
+responsável : _EOL_ [Patrícia] Patrício - MTb
+Comunicação : _EOL_ [Patrícia] Patrício - MTb
+0.75
+: Armando Natal [Maurício] _EOL_ Expediente Cesu
+: Armando Natal [Maurício] _EOL_ Expediente Cesu
+0.62
+
+-----------------------------
+TEXT: 05_json_txt/VEm-18-1.txt
+TOKEN:
+MTB
+
+=====
+AI CONTEXT:
+Patrícia Patricio - [MTB] 25.131 _EOL_ Editoração
+
+=====
+ORIG CONTEXT(S):
+Patrícia Patrício - [MTb] 25.131 _EOL_ Suporte ___SUB___
+Patrícia Patrício - [MTb] 25.131 _EOL_ Editoração
+0.67
+
+-----------------------------
+TEXT: 05_json_txt/VEm-18-1.txt
+TOKEN:
+Marianne
+
+=====
+AI CONTEXT:
+Projetos Internacionais : [Marianne] Teixeira _EOL_ Coordenação
+Carolina Freschi , [Marianne] Teixeira , Neusa
+
+=====
+ORIG CONTEXT(S):
+Internacionais : _EOL_ [Mariane] Teixeira / Osvaldo ___SUB___
+Projetos Internacionais : [Mariane] Teixeira _EOL_ Coordenação
+Carolina Freschi , [Mariane] Teixeira , Neusa
+0.88
+Sezaki Gritti _EOL_ [Regiane] Moreira _EOL_ Comunicação
+Gritti e _EOL_ [Regiane] Moreira _EOL_ Expediente
+Succi Junior e [Regiane] Moreira _EOL_ Jornalista
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm-18-1.txt
+TOKEN:
+Gilli
+
+=====
+AI CONTEXT:
+Thais Lari Braga [Gilli] _EOL_ Expediente Línguas
+
+=====
+ORIG CONTEXT(S):
+Thais Lari Braga [Cilli] _EOL_ Fábio G
+Thais Lari Braga [Cilli] _EOL_ Expediente Línguas ___SUB___
+0.8
+Gestão Educacional : [Willian] Marcos Muniz Menezes
+0.57
+Departamento Administrativo : [Silvia] Pereira Abranches _EOL_
+0.5
+Neusa Haruka Sezaki [Gritti] _EOL_ Regiane Moreira
+, Neusa Haruka [Gritti] e _EOL_ Regiane
+, Neusa Haruka [Gritti] , _EOL_ Osvaldo
+0.5
+

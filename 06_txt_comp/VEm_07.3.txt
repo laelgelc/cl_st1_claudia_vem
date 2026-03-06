@@ -1,0 +1,45 @@
+-----------------------------
+TEXT: 05_json_txt/VEm_07.3.txt
+TOKEN:
+López-Guerrero
+
+=====
+AI CONTEXT:
+Rodrigues da Silva [López-Guerrero] , de Gestão
+
+=====
+ORIG CONTEXT(S):
+Silva López- _EOL_ [Guerrero] , de Gestão
+. _EOL_ Javier [Guerrero] , coordenador _EOL_
+0.57
+
+-----------------------------
+TEXT: 05_json_txt/VEm_07.3.txt
+TOKEN:
+QUEM
+
+=====
+AI CONTEXT:
+" . _EOL_ [QUEM] É QUEM _EOL_
+_EOL_ QUEM É [QUEM] _EOL_ James Goodwin
+
+=====
+ORIG CONTEXT(S):
+) _EOL_ Q [UE] M É
+É Q [UE] M _EOL_ Outros
+0.5
+
+-----------------------------
+TEXT: 05_json_txt/VEm_07.3.txt
+TOKEN:
+médico-hospitalares
+
+=====
+AI CONTEXT:
+) sobre equipamentos [médico-hospitalares] com a Fatec
+
+=====
+ORIG CONTEXT(S):
+equipamentos médico- _EOL_ [hospitalares] com a Fatec
+0.63
+
