@@ -1,0 +1,26 @@
+# Ignore all dotfiles
+.*
+
+# Exclude specific files
+!.gitignore
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore backup folder
+_backup/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore environment files
+.env
+.api_key
+
+# Ignore other temporary files
+*.tmp
+*.log
+*.bak
