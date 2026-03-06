@@ -6,6 +6,21 @@ This repository contains a multi-step pipeline for converting PDF documents into
 
 Each script represents one stage in the workflow. The leading numbers in the filenames indicate the **order of processing**.
 
+
+These two folders contain the final products of this workflow:
+
+The folder containing the tokens of each file:
+```
+10_tokenized/
+```
+
+The folder containing the part of speech tagging and lemma of each token:
+
+```
+11_tagged/
+
+```
+
 ---
 
 
