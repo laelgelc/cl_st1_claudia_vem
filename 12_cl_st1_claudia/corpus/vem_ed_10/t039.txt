@@ -1,0 +1,269 @@
+token	lemma	pos	is_alpha	is_stop
+QUEBRA-GELO	QUEBRA-GELO	NOUN	False	False
+Osvaldo	Osvaldo	PROPN	True	False
+Succi	Succi	PROPN	True	False
+Junior	Junior	PROPN	True	False
+Coordenador	Coordenador	PROPN	True	False
+dos	de o	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+Em	em	ADP	True	True
+26	26	NUM	False	False
+de	de	ADP	True	True
+novembro	novembro	NOUN	True	False
+de	de	ADP	True	True
+2021	2021	NUM	False	False
+,	,	PUNCT	False	False
+realizamos	realizar	VERB	True	False
+a	o	DET	True	True
+Jornada	Jornada	PROPN	True	False
+de	de	ADP	True	True
+Projetos	Projetos	PROPN	True	False
+Colaborativos	Colaborativos	PROPN	True	False
+Internacionais	Internacionais	PROPN	True	False
+(	(	PUNCT	False	False
+PCIs	PCIs	PROPN	True	False
+/	/	PUNCT	False	False
+Cesu	Cesu	PROPN	True	False
+):	):	PUNCT	False	False
+Reflexões	Reflexões	NOUN	True	False
+sobre	sobre	ADP	True	True
+as	o	DET	True	True
+Práticas	Práticas	PROPN	True	False
+,	,	PUNCT	False	False
+para	para	SCONJ	True	True
+discutir	discutir	VERB	True	False
+algumas	algum	PRON	True	True
+das	de o	ADP	True	True
+melhores	bom	ADJ	True	False
+práticas	prática	NOUN	True	False
+utilizadas	utilizar	VERB	True	False
+nas	em o	ADP	True	True
+Fatecs	Fatecs	PROPN	True	False
+na	em o	ADP	True	True
+realização	realização	NOUN	True	False
+de	de	ADP	True	True
+Intercâmbios	Intercâmbios	PROPN	True	False
+Virtuais	Virtuais	PROPN	True	False
+(	(	PUNCT	False	False
+ou	ou	CCONJ	True	True
+,	,	PUNCT	False	False
+como	como	ADV	True	True
+são	ser	AUX	True	True
+conhecidos	conhecer	VERB	True	False
+no	em o	ADP	True	True
+Centro	Centro	PROPN	True	False
+Paula	Paula	PROPN	True	False
+Souza	Souza	PROPN	True	False
+,	,	PUNCT	False	False
+PCIs	PCIs	PROPN	True	False
+)	)	PUNCT	False	False
+.	.	PUNCT	False	False
+Na	em o	ADP	True	True
+realização	realização	NOUN	True	False
+do	de o	ADP	True	True
+evento	evento	NOUN	True	False
+online	online	ADJ	True	False
+,	,	PUNCT	False	False
+tivemos	ter	VERB	True	True
+o	o	DET	True	True
+apoio	apoio	NOUN	True	True
+da	de o	ADP	True	True
+Fatec	Fatec	PROPN	True	False
+Guaratinguetá	Guaratinguetá	PROPN	True	False
+e	e	CCONJ	True	True
+a	o	DET	True	True
+participação	participação	NOUN	True	False
+das	de o	ADP	True	True
+Fatecs	Fatecs	PROPN	True	False
+Americana	Americana	PROPN	True	False
+,	,	PUNCT	False	False
+Baixada	Baixada	PROPN	True	False
+Santista	Santista	PROPN	True	False
+,	,	PUNCT	False	False
+Bauru	Bauru	PROPN	True	False
+,	,	PUNCT	False	False
+Garça	Garça	PROPN	True	False
+,	,	PUNCT	False	False
+Guaratinguetá	Guaratinguetá	PROPN	True	False
+,	,	PUNCT	False	False
+Itaquaquecetuba	Itaquaquecetuba	PROPN	True	False
+,	,	PUNCT	False	False
+Itu	Itu	PROPN	True	False
+,	,	PUNCT	False	False
+Lins	Lins	PROPN	True	False
+,	,	PUNCT	False	False
+Piracicaba	Piracicaba	PROPN	True	False
+,	,	PUNCT	False	False
+São	São	PROPN	True	True
+José	José	PROPN	True	False
+do	de o	ADP	True	True
+Rio	Rio	PROPN	True	False
+Preto	Preto	PROPN	True	False
+e	e	CCONJ	True	True
+São	São	PROPN	True	True
+Caetano	Caetano	PROPN	True	False
+do	de o	ADP	True	True
+Sul	Sul	PROPN	True	False
+.	.	PUNCT	False	False
+Esta	este	DET	True	True
+edição	edição	NOUN	True	False
+é	ser	AUX	True	True
+dedicada	dedicar	VERB	True	False
+inteiramente	inteiramente	ADV	True	False
+à	a o	ADP	True	True
+Jornada	Jornada	PROPN	True	False
+,	,	PUNCT	False	False
+que	que	PRON	True	True
+teve	ter	VERB	True	True
+quatro	quatro	NUM	True	True
+painéis	painel	NOUN	True	False
+temáticos	temático	ADJ	True	False
+:	:	PUNCT	False	False
+“	“	PROPN	False	False
+Gestão	Gestão	PROPN	True	False
+da	de o	ADP	True	True
+Internacionalização	Internacionalização	PROPN	True	False
+em	em	ADP	True	True
+Casa	Casa	PROPN	True	False
+”	”	PROPN	False	False
+,	,	PUNCT	False	False
+“	“	PROPN	False	False
+Diversidade	Diversidade	PROPN	True	False
+em	em	ADP	True	True
+Projetos	Projetos	PROPN	True	False
+”	”	NUM	False	False
+,	,	PUNCT	False	False
+“	“	PROPN	False	False
+We	We	PROPN	True	False
+are	are	PROPN	True	False
+SOME	SOME	PROPN	True	False
+of	of	PROPN	True	False
+the	The	PROPN	True	False
+champions	championsr	VERB	True	False
+”	”	PUNCT	False	False
+(	(	PUNCT	False	False
+relatos	relato	NOUN	True	False
+de	de	ADP	True	True
+quatro	quatro	NUM	True	True
+professores	professor	NOUN	True	False
+com	com	ADP	True	True
+experiência	experiência	NOUN	True	False
+consolidada	consolidar	VERB	True	False
+em	em	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+)	)	PUNCT	False	False
+e	e	CCONJ	True	True
+“	“	PROPN	False	False
+Pesquisas	Pesquisas	PROPN	True	False
+em	em	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+”	”	PUNCT	False	False
+.	.	PUNCT	False	False
+Rafael	Rafael	PROPN	True	False
+Ferreira	Ferreira	PROPN	True	False
+Alves	Alves	PROPN	True	False
+,	,	PUNCT	False	False
+coordenador	coordenador	NOUN	True	False
+da	de o	ADP	True	True
+Unidade	Unidade	PROPN	True	False
+do	de o	ADP	True	True
+Ensino	Ensino	PROPN	True	False
+Superior	Superior	PROPN	True	False
+de	de	ADP	True	True
+Graduação	Graduação	NOUN	True	False
+/	/	PUNCT	False	False
+Cesu	Cesu	PROPN	True	False
+,	,	PUNCT	False	False
+afirma	afirmar	VERB	True	False
+que	que	SCONJ	True	True
+a	o	DET	True	True
+“	“	PROPN	False	False
+abordagem	abordagem	NOUN	True	False
+de	de	ADP	True	True
+desenvolvimento	desenvolvimento	NOUN	True	False
+dos	de o	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+incorpora	incorpor	ADJ	True	False
+metodologias	metodologia	NOUN	True	False
+ativas	ativo	ADJ	True	False
+e	e	CCONJ	True	True
+situações	situação	NOUN	True	False
+desafiadoras	desafiadoro	ADJ	True	False
+,	,	PUNCT	False	False
+com	com	ADP	True	True
+interações	interação	NOUN	True	False
+colaborativas	colaborativa	ADJ	True	False
+entre	entre	ADP	True	True
+docentes	docente	NOUN	True	False
+e	e	CCONJ	True	True
+discentes	discente	NOUN	True	False
+de	de	ADP	True	True
+diferentes	diferentes	DET	True	False
+países	país	NOUN	True	False
+.	.	PUNCT	False	False
+Agrega	agrega	ADV	True	False
+ao	a o	ADP	True	True
+perfil	perfil	NOUN	True	False
+do	de o	ADP	True	True
+egresso	egresso	PROPN	True	False
+competências	competência	NOUN	True	False
+profissionais	profissional	ADJ	True	False
+e	e	CCONJ	True	True
+socioemocionais	socioemocional	NOUN	True	False
+únicas	único	ADJ	True	False
+,	,	PUNCT	False	False
+mantendo	manter	VERB	True	False
+aderência	aderência	VERB	True	False
+ao	a o	ADP	True	True
+currículo	currículo	NOUN	True	False
+do	de o	ADP	True	True
+curso	curso	NOUN	True	False
+e	e	CCONJ	True	True
+fortalecendo	fortalecer	VERB	True	False
+o	o	DET	True	True
+processo	processo	NOUN	True	False
+de	de	ADP	True	True
+ensino-aprendizagem	ensino-aprendizagem	NOUN	False	False
+na	em o	ADP	True	True
+formação	formação	NOUN	True	False
+profissional	profissional	ADJ	True	False
+e	e	CCONJ	True	True
+tecnológica	tecnológico	ADJ	True	False
+.	.	PUNCT	False	False
+A	o	DET	True	True
+modelagem	modelagem	NOUN	True	False
+dos	de o	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+se	se	PRON	True	True
+relaciona	relacionar	VERB	True	False
+literalmente	literalmente	ADV	True	False
+à	a o	ADP	True	True
+indissociabilidade	indissociabilidade	NOUN	True	False
+do	de o	ADP	True	True
+Ensino	Ensino	NOUN	True	False
+,	,	PUNCT	False	False
+Pesquisa	Pesquisa	NOUN	True	False
+e	e	CCONJ	True	True
+Extensão	Extensão	PROPN	True	False
+,	,	PUNCT	False	False
+cujo	cujo	DET	True	True
+conceito	conceito	NOUN	True	False
+é	ser	AUX	True	True
+considerado	considerar	VERB	True	False
+nos	em o	ADP	True	True
+indicadores	indicador	NOUN	True	False
+de	de	ADP	True	True
+qualidade	qualidade	NOUN	True	False
+do	de o	ADP	True	True
+Sistema	Sistema	PROPN	True	True
+Nacional	Nacional	PROPN	True	False
+de	de	ADP	True	True
+Avaliação	avaliação	PROPN	True	False
+da	de o	ADP	True	True
+Educação	Educação	PROPN	True	False
+Superior	Superior	PROPN	True	False
+(	(	PUNCT	False	False
+Sinaes	Sinaes	PROPN	True	False
+)	)	PUNCT	False	False
+.	.	PUNCT	False	False
+”	”	PUNCT	False	False

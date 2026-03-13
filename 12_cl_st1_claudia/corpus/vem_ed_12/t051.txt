@@ -1,0 +1,210 @@
+token	lemma	pos	is_alpha	is_stop
+PESQUISA	pESQUISA	NOUN	True	False
+DE	de	ADP	True	True
+PERCEPÇÃO	PERCEPÇÃO	PROPN	True	False
+SOBRE	SOBRE	ADP	True	True
+OS	OS	PROPN	True	True
+PCIs	PCIs	PROPN	True	False
+Em	em	ADP	True	True
+nove	nove	NUM	True	True
+anos	ano	NOUN	True	False
+de	de	ADP	True	True
+realização	realização	NOUN	True	False
+de	de	ADP	True	True
+Projetos	Projetos	PROPN	True	False
+Colaborativos	Colaborativos	PROPN	True	False
+Internacionais	Internacionais	ADJ	True	False
+nas	em o	ADP	True	True
+Fatecs	Fatecs	PROPN	True	False
+,	,	PUNCT	False	False
+aproximadamente	aproximadamente	ADV	True	False
+5.000	5.000	NUM	False	False
+pessoas	pessoa	NOUN	True	False
+participaram	participar	VERB	True	False
+dessas	de esse	ADP	True	False
+atividades	atividade	NOUN	True	False
+de	de	ADP	True	True
+Internacionalização	Internacionalização	NOUN	True	False
+em	em	ADP	True	True
+Casa	Casa	NOUN	True	False
+.	.	PUNCT	False	False
+Somente	somente	ADV	True	True
+em	em	ADP	True	True
+2021	2021	NUM	False	False
+,	,	PUNCT	False	False
+foram	ser	AUX	True	True
+69	69	NUM	False	False
+PCIs	PCIs	PROPN	True	False
+,	,	PUNCT	False	False
+com	com	ADP	True	True
+cerca	cerca	ADV	True	False
+de	de	ADP	True	True
+1.800	1.800	NUM	False	False
+participantes	participante	NOUN	True	False
+de	de	ADP	True	True
+32	32	NUM	False	False
+Fatecs	Fatecs	NOUN	True	False
+:	:	PUNCT	False	False
+725	725	NUM	False	False
+alunos	aluno	NOUN	True	False
+no	em o	ADP	True	True
+primeiro	primeiro	ADJ	True	True
+semestre	semestre	NOUN	True	False
+e	e	CCONJ	True	True
+mais	mais	ADV	True	True
+de	de	ADP	True	True
+1.000	1.000	NUM	False	False
+no	em o	ADP	True	True
+segundo	segundo	ADJ	True	True
+semestre	semestre	NOUN	True	False
+.	.	PUNCT	False	False
+Para	para	ADP	True	True
+93	93	NUM	False	False
+%	%	SYM	False	False
+dos	de o	ADP	True	True
+593	593	NUM	False	False
+estudantes	estudante	NOUN	True	False
+que	que	PRON	True	True
+responderam	responder	VERB	True	False
+à	a o	ADP	True	True
+pesquisa	pesquisa	NOUN	True	False
+de	de	ADP	True	True
+percepção	percepção	NOUN	True	False
+sobre	sobre	ADP	True	True
+os	o	DET	True	True
+PCIs	PCIs	PROPN	True	False
+realizados	realizar	VERB	True	False
+nas	em o	ADP	True	True
+Fatecs	fatecs	PROPN	True	False
+durante	durante	ADP	True	False
+o	o	DET	True	True
+segundo	segundo	ADJ	True	True
+semestre	semestre	NOUN	True	False
+de	de	ADP	True	True
+2021	2021	NUM	False	False
+,	,	PUNCT	False	False
+participar	participar	VERB	True	False
+do	de o	ADP	True	True
+projeto	projeto	NOUN	True	False
+melhora	melhorar	VERB	True	False
+o	o	DET	True	True
+desempenho	desempenho	NOUN	True	False
+acadêmico	acadêmico	ADJ	True	False
+e	e	CCONJ	True	True
+as	o	DET	True	True
+chances	chance	NOUN	True	False
+de	de	ADP	True	True
+sucesso	sucesso	NOUN	True	False
+no	em o	ADP	True	True
+mercado	mercado	NOUN	True	False
+de	de	ADP	True	True
+trabalho	trabalho	NOUN	True	False
+.	.	PUNCT	False	False
+Assim	assim	ADV	True	True
+como	como	ADV	True	True
+na	em o	ADP	True	True
+pesquisa	pesquisa	NOUN	True	False
+anterior	anterior	ADJ	True	False
+,	,	PUNCT	False	False
+realizada	realizar	VERB	True	False
+no	em o	ADP	True	True
+primeiro	primeiro	ADJ	True	True
+semestre	semestre	NOUN	True	False
+de	de	ADP	True	True
+2021	2021	NUM	False	False
+,	,	PUNCT	False	False
+os	o	DET	True	True
+maiores	grande	ADJ	True	False
+desafios	desafio	NOUN	True	False
+para	para	ADP	True	True
+os	o	DET	True	True
+alunos	aluno	NOUN	True	False
+foram	ir	AUX	True	True
+administrar	administrar	VERB	True	False
+o	o	DET	True	True
+tempo	tempo	NOUN	True	True
+,	,	PUNCT	False	False
+interagir	interagir	VERB	True	False
+e	e	CCONJ	True	True
+comunicar-se	comunicarr se	VERB	False	False
+com	com	ADP	True	True
+a	o	DET	True	True
+equipe	equipe	NOUN	True	False
+.	.	PUNCT	False	False
+As	o	DET	True	True
+pesquisas	pesquisa	NOUN	True	False
+de	de	ADP	True	True
+percepção	percepção	NOUN	True	False
+,	,	PUNCT	False	False
+realizadas	realizar	VERB	True	False
+desde	desde	ADP	True	True
+2020	2020	NUM	False	False
+para	para	ADP	True	True
+professores	professor	NOUN	True	False
+e	e	CCONJ	True	True
+estudantes	estudante	NOUN	True	False
+envolvidos	envolver	VERB	True	False
+nos	em o	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+das	de o	ADP	True	True
+Fatecs	Fatecs	PROPN	True	False
+,	,	PUNCT	False	False
+são	ser	AUX	True	True
+aplicadas	aplicar	VERB	True	False
+no	em o	ADP	True	True
+fim	fim	NOUN	True	True
+de	de	ADP	True	True
+cada	cada	DET	True	True
+semestre	semestre	NOUN	True	False
+letivo	letivo	ADJ	True	False
+.	.	PUNCT	False	False
+Esse	esse	DET	True	True
+instrumento	instrumento	NOUN	True	False
+foi	ser	AUX	True	True
+desenvolvido	desenvolver	VERB	True	False
+pela	por o	ADP	True	True
+equipe	equipe	NOUN	True	False
+dos	de o	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+/	/	PUNCT	False	False
+Cesu	Cesu	PROPN	True	False
+para	para	ADP	True	True
+avaliação	avaliação	NOUN	True	False
+e	e	CCONJ	True	True
+melhoria	melhoria	NOUN	True	False
+contínua	contínuo	ADJ	True	False
+dos	de o	ADP	True	True
+projetos	projeto	NOUN	True	False
+.	.	PUNCT	False	False
+Resumos	Resumos	VERB	True	False
+sobre	sobre	ADP	True	True
+os	o	DET	True	True
+principais	principal	ADJ	True	False
+resultados	resultado	NOUN	True	False
+das	de o	ADP	True	True
+pesquisas	pesquisa	NOUN	True	False
+anteriores	anterior	ADJ	True	False
+(	(	PUNCT	False	False
+segundo	segundo	ADJ	True	True
+semestre	semestre	NOUN	True	False
+de	de	ADP	True	True
+2020	2020	NUM	False	False
+e	e	CCONJ	True	True
+primeiro	primeiro	ADJ	True	True
+semestre	semestre	NOUN	True	False
+de	de	ADP	True	True
+2021	2021	NUM	False	False
+)	)	PUNCT	False	False
+estão	estar	AUX	True	True
+publicados	publicado	ADJ	True	False
+nas	em o	ADP	True	True
+edições	edição	NOUN	True	False
+5	5	NUM	False	False
+,	,	PUNCT	False	False
+8	8	NUM	False	False
+e	e	CCONJ	True	True
+9	9	NUM	False	False
+de	de	ADP	True	True
+VEm	VEm	NOUN	True	True
+:	:	PUNCT	False	False
+https://cesu.cps.sp.gov.br/vem-newsletter-bimestral-dos-projetos-colaborativos-internacionais-pci/	https://cesu.cps.sp.gov.br/vem-newsletter-bimestral-dos-projetos-colaborativos-internacionais-pci/	ADP	False	False

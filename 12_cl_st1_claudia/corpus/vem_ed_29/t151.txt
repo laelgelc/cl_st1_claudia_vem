@@ -1,0 +1,250 @@
+token	lemma	pos	is_alpha	is_stop
+Leitores	Leitores	PROPN	True	False
+Aos	a o	ADP	True	True
+Osvaldo	Osvaldo	PROPN	True	False
+Succi	Succi	PROPN	True	False
+Jr.	Jr.	PROPN	False	False
+Coordenador	Coordenador	PROPN	True	False
+PCIs	PCIs	PROPN	True	False
+Os	o	DET	True	True
+Projetos	Projetos	NOUN	True	False
+Colaborativos	Colaborativos	PROPN	True	False
+Internacionais	Internacionais	PROPN	True	False
+(	(	PUNCT	False	False
+PCIs	PCIs	PROPN	True	False
+)	)	PUNCT	False	False
+são	ser	AUX	True	True
+parte	parte	NOUN	True	True
+da	de o	ADP	True	True
+área	área	NOUN	True	True
+técnica	técnico	ADJ	True	False
+de	de	ADP	True	True
+Apoio	Apoio	NOUN	True	True
+à	a o	ADP	True	True
+Internacionalização	Internacionalização	PROPN	True	False
+do	de o	ADP	True	True
+Ensino	Ensino	PROPN	True	False
+Superior	Superior	PROPN	True	False
+,	,	PUNCT	False	False
+na	em o	ADP	True	True
+Divisão	Divisão	PROPN	True	False
+de	de	ADP	True	True
+Extensão	Extensão	PROPN	True	False
+e	e	CCONJ	True	True
+Pesquisa	Pesquisa	PROPN	True	False
+do	de o	ADP	True	True
+Ensino	Ensino	PROPN	True	False
+Superior	Superior	PROPN	True	False
+(	(	PUNCT	False	False
+Depes	Depes	PROPN	True	False
+)	)	PUNCT	False	False
+da	de o	ADP	True	True
+Unidade	Unidade	PROPN	True	False
+do	de o	ADP	True	True
+Ensino	Ensino	PROPN	True	False
+Superior	Superior	PROPN	True	False
+de	de	ADP	True	True
+Graduação	Graduação	PROPN	True	False
+(	(	PUNCT	False	False
+Cesu	Cesu	PROPN	True	False
+)	)	PUNCT	False	False
+do	de o	ADP	True	True
+Centro	Centro	PROPN	True	False
+Paula	Paula	PROPN	True	False
+Souza	Souza	PROPN	True	False
+.	.	PUNCT	False	False
+Em	em	ADP	True	True
+8	8	NUM	False	False
+de	de	ADP	True	True
+maio	maio	NOUN	True	False
+de	de	ADP	True	True
+2025	2025	NUM	False	False
+,	,	PUNCT	False	False
+a	o	DET	True	True
+equipe	equipe	NOUN	True	False
+organizou	organizar	VERB	True	False
+a	o	DET	True	True
+quarta	quarto	ADJ	True	True
+edição	edição	NOUN	True	False
+do	de o	ADP	True	True
+International	International	NOUN	True	False
+Virtual	Virtual	PROPN	True	False
+Exchange	Exchange	PROPN	True	False
+Symposium	Symposium	PROPN	True	False
+(	(	PUNCT	False	False
+IVES	IVES	PROPN	True	False
+Cesu	Cesu	PROPN	True	False
+2025	2025	NUM	False	False
+)	)	PUNCT	False	False
+,	,	PUNCT	False	False
+evento	evento	NOUN	True	False
+online	online	ADJ	True	False
+dedicado	dedicar	VERB	True	False
+a	a	SCONJ	True	True
+debater	debater	VERB	True	False
+a	o	DET	True	True
+situação	situação	NOUN	True	False
+dos	de o	ADP	True	True
+Intercâmbios	Intercâmbios	PROPN	True	False
+Virtuais	Virtuais	PROPN	True	False
+a	a	ADP	True	True
+partir	partir	NOUN	True	True
+de	de	ADP	True	True
+diversas	diversos	DET	True	False
+perspectivas	perspectiva	NOUN	True	False
+internacionais	internacional	ADJ	True	False
+.	.	PUNCT	False	False
+Neste	em este	ADP	True	True
+ano	ano	NOUN	True	False
+,	,	PUNCT	False	False
+contamos	contar	VERB	True	False
+com	com	ADP	True	True
+as	o	DET	True	True
+palestras	palestra	NOUN	True	False
+de	de	ADP	True	True
+João	João	PROPN	True	False
+Monteiro	Monteiro	PROPN	True	False
+,	,	PUNCT	False	False
+do	de o	ADP	True	True
+ISP	ISP	PROPN	True	False
+Gaya	Gaya	PROPN	True	False
+(	(	PUNCT	False	False
+Portugal	Portugal	PROPN	True	False
+)	)	PUNCT	False	False
+,	,	PUNCT	False	False
+Stephanie	Stephanie	PROPN	True	False
+Doscher	Doscher	PROPN	True	False
+,	,	PUNCT	False	False
+da	de o	ADP	True	True
+University	University	PROPN	True	False
+of	of	PROPN	True	False
+Minnesota	Minnesota	PROPN	True	False
+(	(	PUNCT	False	False
+EUA	EUA	PROPN	True	False
+)	)	PUNCT	False	False
+,	,	PUNCT	False	False
+Julia	Julia	PROPN	True	False
+Bacca	Bacca	PROPN	True	False
+e	e	CCONJ	True	True
+Diana	Diana	PROPN	True	False
+Garzon	Garzon	PROPN	True	False
+,	,	PUNCT	False	False
+da	de o	ADP	True	True
+Uniminuto	Uniminuto	PROPN	True	False
+(	(	PUNCT	False	False
+Colômbia	Colômbia	PROPN	True	False
+)	)	PUNCT	False	False
+e	e	CCONJ	True	True
+Adam	Adam	PROPN	True	False
+Freed	Freed	PROPN	True	False
+,	,	PUNCT	False	False
+da	de o	ADP	True	True
+University	University	PROPN	True	False
+of	of	PROPN	True	False
+Michigan	Michigan	PROPN	True	False
+(	(	PUNCT	False	False
+EUA	EUA	PROPN	True	False
+)	)	PUNCT	False	False
+.	.	PUNCT	False	False
+Uma	um	DET	True	True
+síntese	síntese	NOUN	True	False
+do	de o	ADP	True	True
+evento	evento	NOUN	True	False
+encontra-se	encontrar se	VERB	False	False
+nesta	em este	ADP	True	True
+edição	edição	NOUN	True	False
+,	,	PUNCT	False	False
+que	que	PRON	True	True
+também	também	ADV	True	True
+relata	relatar	VERB	True	False
+minha	meu	DET	True	True
+apresentação	apresentação	NOUN	True	False
+na	em o	ADP	True	True
+Conferência	Conferência	PROPN	True	False
+Internacional	Internacional	PROPN	True	False
+Faubai	Faubai	PROPN	True	False
+2025	2025	NUM	False	False
+,	,	PUNCT	False	False
+realizada	realizar	VERB	True	False
+presencialmente	presencialmente	ADV	True	False
+em	em	ADP	True	True
+Brasília	Brasília	PROPN	True	False
+,	,	PUNCT	False	False
+de	de	ADP	True	True
+26	26	NUM	False	False
+a	a	ADP	True	True
+30	30	NUM	False	False
+de	de	ADP	True	True
+abril	abril	NOUN	True	False
+.	.	PUNCT	False	False
+Na	em o	ADP	True	True
+seção	seção	NOUN	True	False
+“	“	PROPN	False	False
+Artigo	Artigo	PROPN	True	False
+de	de	ADP	True	True
+Opinião	Opinião	PROPN	True	False
+”	”	PUNCT	False	False
+,	,	PUNCT	False	False
+temos	ter	VERB	True	True
+o	o	DET	True	True
+relato	relato	NOUN	True	False
+de	de	ADP	True	True
+Neusa	Neusa	PROPN	True	False
+Haruka	Haruka	PROPN	True	False
+Sezaki	Sezaki	PROPN	True	False
+Gritti	Gritti	PROPN	True	False
+,	,	PUNCT	False	False
+responsável	responsável	ADJ	True	False
+pelo	por o	ADP	True	True
+apoio	apoio	NOUN	True	True
+administrativo	administrativo	ADJ	True	False
+e	e	CCONJ	True	True
+pedagógico	pedagógico	ADJ	True	False
+à	a o	ADP	True	True
+equipe	equipe	NOUN	True	False
+de	de	ADP	True	True
+Apoio	Apoio	NOUN	True	True
+à	a o	ADP	True	True
+Internacionalização	Internacionalização	PROPN	True	False
+do	de o	ADP	True	True
+Ensino	Ensino	PROPN	True	False
+Superior	Superior	PROPN	True	False
+e	e	CCONJ	True	True
+professora	professora	NOUN	True	False
+de	de	ADP	True	True
+Inglês	Inglês	PROPN	True	False
+nas	em o	ADP	True	True
+Fatecs	Fatecs	PROPN	True	False
+Mogi	Mogi	PROPN	True	False
+das	de o	ADP	True	True
+Cruzes	Cruzes	PROPN	True	False
+e	e	CCONJ	True	True
+Sebrae	Sebrae	PROPN	True	False
+,	,	PUNCT	False	False
+sobre	sobre	ADP	True	True
+a	o	DET	True	True
+importância	importância	NOUN	True	False
+da	de o	ADP	True	True
+troca	troca	NOUN	True	False
+cultural	cultural	ADJ	True	False
+na	em o	ADP	True	True
+realização	realização	NOUN	True	False
+do	de o	ADP	True	True
+PCI	PCI	PROPN	True	False
+.	.	PUNCT	False	False
+Quer	querer	VERB	True	True
+contribuir	contribuir	VERB	True	False
+você	você	PRON	True	True
+também	também	ADV	True	True
+?	?	PUNCT	False	False
+Acesse	Acesse	PROPN	True	False
+https://publicacoescesu.cps.sp.gov.br/VEm/about/submissions	https://publicacoescesu.cps.sp.gov.br/VEm/about/submissions	PROPN	False	False
+Dúvidas	Dúvidas	PROPN	True	False
+?	?	PUNCT	False	False
+Escreva	Escreva	PROPN	True	False
+para	para	ADP	True	True
+cesu.pci@cps.sp.gov.br	cesu.pci@cps.sp.gov.br	PROPN	False	False
+.	.	PUNCT	False	False
+Boa	Boa	ADJ	True	True
+leitura	leitura	NOUN	True	False
+!	!	PUNCT	False	False

@@ -1,0 +1,308 @@
+token	lemma	pos	is_alpha	is_stop
+Silvia	Silvia	PROPN	True	False
+Farani	Farani	PROPN	True	False
+coordenadora	coordenadora	NOUN	True	False
+do	de o	ADP	True	True
+curso	curso	NOUN	True	False
+de	de	ADP	True	True
+Gestão	Gestão	PROPN	True	False
+de	de	ADP	True	True
+Tecnologia	Tecnologia	PROPN	True	False
+da	de o	ADP	True	True
+Informação	Informação	PROPN	True	False
+da	de o	ADP	True	True
+Fatec	Fatec	PROPN	True	False
+Franco	Franco	PROPN	True	False
+da	de o	ADP	True	True
+Rocha	Rocha	PROPN	True	False
+Queria	Querer	VERB	True	False
+manifestar	manifestar	VERB	True	False
+minha	meu	DET	True	True
+satisfação	satisfação	NOUN	True	False
+com	com	ADP	True	True
+o	o	DET	True	True
+PCI	PCI	PROPN	True	False
+e	e	CCONJ	True	True
+enfatizar	enfatizar	VERB	True	False
+a	o	DET	True	True
+importância	importância	NOUN	True	False
+dos	de o	ADP	True	True
+aspectos	aspecto	NOUN	True	False
+relacionados	relacionar	VERB	True	False
+à	a o	ADP	True	True
+gestão	gestão	NOUN	True	False
+de	de	ADP	True	True
+projetos	projeto	NOUN	True	False
+e	e	CCONJ	True	True
+comunicação	comunicação	NOUN	True	False
+em	em	ADP	True	True
+inglês	inglês	NOUN	True	False
+,	,	PUNCT	False	False
+também	também	ADV	True	True
+destaco	destaco	ADJ	True	False
+o	o	DET	True	True
+estudo	estudo	NOUN	True	False
+dos	de o	ADP	True	True
+ODS	ODS	PROPN	True	False
+.	.	PUNCT	False	False
+Essa	esse	DET	True	True
+abordagem	abordagem	NOUN	True	False
+foi	ser	AUX	True	True
+importante	importante	ADJ	True	False
+,	,	PUNCT	False	False
+pois	pois	ADV	True	True
+reforçou	reforçar	VERB	True	False
+a	o	DET	True	True
+pesquisa	pesquisa	NOUN	True	False
+nos	em o	ADP	True	True
+nossos	nosso	DET	True	True
+projetos	projeto	NOUN	True	False
+interdisciplinares	interdisciplinar	ADJ	True	False
+do	de o	ADP	True	True
+curso	curso	NOUN	True	False
+.	.	PUNCT	False	False
+Marcia	Marcia	PROPN	True	False
+Capelini	Capelini	PROPN	True	False
+professora	professora	NOUN	True	False
+de	de	ADP	True	True
+Energia	Energia	NOUN	True	False
+e	e	CCONJ	True	True
+Ambiente	Ambiente	PROPN	True	False
+na	em o	ADP	True	True
+Fatec	Fatec	PROPN	True	False
+Franco	Franco	PROPN	True	False
+da	de o	ADP	True	True
+Rocha	Rocha	PROPN	True	False
+Sob	sob	ADP	True	True
+a	o	DET	True	True
+perspectiva	perspectiva	NOUN	True	False
+ambiental	ambiental	ADJ	True	False
+,	,	PUNCT	False	False
+o	o	DET	True	True
+PCI	PCI	PROPN	True	False
+foi	ser	AUX	True	True
+fundamental	fundamental	ADJ	True	False
+no	em o	ADP	True	True
+aprendizado	aprendizado	ADJ	True	False
+conjunto	conjunto	NOUN	True	False
+sobre	sobre	ADP	True	True
+a	o	DET	True	True
+visão	visão	NOUN	True	False
+do	de o	ADP	True	True
+“	“	PROPN	False	False
+pensar	pensar	VERB	True	False
+globalmente	globalmente	ADV	True	False
+”	”	PROPN	False	False
+—	—	PUNCT	False	False
+uma	um	DET	True	True
+vez	vez	NOUN	True	True
+que	que	SCONJ	True	True
+a	o	DET	True	True
+busca	busca	NOUN	True	False
+de	de	ADP	True	True
+alternativas	alternativa	NOUN	True	False
+energéticas	energética	ADJ	True	False
+sustentáveis	sustentável	ADJ	True	False
+,	,	PUNCT	False	False
+diante	diante	ADV	True	True
+dos	de o	DET	True	True
+desafios	desafio	NOUN	True	False
+que	que	PRON	True	True
+representam	representar	VERB	True	False
+as	o	DET	True	True
+mudanças	mudança	NOUN	True	False
+climáticas	climático	ADJ	True	False
+,	,	PUNCT	False	False
+supera	superar	VERB	True	False
+as	o	DET	True	True
+barreiras	barreira	NOUN	True	False
+geográficas	geográfico	ADJ	True	False
+,	,	PUNCT	False	False
+políticas	político	ADJ	True	False
+ou	ou	CCONJ	True	True
+culturais	cultural	ADJ	True	False
+—	—	PUNCT	False	False
+e	e	CCONJ	True	True
+do	de o	ADP	True	True
+“	“	PROPN	False	False
+agir	agir	VERB	True	False
+localmente	localmente	ADV	True	False
+”	”	PUNCT	False	False
+.	.	PUNCT	False	False
+Adaptar	Adaptar	VERB	True	False
+as	o	DET	True	True
+soluções	solução	NOUN	True	False
+às	a o	ADP	True	True
+necessidades	necessidade	NOUN	True	False
+locais	local	ADJ	True	False
+é	ser	AUX	True	True
+um	um	DET	True	True
+grande	grande	ADJ	True	True
+desafio	desafio	NOUN	True	False
+,	,	PUNCT	False	False
+que	que	PRON	True	True
+permeia	permeiar	VERB	True	False
+os	o	DET	True	True
+ODS	ODS	PROPN	True	False
+.	.	PUNCT	False	False
+Assim	assim	ADV	True	True
+,	,	PUNCT	False	False
+ver	ver	VERB	True	True
+esses	esse	DET	True	True
+jovens	jovem	NOUN	True	False
+respondendo	responder	VERB	True	False
+de	de	ADP	True	True
+forma	forma	NOUN	True	True
+tão	tão	ADV	True	True
+criativa	criativo	ADJ	True	False
+foi	ser	AUX	True	True
+compensador	compensador	ADJ	True	False
+.	.	PUNCT	False	False
+Tenho	ter	VERB	True	True
+certeza	certeza	NOUN	True	True
+de	de	SCONJ	True	True
+que	que	SCONJ	True	True
+essa	esse	DET	True	True
+experiência	experiência	NOUN	True	False
+irá	ir	AUX	True	True
+agregar	agregar	VERB	True	False
+muito	muito	ADV	True	True
+à	a o	ADP	True	True
+formação	formação	NOUN	True	False
+profissional	profissional	ADJ	True	False
+dos	de o	ADP	True	True
+alunos	aluno	NOUN	True	False
+,	,	PUNCT	False	False
+em	em	ADP	True	True
+um	um	DET	True	True
+curso	curso	NOUN	True	False
+que	que	PRON	True	True
+já	já	ADV	True	True
+é	ser	AUX	True	True
+diferenciado	diferenciar	VERB	True	False
+pela	por o	ADP	True	True
+integração	integração	NOUN	True	False
+das	de o	ADP	True	True
+questões	questão	NOUN	True	False
+ambientais	ambiental	ADJ	True	False
+como	como	ADP	True	True
+tema	tema	NOUN	True	False
+transversal	transversal	ADJ	True	False
+nas	em o	ADP	True	True
+disciplinas	disciplina	NOUN	True	False
+.	.	PUNCT	False	False
+Jorge	Jorge	PROPN	True	False
+Tenório	Tenório	PROPN	True	False
+Fernando	Fernando	PROPN	True	False
+professor	professor	NOUN	True	False
+de	de	ADP	True	True
+Inglês	Inglês	PROPN	True	False
+na	em o	ADP	True	True
+Fatec	Fatec	PROPN	True	False
+Franco	Franco	PROPN	True	False
+da	de o	ADP	True	True
+Rocha	Rocha	PROPN	True	False
+A	o	DET	True	True
+turma	turma	NOUN	True	False
+da	de o	ADP	True	True
+Fatec	Fatec	PROPN	True	False
+,	,	PUNCT	False	False
+no	em o	ADP	True	True
+geral	geral	NOUN	True	True
+,	,	PUNCT	False	False
+tinha	ter	VERB	True	False
+conhecimentos	conhecimento	NOUN	True	False
+elementares	elementar	ADJ	True	False
+de	de	ADP	True	True
+inglês	inglês	NOUN	True	False
+.	.	PUNCT	False	False
+Por	por	ADP	True	True
+outro	outro	DET	True	False
+lado	lado	NOUN	True	True
+,	,	PUNCT	False	False
+dominava	dominar	VERB	True	False
+os	o	DET	True	True
+aspectos	aspecto	NOUN	True	False
+técnicos	técnico	ADJ	True	False
+do	de o	ADP	True	True
+PCI	PCI	PROPN	True	False
+.	.	PUNCT	False	False
+No	em o	ADP	True	True
+vídeo	vídeo	NOUN	True	False
+de	de	ADP	True	True
+apresentação	apresentação	NOUN	True	False
+final	final	ADJ	True	True
+,	,	PUNCT	False	False
+os	o	DET	True	True
+fatecanos	fatecano	NOUN	True	False
+explicaram	explicar	VERB	True	False
+o	o	DET	True	True
+conceito	conceito	NOUN	True	False
+dos	de o	ADP	True	True
+fornos	forno	NOUN	True	False
+solares	solar	ADJ	True	False
+,	,	PUNCT	False	False
+suas	seu	DET	True	True
+vantagens	vantagem	NOUN	True	False
+e	e	CCONJ	True	True
+benefícios	benefício	NOUN	True	False
+,	,	PUNCT	False	False
+ao	a o	ADP	True	True
+passo	passo	NOUN	True	False
+que	que	PRON	True	True
+aos	a o	ADP	True	True
+alunos	aluno	NOUN	True	False
+da	de o	ADP	True	True
+UEK	UEK	PROPN	True	False
+,	,	PUNCT	False	False
+da	de o	ADP	True	True
+disciplina	disciplina	NOUN	True	False
+de	de	ADP	True	True
+negociação	negociação	NOUN	True	False
+,	,	PUNCT	False	False
+coube	caber	VERB	True	False
+elencar	elencar	VERB	True	False
+um	um	DET	True	True
+conjunto	conjunto	NOUN	True	False
+de	de	ADP	True	True
+argumentos	argumento	NOUN	True	False
+sólidos	sólir	ADJ	True	False
+para	para	SCONJ	True	True
+estimular	estimular	VERB	True	False
+sua	seu	DET	True	True
+aceitação	aceitação	NOUN	True	False
+e	e	CCONJ	True	True
+sua	seu	DET	True	True
+implementação	implementação	NOUN	True	False
+como	como	ADP	True	True
+política	política	NOUN	True	False
+pública	público	ADJ	True	False
+.	.	PUNCT	False	False
+As	o	DET	True	True
+barreiras	barreira	NOUN	True	False
+de	de	ADP	True	True
+comunicação	comunicação	NOUN	True	False
+foram	ser	AUX	True	True
+superadas	superar	VERB	True	False
+devido	devido	ADV	True	False
+à	a o	ADP	True	True
+importância	importância	NOUN	True	False
+do	de o	ADP	True	True
+projeto	projeto	NOUN	True	False
+e	e	CCONJ	True	True
+seu	seu	DET	True	True
+impacto	impacto	NOUN	True	False
+positivo	positivo	ADJ	True	False
+para	para	ADP	True	True
+os	o	DET	True	True
+envolvidos	envolvido	NOUN	True	False
+,	,	PUNCT	False	False
+e	e	CCONJ	True	True
+,	,	PUNCT	False	False
+mais	mais	ADV	True	True
+além	além	ADV	True	True
+,	,	PUNCT	False	False
+para	para	ADP	True	True
+a	o	DET	True	True
+sociedade	sociedade	NOUN	True	False
+.	.	PUNCT	False	False

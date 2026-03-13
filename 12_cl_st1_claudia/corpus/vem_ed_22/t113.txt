@@ -1,0 +1,197 @@
+token	lemma	pos	is_alpha	is_stop
+continuação	continuação	NOUN	True	False
+A	o	DET	True	True
+excelência	excelência	NOUN	True	False
+e	e	CCONJ	True	True
+o	o	DET	True	True
+empenho	empenho	NOUN	True	False
+de	de	ADP	True	True
+professores	professor	NOUN	True	False
+e	e	CCONJ	True	True
+alunos	aluno	NOUN	True	False
+das	de o	ADP	True	True
+Fatecs	Fatecs	PROPN	True	False
+nos	em o	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+da	de o	ADP	True	True
+Cesu	Cesu	PROPN	True	False
+e	e	CCONJ	True	True
+a	o	DET	True	True
+tradição	tradição	NOUN	True	False
+de	de	ADP	True	True
+qualidade	qualidade	NOUN	True	False
+alcançada	alcançar	VERB	True	False
+ao	a o	ADP	True	True
+longo	longo	NOUN	True	False
+desses	de esse	ADP	True	False
+dez	dez	NUM	True	True
+anos	ano	NOUN	True	False
+garantem	garantir	VERB	True	False
+presença	presença	NOUN	True	False
+mundial	mundial	ADJ	True	False
+e	e	CCONJ	True	True
+participação	participação	NOUN	True	False
+da	de o	ADP	True	True
+equipe	equipe	NOUN	True	False
+PCI	PCI	PROPN	True	False
+nos	em o	ADP	True	True
+principais	principal	ADJ	True	False
+eventos	evento	NOUN	True	False
+da	de o	ADP	True	True
+área	área	NOUN	True	True
+de	de	ADP	True	True
+Intercâmbios	Intercâmbios	PROPN	True	False
+Virtuais	Virtuais	PROPN	True	False
+:	:	PUNCT	False	False
+Conferência	Conferência	PROPN	True	False
+da	de o	ADP	True	True
+Faubai	Faubai	PROPN	True	False
+;	;	PUNCT	False	False
+Conferência	Conferência	PROPN	True	False
+da	de o	ADP	True	True
+Red	Red	PROPN	True	False
+Latinoamerica	Latinoamerica	PROPN	True	False
+COIL	COIL	PROPN	True	False
+;	;	PUNCT	False	False
+Conferência	Conferência	PROPN	True	False
+do	de o	ADP	True	True
+International	International	NOUN	True	False
+Virtual	Virtual	PROPN	True	False
+Exchange	Exchange	PROPN	True	False
+Consortium	Consortium	PROPN	True	False
+(	(	PUNCT	False	False
+IVEC	IVEC	PROPN	True	False
+)	)	PUNCT	False	False
+.	.	PUNCT	False	False
+Desde	desde	ADP	True	True
+o	o	DET	True	True
+segundo	segundo	ADJ	True	True
+semestre	semestre	NOUN	True	False
+de	de	ADP	True	True
+2022	2022	NUM	False	False
+,	,	PUNCT	False	False
+ocorreram	ocorrer	VERB	True	False
+9	9	NUM	False	False
+PCIs	PCIs	PROPN	True	False
+entre	entre	ADP	True	True
+as	o	DET	True	True
+Fatecs	Fatecs	PROPN	True	False
+e	e	CCONJ	True	True
+a	o	DET	True	True
+DUOC	DUOC	PROPN	True	False
+UC	UC	PROPN	True	False
+,	,	PUNCT	False	False
+que	que	PRON	True	True
+participou	participar	VERB	True	False
+do	de o	ADP	True	True
+simpósio	simpósio	NOUN	True	False
+IVES	IVES	PROPN	True	False
+Cesu	Cesu	PROPN	True	False
+2023	2023	NUM	False	False
+,	,	PUNCT	False	False
+realizado	realizar	VERB	True	False
+em	em	ADP	True	True
+25	25	NUM	False	False
+de	de	ADP	True	True
+maio	maio	NOUN	True	False
+(	(	PUNCT	False	False
+evento	evento	NOUN	True	False
+publicado	publicar	VERB	True	False
+em	em	ADP	True	True
+VEm	VEm	PROPN	True	True
+18	18	NUM	False	False
+)	)	PUNCT	False	False
+.	.	PUNCT	False	False
+“	“	NUM	False	False
+O	o	DET	True	True
+convite	convite	NOUN	True	False
+da	de o	ADP	True	True
+DUOC	DUOC	PROPN	True	False
+UC	UC	PROPN	True	False
+reforça	reforçar	VERB	True	False
+a	o	DET	True	True
+presença	presença	NOUN	True	False
+mundial	mundial	ADJ	True	False
+dos	de o	ADP	True	True
+PCIs	PCIs	PROPN	True	False
+e	e	CCONJ	True	True
+abre	abrir	VERB	True	False
+a	o	DET	True	True
+oportunidade	oportunidade	NOUN	True	False
+de	de	SCONJ	True	True
+expandirmos	expandir	VERB	True	False
+nossas	nosso	DET	True	True
+atividades	atividade	NOUN	True	False
+com	com	ADP	True	True
+uma	um	DET	True	True
+universidade	universidade	NOUN	True	False
+com	com	ADP	True	True
+a	o	DET	True	True
+qual	qual	PRON	True	True
+já	já	ADV	True	True
+trabalhamos	trabalhamos	VERB	True	False
+e	e	CCONJ	True	True
+temos	ter	VERB	True	True
+excelentes	excelente	ADJ	True	False
+resultados	resultado	NOUN	True	False
+”	”	PUNCT	False	False
+,	,	PUNCT	False	False
+comenta	comentar	VERB	True	False
+Osvaldo	Osvaldo	PROPN	True	False
+Succi	Succi	PROPN	True	False
+Junior	Junior	PROPN	True	False
+.	.	PUNCT	False	False
+Em	em	ADP	True	True
+postagem	postagem	NOUN	True	False
+no	em o	ADP	True	True
+LinkedIn	LinkedIn	PROPN	True	False
+,	,	PUNCT	False	False
+a	o	DET	True	True
+Direção	Direção	PROPN	True	False
+de	de	ADP	True	True
+Vinculação	Vinculação	PROPN	True	False
+e	e	CCONJ	True	True
+Integração	Integração	PROPN	True	False
+Institucional	Institucional	PROPN	True	False
+da	de o	ADP	True	True
+DUOC	DUOC	PROPN	True	False
+UC	UC	PROPN	True	False
+comentou	comentar	VERB	True	False
+:	:	PUNCT	False	False
+“	“	NUM	False	False
+As	o	DET	True	True
+atividades	atividade	NOUN	True	False
+foram	ser	AUX	True	True
+dirigidas	dirigir	VERB	True	False
+pelos	por o	ADP	True	True
+professores	professor	NOUN	True	False
+Osvaldo	Osvaldo	PROPN	True	False
+Succi	Succi	PROPN	True	False
+Junior	Junior	PROPN	True	False
+e	e	CCONJ	True	True
+Regiane	Regiane	PROPN	True	False
+Souza	Souza	PROPN	True	False
+Camargo	Camargo	PROPN	True	False
+Moreira	Moreira	PROPN	True	False
+,	,	PUNCT	False	False
+do	de o	ADP	True	True
+Centro	Centro	PROPN	True	False
+Paula	Paula	PROPN	True	False
+Souza	Souza	PROPN	True	False
+(	(	PUNCT	False	False
+Brasil	Brasil	PROPN	True	False
+)	)	PUNCT	False	False
+,	,	PUNCT	False	False
+a	a	ADP	True	True
+quem	quem	PRON	True	True
+agradecemos	agradecer	VERB	True	False
+por	por	ADP	True	True
+toda	todo	DET	True	True
+entrega	entrega	NOUN	True	False
+e	e	CCONJ	True	True
+dedicação	dedicação	NOUN	True	False
+para	para	ADP	True	True
+nossos	nosso	DET	True	True
+docentes	docente	NOUN	True	False
+”	”	PUNCT	False	False
+.	.	PUNCT	False	False
