@@ -5,10 +5,7 @@ python keylemmas.py \
     --output corpus/08_keylemmas \
     --cutoff 3
 
-python select_kws_stratified.py \
-    --ceiling 250 \
-    --human-weight 2 \
-    --max-total 1200
+python select_keywords.py
 # Output: corpus/09_kw_selected
 "
 === Keyword Quotas ===
