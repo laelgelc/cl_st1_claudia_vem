@@ -4,7 +4,7 @@ Organise tagged corpus files by edition.
 This script reads all TSV files from 11_tagged, assigns each file a new
 sequential name in the format tNNN.txt, writes the filename mapping to
 12_cl_st1_claudia/file_index.txt, and copies the files into
-12_cl_st1_claudia/corpus/vem_ed_NN/ according to the edition number
+12_cl_st1_claudia/corpus/07_tagged/vem_ed_NN/ according to the edition number
 encoded in the original filename.
 """
 from pathlib import Path
@@ -16,7 +16,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SOURCE_DIR = BASE_DIR / "11_tagged"
 TARGET_ROOT = BASE_DIR / "12_cl_st1_claudia"
 INDEX_PATH = TARGET_ROOT / "file_index.txt"
-CORPUS_DIR = TARGET_ROOT / "corpus"
+CORPUS_DIR = TARGET_ROOT / "corpus" / "07_tagged"
 
 FILENAME_PATTERN = re.compile(r"(?i)^vem[-_](\d{2})[.-](\d+)$")
 

@@ -13,19 +13,18 @@ import math
 import argparse
 from collections import defaultdict
 
-# POS tags to keep: nouns, main verbs, adjectives (NO ADVERBS)
-VALID_TAG_PREFIXES = ("NN", "NP", "VV", "AJ")
+# POS tags to keep: nouns, verbs, adjectives, adverbs
+VALID_TAG_PREFIXES = ("NOUN", "VERB", "ADJ", "ADV")
 
 # stopwords (lowercase)
-#STOPWORDS = {
-#    "glenn", "miller", "lasalle", "no", "no.", "as", "herbert", "hoover", "n’t", "while", "arch", "bunker", "mr.", "mrs.", "archie",
-#    "there", "where", "in", "instead", "ai", "gloria", "henderson", "*that*", "’re", "’ll", "irene", "i—i", "’ve", "*archie",
-#    "gruff", "*the", "ed", "martha", "chloe", "*so", "*you", "*so*", "*you*", "*not*", "edith", "doorbell", "michael", "recorded", "attempt", "request"
-#}
+# STOPWORDS = {
+#     "example"
+# }
 
 STOPWORDS = {
 
 }
+
 
 def ll(a, b, c, d):
     """Log-likelihood function."""
@@ -39,6 +38,10 @@ def ll(a, b, c, d):
 def load_lemma_presence(base_dir, *, label_prefix=""):
     """
     Load lemma presence for one subcorpus folder.
+
+    Expected input format (spaCy TSV with header):
+        token<lemma<pos<is_alpha<is_stop
+
     Return:
         lemma -> set(text labels)
         set(text labels)
@@ -57,25 +60,33 @@ def load_lemma_presence(base_dir, *, label_prefix=""):
             seen = set()
 
             with open(os.path.join(root, filename), "r", encoding="utf-8") as f:
-                for line in f:
-                    parts = line.strip().split("\t")
-                    if len(parts) < 3:
+                for line_number, line in enumerate(f, start=1):
+                    parts = line.rstrip("\n").split("\t")
+                    if len(parts) < 5:
                         continue
 
-                    word, tag, lemma = parts
+                    token, lemma, pos, is_alpha, is_stop = parts[:5]
 
-                    # keep only nouns, main verbs, adjectives
-                    if not tag.startswith(VALID_TAG_PREFIXES):
+                    # skip header row
+                    if line_number == 1 and (
+                            token == "token"
+                            and lemma == "lemma"
+                            and pos == "pos"
+                    ):
                         continue
 
-                    # If lemma is <unknown>, use the wordform
+                    # keep only selected POS categories
+                    if not pos.startswith(VALID_TAG_PREFIXES):
+                        continue
+
+                    # if lemma is missing, use token
                     lemma = lemma.strip()
-                    if lemma == "<unknown>" or not lemma:
-                        lemma = word.strip()
+                    if not lemma:
+                        lemma = token.strip()
 
                     lemma_lc = lemma.lower()
 
-                    # NEW RULE: lemma must contain at least TWO letters
+                    # lemma must contain at least two letters
                     if sum(1 for ch in lemma_lc if ch.isalpha()) < 2:
                         continue
 
@@ -101,12 +112,22 @@ def save_keywords(path, rows):
 
 def main():
     parser = argparse.ArgumentParser(description="Compute key lemmas.")
-    parser.add_argument("--input", default="corpus/07_tagged",
-                        help="Directory containing subcorpus folders")
-    parser.add_argument("--output", default="corpus/08_keylemmas",
-                        help="Output directory for key lemma lists")
-    parser.add_argument("--cutoff", default=5.0, type=float,
-                        help="Minimum % presence in target texts")
+    parser.add_argument(
+        "--input",
+        default="corpus/07_tagged",
+        help="Directory containing subcorpus folders",
+    )
+    parser.add_argument(
+        "--output",
+        default="corpus/08_keylemmas",
+        help="Output directory for key lemma lists",
+    )
+    parser.add_argument(
+        "--cutoff",
+        default=5.0,
+        type=float,
+        help="Minimum % presence in target texts",
+    )
 
     args = parser.parse_args()
 
@@ -167,7 +188,7 @@ def main():
             perB = (b / size_comp) * 1000 if size_comp else 0.0
             expected = (size_target * (a + b)) / total if total else 0.0
             LLv = ll(a, b, size_target, size_comp)
-            # %DIFF computation
+
             if (perA + perB) == 0:
                 diff = 0.0
             else:

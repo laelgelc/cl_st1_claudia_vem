@@ -1,3 +1,5 @@
+python 01_org_corpus.py
+
 python keylemmas.py \
     --input corpus/07_tagged \
     --output corpus/08_keylemmas \
