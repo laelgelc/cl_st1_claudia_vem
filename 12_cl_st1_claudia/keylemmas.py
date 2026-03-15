@@ -28,9 +28,10 @@ VALID_TAG_PREFIXES = ("NOUN", "VERB", "ADJ")
 # }
 
 STOPWORDS = {
-
+    "cesu.pci@fatec.sp.gov.br",
+    "https://iveconference.org/",
+    "https://iveconference.org/."
 }
-
 
 def ll(a, b, c, d):
     """Log-likelihood function."""

@@ -157,7 +157,6 @@ central
 centrar
 certeza
 certificado
-cesu.pci@fatec.sp.gov.br
 cgesg
 chamada
 chance
@@ -579,8 +578,6 @@ horas-aula
 horizonte
 horário
 hotel
-https://iveconference.org/
-https://iveconference.org/.
 humanitário
 humano
 híbrir
