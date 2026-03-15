@@ -25,7 +25,7 @@ Outputs
 Two files are written to `OUTPUT_DIR`:
 
 - `keywords.txt`
-    One selected lemma per line.
+    One selected lemma per line, sorted alphabetically.
 - `keywords_details.txt`
     Tab-separated columns:
         keylemma_file    lemma    LL    status
@@ -170,11 +170,11 @@ def select_keywords_round_robin(
 
 def write_keywords(path: str, entries: list[KeywordEntry]) -> None:
     """
-    Write selected lemmas to the keyword output file.
+    Write selected lemmas to the keyword output file in alphabetical order.
     """
     with open(path, "w", encoding="utf-8") as f:
-        for entry in entries:
-            f.write(f"{entry.lemma}\n")
+        for lemma in sorted(entry.lemma for entry in entries):
+            f.write(f"{lemma}\n")
 
 
 def write_keyword_details(path: str, entries: list[KeywordEntry]) -> None:
