@@ -5,7 +5,7 @@ python keylemmas.py \
     --output corpus/08_keylemmas \
     --cutoff 3
 
-python select_keywords.py
+python select_keywords.py --num-keywords 40
 # Output: corpus/09_kw_selected
 "
 === Keyword Quotas ===
