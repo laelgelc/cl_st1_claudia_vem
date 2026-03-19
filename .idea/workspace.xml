@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3053" />
+    <option name="cachedIndexableFilesCount" value="3055" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -72,10 +72,10 @@
 }</component>
   <component name="RecapSpentCounter">
     <option name="endsOfQuotaMs" value="1775772015295" />
-    <option name="spentUsd" value="0.1628101" />
+    <option name="spentUsd" value="0.1667956" />
   </component>
   <component name="RecapUselessUpdatesCounter">
-    <option name="suspendCountdown" value="4" />
+    <option name="suspendCountdown" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -103,6 +103,7 @@
       <workItem from="1773430564042" duration="10144000" />
       <workItem from="1773448579806" duration="970000" />
       <workItem from="1773605583115" duration="4661000" />
+      <workItem from="1773623292210" duration="1067000" />
     </task>
     <servers />
   </component>
