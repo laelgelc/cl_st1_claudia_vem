@@ -72,10 +72,10 @@
 }</component>
   <component name="RecapSpentCounter">
     <option name="endsOfQuotaMs" value="1775772015295" />
-    <option name="spentUsd" value="0.1667956" />
+    <option name="spentUsd" value="0.17204034" />
   </component>
   <component name="RecapUselessUpdatesCounter">
-    <option name="suspendCountdown" value="3" />
+    <option name="suspendCountdown" value="1" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -104,6 +104,7 @@
       <workItem from="1773448579806" duration="970000" />
       <workItem from="1773605583115" duration="4661000" />
       <workItem from="1773623292210" duration="1067000" />
+      <workItem from="1774302782401" duration="2307000" />
     </task>
     <servers />
   </component>
