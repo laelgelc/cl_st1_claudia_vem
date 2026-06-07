@@ -11,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="3055" />
+    <option name="cachedIndexableFilesCount" value="3056" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -30,12 +30,12 @@
     &quot;assignee&quot;: &quot;eyamrog&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:jcollentine/vem-corpus.git",
-    "accountId": "9d2b0a42-38d1-4cc3-8cd5-e60f8b7ae68c"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:jcollentine/vem-corpus.git&quot;,
+    &quot;accountId&quot;: &quot;9d2b0a42-38d1-4cc3-8cd5-e60f8b7ae68c&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -61,7 +61,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "/home/eyamrog/PycharmProjects/vem-corpus/12_cl_st1_claudia/corpus/09_kw_selected",
+    "last_opened_file_path": "/home/eyamrog/PycharmProjects/vem-corpus",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -88,8 +88,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-3bd3a6803838-JavaScript-PY-261.22158.340" />
-        <option value="bundled-python-sdk-b63d5a1f7c97-b61e75351b1f-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.22158.340" />
+        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
       </set>
     </attachedChunks>
   </component>
@@ -108,6 +107,7 @@
       <workItem from="1773623292210" duration="1067000" />
       <workItem from="1774302782401" duration="2307000" />
       <workItem from="1776000339165" duration="802000" />
+      <workItem from="1780837997756" duration="56000" />
     </task>
     <servers />
   </component>
