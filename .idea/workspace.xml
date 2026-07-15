@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8661cf2-87f3-4b23-8029-240e28f74a06" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a8661cf2-87f3-4b23-8029-240e28f74a06" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +39,65 @@
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.6233380357108622" />
+      <entry key="MS500" value="4.546564655753514" />
+      <entry key="S2" value="6.80746486697495" />
+      <entry key="S5" value="7.48656736442981" />
+      <entry key="S10" value="7.736716864248985" />
+      <entry key="S30" value="7.910730029788323" />
+      <entry key="S60" value="7.955173202681684" />
+      <entry key="M2" value="7.9775384049020825" />
+      <entry key="M5" value="7.9910037635075994" />
+      <entry key="M10" value="7.995499946062798" />
+      <entry key="M15" value="7.99699953369434" />
+      <entry key="M30" value="7.998499551624892" />
+      <entry key="H1" value="7.99924972199778" />
+      <entry key="H2" value="7.999624847544086" />
+      <entry key="H4" value="7.999812420408199" />
+      <entry key="D1" value="7.999968736267487" />
+      <entry key="W1" value="7.999995533741056" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.564668724367599" />
+      <entry key="MS500" value="4.473203821987974" />
+      <entry key="S2" value="6.768054497572026" />
+      <entry key="S5" value="7.46790834772597" />
+      <entry key="S10" value="7.726837703107899" />
+      <entry key="S30" value="7.907307903275233" />
+      <entry key="S60" value="7.953445553384155" />
+      <entry key="M2" value="7.976670399111368" />
+      <entry key="M5" value="7.990655553253" />
+      <entry key="M10" value="7.995325672572445" />
+      <entry key="M15" value="7.996883313925725" />
+      <entry key="M30" value="7.998441423012799" />
+      <entry key="H1" value="7.999220653008486" />
+      <entry key="H2" value="7.999610311878465" />
+      <entry key="H4" value="7.999805152282624" />
+      <entry key="D1" value="7.999967524872562" />
+      <entry key="W1" value="7.999995360683642" />
+    </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
@@ -90,7 +147,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-c59985aa861c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.24374.152" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-PY-261.26222.68" />
+        <option value="bundled-python-sdk-50341a9f1f9c-c2ffad84badb-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-261.26222.68" />
       </set>
     </attachedChunks>
   </component>
@@ -115,6 +173,7 @@
       <workItem from="1780842894987" duration="201000" />
       <workItem from="1780843119457" duration="57000" />
       <workItem from="1780843184237" duration="31000" />
+      <workItem from="1784134624666" duration="3669000" />
     </task>
     <servers />
   </component>
