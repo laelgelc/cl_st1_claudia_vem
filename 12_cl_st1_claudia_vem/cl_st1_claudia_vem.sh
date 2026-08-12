@@ -135,7 +135,9 @@ python latex_anova_table.py \
     --input-dir sas/output_cl_st1_claudia_vem
 # Output: latex_tables
 
-python examples.py
+python examples.py \
+    --project cl_st1_claudia_vem \
+    --sas-output-dir sas/output_cl_st1_claudia_vem
 # Output: examples (LaTeX format)
 
 # Sanity check on the scores:
