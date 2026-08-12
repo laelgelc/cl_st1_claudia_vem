@@ -141,7 +141,9 @@ python examples.py \
 # Output: examples (LaTeX format)
 
 # Sanity check on the scores:
-python score_details.py
+python score_details.py \
+    --project cl_st1_claudia_vem \
+    --sas-output-dir sas/output_cl_st1_claudia_vem
 # Output: examples/score_details.txt
 
 python examples_txt.py
