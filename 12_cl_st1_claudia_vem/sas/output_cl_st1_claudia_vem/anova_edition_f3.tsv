@@ -1,0 +1,3 @@
+Dependent	HypothesisType	Source	DF	SS	MS	FValue	ProbF
+fac3	1	edition	34	4452.766816	130.963730	2.16	0.0008
+fac3	3	edition	34	4452.766816	130.963730	2.16	0.0008
