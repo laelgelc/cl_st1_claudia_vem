@@ -124,7 +124,9 @@ python corpus_size.py
 
 cd latex_boxplots
 # Builds boxplots for factor analysis:
-python latex_boxplots.py
+python latex_boxplots.py \
+    --project cl_st1_claudia_vem \
+    --sas-output-dir ../sas/output_cl_st1_claudia_vem
 # Output: latex_boxplots/slides
 cd ..
 

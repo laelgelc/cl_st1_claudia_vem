@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Generate TikZ boxplots in LaTeX for factor dimensions by decade.
+Generate TikZ boxplots in LaTeX for factor dimensions by VEm edition.
 
 This script is expected to be located in:
 
@@ -9,17 +9,16 @@ This script is expected to be located in:
 Default input, resolved relative to the project directory:
 
     ../sas/output_<project>/<project>_scores_only.tsv
-    ../sas/output_<project>/params_decade_f<n>.tsv
+    ../sas/output_<project>/params_edition_f<n>.tsv
 
 where <project> is inferred from the parent directory name, for example:
 
-    cl_st1_ph2_andrea
-    cl_st1_ph3_andrea
+    cl_st1_claudia_vem
 
 Default output:
 
-    latex_boxplots/slides/boxplot_f<dim>_by_decade.tex
-    latex_boxplots/slides/mosaic_by_decade.tex
+    latex_boxplots/slides/boxplot_f<dim>_by_edition.tex
+    latex_boxplots/slides/mosaic_by_edition.tex
 
 Typical usage from inside latex_boxplots/:
 
@@ -32,8 +31,8 @@ Typical usage from the project root:
 Optional explicit usage:
 
     python latex_boxplots.py \
-        --project cl_st1_ph3_andrea \
-        --sas-output-dir ../sas/output_cl_st1_ph3_andrea \
+        --project cl_st1_claudia_vem \
+        --sas-output-dir ../sas/output_cl_st1_claudia_vem \
         --output-dir slides
 """
 
@@ -57,14 +56,14 @@ DEFAULT_OUTPUT_DIR = SCRIPT_DIR / "slides"
 def parse_args() -> argparse.Namespace:
     """Parse command-line arguments."""
     parser = argparse.ArgumentParser(
-        description="Generate LaTeX/TikZ factor-score boxplots by decade."
+        description="Generate LaTeX/TikZ factor-score boxplots by VEm edition."
     )
 
     parser.add_argument(
         "--project",
         default=DEFAULT_PROJECT,
         help=(
-            "Project name, e.g. cl_st1_ph2_andrea or cl_st1_ph3_andrea. "
+            "Project name, e.g. cl_st1_claudia_vem. "
             "Default: inferred from the parent directory name."
         ),
     )
@@ -177,12 +176,15 @@ def detect_dims(df: pd.DataFrame, input_file: Path) -> list[int]:
     return dims
 
 
-def sort_decade_values(values: list[str]) -> list[str]:
-    """Sort decade labels numerically where possible."""
+def sort_edition_values(values: list[str]) -> list[str]:
+    """Sort VEm edition labels numerically where possible."""
     def key(value: str) -> tuple[int, str]:
         value = str(value)
-        if value.isdigit():
-            return int(value), value
+        match = re.fullmatch(r"vem_ed_(\d+)", value)
+
+        if match:
+            return int(match.group(1)), value
+
         return 999999, value
 
     return sorted(values, key=key)
@@ -203,7 +205,7 @@ def generate_boxplot(
         raise ValueError(f"Column not found in dataframe: {column}")
 
     means = df.groupby(group_var)[column].mean()
-    groups = sort_decade_values([str(group) for group in means.index.tolist()])
+    groups = sort_edition_values([str(group) for group in means.index.tolist()])
     labels = [latex_escape(str(group)) for group in groups]
     total = len(groups)
 
@@ -333,7 +335,7 @@ def generate_mosaic(
 
 
 def main() -> None:
-    """Generate all decade boxplots and the decade mosaic."""
+    """Generate all VEm edition boxplots and the VEm edition mosaic."""
     args = parse_args()
 
     project = args.project
@@ -347,29 +349,29 @@ def main() -> None:
 
     df = pd.read_csv(input_file, sep="\t")
 
-    if "decade" not in df.columns:
-        raise ValueError(f"Column 'decade' not found in {input_file}")
+    if "edition" not in df.columns:
+        raise ValueError(f"Column 'edition' not found in {input_file}")
 
-    df["decade"] = df["decade"].astype(str).str.strip()
+    df["edition"] = df["edition"].astype(str).str.strip()
 
     dims = detect_dims(df, input_file)
 
-    for dim in tqdm(dims, desc="By decade"):
-        rsquare = read_rsquare(sas_output_dir / f"params_decade_f{dim}.tsv")
-        caption = f"Mean Dim. {dim} Scores by Decade (R² = {rsquare:.2f}\\%)"
+    for dim in tqdm(dims, desc="By VEm edition"):
+        rsquare = read_rsquare(sas_output_dir / f"params_edition_f{dim}.tsv")
+        caption = f"Mean Dim. {dim} Scores by VEm Edition (R² = {rsquare:.2f}\\%)"
 
         generate_boxplot(
             df=df,
             dim=dim,
-            group_var="decade",
-            suffix="by_decade",
+            group_var="edition",
+            suffix="by_edition",
             caption=caption,
             output_dir=output_dir,
         )
 
     generate_mosaic(
-        suffix="by_decade",
-        caption="Mean Dim. Scores by Decade",
+        suffix="by_edition",
+        caption="Mean Dim. Scores by VEm Edition",
         dims=dims,
         output_dir=output_dir,
     )
