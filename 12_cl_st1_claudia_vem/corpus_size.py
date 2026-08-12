@@ -1,16 +1,16 @@
 #!/usr/bin/env python3
 """
-Calculate corpus size for the tagged commercial corpus.
+Calculate corpus size for the tagged VEm corpus.
 
 Expected input structure:
-    corpus/07_tagged/<Decade>/<Commercial ID>.txt
+    corpus/07_tagged/vem_ed_XX/*.txt
 
 Example:
-    corpus/07_tagged/1950/tv_com_1950_1.txt
-    corpus/07_tagged/1960/tv_com_1960_1.txt
+    corpus/07_tagged/vem_ed_01/t001.txt
+    corpus/07_tagged/vem_ed_02/t012.txt
 
 Expected tagged-file format:
-    word<TAB>tag<TAB>lemma
+    token<TAB>lemma<TAB>pos<TAB>is_alpha<TAB>is_stop
 
 Output:
     corpus_size/corpus_size.tsv
@@ -34,16 +34,15 @@ CORPUS_ROOT = Path("corpus/07_tagged")
 OUTPUT_DIR = Path("corpus_size")
 OUTPUT_FILE = OUTPUT_DIR / "corpus_size.tsv"
 
-DECADE_PATTERN = re.compile(r"^\d{4}$")
-VALID_TOKEN_PATTERN = re.compile(r"^[A-Za-z]")
+EDITION_PATTERN = re.compile(r"^vem_ed_(\d+)$")
 
 
 # --- Counters ---
 total_files = 0
 total_words = 0
 
-file_counts_decade = defaultdict(int)
-word_counts_decade = defaultdict(int)
+file_counts_edition = defaultdict(int)
+word_counts_edition = defaultdict(int)
 
 
 def natural_sort_key(text):
@@ -52,27 +51,53 @@ def natural_sort_key(text):
     return [int(part) if part.isdigit() else part.lower() for part in parts]
 
 
+def edition_sort_key(path: Path):
+    """Sort VEm edition folders by numeric edition number."""
+    match = EDITION_PATTERN.match(path.name)
+
+    if not match:
+        return natural_sort_key(path.name)
+
+    return int(match.group(1))
+
+
 def count_tokens_in_tagged_file(path: Path) -> int:
     """
-    Count token lines in a TreeTagger output file.
+    Count alphabetic token lines in a tagged corpus file.
 
-    Each valid tagged token line counts as one word/token.
+    Expected format:
+        token    lemma    pos    is_alpha    is_stop
+
+    A row counts as one word/token when:
+        - it is not the header row;
+        - it has at least five tab-separated columns;
+        - is_alpha is True.
     """
     words = 0
 
     with path.open("r", encoding="utf-8") as f:
-        for line in f:
-            line = line.strip()
+        for line_number, line in enumerate(f, start=1):
+            line = line.rstrip("\n")
 
             if not line:
                 continue
 
-            if not VALID_TOKEN_PATTERN.match(line):
+            parts = line.split("\t")
+
+            if len(parts) < 5:
                 continue
 
-            parts = line.split()
+            token, lemma, pos, is_alpha, is_stop = parts[:5]
 
-            if len(parts) >= 3:
+            # Skip header row.
+            if line_number == 1 and (
+                    token == "token"
+                    and lemma == "lemma"
+                    and pos == "pos"
+            ):
+                continue
+
+            if is_alpha == "True":
                 words += 1
 
     return words
@@ -87,33 +112,33 @@ def main():
     if not CORPUS_ROOT.is_dir():
         raise NotADirectoryError(f"Corpus path is not a directory: {CORPUS_ROOT}")
 
-    decade_dirs = sorted(
+    edition_dirs = sorted(
         [
             path for path in CORPUS_ROOT.iterdir()
-            if path.is_dir() and DECADE_PATTERN.match(path.name)
+            if path.is_dir() and EDITION_PATTERN.match(path.name)
         ],
-        key=lambda path: natural_sort_key(path.name),
+        key=edition_sort_key,
     )
 
-    if not decade_dirs:
+    if not edition_dirs:
         raise FileNotFoundError(
-            f"No decade folders found under {CORPUS_ROOT}. "
-            "Expected folders such as 1950, 1960, 1970, etc."
+            f"No VEm edition folders found under {CORPUS_ROOT}. "
+            "Expected folders such as vem_ed_01, vem_ed_02, etc."
         )
 
-    for decade_dir in decade_dirs:
-        decade = decade_dir.name
+    for edition_dir in edition_dirs:
+        edition = edition_dir.name
 
         text_files = sorted(
-            decade_dir.glob("*.txt"),
+            edition_dir.glob("*.txt"),
             key=lambda path: natural_sort_key(path.name),
         )
 
         for text_file in text_files:
             words = count_tokens_in_tagged_file(text_file)
 
-            file_counts_decade[decade] += 1
-            word_counts_decade[decade] += words
+            file_counts_edition[edition] += 1
+            word_counts_edition[edition] += words
 
             total_files += 1
             total_words += words
@@ -123,11 +148,11 @@ def main():
     with OUTPUT_FILE.open("w", encoding="utf-8") as f:
         f.write("Strata\tText Count\tWord Count\n")
 
-        for decade in sorted(file_counts_decade, key=natural_sort_key):
+        for edition in sorted(file_counts_edition, key=natural_sort_key):
             f.write(
-                f"{decade}\t"
-                f"{file_counts_decade[decade]}\t"
-                f"{word_counts_decade[decade]}\n"
+                f"{edition}\t"
+                f"{file_counts_edition[edition]}\t"
+                f"{word_counts_edition[edition]}\n"
             )
 
         f.write("\n")
