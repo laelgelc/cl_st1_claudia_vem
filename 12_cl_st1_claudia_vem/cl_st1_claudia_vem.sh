@@ -130,7 +130,9 @@ python latex_boxplots.py \
 # Output: latex_boxplots/slides
 cd ..
 
-python latex_anova_table.py
+python latex_anova_table.py \
+    --project cl_st1_claudia_vem \
+    --input-dir sas/output_cl_st1_claudia_vem
 # Output: latex_tables
 
 python examples.py
