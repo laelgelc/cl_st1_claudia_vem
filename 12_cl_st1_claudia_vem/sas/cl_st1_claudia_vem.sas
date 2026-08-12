@@ -33,7 +33,7 @@ options fmtsearch=(work library);
 %let lastkeywordvar = v001321 ;
 
 /* enter number of factors to extract */
-%let extractfactors = 8 ;
+%let extractfactors = 5 ;
 
 %let factorvars = fac1-fac&extractfactors ;
 
