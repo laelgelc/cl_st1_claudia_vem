@@ -1,6 +1,6 @@
 /* ============================================================
    Lexical Multi-dimensional Analysis
-   Project: cl_st1_claudia
+   Project: cl_st1_claudia_vem
 
    Expected input:
      counts.txt
@@ -19,7 +19,7 @@
 /* BEGINNING PART 1 */
 /* === EDIT BELOW ====*/
 
-%let project = cl_st1_claudia ;
+%let project = cl_st1_claudia_vem ;
 
 %let myfolder = &project ;
 
@@ -836,7 +836,7 @@ data filelist;
   input root;
   retain filename dname ' ' level 0 dir 1;
 cards4;
-/home/u63529080/cl_st1_claudia
+/home/u63529080/cl_st1_claudia_vem
 ;;;;
 run;
 
