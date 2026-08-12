@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """
-Create binary keyword-presence columns for the commercial verbal subcorpus.
+Create binary keyword-presence columns for the VEm corpus.
 
 Input:
     corpus/09_kw_selected/keywords.txt
-    corpus/07_tagged/<Decade>/<Commercial ID>.txt
+    corpus/07_tagged/vem_ed_XX/*.txt
 
 Outputs:
     columns/<Keyword ID>.txt
-        Full column files with file ID, decade, and binary keyword presence.
+        Full column files with file ID, VEm edition, and binary keyword presence.
 
     columns_clean/<Keyword ID>.txt
         Clean binary columns for downstream analysis.
@@ -32,13 +32,23 @@ CLEAN_DIR = Path("columns_clean")
 INDEX_FILE = Path("index_keywords.txt")
 FILE_IDS = Path("file_ids.txt")
 
-DECADE_RE = re.compile(r"^\d{4}$")
+EDITION_RE = re.compile(r"^vem_ed_(\d+)$")
 
 
 def natural_sort_key(text):
     """Return a natural-sort key that treats digit runs as integers."""
     parts = re.split(r"(\d+)", str(text))
     return [int(part) if part.isdigit() else part.lower() for part in parts]
+
+
+def edition_sort_key(path):
+    """Sort VEm edition folders by numeric edition number."""
+    match = EDITION_RE.match(path.name)
+
+    if not match:
+        return natural_sort_key(path.name)
+
+    return int(match.group(1))
 
 
 def normalise_lemma(lemma):
@@ -61,7 +71,7 @@ def load_keywords(path):
 
 
 def collect_tagged_texts(tagged_base):
-    """Collect tagged text files from decade folders."""
+    """Collect tagged text files from VEm edition folders."""
     if not tagged_base.exists():
         raise FileNotFoundError(f"Tagged corpus directory does not exist: {tagged_base}")
 
@@ -70,21 +80,21 @@ def collect_tagged_texts(tagged_base):
 
     text_paths = []
 
-    decade_folders = sorted(
+    edition_folders = sorted(
         [
             folder for folder in tagged_base.iterdir()
-            if folder.is_dir() and DECADE_RE.match(folder.name)
+            if folder.is_dir() and EDITION_RE.match(folder.name)
         ],
-        key=lambda path: natural_sort_key(path.name),
+        key=edition_sort_key,
     )
 
-    if not decade_folders:
+    if not edition_folders:
         raise FileNotFoundError(
-            f"No decade folders found under {tagged_base}. "
-            "Expected folders such as 1950, 1960, 1970, etc."
+            f"No VEm edition folders found under {tagged_base}. "
+            "Expected folders such as vem_ed_01, vem_ed_02, etc."
         )
 
-    for folder in decade_folders:
+    for folder in edition_folders:
         for text_file in sorted(folder.rglob("*.txt"), key=lambda path: natural_sort_key(path.name)):
             text_paths.append(text_file)
 
@@ -95,20 +105,34 @@ def collect_tagged_texts(tagged_base):
 
 
 def read_present_lemmas(text_file):
-    """Read lemmas from the third column of a TreeTagger output file."""
+    """
+    Read lemmas from a tagged corpus file.
+
+    Expected format:
+        token    lemma    pos    is_alpha    is_stop
+
+    Therefore, the lemma is the second column, i.e. parts[1].
+    """
     present = set()
 
     with text_file.open("r", encoding="utf-8") as tf:
-        for line in tf:
+        for line_number, line in enumerate(tf, start=1):
             parts = line.rstrip("\n").split("\t")
 
-            if len(parts) < 3:
+            if len(parts) < 2:
                 parts = line.strip().split()
 
-            if len(parts) >= 3:
-                lemma = normalise_lemma(parts[2])
-                if lemma and lemma != "<unknown>":
-                    present.add(lemma)
+            if len(parts) < 2:
+                continue
+
+            # Skip header row.
+            if line_number == 1 and parts[0] == "token" and parts[1] == "lemma":
+                continue
+
+            lemma = normalise_lemma(parts[1])
+
+            if lemma and lemma != "<unknown>":
+                present.add(lemma)
 
     return present
 
@@ -147,14 +171,14 @@ def main():
     for text_file in text_paths:
         file_id = file_id_map[text_file]
         rel_parts = text_file.relative_to(TAGGED_BASE).parts
-        decade = rel_parts[0]
+        edition = rel_parts[0]
 
         present = read_present_lemmas(text_file)
 
         text_infos.append(
             {
                 "id": file_id,
-                "decade": decade,
+                "edition": edition,
                 "lemmas": present,
             }
         )
@@ -171,7 +195,7 @@ def main():
                 has_keyword = 1 if lemma in info["lemmas"] else 0
                 outf.write(
                     f"{info['id']} "
-                    f"{info['decade']} "
+                    f"{info['edition']} "
                     f"{has_keyword}\n"
                 )
 
