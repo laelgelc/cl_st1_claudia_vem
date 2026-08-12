@@ -9,10 +9,10 @@
      No header
      Space-separated
      Columns:
-       filename decade v000001-v000267
+       filename edition v000001-v001321
 
    Example:
-     t000001 1950 0 1 0 0 ...
+     t000001 vem_ed_01 0 1 0 0 ...
    ============================================================ */
 
 
@@ -30,7 +30,7 @@
 options fmtsearch=(work library);
 
 /* enter the variable ID corresponding to the last keyword variable */
-%let lastkeywordvar = v000267 ;
+%let lastkeywordvar = v001321 ;
 
 /* enter number of factors to extract */
 %let extractfactors = 8 ;
@@ -47,7 +47,7 @@ options fmtsearch=(work library);
 %let extractclusters = 2 ;
 
 /* enter name of primary fixed var */
-%let primaryfixedvar = decade ;
+%let primaryfixedvar = edition ;
 
 /* END PART 1 */
 
@@ -61,13 +61,13 @@ DATA &project;
 
   LENGTH
       filename $7
-      decade   $4
+      edition  $9
       v000001 - &lastkeywordvar 3
   ;
 
   INPUT
       filename :$7.
-      decade   :$4.
+      edition  :$9.
       v000001 - &lastkeywordvar
   ;
 RUN;
@@ -79,7 +79,7 @@ run;
 
 /* remove lines that are all zeros */
 /* speed up by picking a single line of data to rotate */
-data temp (DROP= filename decade );
+data temp (DROP= filename edition );
 set &project ;
 if _n_ <=1 ;
 run;
@@ -99,7 +99,7 @@ total= &names ;
 if total > 0 ;
 run;
 
-data temp (DROP= filename decade );
+data temp (DROP= filename edition );
 set &project ;
 if _n_ <=1 ;
 run;
@@ -149,7 +149,7 @@ run;
 
 /* get variable list for factor */
 
-data temp (DROP= filename decade );
+data temp (DROP= filename edition );
 set &project ;
 if _n_ <=1 ;
 run;
@@ -322,23 +322,6 @@ run;
 
 /* BEGINNING PART 14 */
 /* Loadings table */
-
-/*
-
-https://stats.idre.ucla.edu/sas/output/factor-analysis/
-Rotated Factor Pattern – This table contains the rotated factor loadings, which are the correlations between the variable and the factor.  Because these are correlations, possible values range from -1 to +1.
-in the outstat data file, the rotated factor pattern appears as PREROTAT. The standardized regression coefficients appear as PATTERN.
-Use PREROTAT in the outstat data file.
-
-https://documentation.sas.com/?docsetId=statug&docsetTarget=statug_factor_details02.htm&docsetVersion=15.1&locale=en
-
-PREROTAT: prerotated factor pattern.
-PATTERN: factor pattern. (regression coefficients)
-
-PREROTAT: prerotated factor pattern. =>   Stat.Factor.OrthRotFactPat
-PATTERN: factor pattern. =>  Stat.Factor.ObliqueRotFactPat
-
-*/
 
 OPTIONS VALIDVARNAME=ANY;
 
@@ -676,7 +659,7 @@ RUN;
 /* Factor scores */
 /* no standardizing the data because it is binary */
 
-data temp (DROP= filename decade );
+data temp (DROP= filename edition );
 set &project ;
 if _n_ <=1 ;
 run;
@@ -726,16 +709,16 @@ run;
 data scores_grouped;
     set scores;
     length group $40;
-    group = decade;
+    group = edition;
 run;
 
-data scores_only (KEEP= filename decade group &factorvars );
+data scores_only (KEEP= filename edition group &factorvars );
 set scores_grouped ;
 run;
 
 /* fix variable order */
 data scores_only;
- retain filename decade group &factorvars;
+ retain filename edition group &factorvars;
  set scores_grouped;
 run;
 
@@ -754,7 +737,7 @@ PROC EXPORT
 RUN;
 
 
-/* ANOVAS by decade */
+/* ANOVAS by edition */
 
 ODS EXCLUDE NONE;
 
@@ -766,16 +749,16 @@ ods html file="&whereisit/&myfolder/glm_meta.html";
 OPTIONS VALIDVARNAME=ANY;
 ods graphics off;
 
-ods output OverallANOVA=overall_decade_f&i ;
-ods output FitStatistics=params_decade_f&i ;
-ods output ModelANOVA=anova_decade_f&i ;
-ods output Means=means_decade_f&i ;
+ods output OverallANOVA=overall_edition_f&i ;
+ods output FitStatistics=params_edition_f&i ;
+ods output ModelANOVA=anova_edition_f&i ;
+ods output Means=means_edition_f&i ;
 
 proc GLM data=scores;
-    title GLM for dataset = &project decade fac&i ;
-    class decade ;
-    model fac&i = decade ;
-    means decade ;
+    title GLM for dataset = &project edition fac&i ;
+    class edition ;
+    model fac&i = edition ;
+    means edition ;
 run;
 quit;
 
@@ -800,30 +783,30 @@ ODS EXCLUDE NONE;
 %do i=1 %to &howmany;
 
 PROC EXPORT
-  DATA= WORK.overall_decade_f&i
+  DATA= WORK.overall_edition_f&i
   DBMS=TAB
-  OUTFILE="&whereisit/&myfolder/overall_decade_f&i..tsv"
+  OUTFILE="&whereisit/&myfolder/overall_edition_f&i..tsv"
   REPLACE;
 RUN;
 
 PROC EXPORT
-  DATA= WORK.params_decade_f&i
+  DATA= WORK.params_edition_f&i
   DBMS=TAB
-  OUTFILE="&whereisit/&myfolder/params_decade_f&i..tsv"
+  OUTFILE="&whereisit/&myfolder/params_edition_f&i..tsv"
   REPLACE;
 RUN;
 
 PROC EXPORT
-  DATA= WORK.anova_decade_f&i
+  DATA= WORK.anova_edition_f&i
   DBMS=TAB
-  OUTFILE="&whereisit/&myfolder/anova_decade_f&i..tsv"
+  OUTFILE="&whereisit/&myfolder/anova_edition_f&i..tsv"
   REPLACE;
 RUN;
 
 PROC EXPORT
-  DATA= WORK.means_decade_f&i
+  DATA= WORK.means_edition_f&i
   DBMS=TAB
-  OUTFILE="&whereisit/&myfolder/means_decade_f&i..tsv"
+  OUTFILE="&whereisit/&myfolder/means_edition_f&i..tsv"
   REPLACE;
 RUN;
 
