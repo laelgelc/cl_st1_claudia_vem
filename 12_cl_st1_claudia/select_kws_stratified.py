@@ -2,26 +2,22 @@
 """
 select_kws_stratified.py
 
-Selects a balanced, decade-stratified subset of positive keywords (POSKW)
+Selects a balanced, edition-stratified subset of positive keywords (POSKW)
 from key-lemma tables produced by keylemmas.py.
 
-In this project, the strata are decades:
+In this project, the corpus is stratified by VEm magazine edition:
 
-    1950
-    1960
-    1970
-    1980
-    1990
-    2000
-    2010
-    2020
+    vem_ed_01
+    vem_ed_02
+    ...
+    vem_ed_35
 
-The strata are of the same nature, so each decade receives the same maximum
-keyword quota. There is no human/non-human weighting.
+The strata are of the same nature, so each edition receives the same maximum
+keyword quota. There is no decade grouping and no human/non-human weighting.
 
 What it does
 ------------
-1) Reads every decade key-lemma file in corpus/08_keylemmas/.
+1) Reads every VEm edition key-lemma file in corpus/08_keylemmas/.
    Supported extensions: .tsv and .txt.
 
 2) Extracts lemmas whose final column is POSKW, applying lexical filters
@@ -33,23 +29,23 @@ What it does
    - drop lemmas containing uppercase letters;
    - drop lemmas containing punctuation other than valid internal hyphens.
 
-3) Applies the same quota to every decade:
-   - each decade: at most --per-decade lemmas.
+3) Applies the same quota to every VEm edition:
+   - each edition: at most --per-edition lemmas.
 
-4) Builds a consolidated list in chronological decade order.
+4) Builds a consolidated list in edition order.
 
 5) Optionally truncates the consolidated list to --max-total before
    de-duplication.
 
 6) Writes outputs to corpus/09_kw_selected/:
-   - one file per decade: <decade>.txt
+   - one file per edition: vem_ed_01.txt, vem_ed_02.txt, ...
    - one consolidated, de-duplicated list: keywords.txt
 
 Typical usage
 -------------
 python select_kws_stratified.py \
-    --per-decade 250 \
-    --max-total 1200
+    --per-edition 20 \
+    --max-total 0
 """
 
 import argparse
@@ -61,7 +57,7 @@ import re
 INPUT_DIR = "corpus/08_keylemmas"
 OUTPUT_DIR = "corpus/09_kw_selected"
 
-DECADE_RE = re.compile(r"^\d{4}$")
+EDITION_RE = re.compile(r"^vem_ed_(\d+)$")
 SUPPORTED_EXTENSIONS = (".tsv", ".txt")
 
 
@@ -73,6 +69,21 @@ def natural_sort_key(text):
     """Return a natural-sort key that treats digit runs as integers."""
     parts = re.split(r"(\d+)", text)
     return [int(part) if part.isdigit() else part.lower() for part in parts]
+
+
+def edition_number(edition_name):
+    """Return the numeric edition number from a name such as vem_ed_01."""
+    match = EDITION_RE.match(edition_name)
+
+    if not match:
+        raise ValueError(f"Invalid VEm edition name: {edition_name}")
+
+    return int(match.group(1))
+
+
+def edition_sort_key(edition_name):
+    """Sort VEm editions by numeric edition number."""
+    return edition_number(edition_name)
 
 
 def is_valid_lemma_shape(lemma):
@@ -136,7 +147,7 @@ def is_clean_lemma(lemma):
 
 
 def discover_keylemma_files(input_dir):
-    """Return decade-named key-lemma files from the input directory."""
+    """Return VEm-edition-named key-lemma files from the input directory."""
     if not os.path.isdir(input_dir):
         raise FileNotFoundError(f"Input directory does not exist: {input_dir}")
 
@@ -145,30 +156,31 @@ def discover_keylemma_files(input_dir):
     for extension in SUPPORTED_EXTENSIONS:
         files.extend(glob.glob(os.path.join(input_dir, f"*{extension}")))
 
-    decade_files = {}
+    edition_files = {}
 
     for filepath in files:
         stem = os.path.splitext(os.path.basename(filepath))[0]
 
-        if not DECADE_RE.match(stem):
+        if not EDITION_RE.match(stem):
             continue
 
-        # Prefer .tsv if both .tsv and .txt exist for the same decade.
-        existing = decade_files.get(stem)
-        if existing is None:
-            decade_files[stem] = filepath
-        elif filepath.endswith(".tsv") and existing.endswith(".txt"):
-            decade_files[stem] = filepath
+        # Prefer .tsv if both .tsv and .txt exist for the same edition.
+        existing = edition_files.get(stem)
 
-    if not decade_files:
+        if existing is None:
+            edition_files[stem] = filepath
+        elif filepath.endswith(".tsv") and existing.endswith(".txt"):
+            edition_files[stem] = filepath
+
+    if not edition_files:
         raise FileNotFoundError(
-            f"No decade key-lemma files found in {input_dir}. "
-            "Expected files such as 1950.tsv, 1960.tsv, etc."
+            f"No VEm edition key-lemma files found in {input_dir}. "
+            "Expected files such as vem_ed_01.txt, vem_ed_02.txt, etc."
         )
 
     return [
-        (decade, decade_files[decade])
-        for decade in sorted(decade_files, key=natural_sort_key)
+        (edition, edition_files[edition])
+        for edition in sorted(edition_files, key=edition_sort_key)
     ]
 
 
@@ -229,12 +241,12 @@ def write_word_list(path, words):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Select balanced POSKW keyword lists across decade strata."
+        description="Select balanced POSKW keyword lists across VEm edition strata."
     )
     parser.add_argument(
         "--input",
         default=INPUT_DIR,
-        help="Input directory containing decade key-lemma files.",
+        help="Input directory containing VEm edition key-lemma files.",
     )
     parser.add_argument(
         "--output",
@@ -242,10 +254,10 @@ def main():
         help="Output directory for selected keyword lists.",
     )
     parser.add_argument(
-        "--per-decade",
+        "--per-edition",
         type=int,
         required=True,
-        help="Maximum number of POSKW lemmas to select from each decade.",
+        help="Maximum number of POSKW lemmas to select from each VEm edition.",
     )
     parser.add_argument(
         "--max-total",
@@ -259,8 +271,8 @@ def main():
 
     args = parser.parse_args()
 
-    if args.per_decade <= 0:
-        raise ValueError("--per-decade must be greater than 0")
+    if args.per_edition <= 0:
+        raise ValueError("--per-edition must be greater than 0")
 
     if args.max_total < 0:
         raise ValueError("--max-total must be non-negative")
@@ -269,35 +281,35 @@ def main():
 
     keylemma_files = discover_keylemma_files(args.input)
 
-    # Load all decade strata.
+    # Load all VEm edition strata.
     strata = {}
 
-    for decade, filepath in keylemma_files:
-        strata[decade] = load_poskw(filepath)
+    for edition, filepath in keylemma_files:
+        strata[edition] = load_poskw(filepath)
 
-    print("=== Decade Keyword Quotas ===")
-    for decade in sorted(strata, key=natural_sort_key):
-        print(f"{decade:<6} → {args.per_decade} keywords max")
-    print("=============================\n")
+    print("=== VEm Edition Keyword Quotas ===")
+    for edition in sorted(strata, key=edition_sort_key):
+        print(f"{edition:<10} → {args.per_edition} keywords max")
+    print("==================================\n")
 
-    # Per-decade selection.
-    selected_by_decade = {}
+    # Per-edition selection.
+    selected_by_edition = {}
 
-    for decade in sorted(strata, key=natural_sort_key):
-        lemmas = strata[decade]
-        chosen = lemmas[:args.per_decade]
-        selected_by_decade[decade] = chosen
+    for edition in sorted(strata, key=edition_sort_key):
+        lemmas = strata[edition]
+        chosen = lemmas[:args.per_edition]
+        selected_by_edition[edition] = chosen
 
         print(
-            f"{decade:<6} → selected {len(chosen)}/{args.per_decade} "
+            f"{edition:<10} → selected {len(chosen)}/{args.per_edition} "
             f"from {len(lemmas)} available POSKW lemmas"
         )
 
-    # Build consolidated list in chronological decade order.
+    # Build consolidated list in VEm edition order.
     consolidated = []
 
-    for decade in sorted(selected_by_decade, key=natural_sort_key):
-        consolidated.extend(selected_by_decade[decade])
+    for edition in sorted(selected_by_edition, key=edition_sort_key):
+        consolidated.extend(selected_by_edition[edition])
 
     # Enforce optional max_total before de-duplication.
     if args.max_total and len(consolidated) > args.max_total:
@@ -312,9 +324,9 @@ def main():
     print(f"Unique keywords after de-duplication: {unique_count}")
     print(f"Duplicates removed: {total_count - unique_count}")
 
-    # Write per-decade outputs.
-    for decade, words in selected_by_decade.items():
-        outpath = os.path.join(args.output, f"{decade}.txt")
+    # Write per-edition outputs.
+    for edition, words in selected_by_edition.items():
+        outpath = os.path.join(args.output, f"{edition}.txt")
         write_word_list(outpath, words)
 
     # Write consolidated deduplicated output.
