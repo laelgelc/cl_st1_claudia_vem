@@ -4,24 +4,22 @@ Generate plaintext example files for each factor pole.
 
 Aligned with examples.py selection logic:
     - reads the same scores table (<project>_scores_only.tsv)
-    - uses decade as the grouping variable
-    - ranks decades using means_decade_f<n>.tsv
-    - selects: top decade -> 20 examples, other decades -> 10 each
+    - uses VEm edition as the grouping variable
+    - ranks editions using means_edition_f<n>.tsv
+    - selects: top edition -> 20 examples, other editions -> 10 each
     - skips rows where the factor score is 0
     - uses tagged corpus existence checks to keep selection stable with examples.py
+    - reconstructs plaintext from tagged TSV files using the token column
 
 The project name is inferred from the current working directory unless supplied
 explicitly with --project.
 
 Expected inputs:
     sas/output_<project>/<project>_scores_only.tsv
-    sas/output_<project>/means_decade_f<n>.tsv
+    sas/output_<project>/means_edition_f<n>.tsv
     file_ids.txt
     examples/score_details.txt
-    corpus/07_tagged/<Decade>/<Commercial ID>.txt
-    corpus/commercial_verbal/<Decade>/<Commercial ID>.txt
-        or
-    corpus/commercial_visual/<Decade>/<Commercial ID>.txt
+    corpus/07_tagged/vem_ed_XX/<Text ID>.txt
 
 Expected file_ids.txt format:
     No header
@@ -30,7 +28,10 @@ Expected file_ids.txt format:
         file_id path
 
 Example:
-    t000001 1950/tv_com_1950_1.txt
+    t000001 vem_ed_01/t001.txt
+
+Expected tagged-file format:
+    token<TAB>lemma<TAB>pos<TAB>is_alpha<TAB>is_stop
 
 Outputs:
     examples_txt/f<n>_<pole>/f<n>_<pole>_001.txt
@@ -63,14 +64,14 @@ DEFAULT_OUT_ROOT = Path("examples_txt")
 def parse_args() -> argparse.Namespace:
     """Parse command-line arguments."""
     parser = argparse.ArgumentParser(
-        description="Generate plaintext examples for factor poles by decade."
+        description="Generate plaintext examples for factor poles by VEm edition."
     )
 
     parser.add_argument(
         "--project",
         default=DEFAULT_PROJECT,
         help=(
-            "Project name, e.g. cl_st1_ph2_andrea or cl_st1_ph3_andrea. "
+            "Project name, e.g. cl_st1_claudia_vem. "
             "Default: current directory name."
         ),
     )
@@ -88,15 +89,6 @@ def parse_args() -> argparse.Namespace:
         help="Tagged corpus root. Default: corpus/07_tagged.",
     )
     parser.add_argument(
-        "--fulltext-root",
-        default=None,
-        help=(
-            "Full-text corpus root. "
-            "Default: corpus/commercial_verbal for phase 2, "
-            "corpus/commercial_visual for phase 3 if present."
-        ),
-    )
-    parser.add_argument(
         "--file-ids",
         default=str(DEFAULT_FILE_IDS_PATH),
         help="Path to file_ids.txt.",
@@ -112,16 +104,16 @@ def parse_args() -> argparse.Namespace:
         help="Output directory. Default: examples_txt.",
     )
     parser.add_argument(
-        "--top-decade-examples",
+        "--top-edition-examples",
         type=int,
         default=20,
-        help="Number of examples for the top-ranked decade.",
+        help="Number of examples for the top-ranked VEm edition.",
     )
     parser.add_argument(
-        "--other-decade-examples",
+        "--other-edition-examples",
         type=int,
         default=10,
-        help="Number of examples for each other decade.",
+        help="Number of examples for each other VEm edition.",
     )
 
     return parser.parse_args()
@@ -133,33 +125,6 @@ def resolve_sas_output_dir(project: str, sas_output_dir_arg: str | None) -> Path
         return Path("sas") / f"output_{project}"
 
     return Path(sas_output_dir_arg)
-
-
-def resolve_fulltext_root(project: str, fulltext_root_arg: str | None) -> Path:
-    """Resolve the full-text corpus root."""
-    if fulltext_root_arg is not None:
-        return Path(fulltext_root_arg)
-
-    visual_root = Path("corpus/commercial_visual")
-    verbal_root = Path("corpus/commercial_verbal")
-
-    if "ph3" in project and visual_root.exists():
-        return visual_root
-
-    if "ph2" in project and verbal_root.exists():
-        return verbal_root
-
-    if visual_root.exists():
-        return visual_root
-
-    if verbal_root.exists():
-        return verbal_root
-
-    raise FileNotFoundError(
-        "Could not infer full-text corpus root. Expected one of: "
-        "corpus/commercial_visual or corpus/commercial_verbal. "
-        "Alternatively, pass --fulltext-root."
-    )
 
 
 # ============================================================
@@ -177,7 +142,7 @@ def load_id_map(path: Path) -> dict[str, str]:
     Load file-id to relative path map.
 
     Expected format:
-        t000001 1950/tv_com_1950_1.txt
+        t000001 vem_ed_01/t001.txt
     """
     if not path.exists():
         raise FileNotFoundError(f"Required file missing: {path}")
@@ -302,32 +267,63 @@ def locate_tagged_text(
     return None
 
 
-def locate_fulltext(
-        row: pd.Series,
-        id_map: dict[str, str],
-        fulltext_root: Path,
-) -> Path | None:
-    """Locate full original text using file_ids.txt relative path."""
-    text_id = row["filename"]
-    relative_path = id_map.get(text_id)
+def reconstruct_plaintext_from_tagged(path: Path) -> str:
+    """
+    Reconstruct readable plaintext from a tagged TSV file.
 
-    if not relative_path:
-        return None
+    Expected format:
+        token<TAB>lemma<TAB>pos<TAB>is_alpha<TAB>is_stop
 
-    path = fulltext_root / relative_path
+    The token column is used. Header rows are skipped.
+    """
+    tokens: list[str] = []
 
-    if path.exists():
-        return path
+    with path.open("r", encoding="utf-8") as f:
+        for line_number, line in enumerate(f, start=1):
+            line = line.rstrip("\n")
 
-    return None
+            if not line:
+                continue
+
+            parts = line.split("\t")
+
+            if len(parts) < 5:
+                continue
+
+            token, lemma, pos, is_alpha, is_stop = parts[:5]
+
+            if line_number == 1 and token == "token" and lemma == "lemma" and pos == "pos":
+                continue
+
+            tokens.append(token)
+
+    text = " ".join(tokens)
+
+    # Basic spacing fixes for punctuation and brackets.
+    text = re.sub(r"\s+([,.!?;:])", r"\1", text)
+    text = re.sub(r"\(\s+", "(", text)
+    text = re.sub(r"\s+\)", ")", text)
+    text = re.sub(r"\[\s+", "[", text)
+    text = re.sub(r"\s+\]", "]", text)
+
+    # Quotation spacing.
+    text = re.sub(r"\s+([”’])", r"\1", text)
+    text = re.sub(r"([“‘])\s+", r"\1", text)
+    text = re.sub(r'\s+"', '"', text)
+    text = re.sub(r'"\s+', '"', text)
+
+    # Slash spacing.
+    text = re.sub(r"\s+/\s+", "/", text)
+
+    return text.strip()
 
 
 def write_plaintext_example(
         *,
         outfile: Path,
         text_id: str,
-        decade: str,
-        fulltext_path: Path,
+        edition: str,
+        tagged_path: Path,
         label: str,
         score_value,
         loading_words: list[str],
@@ -335,34 +331,34 @@ def write_plaintext_example(
     """Write one plaintext example file."""
     header = [
         f"Text ID: {text_id}",
-        f"Decade: {decade}",
-        f"File:   {fulltext_path}",
+        f"Edition: {edition}",
+        f"File:    {tagged_path}",
         "",
         f"Score ({label}): {score_value}",
         f"Loading words ({label}), N={len(loading_words)}: {', '.join(loading_words)}",
         "",
     ]
 
-    body = fulltext_path.read_text(encoding="utf-8", errors="ignore")
-    outfile.write_text("\n".join(header) + body, encoding="utf-8")
+    body = reconstruct_plaintext_from_tagged(tagged_path)
+    outfile.write_text("\n".join(header) + body + "\n", encoding="utf-8")
 
 
-def read_decade_means(means_file: Path, factor_number: int) -> dict[str, float]:
-    """Read decade means for one factor."""
+def read_edition_means(means_file: Path, factor_number: int) -> dict[str, float]:
+    """Read VEm edition means for one factor."""
     if not means_file.exists():
         raise FileNotFoundError(f"Required means file missing: {means_file}")
 
     means_df = pd.read_csv(means_file, sep="\t")
     mean_column = f"Mean fac{factor_number}"
 
-    if "decade" not in means_df.columns:
-        raise ValueError(f"Column 'decade' missing in {means_file}")
+    if "edition" not in means_df.columns:
+        raise ValueError(f"Column 'edition' missing in {means_file}")
 
     if mean_column not in means_df.columns:
         raise ValueError(f"Column '{mean_column}' missing in {means_file}")
 
     return dict(zip(
-        means_df["decade"].astype(str).str.strip(),
+        means_df["edition"].astype(str).str.strip(),
         means_df[mean_column],
     ))
 
@@ -378,7 +374,6 @@ def main() -> None:
     project = args.project
     sas_output_dir = resolve_sas_output_dir(project, args.sas_output_dir)
     tagged_base = Path(args.tagged_base)
-    fulltext_root = resolve_fulltext_root(project, args.fulltext_root)
     file_ids_path = Path(args.file_ids)
     score_details_path = Path(args.score_details)
     output_root = Path(args.output_dir)
@@ -391,15 +386,12 @@ def main() -> None:
     if not tagged_base.exists():
         raise FileNotFoundError(f"Tagged corpus root not found: {tagged_base}")
 
-    if not fulltext_root.exists():
-        raise FileNotFoundError(f"Full-text corpus root not found: {fulltext_root}")
-
     output_root.mkdir(exist_ok=True, parents=True)
 
     id_map = load_id_map(file_ids_path)
     scores_df = pd.read_csv(scores_file, sep="\t")
 
-    required_columns = {"filename", "decade"}
+    required_columns = {"filename", "edition"}
     missing_columns = required_columns - set(scores_df.columns)
 
     if missing_columns:
@@ -409,7 +401,7 @@ def main() -> None:
         )
 
     scores_df["filename"] = scores_df["filename"].astype(str).str.strip()
-    scores_df["decade"] = scores_df["decade"].astype(str).str.strip()
+    scores_df["edition"] = scores_df["edition"].astype(str).str.strip()
 
     factor_columns = detect_factor_columns(scores_df)
     num_factors = len(factor_columns)
@@ -417,7 +409,6 @@ def main() -> None:
     print(f"Project: {project}")
     print(f"Scores file: {scores_file}")
     print(f"Tagged corpus: {tagged_base}")
-    print(f"Full-text corpus: {fulltext_root}")
     print(f"Detected {num_factors} factors.\n")
 
     loading_words = parse_score_details(
@@ -436,28 +427,28 @@ def main() -> None:
                 f"Expected factor score column '{factor_column}' missing in {scores_file}"
             )
 
-        means_file = sas_output_dir / f"means_decade_f{factor_number}.tsv"
-        decade_means = read_decade_means(means_file, factor_number)
+        means_file = sas_output_dir / f"means_edition_f{factor_number}.tsv"
+        edition_means = read_edition_means(means_file, factor_number)
 
         for pole, ascending in (("pos", False), ("neg", True)):
             label = f"f{factor_number}_{pole}"
 
             print(
-                f"→ {label}: selecting by decade means "
+                f"→ {label}: selecting by VEm edition means "
                 f"(column={factor_column}, ascending={ascending})"
             )
 
-            ranked_decades = sorted(
-                decade_means.keys(),
-                key=lambda decade: decade_means[decade],
+            ranked_editions = sorted(
+                edition_means.keys(),
+                key=lambda edition: edition_means[edition],
                 reverse=not ascending,
             )
 
-            if not ranked_decades:
-                raise ValueError(f"No decades found in {means_file}")
+            if not ranked_editions:
+                raise ValueError(f"No editions found in {means_file}")
 
-            top_decade = ranked_decades[0]
-            other_decades = ranked_decades[1:]
+            top_edition = ranked_editions[0]
+            other_editions = ranked_editions[1:]
 
             sorted_df = scores_df.sort_values(by=factor_column, ascending=ascending)
 
@@ -466,25 +457,19 @@ def main() -> None:
 
             example_id = 1
 
-            # Top decade: 20 examples.
-            top_decade_df = sorted_df[sorted_df["decade"] == top_decade]
+            # Top edition: 20 examples.
+            top_edition_df = sorted_df[sorted_df["edition"] == top_edition]
 
-            for _, row in top_decade_df.iterrows():
+            for _, row in top_edition_df.iterrows():
                 if row[factor_column] == 0:
                     continue
 
-                if example_id > args.top_decade_examples:
+                if example_id > args.top_edition_examples:
                     break
 
                 tagged_path = locate_tagged_text(row, id_map, tagged_base)
 
                 if not tagged_path or not tagged_path.exists():
-                    missing_files.add(row["filename"])
-                    continue
-
-                fulltext_path = locate_fulltext(row, id_map, fulltext_root)
-
-                if not fulltext_path or not fulltext_path.exists():
                     missing_files.add(row["filename"])
                     continue
 
@@ -500,8 +485,8 @@ def main() -> None:
                 write_plaintext_example(
                     outfile=outfile,
                     text_id=text_id,
-                    decade=str(row["decade"]).strip(),
-                    fulltext_path=fulltext_path,
+                    edition=str(row["edition"]).strip(),
+                    tagged_path=tagged_path,
                     label=label,
                     score_value=row[factor_column],
                     loading_words=label_words,
@@ -509,28 +494,22 @@ def main() -> None:
 
                 example_id += 1
 
-            # Other decades: 10 examples each.
-            for decade in other_decades:
-                decade_df = sorted_df[sorted_df["decade"] == decade]
+            # Other editions: 10 examples each.
+            for edition in other_editions:
+                edition_df = sorted_df[sorted_df["edition"] == edition]
 
                 count = 0
 
-                for _, row in decade_df.iterrows():
+                for _, row in edition_df.iterrows():
                     if row[factor_column] == 0:
                         continue
 
-                    if count >= args.other_decade_examples:
+                    if count >= args.other_edition_examples:
                         break
 
                     tagged_path = locate_tagged_text(row, id_map, tagged_base)
 
                     if not tagged_path or not tagged_path.exists():
-                        missing_files.add(row["filename"])
-                        continue
-
-                    fulltext_path = locate_fulltext(row, id_map, fulltext_root)
-
-                    if not fulltext_path or not fulltext_path.exists():
                         missing_files.add(row["filename"])
                         continue
 
@@ -546,8 +525,8 @@ def main() -> None:
                     write_plaintext_example(
                         outfile=outfile,
                         text_id=text_id,
-                        decade=str(row["decade"]).strip(),
-                        fulltext_path=fulltext_path,
+                        edition=str(row["edition"]).strip(),
+                        tagged_path=tagged_path,
                         label=label,
                         score_value=row[factor_column],
                         loading_words=label_words,
