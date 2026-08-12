@@ -1,0 +1,7 @@
+Text ID: t000173
+Edition: vem_ed_33
+File:    corpus/07_tagged/vem_ed_33/t173.txt
+
+Score (f2_pos): 2
+Loading words (f2_pos), N=2: técnica, contribuir
+Aos Leitores Osvaldo Succi Jr. - Coordenador de Projetos Nesta edição, destacamos a participação da equipe de Apoio à Internacionalização do Ensino Superior (AIES) da Divisão de Extensão e Pesquisa no Ensino Superior (Depes) da Coordenadoria de Ensino Superior de Graduação (CGESG) do Centro Paula Souza (CPS) em eventos online realizados entre novembro de 2025 e fevereiro de 2026: 3ª Jornada COIL UNAM (México); VIII Seminário de Boas Práticas de Ensino e Aprendizagem (SBPEA) da Escola de Engenharia de Lorena da Universidade de São Paulo (EEL-USP) e 18ª Semana de Práticas e Atualizações Pedagógicas (SPAP). Em 2025, ocorreram as primeiras colaborações entre as Fatecs São José dos Campos e Zona Leste com a Universidade Técnica de Košice, na Eslováquia, envolvendo estudantes brasileiros e eslovacos em projetos de empreendedorismo e desenvolvimento intercultural. O ano também foi marcado por novos Projetos Colaborativos Internacionais (PCIs) com Portugal, realizados com o Instituto Politécnico de Viseu e o ISP Gaya, envolvendo temáticas como branding, negociação intercultural e modelos preditivos para segurança de redes. O Artigo de Opinião revela como a gastronomia uniu estudantes do Brasil e da Colômbia em uma rica experiência de Internacionalização em Casa. Deseja contribuir com Artigo de Opinião? Escreva para cgesg.pci@cps.sp.gov.br. Boa leitura!

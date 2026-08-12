@@ -1,0 +1,7 @@
+Text ID: t000120
+Edition: vem_ed_23
+File:    corpus/07_tagged/vem_ed_23/t120.txt
+
+Score (f2_neg): 3
+Loading words (f2_neg), N=1: f3 score: 1
+Fatec Tatuí amadurece internacionalização Em maio de 2024, a DePaul University (EUA) organizou um evento on-line para celebrar 10 anos de Global Learning Experience (GLE), que é como a universidade chama seus projetos de Intercâmbio Virtual. Na ocasião, o estudante Nat Carvalho, concluinte de Produção Fonográfica na Fatec Tatuí, fez seu depoimento em inglês fluente sobre a experiência de Internacionalização em Casa que vivenciou em 2023, junto com outros estudantes de diversas regiões do mundo. Nat relatou sua participação no PCI/Cesu conduzido pelos professores Fabrizio di Sarno e Dulce Villa Nova (Fatec Tatuí) com o professor Robert Steel (DePaul University). Em agosto de 2023, o docente norte-americano visitou várias Fatecs compartilhando sua experiência de vida e profissional. Rob Steel é compositor para cinema, vídeo e outras mídias e diretor do curso de Design de Som e Estúdio de Som CDM na DePaul. Seu projeto de GLE recebeu uma bolsa da universidade dos EUA, o que permitiu que ele viesse para São Paulo por uma semana em agosto do ano passado. O professor visitou as unidades de Barueri, Ipiranga, São Caetano e Tatuí. Nesta última, desenvolveu o PCI/Cesu na área de produção fonográfica ao longo do segundo semestre de 2023. Saiba mais detalhes sobre essa visita no site Cesu: https://cesu.cps.sp.gov.br/professor-da-depaul-university-eua-visita-fatecs/

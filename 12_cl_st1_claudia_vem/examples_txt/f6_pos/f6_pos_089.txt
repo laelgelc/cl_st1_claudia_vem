@@ -1,0 +1,7 @@
+Text ID: t000062
+Edition: vem_ed_14
+File:    corpus/07_tagged/vem_ed_14/t062.txt
+
+Score (f6_pos): 1
+Loading words (f6_pos), N=2: melhorar, padlet
+PERCEPÇÃO DOS PROFESSORES PESQUISA 1º SEMESTRE DE 2022 Dos 83 professores que responderam à pesquisa de percepção, 41 realizaram o projeto pela primeira vez. Isso é resultado da divulgação dos PCIs e da orientação dos docentes interessados em realizar colaborações internacionais – a cargo da equipe dos PCIs/Cesu. Alguns professores participaram de mais de um PCI no primeiro semestre de 2022, por isso, o questionário retornou ao todo 99 respostas, das quais 55 pretendem manter parceiro e projeto; 17 propõem continuar com o parceiro e apenas mudar o projeto; 14 desejam mudar PCI e colega colaborador; 4 querem buscar outro professor e manter o mesmo projeto. Os professores recomendariam um PCI para seus colegas de Fatec e concordam que os PCIs possibilitam novas atividades acadêmicas a partir da experiência do colega internacional. 66 % consideram que a interação professor-aluno melhorou muito com os PCIs 100 % avaliam a interação com o colega estrangeiro"ótima"ou"boa"Ferramentas digitais mais utilizadas pelos professores Whatsapp (84) E-mail (73) Teams (52) Google Drive (50) Padlet (48) Zoom (45)

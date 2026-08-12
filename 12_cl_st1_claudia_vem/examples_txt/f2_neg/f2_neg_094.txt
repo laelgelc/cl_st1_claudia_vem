@@ -1,0 +1,7 @@
+Text ID: t000019
+Edition: vem_ed_05
+File:    corpus/07_tagged/vem_ed_05/t019.txt
+
+Score (f2_neg): 2
+Loading words (f2_neg), N=1: f3 score: 1
+Intercâmbios Virtuais: pesquisa 2020 Ao término dos Projetos Colaborativos Internacionais realizados no segundo semestre de 2020, estudantes e professores responsáveis pelos Intercâmbios Virtuais nas 20 Fatecs participantes foram convidados a responder a uma pesquisa de percepção. Dos 34 professores, 25 responderam; dos 833 alunos, aproximadamente 400 retornaram o questionário. A seguir, uma síntese dos principais resultados. ALUNOS 79 % indicariam a experiência para outros alunos 84 % consideram que a competência no idioma estrangeiro melhorou 72 % avaliam interação com colegas estrangeiros como"ótima"ou"boa"86 % avaliam interação com colegas brasileiros"ótima"ou"boa"63 % acham que o Intercâmbio virtual melhora desempenho acadêmico PROFESSORES 100 % recomendariam a experiência para outros docentes 88 % afirmam que a competência no idioma estrangeiro melhorou. 88 % avaliam como"ótima"e 12 % como"boa"a interação com colegas estrangeiros. 92 % observaram que a interação dos alunos melhorou com a inserção dos projetos colaborativos nas atividades de aula 72 % concordam totalmente que as colaborações contribuem para pesquisas na área do professor 92 % concordam totalmente que o intercâmbio virtual possibilita novas atividades acadêmicas a partir da experiência do parceiro internacional. Ferramentas digitais mais utilizadas Whatsapp E-mail Zoom

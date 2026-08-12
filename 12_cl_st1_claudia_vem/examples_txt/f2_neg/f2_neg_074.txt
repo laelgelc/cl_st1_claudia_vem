@@ -1,0 +1,7 @@
+Text ID: t000051
+Edition: vem_ed_12
+File:    corpus/07_tagged/vem_ed_12/t051.txt
+
+Score (f2_neg): 2
+Loading words (f2_neg), N=1: f3 score: 2
+PESQUISA DE PERCEPÇÃO SOBRE OS PCIs Em nove anos de realização de Projetos Colaborativos Internacionais nas Fatecs, aproximadamente 5.000 pessoas participaram dessas atividades de Internacionalização em Casa. Somente em 2021, foram 69 PCIs, com cerca de 1.800 participantes de 32 Fatecs: 725 alunos no primeiro semestre e mais de 1.000 no segundo semestre. Para 93 % dos 593 estudantes que responderam à pesquisa de percepção sobre os PCIs realizados nas Fatecs durante o segundo semestre de 2021, participar do projeto melhora o desempenho acadêmico e as chances de sucesso no mercado de trabalho. Assim como na pesquisa anterior, realizada no primeiro semestre de 2021, os maiores desafios para os alunos foram administrar o tempo, interagir e comunicar-se com a equipe. As pesquisas de percepção, realizadas desde 2020 para professores e estudantes envolvidos nos PCIs das Fatecs, são aplicadas no fim de cada semestre letivo. Esse instrumento foi desenvolvido pela equipe dos PCIs/Cesu para avaliação e melhoria contínua dos projetos. Resumos sobre os principais resultados das pesquisas anteriores (segundo semestre de 2020 e primeiro semestre de 2021) estão publicados nas edições 5, 8 e 9 de VEm: https://cesu.cps.sp.gov.br/vem-newsletter-bimestral-dos-projetos-colaborativos-internacionais-pci/

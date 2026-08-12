@@ -1,0 +1,7 @@
+Text ID: t000076
+Edition: vem_ed_17
+File:    corpus/07_tagged/vem_ed_17/t076.txt
+
+Score (f1_pos): 1
+Loading words (f1_pos), N=4: colaborativo, superior, número, ser
+AVALIAÇÃO DOS PCIS: EVOLUÇÃO 2013-2022 Neste primeiro semestre de 2023, completam-se 10 anos desde o primeiro Projeto Colaborativo Internacional (PCI/Cesu) realizado na Fatec Americana. Intitulado “Approaching International Managers”, o PCI conduzido por Carlos Augusto Amaral Moreira ganhou o Prêmio Santander Universidades/Guia do Estudante em 2014. Entre 2013 e 2022, colaboraram com a Unidade de Ensino Superior (Cesu/CPS) 49 Instituições de Ensino Superior Internacionais em 17 países de 4 continentes. Os PCIs atenderam 80 alunos em 2013 e em 2022 foram 2.633, totalizando 7.484 estudantes em 9 anos. PCI em números - 2022 125 PCIs Em 48 Fatecs diferentes Com a participação de 69 professores 2.633 estudantes 32 IES de 15 países PAÍSES PARCEIROS (2013 - 2022) África do Sul Argentina Armênia Canada Chile China Colômbia EUA Filipinas França Índia Israel Japão México Países Baixos Polônia Portugal
