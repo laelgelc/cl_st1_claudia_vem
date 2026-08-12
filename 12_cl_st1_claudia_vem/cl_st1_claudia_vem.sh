@@ -114,7 +114,9 @@ python sas_formats.py
 ## RUN SAS
 ## Rogerio Yamada's account
 
-python factor_lists.py
+python factor_lists.py \
+    --project cl_st1_claudia_vem \
+    --sas-output-dir sas/output_cl_st1_claudia_vem
 # Output: factors
 
 python corpus_size.py
