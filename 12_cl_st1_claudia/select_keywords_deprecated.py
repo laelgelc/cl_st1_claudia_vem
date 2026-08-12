@@ -50,7 +50,7 @@ from dataclasses import dataclass
 
 
 INPUT_DIR = "corpus/08_keylemmas"
-OUTPUT_DIR = "corpus/09_kw_selected"
+OUTPUT_DIR = "corpus/09_kw_selected_deprecated"
 OUTPUT_FILE = "keywords.txt"
 DETAILS_FILE = "keywords_details.txt"
 DEFAULT_NUM_KEYWORDS = 100

@@ -5,8 +5,11 @@ python keylemmas.py \
     --output corpus/08_keylemmas \
     --cutoff 3
 
-python select_keywords.py --num-keywords 40
+#python select_keywords_deprecated.py --num-keywords 40
 # Output: corpus/09_kw_selected
+
+
+
 "
 === Keyword Quotas ===
 generic_gpt     → 250 keywords (max)
