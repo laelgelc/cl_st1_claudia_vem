@@ -1,0 +1,108 @@
+## Interpretation of Factor f1, positive pole
+
+Factor **f1_pos** is best interpreted as a discourse of **reflective, institutionalised internationalisation through collaborative virtual projects in professional higher education**. Texts scoring highly on this pole present **PCIs/COIL/intercâmbio virtual/Internacionalização em Casa** as pedagogically meaningful practices that connect language learning, intercultural interaction, curricular integration, professional preparation, project design, and institutional strategy.
+
+This pole is not simply “news about international projects”. It is more specifically a **pedagogical-reflective and programmatic discourse**: texts explain how collaborative international projects are designed, implemented, evaluated, improved, and justified as formative experiences for students, teachers, courses, and institutions.
+
+---
+
+## Possible labels for f1_pos
+
+### 1. **Reflective discourse of Collaborative International Projects and Internationalisation at Home**
+
+This is the strongest label because the high-scoring excerpts are overwhelmingly about **PCIs/Cesu, COIL, intercâmbios virtuais, Internacionalização em Casa**, and their educational value. The examples from **vem_ed_28** and **vem_ed_34** repeatedly frame virtual exchange as a way to promote international, intercultural, linguistic, academic, and professional development without physical mobility.
+
+The label is supported by loading words such as:
+
+- **integração, interculturalidade, intercâmbio, conexão, diálogo, troca, colaboração/colaborativo**
+- **institucional, superior, programa, proposta, coordenação, cgesg**
+- **idioma, linguístico, competência, habilidade, aprendizado**
+- **promover, desenvolver, fortalecer, ampliar, expandir**
+
+The examples make this discourse especially clear. In **vem_ed_28**, all five excerpts concern PCIs: narrative writing with Colombia, English and intercultural marketing with the University of Minnesota Crookston, logistics with Uniminuto, professional placement through virtual exchange, and an editorial introduction to PCI experience reports. In **vem_ed_34**, the same pole is driven by texts on durable PCIs, the 20th anniversary of COIL, FAUBAI presentations on Internacionalização em Casa, and a Brazil–Peru textile/fashion PCI.
+
+---
+
+### 2. **Pedagogical-design discourse of virtual exchange: planning, collaboration, reflection and evaluation**
+
+A second suitable label foregrounds the strong pedagogical and procedural vocabulary in the loadings. The pole is marked by words that describe **educational design, project implementation, curricular articulation, time management, assessment, and continuous improvement**:
+
+- **pedagogia, aprendizado, curricular, disciplina, conteúdo, educativo**
+- **estrutura, implementar, cronograma, horário, síncrono, assíncrono, tarefa, produto**
+- **analisar, identificar, propor, estabelecer, alinhar, avaliar/avaliação, reflexão**
+- **processo, desenvolvimento, continuidade, melhoria, bem-sucedido**
+- **fator, ponto, elemento, princípio, estratégia**
+
+The excerpts are highly consistent with this. For example, **t149 from vem_ed_28** discusses the structure of the “Escrituras Narrativas” project, its phases, duration, synchronous and asynchronous activities, post-project evaluation, and adjustments across editions. **t185 from vem_ed_34**, “Cultivando PCIs duradouros”, is almost a prototypical text for this pole: it explicitly lists factors of success, planning, execution, evaluation, flexibility, collaboration, institutional support, reciprocity, and sustainability of partnerships.
+
+This suggests that f1_pos encodes a discourse in which international collaboration is not treated as an event but as a **designed pedagogical process**.
+
+---
+
+### 3. **Transformative intercultural-professional competence discourse**
+
+A third possible label highlights the recurrent emphasis on student formation for a globalised professional world. The pole repeatedly connects PCIs/COIL to the development of competences needed for professional and civic life:
+
+- **profissional, mercado, competência, habilidade, socioemocional**
+- **humano, empatia, compreensão, mútuo, pessoa**
+- **futuro, século xxi, impacto, desenvolvimento**
+- **crítico, perspectiva, realidade, diferença**
+- **comunicação, idioma, linguístico, interculturalidade**
+
+The examples repeatedly argue that virtual exchange develops students’ intercultural, linguistic, socioemotional, and professional capacities. In **t147**, PCIs are presented as preparing students for a globalised labour market by developing communication, teamwork, and problem-solving in international contexts. In **t148**, English learning is linked to intercultural marketing, business contexts, reports, interviews, socioemotional competences, and professional formation. In **t150**, logistics content, Spanish, sustainability, and future work environments are integrated. In **t182**, the COIL webinar text explicitly stresses human competences such as empathy, collaboration, perspective-taking, and critical thinking.
+
+This label captures the more aspirational and transformative side of the pole: collaborative international projects are represented as producing broader changes in students, teachers, curricula, and institutions.
+
+---
+
+## Edition evidence
+
+The pole is especially driven by later editions of VEm. The strongest mean scores are:
+
+- **vem_ed_28: 65.4**
+- **vem_ed_34: 50.0**
+- **vem_ed_35: 46.83**
+- **vem_ed_27: 40.75**
+- **vem_ed_29: 37.0**
+- **vem_ed_30: 31.4**
+- **vem_ed_32: 28.86**
+- **vem_ed_31: 24.67**
+
+The examples come mainly from **vem_ed_28** and **vem_ed_34**, which therefore appear to be central drivers of the interpretation. Both editions seem to be thematically organised around PCIs/COIL and internationalisation practices. The very high score of **t149** in vem_ed_28, for instance, shows how a long reflective report densely combining pedagogy, narrative, interculturality, language learning, project structure, evaluation, and collaboration strongly activates this pole. Similarly, **t185** in vem_ed_34 explicitly theorises successful and durable PCIs, aligning closely with the pole’s lexical profile.
+
+The high means for **vem_ed_27–35** suggest that this discourse becomes particularly prominent in the later VEm editions, where the magazine appears to give substantial space to PCIs, COIL, Internacionalização em Casa, institutional consolidation, and reports of collaborative international practice.
+
+---
+
+## Overall interpretation
+
+Factor **f1_pos** can therefore be interpreted as a dimension of:
+
+> **Institutional-pedagogical reflection on collaborative virtual internationalisation in professional higher education.**
+
+It is characterised by a dense combination of:
+
+1. **Internationalisation-at-home / COIL / PCI discourse**  
+   Collaborative projects, virtual exchange, international partnerships, institutional networks.
+
+2. **Pedagogical and curricular design discourse**  
+   Planning, implementation, methodology, synchronous/asynchronous interaction, evaluation, improvement, project-based learning.
+
+3. **Intercultural and linguistic development discourse**  
+   Language learning, communication, empathy, mutual understanding, dialogue, cultural difference.
+
+4. **Professional formation discourse**  
+   Competences, skills, market relevance, global professional preparation, socioemotional development.
+
+5. **Institutional consolidation discourse**  
+   Support, coordination, continuity, durable partnerships, policy, expansion, strategic importance.
+
+A concise label would be:
+
+> **“Reflective internationalisation-at-home pedagogy through collaborative virtual projects.”**
+
+Alternative shorter labels:
+
+- **“Collaborative virtual internationalisation and professional formation”**
+- **“PCI/COIL pedagogical reflection and institutional development”**
+- **“Intercultural collaborative project-based learning in higher professional education”**

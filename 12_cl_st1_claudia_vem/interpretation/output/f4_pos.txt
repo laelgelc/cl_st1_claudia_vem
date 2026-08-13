@@ -1,0 +1,149 @@
+## Factor f4 (positive): interpretation as a discourse dimension
+
+The positive pole of Factor 4 appears to encode a discourse of **institutionalised international virtual exchange as a collaborative, inclusive, problem-solving pedagogy**. It is especially associated with VEm texts that present, evaluate, disseminate, and legitimise **COIL/PCI practices**, IVES symposiums, internationalisation-at-home initiatives, and the practical/human challenges of sustaining global online collaboration.
+
+A concise label for this pole could be:
+
+### **“Collaborative Virtual Internationalisation: COIL/PCI as inclusive global learning and institutional practice”**
+
+Other possible labels are:
+
+1. **“COIL/PCI internationalisation discourse: bridges, challenges and collaborative global learning”**  
+2. **“Institutional discourse of virtual exchange, inclusion and pedagogical innovation”**  
+3. **“Networked global learning and human-centred connectivity”**  
+4. **“Internationalisation at Home through collaborative online projects”**  
+5. **“Strategic dissemination of virtual exchange practices and partnerships”**
+
+---
+
+## Why this interpretation fits the loadings
+
+The loading vocabulary points strongly to a discourse around **international collaboration, virtual connectivity, institutional implementation, and reflective problem-solving**.
+
+Several lexical clusters are particularly salient.
+
+### 1. Virtual/global connection and internationalisation
+
+High-loading words such as **conectividade**, **globalizado**, **remoto**, **distância**, **geográfico**, **europeu**, **universitário**, **exchange**, **mobilidade**, **rede**, **conexão**, **presencial**, and **fuso** point to a discourse concerned with international academic contact across physical distance.
+
+These are not merely neutral references to online tools. They are embedded in a discourse of **internationalisation**, especially internationalisation that can occur through virtual or hybrid forms rather than only through physical mobility.
+
+### 2. COIL/PCI collaboration and co-construction
+
+Words such as **cocriar**, **colabor**, **cooperação**, **facilitação**, **mentoria**, **par**, **dialogar**, **junto**, **construção**, **conectar**, and **rede** suggest collaborative pedagogical processes. The pole is not simply about international events; it is about creating structured spaces where students, teachers and institutions work together across borders.
+
+The presence of **facilitação**, **mentoria**, **oficina**, **pedagógico**, **pedagogia**, **formar**, and **aprendizagem-related vocabulary** also frames this collaboration as an educational methodology rather than only an administrative partnership.
+
+### 3. Challenges, uncertainty and practical problem-solving
+
+A central feature of the pole is the vocabulary of difficulty and resolution: **obstáculo**, **ponte**, **incerteza**, **ansiedade**, **atrito**, **encarar**, **lidar**, **resolver**, **solucionar**, **superar**, **ponderar**, **decisão**, **prazo**, **carga**, **calendário**, **horário**, and **flexível**.
+
+This suggests that the discourse is not celebratory in a simple way. It is a reflective, managerial-pedagogical discourse that acknowledges the practical challenges of virtual exchange — time zones, workload, communication styles, institutional calendars, student anxiety, teacher preparation — and presents them as problems to be addressed through planning, flexibility, dialogue and partnership.
+
+### 4. Inclusion, equity, sustainability and critical global education
+
+The loadings also include **inclusivo**, **inclusão**, **equidade**, **interseccionalidade**, **sustentabilidade**, **sustentável**, **consciente**, **crítico**, **humano**, and **globalizado**. These items show that the positive pole is tied to a value-laden discourse: virtual exchange is represented as a way to democratise access to international experiences, support inclusive education, develop global competences, and connect with broader ethical or sustainability agendas.
+
+### 5. Event dissemination and institutional consolidation
+
+Another strong lexical layer is institutional and event-oriented: **inaugural**, **recorde**, **palestra**, **palestrante**, **especialista**, **divulgação**, **playlists**, **calendário**, **administrativo**, **coordenação**, **reunião**, **quadro**, **histórico**, **consolidar**, **estratégia**, **implementação**, **manutenção**, **expansão**, and **cgesg**.
+
+This indicates that the pole is also driven by texts that report, archive and legitimise events such as IVES, FAUBAI presentations, workshops and institutional initiatives. The discourse is therefore partly one of **public institutional communication**: VEm is documenting the growth, history and consolidation of COIL/PCI as an institutional programme.
+
+---
+
+## Why this interpretation fits the example excerpts
+
+The examples strongly reinforce the loading-based interpretation, especially because the highest-scoring texts come from editions focused on IVES, PCIs and COIL.
+
+### Edition 35 as the main driver
+
+The edition scores show that **vem_ed_35** is by far the strongest edition at this pole, with a mean Factor 4 score of **23.67**, much higher than all other editions. It also has a very large standard deviation, suggesting that one or more texts in that edition are extremely dense in this factor’s vocabulary. This is confirmed by excerpt **f4_pos_001**, which has an exceptionally high score of **97**.
+
+The dominant text from vem_ed_35 is a long report on the **5th IVES 2026**, whose theme is explicitly “Cooperation in COIL Virtual Exchange: hurdles and bridges”. This text directly contains many of the factor’s strongest loading words: **conectividade**, **alicerce**, **cocriar**, **globalizado**, **incerteza**, **ansiedade**, **difusão**, **interseccionalidade**, **solucionar**, **europeu**, **atrito**, **estudantil**, **flexível**, **dialogar**, **mentoria**, **facilitação**, **remoto**, **inovador**, **distância**, **geográfico**, **especialista**, **palestra**, **divulgação**, **presencial**, **oficina**, **calendário**, **administrativo**, **espaço**, **reunião**, among many others.
+
+This excerpt is almost a complete realisation of the pole. It combines:
+
+- international virtual exchange;
+- COIL/PCI terminology;
+- institutional event reporting;
+- global networks such as UNICollaboration, IVEC, Red LatAM COIL and BraVE;
+- inclusion and equity;
+- pedagogical innovation;
+- practical obstacles such as time zones, communication problems, uncertainty and workload;
+- metaphors of bridges and human connection;
+- historical consolidation of IVES and PCIs.
+
+The discourse is therefore not simply “online education”. It is specifically **international collaborative online learning as an institutionalised, strategic, inclusive and reflective practice**.
+
+### Practical COIL implementation in high-scoring examples
+
+Excerpt **f4_pos_002**, also from vem_ed_35, reports a PCI between Fatecs and Setsunan University in Japan. It illustrates the practical side of the pole: **fuso horário**, **calendário**, **prazos**, **carga de trabalho**, asynchronous tasks, use of Padlet and videos, and the need for ongoing teacher commitment. Loading words such as **prazo**, **carga**, **distância**, **calendário**, **espaço**, **lidar**, **sintetizar**, and **evidenciar** align with the problem-solving and logistical-management vocabulary of the factor.
+
+This example shows that the pole includes not only symposium-level discourse but also **case reports of collaborative international projects**, especially where distance and difference are transformed into pedagogical opportunity.
+
+### Human and cultural dimensions of exchange
+
+Excerpt **f4_pos_003** presents PCIs with Chile around coffee and chocolate. It uses fewer loading words, but it exemplifies the more humanistic strand of the factor: internationalisation as exchange of memories, identities, narratives and cultural meanings. Loading words such as **significar**, **curiosidade**, **desaparecer**, **palavra**, **surgir**, **trajetória**, **espaço**, and **reunião** support a discourse of intercultural encounter.
+
+This matters because the factor is not only administrative or technological. The examples repeatedly frame virtual exchange as a way to create **human bridges**, emotional connections and intercultural understanding.
+
+### Opinion and legitimising discourse
+
+Excerpt **f4_pos_004** is an opinion piece explicitly arguing that COIL/PCI initiatives “conectam, transformam e ampliam horizontes”. It includes loading words such as **estudantil**, **dialogar**, **geográfico**, **trajetória**, **inclusivo**, **inovador**, and **junto**. This text represents the evaluative and promotional side of the pole: PCIs are described as inclusive, transformative, global and aligned with the future of education.
+
+Excerpt **f4_pos_005**, the editorial “Aos Leitores”, condenses the whole edition’s agenda: PCIs, IVES, specialists, virtual and presencial activities, inclusion, global education and cooperation. It has fewer loading words, but thematically it positions the edition within the discourse captured by the factor.
+
+### Hybrid and event-report dimensions
+
+Excerpt **f4_pos_006**, about Kirkwood Community College visiting Fatec Itaquera, has only two loading words, **palestra** and **presencial**, but it illustrates another aspect of the pole: virtual PCIs can be complemented by physical visits, lectures and collaborative activities. The pole therefore allows for hybrid internationalisation, not only fully online exchange.
+
+### Edition 29 as a secondary driver
+
+The second-highest mean edition score is **vem_ed_29** with **6.25**, and several examples from this edition also align closely with the factor.
+
+Excerpt **f4_pos_007** reports **IVES Cesu 2025**, including playlists, international speakers, global learning, COIL history, soft skills, interculturality, critical virtual exchange, mobility, sustainability and institutional dissemination. Loading words such as **playlists**, **atrito**, **dialogar**, **especialista**, **maio**, **criação**, **administrativo**, and **espaço** connect this text to both the event-reporting and reflective COIL strands of the factor.
+
+Excerpt **f4_pos_008** is an opinion piece on cultural exchange in a PCI with Tianjin Normal University. It foregrounds intercultural dialogue, collaborative video production, global citizenship, soft skills and transformative learning. Loading words such as **consciente**, **colabor**, **surgir**, **deixar**, **trajetória**, **evidenciar**, **administrativo**, and **reunião** again fit the factor’s blend of pedagogical reflection, institutional work and intercultural collaboration.
+
+Excerpt **f4_pos_009** reports a FAUBAI 2025 presentation on AI in a COIL documentary project, connecting COIL, critical literacies, sustainability, inclusion, mobility and internationalisation of the curriculum. This supports the interpretation that the factor includes **conference dissemination and critical/strategic discussion of virtual exchange**, not only direct project reports.
+
+---
+
+## Editions that appear to drive the pole
+
+The strongest evidence comes from the edition scores and examples.
+
+### Main driver: vem_ed_35
+
+**vem_ed_35** is overwhelmingly the main driver of the positive pole. Its mean score is **23.67**, far above all other editions, and the highest-scoring text in the examples is from this edition with a score of **97**. The edition appears to be centred on the 5th IVES CGESG 2026 and related PCI/COIL reports, which directly match the factor loadings.
+
+### Secondary driver: vem_ed_29
+
+**vem_ed_29** is the next most important edition, with a mean of **6.25**. Its examples focus on IVES 2025, FAUBAI, COIL, PCIs, intercultural exchange and institutional internationalisation. It therefore reinforces the interpretation that the pole is associated with **symposium/conference reporting and the consolidation of virtual exchange practices**.
+
+### Other high-scoring editions
+
+Other relatively high-scoring editions include **vem_ed_26** mean **4.80**, **vem_ed_01** mean **4.75**, **vem_ed_27** mean **4.50**, **vem_ed_02** and **vem_ed_13** mean **4.25**, **vem_ed_32** mean **4.14**, and **vem_ed_07/vem_ed_28** mean **4.00**. Without excerpts from these editions, they should be interpreted cautiously. However, their scores suggest that this discourse is not limited to the final edition; it likely recurs in earlier issues wherever VEm foregrounds internationalisation projects, virtual exchange, institutional events, partnerships, or reflective discussions of COIL/PCI practice.
+
+---
+
+## Overall interpretation
+
+Factor f4 positive can be interpreted as a discourse dimension of:
+
+### **International collaborative online learning as institutional, inclusive and strategic practice**
+
+At this pole, VEm texts present COIL/PCI and related initiatives as mechanisms for:
+
+- expanding internationalisation without requiring physical mobility;
+- connecting students, teachers and institutions across countries;
+- developing global, intercultural, digital and collaborative competences;
+- managing practical obstacles such as time zones, calendars, workload, anxiety and communication friction;
+- promoting inclusion, equity and sustainability;
+- consolidating institutional expertise through events, lectures, symposiums, workshops, reports and networks;
+- framing virtual exchange as both a pedagogical innovation and a humanising form of global education.
+
+The best label is therefore:
+
+## **“Collaborative Virtual Internationalisation: COIL/PCI as inclusive global learning and institutional practice”**

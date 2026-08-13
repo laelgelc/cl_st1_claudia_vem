@@ -1,0 +1,136 @@
+## Interpretação de f3 (neg)
+
+O polo **f3_neg** parece codificar um discurso de **gestão pedagógico-operacional dos PCIs/COIL**, centrado em planejamento, organização temporal, desenho de atividades, desenvolvimento de competências interculturais e consolidação/melhoria contínua dos projetos.
+
+Embora as médias de f3 não sejam negativas em termos absolutos, o polo negativo deve ser interpretado a partir das **edições com menores médias**. As que mais orientam esta leitura são sobretudo:
+
+- **vem_ed_09** — média 2,00, a menor da tabela;
+- **vem_ed_17** — média 2,125, a segunda menor;
+- em menor grau, **vem_ed_08**, **vem_ed_22**, **vem_ed_12** e **vem_ed_19**, também entre as pontuações mais baixas.
+
+Os exemplos fornecidos vêm quase todos de **vem_ed_09** e **vem_ed_17**, o que reforça que este polo é fortemente associado a essas edições.
+
+---
+
+## Discursos principais neste polo
+
+### 1. Planejamento, rotina, cronograma e gestão do trabalho colaborativo
+
+As cargas lexicais mais fortes incluem um conjunto bastante coerente de termos de organização processual:
+
+- **ajustar**, **rotina**, **mudança**, **cronograma**, **cumprir**, **horário**, **calendário**, **duração**, **sequência**, **prévio**, **anterior**, **pontual**, **início**, **iniciar**, **carga**, **acumular**, **reduzir**, **distribuir**.
+
+Esse vocabulário aponta para um discurso de **administração prática dos projetos**: como organizar etapas, combinar agendas, cumprir prazos, lidar com carga de trabalho, ajustar rotinas e preparar atividades previamente.
+
+Nos exemplos, isso aparece com clareza sobretudo em **vem_ed_17**, no texto sobre boas práticas da professora Lilian de Souza, que organiza sites com:
+
+- etapas;
+- datas-limite;
+- orientações para entregas;
+- links de reuniões síncronas;
+- informações básicas de cada projeto;
+- condução simultânea de vários PCIs.
+
+Também aparece em **vem_ed_09**, quando Ricardo Pompeu enfatiza a importância de uma “preparação estratégica prévia”, de compreender expectativas, perfil dos alunos, afinidade entre disciplinas e duração dos projetos. Ainda que os excertos não tragam muitos itens exatamente como formas lematizadas da lista, o campo semântico das loadings é fortemente realizado no conteúdo: planejamento, duração, organização, sequência e ajuste.
+
+---
+
+### 2. Desenho pedagógico, atividades e construção de competências
+
+Outro agrupamento lexical importante envolve práticas educacionais e desenvolvimento de capacidades:
+
+- **exercício**, **educativo**, **básico**, **capacidade**, **identificar**, **comparar**, **diferenciar**, **escrever**, **expressão**, **textual**, **visual**, **narrar**, **storytelling**, **citação**, **construção**, **articular**, **utilizar**, **experimentar**, **experimentação**.
+
+Esse conjunto sugere um discurso de **design instrucional e aprendizagem por atividades**: os PCIs são apresentados como experiências pedagógicas estruturadas, com tarefas, produtos, textos, apresentações, comparação cultural, expressão comunicativa e construção de conhecimento.
+
+Nos exemplos, isso é visível em **vem_ed_09**, especialmente no relato sobre competências culturais e feedback. O texto menciona:
+
+- Metodologia Ativa de Aprendizado Baseado em Problemas;
+- situação-problema;
+- textos teóricos;
+- competência de dar e receber feedback;
+- comunicação;
+- liderança;
+- gestão de equipes;
+- trabalho em equipe;
+- competências a serem desenvolvidas.
+
+Em **vem_ed_17**, a entrevista com Hope Windle também dialoga com esse campo ao falar de design instrucional, kit de ferramentas, recursos, formas flexíveis de fazer COIL e visualização de possibilidades pedagógicas.
+
+Assim, o polo não representa apenas “notícias sobre parcerias”, mas um discurso mais técnico-pedagógico sobre **como desenhar, conduzir e aperfeiçoar experiências colaborativas internacionais**.
+
+---
+
+### 3. Interação, interculturalidade, empatia e gestão de diferenças
+
+Há também uma camada relacional/intercultural nas loadings:
+
+- **interação**, **empatia**, **emoção**, **conflito**, **diferença**, **diferenciar**, **paz**, **apoio**, **colaborativo**, **escolher**, **perceber**.
+
+Esse grupo lexical aponta para um discurso de **competências sociointerculturais**: reconhecer diferenças, lidar com conflitos, desenvolver empatia, apoiar participantes e construir interações colaborativas.
+
+Essa dimensão aparece fortemente em **vem_ed_09**, uma edição centrada no Chile, na Inacap e na interculturalidade. Os excertos mencionam:
+
+- competências globais;
+- interculturalidade na formação profissional;
+- diferenças culturais;
+- comunicação entre grupos de diferentes culturas;
+- gestão de conflitos;
+- trabalho em equipe;
+- apoio da equipe dos PCIs/Cesu;
+- colaboração entre brasileiros, chilenos, holandeses, indianos e outros parceiros.
+
+Algumas palavras carregadas aparecem diretamente ou por formas próximas nos exemplos, como **apoio**, **interação**, **diferenças**, **conflitos**, **bem-sucedidas**, **prévia**, **produto(s)** e **iniciaram/iniciados**.
+
+Em **vem_ed_17**, a pesquisa de percepção dos alunos também reforça esse eixo, ao avaliar a interação com colegas brasileiros e estrangeiros e ao discutir comunicação e gerenciamento de tempo como desafios recorrentes.
+
+---
+
+### 4. Consolidação, avaliação e melhoria contínua dos PCIs
+
+Um quarto componente relevante é o discurso de consolidação institucional e avaliação de resultados. Nas loadings, isso se associa a:
+
+- **contínuo**, **bem-sucedido**, **resultar**, **anterior**, **descrito**, **essencial**, **verdadeiro**, **lógico**, **sabedoria**, **apoio**.
+
+Nos exemplos de **vem_ed_17**, esse discurso é muito evidente. A edição celebra 10 anos de PCIs, apresenta números de evolução entre 2013 e 2022, pesquisas de percepção com alunos e professores, tendências positivas, maturidade das colaborações e melhoria contínua. Há um tom de balanço institucional:
+
+- “10 anos de Projetos Colaborativos Internacionais”;
+- “melhoria contínua dos projetos”;
+- “pesquisas de percepção semestrais”;
+- “consolidação”;
+- “amadurecimento das colaborações internacionais”;
+- “resultados expressam o sucesso dessa trajetória”.
+
+Portanto, este polo também codifica um discurso de **maturação e institucionalização** dos intercâmbios virtuais: os PCIs são narrados como uma prática que se consolidou, gerou dados, resultados, aprendizado organizacional e boas práticas replicáveis.
+
+---
+
+## Possíveis labels para f3_neg
+
+### Label recomendado
+
+**“Gestão pedagógico-operacional e consolidação dos PCIs/COIL”**
+
+Este rótulo é o mais abrangente porque cobre os principais campos das loadings e dos exemplos: planejamento, cronograma, rotina, organização de atividades, competências, interação intercultural, avaliação e melhoria contínua. Ele também se ajusta às edições que mais impulsionam o polo: **vem_ed_09**, com foco em boas práticas e competências interculturais, e **vem_ed_17**, com foco em avaliação, trajetória, organização e consolidação institucional.
+
+### Alternativas possíveis
+
+1. **“Planejamento, competências interculturais e melhoria contínua dos intercâmbios virtuais”**  
+   Destaca os três eixos mais salientes: organização temporal, desenvolvimento de competências e avaliação/consolidação.
+
+2. **“Boas práticas de implementação dos PCIs”**  
+   Apropriado porque muitos exemplos vêm de seções como “Boas Práticas” e tratam de como conduzir projetos, preparar parcerias, organizar tarefas e apoiar docentes/alunos.
+
+3. **“Discurso de design instrucional e gestão colaborativa internacional”**  
+   Enfatiza o lado pedagógico-técnico das loadings: exercícios, atividades, expressão textual/visual, storytelling, construção, interação, apoio e colaboração.
+
+4. **“Maturação institucional dos intercâmbios virtuais”**  
+   Funciona especialmente bem para **vem_ed_17**, com sua retrospectiva de 10 anos, pesquisas de percepção, números acumulados, expansão e consolidação dos PCIs.
+
+---
+
+## Síntese interpretativa
+
+O polo **f3_neg** representa um discurso em que os PCIs/COIL são tratados como práticas educacionais organizadas, avaliáveis e aperfeiçoáveis. O foco recai sobre **como planejar, ajustar, sequenciar, apoiar, avaliar e consolidar** projetos colaborativos internacionais, ao mesmo tempo em que se desenvolvem competências comunicativas, interculturais e profissionais.
+
+Em termos discursivos, é um polo de **profissionalização da prática COIL/PCI**: menos centrado apenas no anúncio de eventos ou parcerias e mais voltado para a gestão concreta da experiência pedagógica, seus desafios, seus resultados e suas boas práticas.

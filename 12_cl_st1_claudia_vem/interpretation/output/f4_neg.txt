@@ -1,0 +1,200 @@
+## Interpretação do polo f4_neg
+
+O polo negativo de f4 parece codificar um **discurso de internacionalização formativa mediada por Projetos Colaborativos Internacionais / Intercâmbios Virtuais**, com ênfase em **planejamento pedagógico, colaboração síncrona, aprendizagem global, desenvolvimento de competências e institucionalização de práticas educativas internacionais**.
+
+Como os escores médios da tabela são todos positivos, para este polo negativo os textos mais relevantes são os das **edições com menores médias em f4**. As que mais claramente sustentam a interpretação, também por aparecerem nos exemplos, são:
+
+- **vem_ed_11** — menor média: 1,00; vários exemplos.
+- **vem_ed_20** — média: 1,14; vários exemplos.
+- **vem_ed_09** — média: 1,40; um exemplo.
+- Também próximas: **vem_ed_22**, **vem_ed_14**, **vem_ed_31**, embora sem excertos apresentados aqui.
+
+Essas edições são fortemente associadas a notícias sobre **PCIs, COIL, Intercâmbios Virtuais, internacionalização em casa, eventos de formação docente, ensino de línguas, aprendizagem global e avaliação/expansão de projetos**.
+
+---
+
+## Evidência lexical
+
+As cargas negativas agrupam vocabulário de quatro campos principais.
+
+### 1. Planejamento e desenho pedagógico
+
+Palavras como:
+
+- **formativo**
+- **educativo**
+- **conteúdo**
+- **material**
+- **elaboração**
+- **cronograma**
+- **síncrono**
+- **estabelecer**
+- **efetivo**
+- **pronto**
+- **ação**
+
+sugerem um discurso voltado à **organização de atividades educacionais estruturadas**. Não se trata apenas de relatar eventos, mas de apresentar projetos como práticas planejadas, com conteúdos, materiais, cronogramas, momentos síncronos e objetivos formativos.
+
+### 2. Colaboração, diálogo e construção compartilhada
+
+Outro grupo importante inclui:
+
+- **dialoguir / dialogar**
+- **compartilham**
+- **constroem**
+- **comum**
+- **reciprocidade**
+- **empatia**
+- **afinidade**
+- **entusiasmo**
+- **conhecimento**
+- **saber**
+
+Esse campo lexical aponta para uma retórica de **aprendizagem colaborativa e intercultural**, na qual participantes “constroem” conhecimento, compartilham experiências e desenvolvem empatia e reciprocidade. Isso se alinha diretamente aos PCIs e Intercâmbios Virtuais descritos nos excertos.
+
+### 3. Competências, empregabilidade e século XXI
+
+Também aparecem itens como:
+
+- **mercado**
+- **trabalhador**
+- **século**
+- **xxi**
+- **potência**
+- **produto**
+- **relevante**
+- **bem-sucedido**
+
+Esses termos introduzem uma dimensão de **formação aplicada**, típica do contexto Fatec/CPS: os projetos são apresentados não só como experiências culturais, mas como práticas que desenvolvem competências relevantes para o mercado, para o trabalhador contemporâneo e para a formação técnica e tecnológica no século XXI.
+
+### 4. Institucionalização, avaliação e expansão
+
+Palavras como:
+
+- **ampliar**
+- **estabelecer**
+- **acordo**
+- **burocrático**
+- **fator**
+- **dimensão**
+- **comparar**
+- **condição**
+- **limitar**
+- **acumular**
+- **início**
+
+apontam para um discurso de **consolidação institucional**: implantação, expansão, avaliação, identificação de condições, limites e fatores de sucesso. Esse vocabulário combina bem com textos que relatam jornadas, congressos, pesquisas de percepção, workshops e apresentações regionais.
+
+---
+
+## Evidência dos excertos
+
+Os excertos confirmam essa leitura, embora a lista automática indique poucas ou nenhuma ocorrência exata das palavras carregadas nos exemplos. Ainda assim, há correspondências temáticas claras e algumas formas próximas ou variantes, como **síncronos**, **compartilhamento**, **bem-sucedidos**, **elementos**, **planejamento**, **avaliação**, **ampliar** e **julho**.
+
+### vem_ed_11: PCIs como rede institucional e prática formativa
+
+Os textos da **vem_ed_11** são centrais para este polo.
+
+Nos excertos t000046 e t000047, há longas enumerações de PCIs apresentados em regionais, com nomes de professores, Fatecs, universidades estrangeiras e registros de eventos. O foco é institucional e disseminador: mostrar a extensão da rede de projetos, seus parceiros internacionais e sua circulação dentro das regionais.
+
+O excerto t000048, sobre PCIs com a Índia, aproxima-se ainda mais do campo lexical do fator. Ele menciona:
+
+- encontros **síncronos**;
+- uso de ferramentas digitais;
+- **compartilhamento** de informações;
+- projetos sobre satisfação no trabalho e investimentos pessoais;
+- projetos **bem-sucedidos**;
+- enriquecimento cultural;
+- interação entre brasileiros e indianos.
+
+Esse texto combina a dimensão técnica/formativa com a dimensão intercultural e colaborativa.
+
+O excerto t000049, em “Boas Práticas”, enfatiza a superação da barreira linguística, reuniões, diálogos, correções de rota, prática contínua e cooperação. Ele realiza discursivamente a ideia de que o PCI é um espaço de **aprendizagem, aprimoramento pessoal/profissional e desenvolvimento de novas habilidades**.
+
+### vem_ed_20: eventos, internacionalização, línguas e aprendizagem global
+
+A **vem_ed_20** também é altamente representativa.
+
+Os excertos t000096, t000098, t000099, t000100 e t000102 tratam do VI CBTecLE, da Jornada dos Projetos Colaborativos Internacionais 2023, de oficinas, mesas-redondas, painéis e debates sobre:
+
+- ensino de línguas;
+- aprendizagem global;
+- internacionalização em casa;
+- Intercâmbios Virtuais;
+- COIL;
+- planejamento e avaliação de PCIs;
+- cidadania global;
+- diversidade cultural;
+- formação de professores;
+- desenvolvimento de habilidades linguísticas e socioemocionais.
+
+Essa edição articula o discurso dos PCIs a uma agenda acadêmica mais ampla: **línguas, internacionalização, formação docente, inclusão, diversidade cultural e inovação pedagógica**.
+
+O excerto t000102 é especialmente revelador, pois associa Intercâmbios Virtuais a consciência linguística, vulnerabilidade do falante não nativo, ambiente seguro, tolerância, interação e resolução de conflitos. Isso dialoga fortemente com as cargas **empatia**, **reciprocidade**, **socioemocional**, **conhecimento**, **comum** e **dialogar**.
+
+### vem_ed_09: avaliação, crescimento e legitimação dos Intercâmbios Virtuais
+
+O excerto t000037, da **vem_ed_09**, apresenta resultados de uma pesquisa com professores orientadores de PCIs. O texto destaca:
+
+- número de professores participantes;
+- continuidade dos docentes nos projetos;
+- quantidade de projetos realizados;
+- idiomas envolvidos;
+- crescimento desde 2013;
+- avaliação positiva da interação com alunos e colegas estrangeiros.
+
+Esse excerto reforça a dimensão de **avaliação, mensuração, expansão e legitimação institucional** dos PCIs. A internacionalização aparece como prática acumulada, bem avaliada e em crescimento.
+
+---
+
+## Edições que parecem conduzir o polo
+
+A interpretação é principalmente conduzida por:
+
+1. **vem_ed_11**  
+   Discurso de divulgação e consolidação dos PCIs nas regionais, com relatos de experiências, parceiros internacionais e boas práticas.
+
+2. **vem_ed_20**  
+   Discurso de internacionalização acadêmica mais conceitual, associado a eventos, congressos, aprendizagem global, línguas, COIL e formação docente.
+
+3. **vem_ed_09**  
+   Discurso avaliativo e quantitativo, apresentando crescimento, percepção docente e continuidade dos Intercâmbios Virtuais.
+
+Essas edições fazem o polo parecer menos ligado a uma temática isolada e mais a uma **formação discursiva institucional-pedagógica**: os PCIs são noticiados como instrumentos de internacionalização, aprendizagem colaborativa, desenvolvimento linguístico-cultural e formação para o mundo contemporâneo.
+
+---
+
+## Possíveis rótulos para f4_neg
+
+### Rótulo principal recomendado
+
+**“Internacionalização formativa por Intercâmbios Virtuais”**
+
+Esse rótulo capta bem a combinação entre:
+
+- PCIs/COIL e parcerias internacionais;
+- ensino de línguas e aprendizagem global;
+- formação docente e discente;
+- colaboração síncrona;
+- desenvolvimento de competências interculturais, linguísticas e socioemocionais;
+- institucionalização dos projetos nas Fatecs.
+
+### Outros rótulos possíveis
+
+1. **“Projetos Colaborativos Internacionais como prática pedagógica institucionalizada”**  
+   Bom se a ênfase desejada for a presença recorrente de PCIs, eventos, regionais, equipes da Cesu e processos de disseminação institucional.
+
+2. **“Aprendizagem global, línguas e colaboração intercultural”**  
+   Destaca a dimensão mais humanística e educacional: diversidade cultural, empatia, reciprocidade, diálogo, formação linguística e interação internacional.
+
+3. **“Planejamento e avaliação de intercâmbios virtuais no ensino superior tecnológico”**  
+   Adequado se se quiser salientar o léxico de cronograma, elaboração, conteúdo, material, avaliação, workshops, pesquisa de percepção e expansão dos projetos.
+
+4. **“Formação para competências internacionais e socioemocionais”**  
+   Realça o componente de século XXI, mercado, trabalhador, empatia, reciprocidade, conhecimento e desenvolvimento de habilidades.
+
+---
+
+## Síntese interpretativa
+
+O polo f4_neg representa um discurso em que a internacionalização é apresentada como **processo pedagógico planejado, colaborativo e formativo**. Os textos característicos descrevem PCIs e Intercâmbios Virtuais como práticas que articulam línguas, tecnologia, cultura, projetos acadêmicos, formação docente, competências profissionais e relações internacionais. O vocabulário carregado fornece a moldura conceitual — formação, cronograma, conteúdo, reciprocidade, empatia, mercado, século XXI — enquanto os excertos mostram essa moldura realizada em notícias sobre PCIs, eventos, avaliações e experiências concretas nas Fatecs.

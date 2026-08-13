@@ -1,0 +1,104 @@
+## Factor f5 (negative pole): interpretation
+
+This pole appears to encode a discourse of **reflective pedagogical reporting on PCIs**, especially where VEm texts discuss the **design, implementation, sequencing, evaluation and improvement of collaborative international projects**, often through an academicized language of **text/narrative production, language learning, interculturality and project-based pedagogy**.
+
+The strongest edition drivers are **vem_ed_28** and **vem_ed_12**, with weaker support from **vem_ed_13**. These editions point to two closely related strands:  
+1. **reflective/academic accounts of PCI pedagogical practice**, especially in ed. 28;  
+2. **assessment, perception surveys and continuous improvement of PCIs**, especially in ed. 12.
+
+---
+
+## Possible labels for this pole
+
+### 1. **“Reflective pedagogical evaluation of international collaborative projects”**
+
+This is probably the broadest and most accurate label.
+
+The loading words strongly foreground evaluation and reflection: **avaliação, resposta, percepção, identificar, analisar, reflexão, melhoria, bem-sucedido, ajustar, prévio, relevante**. These items point to a discourse in which PCIs are not merely announced but are assessed, reviewed and refined.
+
+The examples from **vem_ed_12** are especially clear. Texts t050–t052 focus on *pesquisas de percepção*, teacher and student responses, project quality, recommendations, challenges and continuous improvement:
+
+- “pesquisa de percepção”
+- “instrumento … para avaliação e melhoria contínua”
+- “38 docentes responderam”
+- “45 respostas”
+- “palavras-chave para o sucesso de um PCI”
+
+This pole therefore captures VEm writing that treats PCIs as objects of institutional monitoring and pedagogical evaluation.
+
+---
+
+### 2. **“Academicized PCI methodology and continuous-improvement discourse”**
+
+This label highlights the more technical and methodological side of the pole.
+
+Many loadings relate to project structure and implementation: **sequência, estrutura, duração, cronograma, período, carga, cumprir, implementar, oficina, disciplina, curricular, síncrono, assíncrono, encontro, material, produto, gestão**. These words suggest a discourse concerned with how projects are organized: timeframes, course integration, synchronous/asynchronous formats, tasks, outputs and workloads.
+
+The strongest example, t149 from **vem_ed_28**, is a dense reflective article on the project “Escrituras Narrativas”. It discusses:
+
+- project editions and semesters;
+- participating courses and institutions;
+- methodology and theoretical foundations;
+- synchronous and asynchronous activities;
+- project duration and workload;
+- post-project evaluation;
+- adjustments for future editions.
+
+The text explicitly uses many loading words: **avaliação, sequência, cumprir, exercício, gestão, estado, resposta, percepção, escrever, texto, visual, narrar, citação**. It is not simply a news item; it reads like a reflective methodological report on a pedagogical intervention.
+
+---
+
+### 3. **“Narrative/textual pedagogy in intercultural PCI practice”**
+
+This more specific label captures an important subcomponent of the pole, especially driven by **vem_ed_28**.
+
+The highest-loading words include a strong cluster around text, narrative and expression: **expressão, textual, texto, narrar, descrever, escrever, citação, título, elemento, lógico, visual, emoção, sabedoria, inspirar**. These do not only signal “education” in general; they point to pedagogical work with language, narrative, image, textual production and meaning-making.
+
+The major example t149 is centrally about narrative: **“Escrituras narrativas: diferenças em diálogo”**. It invokes Walter Benjamin and Byung-Chul Han, discusses the crisis of narration, and connects narrative capacity to Spanish teaching, audiovisual production, image sequences, storytelling, textual narratives and intercultural exchange. The project asks Brazilian students to interpret images and create narratives, while Colombian students work with audiovisual or creative visual materials.
+
+This suggests that the pole includes a discourse of **language pedagogy as narrative/textual production**, particularly in international collaborative settings.
+
+---
+
+## Edition evidence
+
+### **vem_ed_28: strongest negative mean and main driver**
+
+The lowest mean score is **vem_ed_28**. Its high standard deviation suggests that the edition is internally mixed, but the pole is strongly driven by at least one very high-loading negative text, especially t149.
+
+This edition contains reflective “Artigo de Opinião” style texts about PCIs, including experiences with:
+
+- “Escrituras Narrativas”;
+- PCI in Spanish with logistics content;
+- internationalization and professional development;
+- teacher collaboration and post-project evaluation.
+
+The dominant discourse is reflective, academic and methodological. It combines experience report, theoretical citation, project design and evaluation.
+
+### **vem_ed_12: survey/evaluation discourse**
+
+The second-lowest edition is **vem_ed_12**, whose examples are short institutional pieces about perception surveys. This edition activates the evaluation/perception side of the pole through words such as **avaliação, percepção, resposta**.
+
+Its discourse is less about narrative/textual pedagogy and more about institutional quality assurance: measuring participant satisfaction, identifying challenges and using survey data to improve PCIs.
+
+### **vem_ed_13: weaker but related project-management support**
+
+**vem_ed_13** has only a mildly low score, but its examples support the same dimension through project sequencing, distribution, gestão and reflection on implementation. Text t057, for example, discusses distributing PCIs across semesters, sequencing language experiences, managing time, identifying talents and responding flexibly to project complexity.
+
+---
+
+## Overall interpretation
+
+The negative pole of f5 can be interpreted as a discourse of:
+
+> **reflective, academically framed evaluation and methodological design of PCIs, especially involving language/textual production, narrative pedagogy, intercultural collaboration, project sequencing and continuous improvement.**
+
+It is characterized by a combination of:
+
+- **evaluation vocabulary**: *avaliação, percepção, resposta, identificar, melhoria*;
+- **pedagogical/project design vocabulary**: *sequência, duração, cronograma, síncrono, assíncrono, disciplina, curricular, exercício, implementar*;
+- **textual/narrative vocabulary**: *texto, textual, expressão, narrar, descrever, escrever, citação, visual, emoção*;
+- **international/intercultural PCI vocabulary**: *colombiano, português, interculturalidade, diálogo, mútuo*;
+- **management and applied-course vocabulary**: *gestão, produto, material, específico*.
+
+The pole is therefore not just “education” or “internationalization” in general. It specifically captures VEm texts that step back from reporting events and instead **explain, evaluate and theorize PCI practices as pedagogical projects**, often with attention to textual production, language learning, intercultural exchange and continuous project refinement.

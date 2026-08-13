@@ -1,0 +1,148 @@
+## Interpretation of Factor f6 (negative pole)
+
+The negative pole of Factor 6 encodes a discourse of **sustained, human-centred collaborative internationalisation**, especially around **PCIs/COIL, virtual exchange, partnership building, intercultural learning, and the practical cultivation of durable educational collaborations**. The pole is not “negative” in evaluative meaning; the negative sign simply identifies this side of the statistical factor.
+
+A strong label for this pole would be:
+
+### **“Cultivating sustainable COIL/PCI partnerships through human-centred collaboration”**
+
+This label captures the main lexical and textual pattern: PCIs/COIL are represented not merely as projects or events, but as **relationships that must be cultivated**, requiring reciprocity, trust, planning, flexibility, institutional support, intercultural dialogue and attention to learners’ lived realities.
+
+---
+
+## Editions driving this pole
+
+The editions with the lowest mean f6 scores are:
+
+- **vem_ed_34**: Mean = **-9.00**
+- **vem_ed_35**: Mean = **-7.67**
+- **vem_ed_27**: Mean = **-4.25**, though with very high SD, suggesting possible text-level outliers
+- Smaller negative means also occur in **vem_ed_16**, **vem_ed_26**, and **vem_ed_04**
+
+The examples are overwhelmingly from **vem_ed_34** and **vem_ed_35**, so the interpretation is mainly driven by those editions.
+
+These two editions focus strongly on **Projetos Colaborativos Internacionais / COIL**, their consolidation, pedagogical value, obstacles, sustainability, human relationships, and international cooperation. Edition 34 centres on the consolidation and future of PCIs, the 20 years of COIL, and reflective guidance on planning and evaluating durable PCIs. Edition 35 develops related themes through IVES 2026, cooperation in virtual exchange, and “Boas Práticas” involving Chile, Japan, the Philippines and other partners.
+
+---
+
+## Lexical evidence
+
+The loading words cluster around several related semantic fields.
+
+### 1. Authentic, organic and reciprocal collaboration
+
+Highly loaded words include:
+
+- **genuíno**, **orgânico**, **reciprocidade**, **fluir**, **afinidade**, **identificação**, **confiança**, **mútuo**, **diálogo**, **relação**, **aproximar**, **ponte**
+
+These words point to a discourse in which collaboration is imagined as something relational, genuine and socially sustained. The recurrent vocabulary of **reciprocity**, **affinity**, **dialogue**, **trust**, and **relationship** suggests that internationalisation is framed as a human process rather than simply an administrative or technological arrangement.
+
+### 2. Cultivation, continuity and durability
+
+The pole also contains words such as:
+
+- **cultivar**, **longevo**, **duradouro**, **continuidade**, **constante**, **fortalecimento**, **institucionalizar**, **manter**, **construir**
+
+This suggests a discourse of **long-term maintenance**. PCIs are not treated as isolated events; they are described as partnerships that need to be grown, supported and preserved over time. The verb **cultivar** is especially important because it appears both in the loadings and in the most negative example, where it structures the whole metaphorical frame of the article: “Cultivando PCIs duradouros”.
+
+### 3. Purposeful pedagogical design and project management
+
+Another strong lexical group concerns planning, execution and evaluation:
+
+- **propósito**, **claro**, **planejar**, **execução**, **avaliativo**, **cronograma**, **calendário**, **fuso**, **rotina**, **adaptação**, **flexibilidade**, **matchmaking**, **mentoria**, **suporte**, **gerenciar**
+
+This pole is therefore not only affective or idealistic. It also encodes the **practical infrastructure of successful collaborative projects**: matching partners, designing tasks, managing time zones, dealing with calendars, adapting to local constraints, evaluating learning, and providing institutional support.
+
+### 4. Intercultural formation and professional learning
+
+Words such as:
+
+- **formativo**, **conhecimento**, **aprendizagem**, **competências**, **atuação**, **mercado**, **trabalhador**, **linguístico**, **intercultural**, **compreensão**
+
+indicate that these texts link COIL/PCI to student development, professional education and intercultural competence. The presence of **trabalhador** is relevant in the VEm context because Fatec students are often described as working students, whose routines and time constraints must be considered in PCI planning.
+
+### 5. Metaphors of movement, territory and organic growth
+
+The loadings also include metaphorically rich items:
+
+- **mar**, **território**, **fluxo**, **fluir**, **ponte**, **atravessar**, **cultivar**, **camada**, **universo**
+
+These suggest a discourse that conceptualises international collaboration as a journey, crossing, terrain, flow or cultivation process. This metaphorical language is prominent in the examples, especially in discussions of “semear”, “cultivar”, “colher”, “podar”, “adubar”, “pontes” and “territórios”.
+
+---
+
+## Evidence from the excerpts
+
+### Excerpt f6_neg_001, vem_ed_34: the clearest exemplar
+
+The strongest example, with score **-43**, is the article **“Cultivando PCIs duradouros”**. It contains 43 loading words and provides the clearest basis for interpretation.
+
+It explicitly discusses:
+
+- factors of success in PCIs;
+- planning, execution and evaluation;
+- stable and durable partnerships;
+- mutual understanding between institutions;
+- intercultural dialogue;
+- collaborative tasks;
+- time management;
+- calendars and time zones;
+- institutional support;
+- reciprocity;
+- the risk of excessive bureaucratisation;
+- the need to preserve the “essência colaborativa”.
+
+Many of the highest-loading words appear directly here: **genuíno, orgânico, reciprocidade, fluir, valor, avaliativo, cuidadoso, essência, cultivar, afinidade, identificação, disposição, propósito, realista, atuação, diálogo/dialoguem, negociação, efetivo, constante, longevo, formativo, adaptação, execução, relação, misto**.
+
+This text strongly supports the label because it frames PCIs as something that must be **cultivated** through careful design and human commitment. It combines affective-relational language with institutional and pedagogical management language.
+
+### Excerpts from vem_ed_34: consolidation and institutional reflection
+
+Other vem_ed_34 excerpts reinforce the same discourse, though with fewer loading words.
+
+- The “Aos Leitores” text frames the edition around the **consolidation and future of PCIs**, the role of human relationships in global education, and care in **planning, execution and evaluation**.
+- The denim PCI report highlights **collaboration**, intercultural learning, flexibility, adaptation and the building of a “relação muito sólida”.
+- The COIL webinar report foregrounds relationship, trust, institutional support, equity, barriers, human skills and the need to humanise COIL practice.
+
+Together, these texts show that edition 34 strongly drives the pole through a discourse of **reflective consolidation of PCIs/COIL as durable, relational, institutionally supported practices**.
+
+### Excerpts from vem_ed_35: cooperation, bridges, hospitality and cultural meaning
+
+Edition 35 is also central to the pole.
+
+In the Japan/Fatecs PCI text, loading words such as **genuíno, fluir, valor, central, propósito, território, hora, claro, constante, relação, assíncrona, aproximar, equilibrar, fluxo, hospitalidade** appear in a narrative about managing time zones, asynchronous tasks, teacher commitment, dialogue and intercultural hospitality. The project is described as depending on a clear purpose, structured tasks, constant dialogue and genuine collaboration.
+
+In the Chile coffee/chocolate text, the discourse becomes more affective and cultural. Loading words include **genuíno, orgânico, território, negociação, compreender, afetivo, crescente, relação, acompanhar, gratificante, hábito, chocolate, agrícola, espontâneo, valorização, universo**. Here, internationalisation is framed through **products as carriers of memory, identity, territory and emotion**. Coffee and chocolate are not merely commercial goods; they become vehicles for intercultural understanding and human connection.
+
+The IVES/opinion texts in edition 35 further develop the same pole through vocabulary of **cooperation, bridges, transformation, meaningful connection, inclusion, human learning and global education**. They connect PCIs to large-scale institutional impact while still emphasising personal transformation and relational learning.
+
+---
+
+## Possible labels for this pole
+
+### 1. **Cultivating sustainable COIL/PCI partnerships through human-centred collaboration**
+
+This is the strongest overall label. It captures the centrality of **cultivar**, **duradouro/longevo**, **reciprocidade**, **relação**, **diálogo**, **propósito**, **planejamento**, **execução**, **avaliação** and **suporte institucional**. It also fits the editions driving the pole, especially vem_ed_34 and vem_ed_35, which focus on durable PCIs, COIL, IVES and good practices.
+
+### 2. **Relational and organic internationalisation in virtual exchange**
+
+This label foregrounds the highly loaded words **genuíno**, **orgânico**, **fluir**, **reciprocidade**, **afinidade**, **relação**, **confiança** and **ponte**. It is especially appropriate because the examples repeatedly present internationalisation as a human, affective and dialogic process rather than only as mobility, technology or institutional reporting.
+
+### 3. **Sustainable PCI/COIL design: planning, reciprocity and intercultural learning**
+
+This label gives more weight to the technical-project side of the loadings: **avaliativo**, **execução**, **cronograma**, **calendário**, **fuso**, **adaptação**, **mentoria**, **matchmaking**, **institucionalizar**. It is useful if the emphasis is placed on how the pole combines relational ideals with practical project management.
+
+### 4. **Building bridges and human connections through collaborative international learning**
+
+This label fits the metaphorical and affective language in the examples: “pontes”, “conexões”, “hospitalidade”, “aproximação humana”, “relações”, “culturas”, “fronteiras”. It is particularly well suited to vem_ed_35, where cooperation, hospitality, cultural narratives and human transformation are prominent.
+
+---
+
+## Summary interpretation
+
+Factor f6 negative represents a discourse of **PCIs/COIL as carefully cultivated, relational, intercultural and sustainable educational partnerships**. The pole combines two equally important elements:
+
+1. **Human-relational values**: genuineness, reciprocity, trust, dialogue, affective bonds, cultural understanding and hospitality.  
+2. **Sustainable project practice**: planning, execution, evaluation, adaptation, time-zone management, mentoring, institutional support and continuity.
+
+The pole is driven mainly by **vem_ed_34 and vem_ed_35**, which foreground the consolidation of PCIs, the maturation of COIL, IVES debates, good practices, and narratives of intercultural collaboration with partners in Peru, Japan, Chile, the Philippines and broader international COIL networks.
