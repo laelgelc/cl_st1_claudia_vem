@@ -1,0 +1,189 @@
+You are a corpus linguist specialising in Lexical Multi-Dimensional Analysis (LMDA).
+Your task is to interpret a single factor pole as a discourse dimension.
+
+The target corpus consists of selected VEm journal/newsletter excerpts organised by magazine edition.
+
+Your interpretation must identify the discourses encoded at this pole, taking into account:
+• lexical loadings, which represent the full analysed target corpus;
+• example excerpts, which illustrate high-scoring texts at this pole;
+• the VEm editions that score most strongly at this pole.
+
+
+Interpret Factor f3 (neg) as a discourse dimension.
+Propose possible labels for this pole only and justify them.
+
+Base your interpretation on:
+• Mean edition scores. For positive poles, consider the highest-scoring editions in the table. For negative poles, consider the lowest-scoring editions; these may be the lowest positive scores or the most negative scores if there are any.
+• Factor loadings.
+• Example excerpts from high-scoring texts.
+• The loading words that appear in these examples.
+• Which VEm editions appear to drive this pole.
+
+Do not offer a "versus" interpretation of the opposite pole.
+Focus on this single pole only.
+
+Give equal weight to the loadings and the examples. Remember that loadings represent the full analysed target corpus, whereas the excerpts are only a limited set of high-scoring samples.
+
+
+=== MEAN EDITION SCORES ===
+Effect	edition	N	Mean fac3	SD fac3
+edition	vem_ed_01	4	3.7500000	3.0956959
+edition	vem_ed_02	4	3.5000000	2.6457513
+edition	vem_ed_03	4	7.0000000	2.1602469
+edition	vem_ed_04	4	3.2500000	2.0615528
+edition	vem_ed_05	4	3.7500000	4.2720019
+edition	vem_ed_06	4	3.7500000	1.8929694
+edition	vem_ed_07	4	5.2500000	1.2583057
+edition	vem_ed_08	5	2.4000000	1.5165751
+edition	vem_ed_09	5	2.0000000	1.2247449
+edition	vem_ed_10	6	6.3333333	2.6583203
+edition	vem_ed_11	5	3.6000000	1.1401754
+edition	vem_ed_12	4	2.5000000	1.7320508
+edition	vem_ed_13	4	3.7500000	0.9574271
+edition	vem_ed_14	5	4.8000000	2.8635642
+edition	vem_ed_15	5	6.0000000	2.5495098
+edition	vem_ed_16	5	8.6000000	2.3021729
+edition	vem_ed_17	8	2.1250000	1.8850919
+edition	vem_ed_18	4	3.7500000	1.7078251
+edition	vem_ed_19	11	3.0000000	4.2190046
+edition	vem_ed_20	7	6.0000000	3.5118846
+edition	vem_ed_21	7	3.8571429	2.0354010
+edition	vem_ed_22	7	2.4285714	1.6183472
+edition	vem_ed_23	8	4.1250000	2.9001232
+edition	vem_ed_24	6	4.8333333	2.7141604
+edition	vem_ed_25	6	7.1666667	1.1690452
+edition	vem_ed_26	5	7.0000000	3.1622777
+edition	vem_ed_27	4	35.5000000	51.4749130
+edition	vem_ed_28	5	10.2000000	6.9785385
+edition	vem_ed_29	4	10.0000000	4.0000000
+edition	vem_ed_30	5	3.8000000	2.7748874
+edition	vem_ed_31	6	6.5000000	4.4158804
+edition	vem_ed_32	7	6.5714286	4.9280538
+edition	vem_ed_33	8	4.5000000	3.8172541
+edition	vem_ed_34	5	6.2000000	4.6583259
+edition	vem_ed_35	6	6.3333333	3.2041640
+
+=== FACTOR LOADINGS (f3_neg) ===
+variables loading on this pole = 66
+ajustar (-.47), (rotina (-.47)), (mudança (-.46)), (acumular (-.45)), (contínuo (-.44)), (cronograma (-.44)), (verdadeiro (-.44)), (exercício (-.43)), (lógico (-.43)), (reduzir (-.43)), (coisa (-.42)), (combinar (-.42)), (cumprir (-.42)), (inspir (-.42)), (anterior (-.41)), (carga (-.41)), (citação (-.41)), (prévio (-.41)), (emoção (-.40)), (horário (-.40)), (sequência (-.40)), (expressão (-.39)), (extra (-.39)), (distribuír (-.38)), (empatia (-.38)), (identificar (-.38)), (bem-sucedido (-.37)), (básico (-.37)), (educativo (-.37)), (experimentar (-.37)), (experimentação (-.37)), (sabedoria (-.37)), (visual (-.37)), (calendário (-.36)), (conflito (-.36)), (duração (-.36)), (interação (-.36)), (articular (-.35)), (diferença (-.35)), (entanto (-.35)), (escolher (-.35)), (capacidade (-.34)), (comparar (-.34)), (escrever (-.34)), (essencial (-.34)), (início (-.34)), (construção (-.33)), (descrito (-.33)), (diferenciar (-.33)), (narrar (-.33)), (século (-.33)), (xxi (-.33)), (apoio (-.32)), (exigir (-.32)), (paz (-.32)), (potência (-.32)), (resultar (-.32)), (storytelling (-.32)), (textual (-.32)), (colaborativo (-.31)), (depender (-.31)), (pontual (-.31)), (produto (-.31)), (utilizar (-.31)), (iniciar (-.30)), (perceber (-.30))
+
+=== EXAMPLE EXCERPTS ===
+
+===== EXCERPT: f3_neg_001.txt (text ID t000036) =====
+Text ID: t000036
+Edition: vem_ed_09
+File:    corpus/07_tagged/vem_ed_09/t036.txt
+
+Score (f3_neg): 2
+Loading words (f3_neg), N=1: f4 score: 2
+Chile em destaque na rede de intercâmbios virtuais As colaborações entre Inacap (Chile) e a equipe dos PCIs/Cesu/CPS iniciaram no ano passado, com uma série de webinários sobre logística. Em agosto de 2021, alunos das Fatecs Lins, Baixada Santista e Americana venceram o Desafio de Logística CPS-Inacap. Estes foram os primeiros colocados: Marcia Beltrame e Danilo Magnabosco F. de Godoi (Fatec Lins), Luiz Pedro Marchesin e Gabriel Malagutti (Fatec Americana), Alexandre Andrade dos Reis e Izabela Silva Nascimento (Fatec Baixada Santista). O evento, organizado pela Inacap (Chile) contou com a coordenação dos Projetos Colaborativos Internacionais (PCIs) da Cesu/CPS e a participação de alunos e professores das Fatecs Americana, Baixada Santista, Lins e Sorocaba. As 17 equipes de estudantes buscaram soluções de logística para a distribuição de alimentos, produtos e serviços da Viejito Perro, um case real de um pet shop chileno."Foi uma grande oportunidade profissional participar deste desafio", resume Beltrame."O desafio agregou-me bastante conhecimento, desenvolvimento pessoal e crescimento profissional", conta Godoi, que participou de um recrutamento interno na empresa onde trabalha e, ao mencionar a participação nesse PCI, foi selecionado no processo."Esse diferencial me fez conquistar uma nova etapa na corporação", comemora. Webinário da RedLatAM COIL aborda interculturalidade na formação profissional Em 7 de outubro, a Red LatAM COIL destacou o Chile em um webinário sobre a interculturalidade na formação profissional. Palestraram a entrevistada da seção"Quem é Quem"desta edição, Victoria Traverso Castro (Inacap/Chile); Cristian Schlegel Acuña (Universidad Católica del Maule) e Claudio Aravena Aranda (Universidad de Talca), com mediação de Carlos Ramírez (Universidad Adolfo Ibáñez). Organizado pela Universidad Veracruzana (México), o evento teve o apoio das seguintes instituições da Red LatAM COIL: UDEM, Unesp, ITM e COIL Consulting. Victoria Traverso sintetizou a história da interculturalidade no Chile, a partir da chegada dos espanhóis em 1540 e sua relação conflituosa com o povo indígena mapuche, e defendeu a formação de competências globais. Aravena trouxe dicas dos COILs que realizou com o Tecnológico de Monterrey (México): dedicar tempo para identificar temas transversais comuns às instituições, criar atividades nas plataformas tecnológicas disponíveis, reforçar as diferenças culturais, ter paciência e perseverança. Schlegel definiu interculturalidade como a interação comunicativa entre grupos de diferentes culturas, e relatou o COIL com a Uniminuto (Colômbia) sobre saúde e interculturalidade, realizado na plataforma Slack.
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f3_neg_002.txt (text ID t000038) =====
+Text ID: t000038
+Edition: vem_ed_09
+File:    corpus/07_tagged/vem_ed_09/t038.txt
+
+Score (f3_neg): 2
+Loading words (f3_neg), N=1: f4 score: 1
+BOAS PRÁTICAS Competências culturais: além da disciplina Mestre em Economia Aplicada pela Esalq/USP, onde se graduou em Engenharia Agronômica, Ricardo Bertoni Pompeu é professor da Fatec Americana desde 2010 e atua com COIL/PCIs há quatro anos. Pompeu compartilha um pouco de sua experiência no relato a seguir: Em 2017, participei de um megaprojeto com Eva Haug e Ariane Hoekstra, da Amsterdam University of Applied Sciences (AUAS/Holanda) e Osvaldo Succi Junior (CPS), Cristine Moraes (Fatec Piracicaba), Ana Teresa Colenci Trevelin (Fatec São Carlos), Carlos Amaral Moreira e eu (Fatec Americana). Durante 7 semanas, 70 alunos estudaram estratégias de comunicação de marcas de suco de frutas, cerveja, refrigerante, chocolate, bolacha e sorvete nos dois países. Em 2018, nosso projeto envolveu os professores Arun Pillutla (St. Ambrose University/EUA), Carlos Moreira, Osvaldo Succi Junior e eu. O PCI abordou a competência de dar e receber feedback, com a Metodologia Ativa de Aprendizado Baseado em Problemas. Os alunos receberam uma situação problema e textos teóricos sobre feedback, incluindo o aspecto cultural dessa competência. Em 2019 tivemos um novo PCI com a Holanda, com Eva Haug e Brechtine Detmar (AUAS) e Osvaldo Succi Junior (CPS/Cesu), Carlos Moreira e eu. Optamos por um modelo diferente, convidando estudantes de vários semestres de Gestão Empresarial. Nesse projeto, os 57 alunos brasileiros e holandeses abordaram a mesma situação problema sobre feedback (do PCI de 2018). Durou 6 semanas, com grande enfoque na parte cultural da comunicação, da liderança e da gestão de equipes. Agora, estou desenvolvendo um projeto com o Symbiosis Centre for Management Studies (Índia). As expectativas são as melhores possíveis, pois percebo uma química muito grande entre os professores Nehajoan Panackal (Symbiosis), Rafaeli Begalli Danilo Sorroce (Fatec Sumaré) e eu. Não importa se um projeto durar 4 ou 7 semanas, é importante uma preparação estratégica prévia, para entender as expectativas, interesses e ansiedades dos professores. Ao mesmo tempo, compreender os alunos: quantos são, conhecimento do idioma, idade, o que já estudaram, semestre de curso. Outro fator importante é a afinidade entre as disciplinas dos professores envolvidos. No meu caso, leciono Gestão de Pessoas e Comportamento Organizacional, disciplinas que possuem aderência com várias áreas da administração. A principal dica é não se ater somente à ementa da disciplina, mas ter uma visão ampla sobre as competências a serem desenvolvidas: cultura, comunicação, gestão de conflitos e trabalho em equipe. Daí a relevância do trabalho da equipe dos PCIs/Cesu, ao encontrar parcerias personalizadas para cada professor ou professora que se interessar em participar de um PCI. Leia a íntegra do depoimento em: https://cesu.cps.sp.gov.br/professor-da-fatec-americana-compartilha-experiencia-em-pcis/
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f3_neg_003.txt (text ID t000035) =====
+Text ID: t000035
+Edition: vem_ed_09
+File:    corpus/07_tagged/vem_ed_09/t035.txt
+
+Score (f3_neg): 3
+Loading words (f3_neg), N=1: f4 score: 0
+QUEM É QUEM Victoria Traverso Castro é mestre em Linguística e assessora de internacionalização de alunos, ex-alunos e docentes da Inacap (Chile). Segue seu depoimento sobre a internacionalização da Inacap. O trabalho em conjunto com as áreas acadêmicas e unidades da Inacap tem sido fundamental para o êxito da internacionalização em casa. Temos projetos curriculares e extracurriculares e ambos incluem um trabalho árduo com professores, diretores e assessores em cada unidade e nas áreas acadêmicas centralizadas. Sem o apoio desses atores relevantes, não seria possível implementar os programas de Internacionalização em Casa. Dos projetos curriculares, temos entre 10 e 13 programados para este semestre. Eles têm um alcance amplo, pois impactam todos os estudantes matriculados na disciplina. Por exemplo, na área de negócios, esperamos envolver cerca de 5 mil estudantes, e apesar de que essas atividades tão massivas geralmente não sejam COILs [Collaborative Online International Learning], representam Internacionalização em Casa. Para este semestre temos programados 8 COILs propriamente ditos, vários deles com o Centro Paula Souza e muitos são continuações de projetos iniciados no semestre anterior e que tiveram muito sucesso. Trabalhar com CPS/Cesu é sempre um prazer. Não somente os brasileiros são muito simpáticos, mas também trabalham duro e estão sempre dispostos a colaborar, o que facilita muitíssimo o trabalho. Tanto Osvaldo [Succi Junior] como os outros professores têm sido essenciais no desenvolvimento de atividades de Internacionalização em Casa. Aprendemos muitíssimo com cada um deles. As atividades COIL começaram durante 2020 e o nosso primeiro colaborador foi CPS/Cesu. Em 2020 houve 2 projetos e no primeiro semestre de 2021, foram 9 projetos e algumas atividades de internacionalização, como encontros estudantis, além das 14 atividades curriculares, que alcançaram mais de 4 mil estudantes. Neste semestre há um número similar de projetos em andamento. Como podem ver, temos muito trabalho pela frente! Nosso objetivo central para os próximos anos é que a instituição compreenda a importância da interculturalidade e internacionalização de nossos estudantes. Para isso, trabalhamos arduamente para massificar e democratizar as experiências internacionais, fazendo o possível para que atinjam cada vez mais estudantes e docentes. Esperamos que, por meio dessas experiências, nossos estudantes melhorem sua empregabilidade, sejam melhores cidadãos globais e busquem trabalhar pelo bem comum em sua vida profissional, integrando os Objetivos de Desenvolvimento Sustentável da ONU e comunicando-se de maneira efetiva em vários contextos e com pessoas diversas.
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f3_neg_004.txt (text ID t000034) =====
+Text ID: t000034
+Edition: vem_ed_09
+File:    corpus/07_tagged/vem_ed_09/t034.txt
+
+Score (f3_neg): 3
+Loading words (f3_neg), N=1: f4 score: 3
+QUEBRA-GELO Uma das metas da equipe dos PCIs no ano de 2020 foi ampliar as colaborações para países latinoamericanos. No primeiro semestre, após uma reunião inicial com vários representantes da Inacap (Chile), começaram as colaborações. No segundo semestre, uma série de webinários sobre Logística envolveu professores das Fatecs Americana, Baixada Santista, Lins e Sorocaba. Neste ano de 2021, o Desafio CPS-Inacap envolveu 17 equipes mistas de alunos brasileiros e chilenos, que trabalharam em conjunto para solucionar um case real de uma empresa do segmento pet, chamada Viejito Perro. Uma notícia publicada no site Cesu Línguas detalha essa iniciativa: https://cesu.cps.sp.go v.br/em-evento-organizado-pela-inacap-chile-com-a-equipe-dos-pcis-alunos-de-fatecs-vencem-desafio-de-logistica/ Para brindar essas colaborações bem-sucedidas, esta edição destaca os PCIs com a Inacap. Na página 2, temos Victoria Traverso Castro, assessora de internacionalização da IES, e na página 3, uma síntese sobre o Desafio de Logística CPS-Inacap. O Chile, aliás, é o país destacado no sexto webinário da Rede Latinoamericana COIL (Red LatAM COIL). Realizado em 7 de outubro, o evento contou com a participação de nossa perfilada em"Quem é Quem", e ainda com professores das universidades chilenas Católica del Maule, Talca e Adolfo Ibáñez. Na seção"Boas Práticas", o relato de Ricardo Pompeu ressalta a importância de"não se ater somente à ementa da disciplina, mas ter uma visão ampla sobre as competências a serem desenvolvidas: cultura, comunicação, gestão de conflitos e trabalho em equipe". Além disso, é necessário planejar bem o PCI, entender expectativas dos parceiros e perfil dos alunos. Boa leitura!
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f3_neg_005.txt (text ID t000078) =====
+Text ID: t000078
+Edition: vem_ed_17
+File:    corpus/07_tagged/vem_ed_17/t078.txt
+
+Score (f3_neg): 1
+Loading words (f3_neg), N=1: f4 score: 3
+A VISÃO DOS DOCENTES: PESQUISA 2º SEMESTRE 2022 Todos os 44 professores que responderam à pesquisa de percepção autorizaram divulgar as respostas para fins de publicações gerenciais e acadêmicas e todos recomendaram um PCI para colegas, como ocorreu nas pesquisas anteriores. Quase dois terços (64 %) são veteranos, realizando o PCI pela terceira vez ou mais: isso mostra o amadurecimento das colaborações internacionais nas Fatecs. Na edição anterior da pesquisa (primeiro semestre de 2022), 49 % dos professores respondentes realizavam o PCI pela primeira vez. Aquele foi um momento de captação, por parte da equipe dos PCIs/Cesu, de novos docentes interessados, que mantiveram suas colaborações e aos poucos ganharam experiência internacional. Essa consolidação se mantém para o futuro próximo: dentre os respondentes do segundo semestre de 2022, 66 % professores pretendem continuar com mesmo projeto e parceiro, 23 % continuam com o mesmo parceiro, apenas mudando o projeto, 7 % vão buscar novo parceiro e apenas 4 % não desejam realizar outro PCI. Dos 44 pesquisados, 77,3 % reconhecem que a competência em língua estrangeira melhorou. É quase unânime (97,8 %) que os PCIs possibilitam desenvolver novas atividades acadêmicas a partir da experiência do parceiro internacional. Além disso, 93 % concordam que os PCIs abrem portas para publicar pesquisas em sua área de atuação e 86,3 % afirmam que podem elaborar artigos acadêmicos com o parceiro. Esses dados mantêm a tendência positiva dos anos anteriores.
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f3_neg_006.txt (text ID t000074) =====
+Text ID: t000074
+Edition: vem_ed_17
+File:    corpus/07_tagged/vem_ed_17/t074.txt
+
+Score (f3_neg): 1
+Loading words (f3_neg), N=1: f4 score: 4
+QUEM É QUEM Hope Windle é diretora do SUNY COIL Center (State University of New York/EUA), referência mundial em Intercâmbios Virtuais. A seguir, tem-se uma síntese da entrevista concedida por videoconferência para VEm em 23 de março de 2023. Sabemos que o SUNY COIL Center está de casa nova, SUNY Oneonta. Pode nos falar sobre a importância disso? Agora estamos conectados com estudantes e professores, ao redor do mundo, nacionalmente e dentro da SUNY. Temos o que chamamos “colaboratório”, algo como uma comunidade de prática, ou incubadora. É um caminho para compartilhar ideias em nossa comunidade de 153 instituições ao redor do mundo. Também queremos atrair os alunos quando fazemos apresentações ou eventos, para que tenhamos pessoas localmente também, porque eu estou sempre no Zoom, virtualmente. Qual foi um dos projetos mais desafiadores com que você trabalhou? Essa é uma boa questão. Houve alguns, eu diria que quando fui coordenadora na SUNY Ulster [2017-2022], fizemos um projeto com um adorável professor de Belarus, ele queria abordar empreendedorismo e turismo. Mas, durante a colaboração, muitos dos links compartilhados com os alunos eram censurados pelo governo (e não sabíamos disso). Não era permitido aos estudantes compartilhar vídeos do YouTube e o professor não podia realmente contar o que estava acontecendo. Os estudantes comentaram: é uma grande ideia empreender projetos turísticos reais, mas não podemos fazer neste país. Foi interessante reconhecer diferentes formas de governo e como afetam os negócios. Como a sua experiência de designer instrucional influencia a forma como você dirige o SUNY COIL Center? Quando se pensa em liderança no COIL, temos Jon Rubin, que foi professor e veio com um ponto de vista de professor: pensar no conteúdo, como juntar os professores e desenvolver os projetos. Hope Windle, diretora do SUNY COIL Center Quando Mary Lou Forward chegou no SUNY COIL Center [2017], abrimos para um número muito maior de membros. E então, como resultado da pandemia para mim, minha vivência em design instrucional me faz querer que a experiência COIL seja flexível para todos, em termos das diferentes formas de fazer, além de fornecer o kit de ferramentas e os recursos para que as pessoas possam visualizar facilmente. O que você prevê para os projetos COIL nos próximos cinco anos? Estamos atingindo um momento incrível. No começo dos projetos COIL [2006], a pergunta era: como fazemos, como usamos a tecnologia? Agora, temos questões ligadas à esperança crítica, para que pessoas, especialmente aquelas com dificuldades econômicas, possam redesenhar sua educação. COIL é um meio para que repensem o que vão fazer de suas vidas.
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f3_neg_007.txt (text ID t000077) =====
+Text ID: t000077
+Edition: vem_ed_17
+File:    corpus/07_tagged/vem_ed_17/t077.txt
+
+Score (f3_neg): 1
+Loading words (f3_neg), N=1: f4 score: 4
+PERCEPÇÕES DOS ALUNOS: PESQUISA 2º SEMESTRE 2022 Desde o segundo semestre de 2020, a equipe dos Projetos Colaborativos Internacionais (PCIs/Cesu) realiza pesquisas de percepção com alunos e professores participantes de PCIs, para avaliação e melhoria contínua dos processos de gestão dos Intercâmbios Virtuais. Os resultados mostram a manutenção das boas percepções sobre os projetos ao longo do tempo, tanto por discentes quanto por docentes envolvidos nas colaborações internacionais. A pesquisa de percepção, enviada para os 1.683 participantes de PCIs entre agosto e dezembro de 2022, obteve 632 respostas de estudantes – dos quais 69 não autorizaram a divulgação dos dados e tiveram suas respostas eliminadas para fins de publicações. Para a maioria dos respondentes (82 %), este foi o primeiro PCI; 13 % afirmaram que foi o segundo. Dentre os principais desafios, os dois mais mencionados foram gerenciamento de tempo (248 respostas) e comunicação (161), repetindo a tendência dos anos anteriores. Nesta página, confira a síntese dos resultados relativos aos discentes. Na página 7, conheça a percepção dos docentes. Pesquisas anteriores (segundo semestre de 2020, primeiro semestre de 2021, segundo semestre de 2021 e primeiro semestre de 2022) foram relatadas nas edições 5, 8, 9, 12 e 14 de VEm. Confira em: https://cesu.cps.sp.gov.br/vem-newsletter-bimestral-dos-projetos-colaborativos-internacionais-pci/ 632 respondentes 82 % 1ª vez participando Alunos que recomendariam aos colegas participar de um PCI 93 % 86 % afirmam que a “experiência com o PCI aumentou meu interesse em permanecer no curso até a conclusão”. 87 % reconhecem que sua competência no idioma estrangeiro melhorou. 85 % reconhecem que “a experiência com o PCI aumenta as chances de sucesso no mercado de trabalho”. 87 % avaliam que a interação com os colegas do grupo brasileiro foi ótima ou boa 67 % a interação com seus colegas do grupo estrangeiro foi ótima ou boa. Realizaram PCIs em português 6 % Realizaram PCIs em espanhol 26 % Realizaram PCIs em inglês 68 %
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f3_neg_008.txt (text ID t000076) =====
+Text ID: t000076
+Edition: vem_ed_17
+File:    corpus/07_tagged/vem_ed_17/t076.txt
+
+Score (f3_neg): 1
+Loading words (f3_neg), N=1: f4 score: 0
+AVALIAÇÃO DOS PCIS: EVOLUÇÃO 2013-2022 Neste primeiro semestre de 2023, completam-se 10 anos desde o primeiro Projeto Colaborativo Internacional (PCI/Cesu) realizado na Fatec Americana. Intitulado “Approaching International Managers”, o PCI conduzido por Carlos Augusto Amaral Moreira ganhou o Prêmio Santander Universidades/Guia do Estudante em 2014. Entre 2013 e 2022, colaboraram com a Unidade de Ensino Superior (Cesu/CPS) 49 Instituições de Ensino Superior Internacionais em 17 países de 4 continentes. Os PCIs atenderam 80 alunos em 2013 e em 2022 foram 2.633, totalizando 7.484 estudantes em 9 anos. PCI em números - 2022 125 PCIs Em 48 Fatecs diferentes Com a participação de 69 professores 2.633 estudantes 32 IES de 15 países PAÍSES PARCEIROS (2013 - 2022) África do Sul Argentina Armênia Canada Chile China Colômbia EUA Filipinas França Índia Israel Japão México Países Baixos Polônia Portugal
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f3_neg_009.txt (text ID t000073) =====
+Text ID: t000073
+Edition: vem_ed_17
+File:    corpus/07_tagged/vem_ed_17/t073.txt
+
+Score (f3_neg): 4
+Loading words (f3_neg), N=1: f4 score: 2
+AOS LEITORES Com orgulho, revemos 10 anos de Projetos Colaborativos Internacionais (PCIs) nas Fatecs do Centro Paula Souza. O primeiro PCI, realizado em 2013 pelo professor Carlos Augusto Amaral Moreira (Fatec Americana) com a SUNY Ulster (EUA), recebeu o prêmio Guia do Estudante/Santander em 2014. Aos poucos, outras Fatecs aderiram à proposta dos Intercâmbios Virtuais ou, como são chamados na SUNY, Collaborative Online International Learning (COIL). No Centro Paula Souza, tropicalizamos a iniciativa, batizando-a de PCI. Em 2018, os PCIs se integraram à Unidade de Ensino Superior de Graduação (Cesu), sob a Coordenação de Línguas e Projetos Internacionais. Em 2020, formou-se a equipe de PCIs, com docentes responsáveis por apoio pedagógico, suporte de TI e comunicação. O ano de 2021 foi marcado pela expansão dos PCIs, conquistando mais professores e Fatecs, ampliando colaborações com países do Sul Global, com os vizinhos latino-americanos, e com Portugal. Foi assim que, de 833 alunos participantes de PCIs em 2020, saltamos para 1.799 em 2021. As Fatecs estão entre as 10 maiores instituições de ensino do mundo em número de PCIs e para garantir a melhoria contínua dos projetos, desde 2020 são realizadas Pesquisas de Percepção semestrais com alunos e professores participantes de PCIs. Como se vê nesta edição, os resultados expressam o sucesso dessa trajetória que envolveu 7.484 fatecanos entre 2013 e 2022. Celebrando 10 anos de colaborações com a SUNY, a entrevistada desta edição é Hope Windle, diretora do SUNY COIL Center. Boa leitura! EXPEDIENTE Expediente CPS Diretora-Superintendente: Laura Laganá Vice-Diretora-Superintendente: Emilena Lorenzon Bianco Chefe de Gabinete: Armando Natal Maurício Expediente Cesu Coordenador Técnico: Rafael Ferreira Alves Diretor Acadêmico-Pedagógico: André Luiz Braun Galvão Gestão Educacional: William Marcos Muniz Menezes Departamento Administrativo: Sílvia Pereira Abranches EDI - Estruturação e Desenvolvimento Instrucional: Thais Lari Braga Cilli Expediente Línguas e Projetos Colaborativos Internacionais - Cesu Coordenação de Línguas e Projetos Internacionais: Mariane Teixeira Coordenação de Projetos Colaborativos Internacionais: Osvaldo Succi Junior Acompanhamento pedagógico PCI: Ana Carolina Freschi, Neusa Haruka Gritti e Regiane Moreira Expediente VEm Corpo editorial: Ana Carolina Freschi, Mariane Teixeira, Neusa Haruka Gritti, Osvaldo Succi Junior e Regiane Moreira Jornalista responsável e Comunicação: Patrícia Patrício - MTB 25.131 Editoração e diagramação: Fábio Gomes da Silva VEm: Virtual Exchange Medium é um informativo com publicação bimestral da Cesu/CETEPS: Rua dos Andradas, 140 - Santa Efigênia - 01208-000 - São Paulo - SP
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f3_neg_010.txt (text ID t000079) =====
+Text ID: t000079
+Edition: vem_ed_17
+File:    corpus/07_tagged/vem_ed_17/t079.txt
+
+Score (f3_neg): 4
+Loading words (f3_neg), N=1: f4 score: 1
+BOAS PRÁTICAS Organização, flexibilidade e engajamento estão entre as palavras-chave para o sucesso de um Projeto Colaborativo Internacional (PCI/Cesu). Veterana em Intercâmbios Virtuais, a professora de Espanhol Lilian de Souza (Fatecs Americana, Bragança Paulista e Itu) desenvolve PCIs desde 2018. Sua primeira experiência foi com a Universidad de Monterrey (UDEM/México). Na ocasião, “um dos professores envolvidos se dispôs a fazer um site para alocar todas as informações do projeto e eu adorei a ideia”, relembra Lilian. “Posteriormente, tomei a iniciativa de estruturar um site numa plataforma gratuita para fazer um teste com os projetos de que participava. Tanto os alunos como os professores gostaram e sinalizaram como um caminho fácil para encontrar as orientações sobre os PCIs”, comenta. Com os sites, Lilian organiza as informações básicas de cada projeto (etapas, datas limites, orientações para entregas das tarefas, links de reuniões síncronas). É assim que Lilian consegue conduzir quatro PCIs simultaneamente no primeiro semestre de 2023: 1) Fatec Americana e Universidad Cundinamarca (Colômbia) – PCI “Sobre Culturas” mescla estudantes dos cursos de Produção Têxtil (Fatec Americana) e Psicologia (Universidad Cundinamarca). As tarefas em equipe enfocam aspectos culturais de ambos os países, além de proporcionar aos estudantes brasileiros a prática de língua espanhola de maneira efetiva com falantes nativos – os alunos colombianos de Miguel Nicholls. Site do PCI: sites.google.com/view/brasilcolombia/sobre-culturas
+
+--- Loading words for this example (neg): (none)

@@ -1,0 +1,189 @@
+You are a corpus linguist specialising in Lexical Multi-Dimensional Analysis (LMDA).
+Your task is to interpret a single factor pole as a discourse dimension.
+
+The target corpus consists of selected VEm journal/newsletter excerpts organised by magazine edition.
+
+Your interpretation must identify the discourses encoded at this pole, taking into account:
+• lexical loadings, which represent the full analysed target corpus;
+• example excerpts, which illustrate high-scoring texts at this pole;
+• the VEm editions that score most strongly at this pole.
+
+
+Interpret Factor f2 (neg) as a discourse dimension.
+Propose possible labels for this pole only and justify them.
+
+Base your interpretation on:
+• Mean edition scores. For positive poles, consider the highest-scoring editions in the table. For negative poles, consider the lowest-scoring editions; these may be the lowest positive scores or the most negative scores if there are any.
+• Factor loadings.
+• Example excerpts from high-scoring texts.
+• The loading words that appear in these examples.
+• Which VEm editions appear to drive this pole.
+
+Do not offer a "versus" interpretation of the opposite pole.
+Focus on this single pole only.
+
+Give equal weight to the loadings and the examples. Remember that loadings represent the full analysed target corpus, whereas the excerpts are only a limited set of high-scoring samples.
+
+
+=== MEAN EDITION SCORES ===
+Effect	edition	N	Mean fac2	SD fac2
+edition	vem_ed_01	4	5.7500000	3.7749172
+edition	vem_ed_02	4	5.2500000	2.9860788
+edition	vem_ed_03	4	4.0000000	2.1602469
+edition	vem_ed_04	4	5.7500000	0.9574271
+edition	vem_ed_05	4	4.5000000	3.5118846
+edition	vem_ed_06	4	4.5000000	1.9148542
+edition	vem_ed_07	4	3.0000000	2.0000000
+edition	vem_ed_08	5	7.2000000	2.8635642
+edition	vem_ed_09	5	2.8000000	1.4832397
+edition	vem_ed_10	6	2.3333333	1.6329932
+edition	vem_ed_11	5	3.2000000	1.6431677
+edition	vem_ed_12	4	4.2500000	2.2173558
+edition	vem_ed_13	4	5.0000000	3.7416574
+edition	vem_ed_14	5	4.2000000	1.3038405
+edition	vem_ed_15	5	3.0000000	1.7320508
+edition	vem_ed_16	5	4.6000000	1.9493589
+edition	vem_ed_17	8	4.1250000	3.5632048
+edition	vem_ed_18	4	4.7500000	1.8929694
+edition	vem_ed_19	11	30.0000000	39.5347948
+edition	vem_ed_20	7	4.2857143	2.2146697
+edition	vem_ed_21	7	3.0000000	3.2659863
+edition	vem_ed_22	7	2.7142857	1.2535663
+edition	vem_ed_23	8	4.2500000	3.4121631
+edition	vem_ed_24	6	6.1666667	3.4302575
+edition	vem_ed_25	6	3.6666667	1.9663842
+edition	vem_ed_26	5	7.4000000	6.2289646
+edition	vem_ed_27	4	7.5000000	3.8729833
+edition	vem_ed_28	5	5.0000000	2.3452079
+edition	vem_ed_29	4	5.2500000	5.8523500
+edition	vem_ed_30	5	3.4000000	1.5165751
+edition	vem_ed_31	6	8.0000000	6.4187226
+edition	vem_ed_32	7	6.0000000	2.0816660
+edition	vem_ed_33	8	3.5000000	1.6035675
+edition	vem_ed_34	5	6.8000000	6.0166436
+edition	vem_ed_35	6	5.8333333	3.3115958
+
+=== FACTOR LOADINGS (f2_neg) ===
+variables loading on this pole = 60
+(superior (-.47)), (reduzir (-.40)), (discutir (-.39)), (proposta (-.39)), (variar (-.39)), (mútuo (-.38)), (princípio (-.38)), (quinto (-.38)), (contemporâneo (-.37)), (diálogo (-.37)), (analisar (-.36)), (extensão (-.36)), (nível (-.36)), (troca (-.36)), (carga (-.35)), (humano (-.35)), (temática (-.35)), (aproximar (-.34)), (articular (-.34)), (elaboração (-.34)), (ingressante (-.34)), (melhoria (-.34)), (realidade (-.34)), (verdadeiro (-.34)), (complementar (-.33)), (comum (-.33)), (contribuição (-.33)), (extra (-.33)), (observar (-.33)), (storytelling (-.33)), (destacar (-.32)), (educativo (-.32)), (elemento (-.32)), (encontro (-.32)), (entanto (-.32)), (estabelecer (-.32)), (fator (-.32)), (fortalecimento (-.32)), (mercado (-.32)), (opinião (-.32)), (pedagogia (-.32)), (promover (-.32)), (rotina (-.32)), (ampliar (-.31)), (capaz (-.31)), (conectar (-.31)), (cooperação (-.31)), (crise (-.31)), (destaque (-.31)), (duradouro (-.31)), (empatia (-.31)), (futuro (-.31)), (linguística (-.31)), (permitir (-.31)), (visual (-.31)), (aprofundar (-.30)), (emoção (-.30)), (experimentar (-.30)), interconectar (-.30), (significativo (-.30))
+
+=== EXAMPLE EXCERPTS ===
+
+===== EXCERPT: f2_neg_001.txt (text ID t000042) =====
+Text ID: t000042
+Edition: vem_ed_10
+File:    corpus/07_tagged/vem_ed_10/t042.txt
+
+Score (f2_neg): 1
+Loading words (f2_neg), N=1: f3 score: 9
+Jornada de PCIs: diversidade em projetos O painel “Diversidade em Projetos” tratou da importância do desenvolvimento e inserção de projetos inovadores entre os já consolidados. Ana Carolina Freschi (equipe dos PCIs/Cesu) comentou o PCI realizado com Symbiosis Centre of Management Studies (Índia), envolvendo as Fatecs Americana e Sumaré, voltado à satisfação no trabalho. Outro projeto da instituição indiana com a Fatec Itaquaquecetuba abordou o impacto da covid-19 nos padrões de investimentos pessoais. Edilene Gasparini Fernandes (professora da Fatec São José do Rio Preto) relatou o PCI realizado entre Fatec São José do Rio Preto e Michigan (MSU-Dearborn, EUA). Foram cinco sessões síncronas, apenas com alunos brasileiros fluentes, professores de Fatecs e norte-americanos, para discutir temas da psicologia da linguagem. Danila Bertolin (gestora pedagógica regional/Cesu) participou do PCI “Administração Escolar Internacional na Pandemia”, com gestores pedagógicos regionais, representantes das áreas pedagógica e administrativa da Cesu, Cetec, ARInter e CPRJI do Centro Paula Souza, da Inacap (Chile), Uniminuto (Colômbia) e Universidade de Aveiro (Portugal). “Enxergo os PCIs como uma importante estratégia de desenvolvimento institucional do Centro Paula Souza”, afirma Danila. Osvaldo Succi Junior apresentou a diversidade de PCIs realizados com a Durban University of Technology (África do Sul) na área de navegação (Fatec Jahu), aplicativo para área de saúde (Fatec Americana), sabonetes artesanais (Fatec Diadema), exportação de flores (Fatecs Itapetininga, Indaiatuba e São Caetano) e segurança da informação (Fatecs Americana e São Caetano).
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f2_neg_002.txt (text ID t000043) =====
+Text ID: t000043
+Edition: vem_ed_10
+File:    corpus/07_tagged/vem_ed_10/t043.txt
+
+Score (f2_neg): 1
+Loading words (f2_neg), N=1: f3 score: 3
+Jornada de PCIs: compartilhando experiências “We are SOME of the champions” reuniu relatos apresentados por professores com experiência consolidada em diversos tipos de PCIs. Camila Kami, professora de inglês, tem experiências com PCIs desde 2019, nas Fatecs Bauru e Garça. Ressaltou a importância de ferramentas tecnológicas user-friendly, como o Padlet. Na atividade de ice-breaker, sugeriu um piquenique virtual. Recomendou reuniões semanais com o professor parceiro, conversas com os alunos sobre questões interculturais e rubricas com critérios de avaliação. Elizabeth Herrera Colorado, professora de espanhol, relatou um projeto sobre interculturalidade da Fatec Itaquaquecetuba com a UDEM (México). “Paciência, flexibilidade e acompanhamento permanente são nossos aliados”, resumiu. Ela recomenda ainda entrar em sintonia com os parceiros internacionais e preparar os alunos para as apresentações síncronas. Ricardo Pompeu comentou o PCI que as Fatecs Americana e Sumaré desenvolveram com Symbiosis sobre satisfação no trabalho, envolvendo 100 alunos (50 de cada país). Segundo Pompeu, preparação prévia, tanto dos professores quanto dos alunos, foi essencial para o sucesso. “O PCI vai muito além da ementa da disciplina”, frisou. Neusa Haruka contou sobre o PCI com Tianjin Normal University (China), sobre aprendizado do inglês como língua estrangeira. O desafio principal é o fuso horário de 11 horas, o que permitia reuniões síncronas apenas nos fins de semana. Mesmo assim, os alunos participavam. A atividade intercultural consiste em pesquisas sobre a cultura do outro país. Esse projeto tem três anos e meio e envolve 8 Fatecs.
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f2_neg_003.txt (text ID t000044) =====
+Text ID: t000044
+Edition: vem_ed_10
+File:    corpus/07_tagged/vem_ed_10/t044.txt
+
+Score (f2_neg): 1
+Loading words (f2_neg), N=1: f3 score: 4
+Jornada de PCIs: alimentando pesquisas “Pesquisas em PCIs” trouxe exemplos de como as pesquisas acadêmicas podem ser incorporadas à realização de PCIs. Ana Carolina Freschi apresentou uma síntese de suas pesquisas no mestrado e no doutorado, com abordagens relativas aos intercâmbios virtuais e a avaliação dos projetos (autoavaliação, pelo professor e por pares). Citou o autor O´Dowd e trouxe uma revisão terminológica relacionada aos intercâmbios virtuais: telecolaboração, Teletandem (relacionados à aprendizagem de línguas estrangeiras), global virtual teams (na área de negócios), e os planos de ensino compartilhados, com foco em competência intercultural e digital, desenvolvidos na iniciativa COIL (Collaborative Online International Learning) e conhecidos na Unidade do Ensino Superior (Cesu) do Centro Paula Souza com o nome de Projetos Colaborativos Internacionais (PCIs). Lilian de Souza (Fatec Piracicaba) apresentou sua tese sobre ensino de línguas para fins específicos. A problemática tratada no doutorado se originou dos PCIs. “Trouxe para a minha pesquisa e a minha prática as atividades que eu desenvolvi no PCI”. Lidiane Murad expôs um trabalho sobre os projetos de internacionalização na Fatec São José do Rio Preto, realizados desde 2015. Ao longo desses anos, a unidade contabiliza 18 edições de projetos, 170 alunos participantes e 9 universidades parceiras. Patrícia Patrício (equipe dos PCIs) sintetizou os resultados da pesquisa de percepção realizada com professores e alunos que participaram de PCIs no primeiro semestre de 2021.Dos 572 pesquisados, 90 % afirmaram que participar de um PCI melhora desempenho acadêmico e chances no mercado de trabalho. No segundo semestre de 2021, há mais de 40 projetos e 1000 alunos envolvidos, porém, a pesquisa não foi concluída. Os resultados devem ser analisados no primeiro semestre de 2022.
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f2_neg_004.txt (text ID t000041) =====
+Text ID: t000041
+Edition: vem_ed_10
+File:    corpus/07_tagged/vem_ed_10/t041.txt
+
+Score (f2_neg): 3
+Loading words (f2_neg), N=1: f3 score: 5
+Jornada de PCIs: internacionalização em casa Após a abertura, seguiram-se os painéis temáticos. Em “Gestão da Internacionalização em Casa”, Adriane Fontana, diretora da Fatec São Caetano, comentou que a gestão dos PCIs se dá com três pilares: divulgação, motivação e envolvimento de todos os atores envolvidos: direção, coordenação, professores e alunos. Ruy Accioly, coordenador do curso de Logística da Fatec Baixada Santista, indicou os principais desafios na realização do PCI com a Inacap (Chile), sobre economia circular: idioma, tecnologia da informação e integração das equipes. Dentre os principais resultados obtidos a partir do PCI, destacou o aprendizado de novas tecnologias da informação, publicação de artigos e TCCs. Sandro Pinto, coordenador do curso de Gestão da Qualidade da Fatec Lins, enviou um vídeo sobre as fases da gestão dos PCIs: planejamento das atividades, envolvimento dos professores e engajamento dos estudantes. Regiane Camargo, professora de espanhol, relatou os projetos da Fatec Guaratinguetá: com a Uniminuto (Colômbia), uma análise linguística e semiótica sobre anúncios comerciais em redes sociais; com a Inacap (Chile), uma apresentação em português e espanhol sobre uma empresa; com a Universidade de Aveiro (Portugal), apresentação de um pitch, e um projeto de conversação em língua inglesa com a SUNY Delhi (EUA).
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f2_neg_005.txt (text ID t000039) =====
+Text ID: t000039
+Edition: vem_ed_10
+File:    corpus/07_tagged/vem_ed_10/t039.txt
+
+Score (f2_neg): 3
+Loading words (f2_neg), N=1: f3 score: 8
+QUEBRA-GELO Osvaldo Succi Junior Coordenador dos PCIs Em 26 de novembro de 2021, realizamos a Jornada de Projetos Colaborativos Internacionais (PCIs/Cesu): Reflexões sobre as Práticas, para discutir algumas das melhores práticas utilizadas nas Fatecs na realização de Intercâmbios Virtuais (ou, como são conhecidos no Centro Paula Souza, PCIs). Na realização do evento online, tivemos o apoio da Fatec Guaratinguetá e a participação das Fatecs Americana, Baixada Santista, Bauru, Garça, Guaratinguetá, Itaquaquecetuba, Itu, Lins, Piracicaba, São José do Rio Preto e São Caetano do Sul. Esta edição é dedicada inteiramente à Jornada, que teve quatro painéis temáticos: “Gestão da Internacionalização em Casa”, “Diversidade em Projetos”, “We are SOME of the champions” (relatos de quatro professores com experiência consolidada em PCIs) e “Pesquisas em PCIs”. Rafael Ferreira Alves, coordenador da Unidade do Ensino Superior de Graduação/Cesu, afirma que a “abordagem de desenvolvimento dos PCIs incorpora metodologias ativas e situações desafiadoras, com interações colaborativas entre docentes e discentes de diferentes países. Agrega ao perfil do egresso competências profissionais e socioemocionais únicas, mantendo aderência ao currículo do curso e fortalecendo o processo de ensino-aprendizagem na formação profissional e tecnológica. A modelagem dos PCIs se relaciona literalmente à indissociabilidade do Ensino, Pesquisa e Extensão, cujo conceito é considerado nos indicadores de qualidade do Sistema Nacional de Avaliação da Educação Superior (Sinaes).”
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f2_neg_006.txt (text ID t000040) =====
+Text ID: t000040
+Edition: vem_ed_10
+File:    corpus/07_tagged/vem_ed_10/t040.txt
+
+Score (f2_neg): 5
+Loading words (f2_neg), N=1: f3 score: 9
+Jornada de PCIs: abertura Em 26 de novembro de 2021, das 14 às 17h, a equipe dos Projetos Colaborativos Internacionais (PCIs/Cesu/CPS) realizou a Jornada de Projetos Colaborativos Internacionais (PCIs/Cesu): Reflexões sobre as Práticas. O evento online contou com o apoio da Fatec Guaratinguetá e a participação das Fatecs Americana, Baixada Santista, Bauru, Garça, Guaratinguetá, Itaquaquecetuba, Itu, Lins, Piracicaba, São José do Rio Preto e São Caetano do Sul. A gravação do webinário encontra-se em https://www.youtube.com/watch?v=acsdEqNgLPA. As discussões se organizaram em uma abertura e quatro painéis temáticos, com apresentação de Regiane Camargo, da equipe dos PCIs, e professora da Fatec Guaratinguetá. Da abertura, participaram Rafael Ferreira Alves (coordenador da Unidade do Ensino Superior de Graduação/Cesu), André Luiz Braun Galvão (diretor do Grupo Acadêmico Pedagógico/Cesu), André Ricardo Soares Amarante (diretor da Fatec Guaratinguetá), William Menezes (gestor pedagógico regional/Cesu), Mariane Teixeira (coordenadora de Línguas - Cesu), Osvaldo Succi Junior (coordenador dos PCIs/Cesu), Daives Bergamasco e Neusa Haruka Sezaki Gritti (equipe dos PCIs). Rafael Ferreira Alves deu as boas-vindas e comentou o crescimento exponencial dos PCIs nos últimos anos. André Braun ressaltou a importância do trabalho colaborativo e do aprendizado por projetos, dentro do contexto das metodologias ativas. Destacou ainda o desenvolvimento de competências socioemocionais de professores e alunos. André Amarante agradeceu os esforços da Cesu e frisou a importância dos PCIs na formação dos egressos das Fatecs. Mariane Teixeira ressaltou que a realização dos PCIs contribui para a internacionalização do currículo dos cursos superiores de tecnologia e agradeceu a participação dos professores de línguas para o sucesso dos projetos. Osvaldo Succi comentou sobre as iniciativas de internacionalização desenvolvida nas Fatecs e mencionou o apoio da equipe dos PCIs/Cesu à ArInter e à Cetec na realização do Procin, para internacionalização do ensino médio e técnico. Neusa Haruka apresentou a equipe dos PCIs. Daives Bergamasco mencionou a importância das plataformas para atividades síncronas (Zoom, Skype) e assíncronas (Slack, Lark).
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f2_neg_007.txt (text ID t000115) =====
+Text ID: t000115
+Edition: vem_ed_22
+File:    corpus/07_tagged/vem_ed_22/t115.txt
+
+Score (f2_neg): 1
+Loading words (f2_neg), N=1: f3 score: 3
+continuação Fatec Itaquaquecetuba - Connecting Traditions and Innovations: The Assistance of Information Technology in the Preservation of Brazilian Indigenous Culture, dos estudantes Lorena Araújo Pereira e Gabriel Nobrega Monteiro, orientados por Wilton Garcia; Fatec Itaquaquecetuba - Earth Timer: proposal for a digital application, do estudante Patrick Paiva, orientado por Wilton Garcia; Fatec Pompeia – Case study on water lackage in the northeast of Brazil, do estudante Israel Nascimento de Oliveira, orientado por Vânia Regina Alves de Souza (leia depoimento da professora a seguir). “Case study on water lackage in the northeast of Brazil trata-se de um estudo de caso realizado em um PCI entre Fatec Pompeia e a Yerevan State University (Armênia), no qual investigamos as principais razões causadoras da falta de água no Sertão no Nordeste brasileiro e buscamos explorar possíveis soluções para enfrentar esse desafio, atendendo aos objetivos de Desenvolvimento Sustentável propostos pela ONU. O intercâmbio virtual desempenha um papel crucial no desenvolvimento das competências linguísticas e interculturais dos alunos, oferecendo uma plataforma para a prática autêntica da língua estrangeira em contextos reais de comunicação. Além disso, promove a exposição a diferentes culturas, ampliando a compreensão e o respeito pela diversidade. Essa experiência virtual permite aos alunos interagir com falantes nativos e outros estudantes ao redor do mundo, enriquecendo seu aprendizado de forma significativa e preparando-os para um mundo globalizado e multicultural. Participar de um evento em uma universidade estrangeira foi uma experiência enriquecedora que agregou imenso valor tanto para mim, como professora de língua estrangeira, quanto para meus alunos. A oportunidade de apresentar um trabalho em um ambiente acadêmico internacional proporcionou uma troca de conhecimentos e experiências únicas. Para mim, foi uma chance de aprimorar minhas habilidades de comunicação e pesquisa, além de ampliar minha rede de contatos profissionais. Para meus alunos, essa vivência foi inspiradora e motivadora, mostrando-lhes a importância da pesquisa e da participação ativa na comunidade acadêmica global. Além disso, apresentar um trabalho em um Conclave internacional não só valorizou o esforço e a dedicação dos alunos, mas também os preparou para desafios futuros, fortalecendo suas habilidades de apresentação e confiança no uso da língua estrangeira em contextos acadêmicos e profissionais.”
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f2_neg_008.txt (text ID t000112) =====
+Text ID: t000112
+Edition: vem_ed_22
+File:    corpus/07_tagged/vem_ed_22/t112.txt
+
+Score (f2_neg): 1
+Loading words (f2_neg), N=1: f3 score: 3
+Equipe dos PCIs na DUOC UC (Chile) Osvaldo Succi Junior, coordenador dos Projetos Colaborativos Internacionais da Unidade do Ensino Superior de Graduação (PCIs/Cesu) do Centro Paula Souza, e Regiane Souza Camargo Moreira, responsável pelos PCIs em espanhol, foram convidados pela Vice-Reitoria Acadêmica do Instituto Profesional DUOC UC (Chile) para oferecer workshops sobre a metodologia COIL (Collaborative Online International Learning) de Intercâmbios Virtuais e participar de seminários da “1ª Semana de Internacionalização em Casa”. O evento ocorreu na instituição chilena entre 27 de novembro e 1º de dezembro de 2023, no centro de educação continuada da DUOC UC em Santiago e no campus Valparaíso. As atividades foram organizadas para diversos perfis de público acadêmico: workshops para professores iniciantes em COIL (72 participantes), experientes na metodologia (12 participantes), masterclass sobre Internacionalização em Casa e seminário para grupo administrativo sobre essa temática. O primeiro Intercâmbio Virtual (ou PCI, como é chamado no Centro Paula Souza) foi realizado na Fatec Americana, em 2013, precedendo todas as instituições de ensino superior brasileiras. Em uma década, os mais de 500 PCIs envolveram 50 Fatecs, 9.934 alunos e 49 instituições de ensino superior em 18 países. Hoje, o Centro Paula Souza está entre as principais instituições do mundo em Intercâmbios Virtuais do tipo COIL.
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f2_neg_009.txt (text ID t000116) =====
+Text ID: t000116
+Edition: vem_ed_22
+File:    corpus/07_tagged/vem_ed_22/t116.txt
+
+Score (f2_neg): 3
+Loading words (f2_neg), N=1: f3 score: 3
+PCI recebeu prêmio da Câmara de Comércio dos BRICS O Projeto Colaborativo Internacional (PCI/Cesu) sobre exportação de flores da África do Sul para o Mercosul, considerando os Objetivos de Desenvolvimento Sustentável (ODS) propostos na Agenda 2030 da Organização das Nações Unidas (ONU), recebeu prêmio da Câmara de Comércio e Indústria (CCI) dos BRICS - aliança composta por Brasil, Rússia, Índia, China e África do Sul, que recebe outras seis nações convidadas em 2024. Realizado em 2022, o PCI envolveu professores e estudantes de Comércio Exterior das Fatecs Itapetininga, Indaiatuba e São Caetano do Sul e de Floricultura da Durban University of Technology (África do Sul). João Guilherme Diniz, concluinte de Comércio Exterior na Fatec Itapetininga, ficou sabendo do prêmio e inscreveu o projeto. A CCI reconheceu a contribuição para as parcerias estratégicas entre países dos BRICS e concedeu o prêmio de “Excelência Acadêmica”. O prêmio “BRICS CCI Annual Recognition Awards” (BARA) destaca projetos que contribuam para o desenvolvimento sustentável dos países membros. A professora Paula Granato esteve na cerimônia de premiação no hotel Le Méridien, em Nova Deli, em 19 de janeiro de 2024. Aqui, o relato de Paula para o Instagram do Centro Paula Souza: https://shorturl.at/KLX37. E a notícia publicada no site do Centro Paula Souza: https://www.cps.sp.gov.br/fatec-itapetininga-e-premiada-em-evento-na-india-no-ultimo-dia-19/
+
+--- Loading words for this example (neg): (none)
+
+
+===== EXCERPT: f2_neg_010.txt (text ID t000111) =====
+Text ID: t000111
+Edition: vem_ed_22
+File:    corpus/07_tagged/vem_ed_22/t111.txt
+
+Score (f2_neg): 3
+Loading words (f2_neg), N=1: f3 score: 2
+PCIs em 2023: resultados e indicadores O ano de 2023 marcou a projeção internacional dos PCIs/Cesu, como se verá em detalhe ao longo das próximas páginas. Expandir as colaborações e manter a qualidade dos projetos foram metas perseguidas e alcançadas: ocorreram 109 PCIs no ano, dos quais 27 novos (25 %) e 82 reeditados (75 %), com a participação de 91 professores de Fatecs, 78 de instituições internacionais, 2.505 estudantes estrangeiros e 2.450 alunos de Fatecs. De 2013 a 2023, cerca de 10 mil fatecanos (9.934) participaram de mais de 500 PCIs. Tais experiências foram amplamente compartilhadas em comunicações acadêmicas: em 2023, a equipe dos PCIs participou de 12 eventos nacionais, 11 internacionais, 10 grupos especializados, acompanhou 8 docentes estrangeiros em visitas a Fatecs, publicou 2 artigos, apresentou 32 trabalhos em congressos nacionais e 31 em eventos internacionais. Além disso, organizou o Simpósio Internacional IVES Cesu 2023 e a Jornada de PCIs, noticiados, respectivamente, em VEm 18 e VEm 20. Os principais resultados e indicadores estão sintetizados no infográfico a seguir.
+
+--- Loading words for this example (neg): (none)
