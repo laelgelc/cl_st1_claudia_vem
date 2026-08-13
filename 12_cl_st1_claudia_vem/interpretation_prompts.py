@@ -5,7 +5,7 @@ Generate interpretation prompt files for factor poles.
 For each pole, this script assembles a complete prompt containing:
     1. System prompt
     2. User prompt
-    3. Mean decade scores
+    3. Mean VEm edition scores
     4. Factor loadings
     5. Example excerpts, with their loading words appended
 
@@ -16,7 +16,7 @@ Expected inputs:
     factors/f<n>_<pole>.txt
     examples_txt/f<n>_<pole>/*.txt
     examples/score_details.txt
-    sas/output_<project>/means_decade_f<n>.tsv
+    sas/output_<project>/means_edition_f<n>.tsv
 
 Output:
     interpretation/input/f<n>_<pole>.txt
@@ -56,7 +56,7 @@ def parse_args() -> argparse.Namespace:
         "--project",
         default=DEFAULT_PROJECT,
         help=(
-            "Project name, e.g. cl_st1_ph2_andrea or cl_st1_ph3_andrea. "
+            "Project name, e.g. cl_st1_claudia_vem. "
             "Default: current directory name."
         ),
     )
@@ -116,37 +116,17 @@ def resolve_sas_output_dir(project: str, sas_output_dir_arg: str | None) -> Path
 # PROMPT TEXT
 # ============================================================
 
-def phase_description(project: str) -> str:
-    """Return a phase-specific description for the current project."""
-    if "ph2" in project:
-        return (
-            "This phase analyses the commercial verbal subcorpus: transcript texts "
-            "representing the spoken/audio-verbal content of the selected television commercials."
-        )
-
-    if "ph3" in project:
-        return (
-            "This phase analyses the commercial visual subcorpus: textual descriptions "
-            "of the visual content of the selected television commercials."
-        )
-
-    return (
-        "This phase analyses one of the commercial subcorpora: either transcript texts "
-        "of spoken/audio-verbal content or textual descriptions of visual content."
-    )
-
-
 def build_system_prompt(project: str) -> str:
     """Build the system prompt."""
     return f"""You are a corpus linguist specialising in Lexical Multi-Dimensional Analysis (LMDA).
 Your task is to interpret a single factor pole as a discourse dimension.
 
-The target corpus consists of selected VEm journal excerpts organised by edition.
+The target corpus consists of selected VEm journal/newsletter excerpts organised by magazine edition.
 
 Your interpretation must identify the discourses encoded at this pole, taking into account:
 • lexical loadings, which represent the full analysed target corpus;
 • example excerpts, which illustrate high-scoring texts at this pole;
-• the editions that score most strongly at this pole.
+• the VEm editions that score most strongly at this pole.
 """
 
 
@@ -158,7 +138,7 @@ Base your interpretation on:
 • Factor loadings.
 • Example excerpts from high-scoring texts.
 • The loading words that appear in these examples.
-• Which editions appear to drive this pole.
+• Which VEm editions appear to drive this pole.
 
 Do not offer a "versus" interpretation of the opposite pole.
 Focus on this single pole only.
@@ -285,6 +265,13 @@ def main() -> None:
         key=natural_sort_key,
     )
 
+    # Avoid processing factor helper files in subdirectories; this glob should
+    # only pick files directly inside factors/, but keep the check explicit.
+    factor_files = [
+        path for path in factor_files
+        if path.is_file()
+    ]
+
     if not factor_files:
         raise FileNotFoundError(f"No factor pole files found in {factors_dir}")
 
@@ -309,7 +296,7 @@ def main() -> None:
 
         loadings_text = factor_file.read_text(encoding="utf-8").strip()
 
-        means_file = sas_output_dir / f"means_decade_f{factor_number}.tsv"
+        means_file = sas_output_dir / f"means_edition_f{factor_number}.tsv"
 
         if not means_file.exists():
             print(f"Warning: missing means file {means_file}")
@@ -318,10 +305,15 @@ def main() -> None:
             means_text = means_file.read_text(encoding="utf-8").strip()
 
         example_folder = examples_dir / factor_name
-        example_files = sorted(
-            example_folder.glob("*.txt"),
-            key=natural_sort_key,
-        )[:args.excerpt_count]
+
+        if not example_folder.exists():
+            print(f"Warning: missing example folder {example_folder}")
+            example_files = []
+        else:
+            example_files = sorted(
+                example_folder.glob("*.txt"),
+                key=natural_sort_key,
+            )[:args.excerpt_count]
 
         excerpts_block = []
 
@@ -363,7 +355,7 @@ def main() -> None:
             polarity=polarity,
         )
 
-        mean_section = f"\n=== MEAN DECADE SCORES ===\n{means_text}\n"
+        mean_section = f"\n=== MEAN EDITION SCORES ===\n{means_text}\n"
         loadings_section = f"\n=== FACTOR LOADINGS ({factor_name}) ===\n{loadings_text}\n"
 
         final_prompt = (

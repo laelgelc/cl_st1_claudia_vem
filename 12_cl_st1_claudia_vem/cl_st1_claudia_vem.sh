@@ -153,7 +153,9 @@ python examples_txt.py \
 
 # Interpretation
 # Build prompts:
-python interpretation_prompts.py
+python interpretation_prompts.py \
+    --project cl_st1_claudia_vem \
+    --sas-output-dir sas/output_cl_st1_claudia_vem
 # Output: interpretation/input
 
 # Submit prompts:
