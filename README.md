@@ -312,4 +312,4 @@ These outputs can be used for:
 
 The target corpus consists of 191 selected VEm journal/newsletter excerpts organised by magazine edition.
 
-The Lexical Multi-dimensional Analysis (LMDA) was processed according to the corresponding procedures.
+The Lexical Multi-dimensional Analysis (LMDA) was processed according to the [corresponding procedures](https://github.com/jcollentine/vem-corpus/blob/main/12_cl_st1_claudia_vem/cl_st1_claudia_vem.md#lexical-multi-dimensional-analysis-lmda-pipeline).
