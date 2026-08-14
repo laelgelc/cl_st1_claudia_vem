@@ -307,3 +307,9 @@ These outputs can be used for:
 - frequency analysis  
 - collocation analysis  
 - corpus-based linguistic research
+
+# Lexical Multi-dimensional Analysis
+
+The target corpus consists of 191 selected VEm journal/newsletter excerpts organised by magazine edition.
+
+The Lexical Multi-dimensional Analysis (LMDA) was processed according to the corresponding procedures.
