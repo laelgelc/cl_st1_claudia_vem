@@ -27,118 +27,118 @@ Give equal weight to the loadings and the examples. Remember that loadings repre
 
 === MEAN EDITION SCORES ===
 Effect	edition	N	Mean fac1	SD fac1
-edition	vem_ed_01	4	11.5000000	7.8528127
-edition	vem_ed_02	4	6.7500000	10.3077641
-edition	vem_ed_03	4	7.2500000	3.7749172
-edition	vem_ed_04	4	6.2500000	7.8049130
-edition	vem_ed_05	4	11.0000000	7.3484692
-edition	vem_ed_06	4	9.2500000	3.4034296
-edition	vem_ed_07	4	4.2500000	5.1234754
-edition	vem_ed_08	5	16.2000000	10.1341008
-edition	vem_ed_09	5	13.6000000	6.5802736
-edition	vem_ed_10	6	10.1666667	4.2150524
-edition	vem_ed_11	5	7.6000000	4.7222876
-edition	vem_ed_12	4	2.2500000	1.7078251
-edition	vem_ed_13	4	9.5000000	6.1913919
-edition	vem_ed_14	5	7.6000000	8.0808415
-edition	vem_ed_15	5	11.2000000	8.6429162
-edition	vem_ed_16	5	11.6000000	8.4142736
-edition	vem_ed_17	8	8.2500000	5.9940447
-edition	vem_ed_18	4	10.2500000	9.9121138
-edition	vem_ed_19	11	21.2727273	22.1499025
-edition	vem_ed_20	7	10.4285714	5.3496773
-edition	vem_ed_21	7	6.2857143	2.3603874
-edition	vem_ed_22	7	6.2857143	9.1052052
-edition	vem_ed_23	8	8.1250000	5.1112621
-edition	vem_ed_24	6	18.3333333	20.8774200
-edition	vem_ed_25	6	14.3333333	10.4434988
-edition	vem_ed_26	5	17.4000000	15.2085502
-edition	vem_ed_27	4	40.7500000	36.0682224
-edition	vem_ed_28	5	65.4000000	37.7994709
-edition	vem_ed_29	4	37.0000000	20.3306009
-edition	vem_ed_30	5	31.4000000	24.2239551
-edition	vem_ed_31	6	24.6666667	17.0958085
-edition	vem_ed_32	7	28.8571429	18.0132227
-edition	vem_ed_33	8	14.2500000	8.0489573
-edition	vem_ed_34	5	50.0000000	30.8868904
-edition	vem_ed_35	6	46.8333333	28.8680908
+edition	vem_ed_01	4	0.00000000	0.00000000
+edition	vem_ed_02	4	-0.75000000	0.95742711
+edition	vem_ed_03	4	1.00000000	1.63299316
+edition	vem_ed_04	4	0.00000000	0.00000000
+edition	vem_ed_05	4	-2.00000000	1.41421356
+edition	vem_ed_06	4	0.00000000	0.81649658
+edition	vem_ed_07	3	-2.00000000	0.00000000
+edition	vem_ed_08	5	-0.20000000	0.44721360
+edition	vem_ed_09	5	-1.00000000	1.22474487
+edition	vem_ed_10	6	1.16666667	1.16904519
+edition	vem_ed_11	4	0.50000000	1.00000000
+edition	vem_ed_12	4	-1.75000000	1.50000000
+edition	vem_ed_13	3	0.00000000	0.00000000
+edition	vem_ed_14	5	-0.40000000	0.89442719
+edition	vem_ed_15	5	0.60000000	0.54772256
+edition	vem_ed_16	5	0.00000000	0.00000000
+edition	vem_ed_17	6	-0.16666667	0.40824829
+edition	vem_ed_18	4	1.00000000	0.81649658
+edition	vem_ed_19	10	0.60000000	0.96609178
+edition	vem_ed_20	6	1.16666667	1.16904519
+edition	vem_ed_21	7	0.71428571	0.95118973
+edition	vem_ed_22	5	-0.20000000	0.44721360
+edition	vem_ed_23	5	1.20000000	0.44721360
+edition	vem_ed_24	5	0.20000000	0.44721360
+edition	vem_ed_25	6	1.33333333	1.03279556
+edition	vem_ed_26	5	0.60000000	0.89442719
+edition	vem_ed_27	2	7.00000000	7.07106781
+edition	vem_ed_28	5	0.60000000	0.54772256
+edition	vem_ed_29	3	1.33333333	1.15470054
+edition	vem_ed_30	5	0.40000000	0.54772256
+edition	vem_ed_31	6	1.33333333	0.81649658
+edition	vem_ed_32	7	0.42857143	0.97590007
+edition	vem_ed_33	7	-0.28571429	0.48795004
+edition	vem_ed_34	5	0.40000000	0.89442719
+edition	vem_ed_35	5	0.60000000	0.89442719
 
 === FACTOR LOADINGS (f1_neg) ===
-variables loading on this pole = 300
-resumido (-.55), colhir (-.54), existência (-.54), movimentado (-.54), orgulhar (-.54), administrar (-.53), keynote (-.53), manufatura (-.53), pcizeiros (-.53), possibilito (-.53), resumos (-.53), speaker (-.53), assinar (-.52), iniciante (-.52), latinoamericano (-.52), rever (-.52), brindar (-.51), lei (-.51), mineração (-.51), pesquisado (-.51), socialização (-.51), submissão (-.51), aceito (-.50), aprovar (-.50), concordar (-.50), debati (-.50), hotel (-.50), orientador (-.50), premiar (-.50), public (-.50), sabonete (-.50), terço (-.50), agendar (-.49), alteração (-.49), comunicar-se (-.49), informar (-.49), jornalista (-.49), letivo (-.49), mídia (-.49), prever (-.49), ranking (-.49), revisão (-.49), slide (-.49), atrair (-.48), captação (-.48), compra (-.48), mestrado (-.48), pretender (-.48), aos (-.47), approach (-.47), ceeteps (-.47), detectar (-.47), doutor (-.47), dupla (-.47), entorno (-.47), gíria (-.47), moderar (-.47), mote (-.47), negativo (-.47), participemr (-.47), pitch (-.47), proyecto (-.47), pós-graduando (-.47), quinzena (-.47), redaes (-.47), árido (-.47), campus (-.46), detalhado (-.46), embalagem (-.46), fantástico (-.46), novas (-.46), preditivo (-.46), reitor (-.46), sênior (-.46), abordo (-.45), adicionar (-.45), agenda (-.45), alimento (-.45), assertividade (-.45), chegada (-.45), combate (-.45), deslocamento (-.45), disposto (-.45), entrevistada (-.45), esboçar (-.45), finalizando (-.45), incrementar (-.45), louvar (-.45), mapeamento (-.45), parceiros (-.45), participaram (-.45), prometer (-.45), requisito (-.45), tenhamos (-.45), total (-.45), colaborações (-.44), culminar (-.44), desempenho (-.44), elogiar (-.44), filme (-.44), persistência (-.44), recrutamento (-.44), redondar (-.44), rubrica (-.44), seguindo (-.44), seminário (-.44), treinar (-.44), alunos (-.43), atuante (-.43), chamada (-.43), coach (-.43), dispor (-.43), engajados (-.43), equipa (-.43), fácil (-.43), física (-.43), indiana (-.43), infográfico (-.43), levantamento (-.43), nação (-.43), palestraram (-.43), psicologia (-.43), recomendou (-.43), translinguagem (-.43), vítima (-.43), acessibilidade (-.42), alternar (-.42), aprendizaje (-.42), calouro (-.42), campi (-.42), capital (-.42), concedir (-.42), dedicação (-.42), escravidão (-.42), guiar (-.42), híbrir (-.42), moderador (-.42), prosseguir (-.42), retomar (-.42), rompehielo (-.42), sabemos (-.42), semiótico (-.42), sotaque (-.42), aderência (-.41), chance (-.41), comitê (-.41), conduzer (-.41), confiável (-.41), dependência (-.41), disponibilidade (-.41), escritório (-.41), incluír (-.41), julho (-.41), lente (-.41), líder (-.41), maturidade (-.41), meta (-.41), norte-americana (-.41), pai (-.41), peculiaridade (-.41), puder (-.41), relatos (-.41), veja (-.41), voltado (-.41), afetar (-.40), assessora (-.40), durar (-.40), expertise (-.40), gestores (-.40), holandês (-.40), honesto (-.40), introduzir (-.40), lucrativo (-.40), operação (-.40), permanecer (-.40), trabalhamos (-.40), turístico (-.40), acelerar (-.39), apreciar (-.39), apto (-.39), arquivo (-.39), assistir (-.39), campanha (-.39), correção (-.39), ementa (-.39), emigrar (-.39), indústria (-.39), inspirar (-.39), luso-brasileiro (-.39), operacional (-.39), privilegiar (-.39), publicidade (-.39), relatório (-.39), shop (-.39), turismo (-.39), ajudei (-.38), anual (-.38), comemorar (-.38), conceder (-.38), conferencista (-.38), crença (-.38), determinação (-.38), engajada (-.38), idiomático (-.38), jargão (-.38), localizar (-.38), manual (-.38), molde (-.38), piloto (-.38), publicitário (-.38), replicar (-.38), somar (-.38), assegurar (-.37), chinês (-.37), colóquio (-.37), constituir (-.37), desafiadoro (-.37), desarrollo (-.37), duro (-.37), dúvidas (-.37), fundador (-.37), gastronomia (-.37), latino-americano (-.37), médico-hospitalar (-.37), perguntada (-.37), racismo (-.37), semestral (-.37), superintendente (-.37), videoconferência (-.37), audiência (-.36), coautoria (-.36), consecutivo (-.36), democrático (-.36), enviar (-.36), envolr (-.36), icebreaker (-.36), influência (-.36), mestrar (-.36), multiplicidade (-.36), perguntado (-.36), questionário (-.36), reflete (-.36), refugiado (-.36), repleta (-.36), época (-.36), alegria (-.35), auxílio (-.35), contemplar (-.35), corrido (-.35), executivo (-.35), ganho (-.35), guia (-.35), imenso (-.35), invertido (-.35), juventude (-.35), lançar (-.35), mente (-.35), perspective (-.35), aliança (-.34), apresentadore (-.34), comentário (-.34), consistência (-.34), coragem (-.34), exploratório (-.34), imersão (-.34), kit (-.34), médico (-.34), peça (-.34), representatividade (-.34), aberto (-.33), agosto (-.33), atento (-.33), compartilha (-.33), desempenhar (-.33), distribuir (-.33), estive (-.33), matricular (-.33), sensibilidade (-.33), tarde (-.33), visita (-.33), baixos (-.32), contemporaneidade (-.32), destino (-.32), empregar (-.32), equipamento (-.32), mulher (-.32), química (-.32), alternativo (-.31), eliminar (-.31), entusiasmar (-.31), esclarecer (-.31), previsto (-.31), privacidade (-.31), procedimento (-.31), produtivo (-.31), faltar (-.30), gênero (-.30), inspiradoro (-.30), link (-.30), resiliêncio (-.30)
+variables loading on this pole = 12
+meta (-.59), equipamento (-.47), gastronomia (-.47), concordar (-.44), letivo (-.42), médico-hospitalar (-.38), (campus (-.36)), ementa (-.36), assessora (-.35), (fundador (-.34)), paixão (-.34), turismo (-.32)
 
 === EXAMPLE EXCERPTS ===
 
-===== EXCERPT: f1_neg_001.txt (text ID t000053) =====
-Text ID: t000053
-Edition: vem_ed_12
-File:    corpus/07_tagged/vem_ed_12/t053.txt
+===== EXCERPT: f1_neg_001.txt (text ID t000020) =====
+Text ID: t000020
+Edition: vem_ed_05
+File:    corpus/07_tagged/vem_ed_05/t020.txt
 
-Score (f1_neg): 2
-Loading words (f1_neg), N=12: hotel, alteração, dupla, pitch, colaborações, equipa, prosseguir, julho, turístico, turismo, guia, destino
-COLABORAÇÕES COM UNIVERSIDADE DE AVEIRO No segundo semestre de 2021, as Fatecs Lins, Ipiranga e Guaratinguetá iniciaram Projetos Colaborativos Internacionais com a Universidade de Aveiro (UA/Portugal). As atividades se mantêm em 2022. Esses intercâmbios virtuais, também chamados de COIL (Collaborative Online International Learning) ou PCIs (Projetos Colaborativos Internacionais, no Centro Paula Souza), são frutos de uma reunião realizada pela equipe dos PCIs/Cesu em 29 de julho de 2021 com diretores de curso (coordenadores) e com Ana Balula, da Equipa de Apoio para a Inovação Curricular e Pedagógica da instituição portuguesa. Na Fatec Guaratinguetá, Sérgio Tenório dos Santos Neto, professor de Comunicação Empresarial, desenvolveu um projeto voltado a técnicas para criar um pitch de sucesso com a professora Dina Baptista, de Técnicas de Expressão Oral e Escrita (UA). Mais detalhes sobre o PCI/COIL, que deve ser continuado no segundo semestre de 2022, estão disponíveis em: https://www.ua.pt/pt/noticias/0/72337 Na Fatec Lins Na Fatec Lins, Silvio Ribeiro, que leciona Metodologia de Projeto de Produto, e Florbela Machado, docente de Gestão da Qualidade no Turismo na UA, desenvolveram com seus estudantes um guia prático para intercâmbio de turismo acessível, no segundo semestre de 2021. Metade dos grupos abordou o destino turístico Foz do Iguaçu (Brasil) e os demais apresentaram Aveiro (Portugal). Os trabalhos, apresentados na ferramenta Prezi e em vídeos, foram publicados na plataforma Padlet. Ao longo de 2022, Ribeiro fará dupla com o professor Fernando Florim de Lemos, para elaboração de um guia de turismo eletrônico Brasil/Portugal. Neste primeiro semestre, os grupos vão levantar informações junto aos hotéis e no segundo semestre, elaborar o roteiro eletrônico. Na Fatec Ipiranga Na Fatec Ipiranga, Patrícia Sales Patrício, da equipe dos PCIs/Cesu e professora de Comunicação Interna e Endomarketing, realizou, em novembro e dezembro de 2021, um projeto com Ana Torres, professora de Fundamentos de Marketing da UA. Oito equipes mistas (ou equipas, como se diz em Portugal) estudaram como empresas brasileiras em Portugal (e o Grupo Sonae, português, com presença no Brasil) comunicam suas práticas de Responsabilidade Social Corporativa. Os pôsteres foram publicados na plataforma Padlet e as apresentações dos grupos ocorreram no Zoom. O projeto prossegue, com algumas alterações, no primeiro semestre de 2022. Da UA, participam as docentes Ana Torres e Paula Pinheiro – ambas ministram a disciplina Comportamento de Consumo. Além do estudo da comunicação das práticas de Responsabilidade Socioambiental, estudantes brasileiros e portugueses vão abordar as implicações desses processos no comportamento de consumo sustentável.
+Score (f1_neg): -4
+Loading words (f1_neg), N=4: meta, equipamento, gastronomia, paixão
+Planejamento e paixão Entre setembro e novembro de 2020, Joelson Alves do Nascimento, docente da Fatec Barueri, desenvolveu um Intercâmbio Virtual com o colega Luigi Ramirez, da universidade colombiana Uniminuto. Foi um dos primeiros projetos colaborativos do Centro Paula Souza com a IES da Colômbia. A seguir, Nascimento relata a experiência de conduzir 23 estudantes de Gestão da Tecnologia da Informação em um estudo sobre Competências Emocionais com os pares colombianos da Uniminuto. Encontrei no Projeto Colaborativo a possibilidade de empolgar os alunos, fazer com que fiquem mais participativos, e isso pra mim é fantástico. Precisamos aproveitar as novas tecnologias para incrementar nossas aulas e os intercâmbios virtuais ajudam muito nisso. A etapa inicial (em espanhol, rompehielos) funcionou bem. Todos mandaram vídeos e fotos e comentaram as postagens dos colegas, trazendo assuntos como gastronomia, cultura, estilo de vida e informações sobre a universidade. Quanto às ferramentas digitais, houve dificuldades ao manejar o Canvas [ambiente de aprendizagem semelhante ao Teams, usado na Uniminuto]. Era uma plataforma nova para a turma da Fatec Barueri. De minha parte, ajudei alunos no cadastro e utilização dos recursos. Devido a problemas de conexão à internet, os grupos de WhatsApp se mostraram mais eficientes para interação entre os estudantes. O desenvolvimento e autoconhecimento dos alunos brasileiros e colombianos foi excelente, quanto às competências emocionais. Compartilhamos artigos em português e espanhol sobre o tema com os alunos. O projeto foi um diferencial importante para a vida pessoal e profissional, sobretudo para compreender a necessidade do autoconhecimento, do desenvolvimento das habilidades interrelacionais e das competências emocionais no ambiente de trabalho: empatia, comprometimento, assertividade, relacionamento interpessoal, comunicação. Meus alunos ressaltaram que precisaram vencer a barreira linguística, já que muitos não sabiam falar espanhol. Para quem quer começar um intercâmbio virtual, a dica é: Paixão + conhecimento = resultados excelentes. Escolher um tema pelo qual tenha paixão. Além disso, 200 % de atenção, porque todos têm vida corrida e é preciso superar desafios como falta de energia, equipamentos e internet. Esses problemas aos quais os alunos estão sujeitos, nós professores também estamos. Por isso é importante automotivação e motivar a turma. Também é essencial um projeto com metas claras e um roteiro com prazos definidos. Isso porque, mesmo planejando, é preciso fazer ajustes. Além disso, todos devem entregar o que prometeram. Seguindo essas dicas, garanto que todos vão se empolgar pelos projetos colaborativos tanto quanto eu.
 
---- Loading words for this example (neg): hotel, alteração, dupla, pitch, colaborações, equipa, prosseguir, julho, turístico, turismo, guia, destino
-
-
-===== EXCERPT: f1_neg_002.txt (text ID t000051) =====
-Text ID: t000051
-Edition: vem_ed_12
-File:    corpus/07_tagged/vem_ed_12/t051.txt
-
-Score (f1_neg): 3
-Loading words (f1_neg), N=5: administrar, resumos, letivo, desempenho, chance
-PESQUISA DE PERCEPÇÃO SOBRE OS PCIs Em nove anos de realização de Projetos Colaborativos Internacionais nas Fatecs, aproximadamente 5.000 pessoas participaram dessas atividades de Internacionalização em Casa. Somente em 2021, foram 69 PCIs, com cerca de 1.800 participantes de 32 Fatecs: 725 alunos no primeiro semestre e mais de 1.000 no segundo semestre. Para 93 % dos 593 estudantes que responderam à pesquisa de percepção sobre os PCIs realizados nas Fatecs durante o segundo semestre de 2021, participar do projeto melhora o desempenho acadêmico e as chances de sucesso no mercado de trabalho. Assim como na pesquisa anterior, realizada no primeiro semestre de 2021, os maiores desafios para os alunos foram administrar o tempo, interagir e comunicar-se com a equipe. As pesquisas de percepção, realizadas desde 2020 para professores e estudantes envolvidos nos PCIs das Fatecs, são aplicadas no fim de cada semestre letivo. Esse instrumento foi desenvolvido pela equipe dos PCIs/Cesu para avaliação e melhoria contínua dos projetos. Resumos sobre os principais resultados das pesquisas anteriores (segundo semestre de 2020 e primeiro semestre de 2021) estão publicados nas edições 5, 8 e 9 de VEm: https://cesu.cps.sp.gov.br/vem-newsletter-bimestral-dos-projetos-colaborativos-internacionais-pci/
-
---- Loading words for this example (neg): administrar, resumos, letivo, desempenho, chance
+--- Loading words for this example (neg): meta, equipamento, gastronomia, paixão
 
 
-===== EXCERPT: f1_neg_003.txt (text ID t000052) =====
-Text ID: t000052
-Edition: vem_ed_12
-File:    corpus/07_tagged/vem_ed_12/t052.txt
+===== EXCERPT: f1_neg_002.txt (text ID t000017) =====
+Text ID: t000017
+Edition: vem_ed_05
+File:    corpus/07_tagged/vem_ed_05/t017.txt
 
-Score (f1_neg): 4
-Loading words (f1_neg), N=5: pesquisado, concordar, pretender, questionário, agosto
-A AVALIAÇÃO DOS PROFESSORES No segundo semestre de 2021, 38 docentes responderam à pesquisa de percepção. Seis deles participaram em dois ou mais PCIs e 15 realizaram o projeto pela primeira vez. Na pesquisa anterior, relativa ao primeiro semestre de 2021, esse número era de apenas 8 em 30 professores. Isso mostra que a divulgação dos PCIs e a capacitação dos docentes, desenvolvida pela equipe dos PCIs/Cesu, vem diversificando o time de participantes envolvidos. Entre agosto e dezembro de 2021, 25 Fatecs e 23 instituições de Ensino superior internacionais participaram dos PCIs. Todos os professores que responderam à pesquisa recomendariam um PCI para seus colegas de Fatec e concordam que os PCIs possibilitam novas atividades acadêmicas. Como houve professores envolvidos em mais de um projeto, ao todo o questionário retornou 45 respostas, das quais 35 pretendem manter projeto e parceiro. Três pretendem continuar com o projeto, mas trocar de parceiro; 2 desejam manter o parceiro, porém, trocar o projeto e 4 querem buscar novo parceiro e projeto. No entender dos pesquisados, as palavras-chave para o sucesso de um PCI são comprometimento, organização, motivação, engajamento, flexibilidade, foco e interação.
+Score (f1_neg): -2
+Loading words (f1_neg), N=2: meta, paixão
+QUEBRA-GELO PROCURA-SE Quer desenvolver um intercâmbio virtual? Instituições de Ensino estrangeiras buscam professores nas Fatecs em diversas áreas, como: Competências interculturais Mineração e geoprocessamento Mapa de riscos Saúde Artes Álgebra e Cálculo História e Ciência Política Caso tenha interesse, basta escrever para cesu.pci@cps.sp.gov.br e juntar- se às nossas equipes no Teams. QUEBRA-GELO Começamos 2021 com novidades. A partir desta edição, oficializamos o nome desta publicação como a chamamos, carinhosamente, na equipe dos Projetos Colaborativos Internacionais: VEm – uma alusão às iniciais de Virtual Exchange, Intercâmbios Virtuais, e “m” para meio de comunicação. Uma de nossas metas para este ano é expandir ainda mais ações em países hispanofalantes. Por isso, a seção"Quem é Quem"apresenta Brenda Garcia Portillo, da Universidad de Monterrey (UDEM), instituição mexicana que é referência mundial em Intercâmbios Virtuais. Em"Boas Práticas", Joelson Alves do Nascimento (Fatec Barueri) relata o projeto sobre competências emocionais com a universidade colombiana Uniminuto. Sua receita para o sucesso de um intercâmbio virtual soma planejamento e paixão pelo tema a ser pesquisado. Em dezembro de 2020, realizamos uma pesquisa de percepção com professores e estudantes envolvidos nos Projetos Colaborativos Internacionais desenvolvidos no segundo semestre. Responderam 25 dos 34 docentes participantes e quase 400 dos 833 alunos envolvidos. Os principais resultados estão resumidos na página 3. No último mês de um ano, ao mesmo tempo desafiador e repleto de realizações, perdemos o professor Antal György Almásy, da Fatec Diadema. Ele foi presidente da Associação Brasileira de Aerossóis e Saneantes Domissanitários (ABAS) e tinha esboçado um projeto com a Durban University of Technology (DUT), na África do Sul, para produção de sabonetes artesanais por comunidades carentes, valorizando a biodiversidade local. A ele, prestamos nossa homenagem e agradecimento.
 
---- Loading words for this example (neg): pesquisado, concordar, pretender, questionário, agosto
+--- Loading words for this example (neg): meta, paixão
 
 
-===== EXCERPT: f1_neg_004.txt (text ID t000025) =====
+===== EXCERPT: f1_neg_003.txt (text ID t000019) =====
+Text ID: t000019
+Edition: vem_ed_05
+File:    corpus/07_tagged/vem_ed_05/t019.txt
+
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: concordar
+Intercâmbios Virtuais: pesquisa 2020 Ao término dos Projetos Colaborativos Internacionais realizados no segundo semestre de 2020, estudantes e professores responsáveis pelos Intercâmbios Virtuais nas 20 Fatecs participantes foram convidados a responder a uma pesquisa de percepção. Dos 34 professores, 25 responderam; dos 833 alunos, aproximadamente 400 retornaram o questionário. A seguir, uma síntese dos principais resultados. ALUNOS 79 % indicariam a experiência para outros alunos 84 % consideram que a competência no idioma estrangeiro melhorou 72 % avaliam interação com colegas estrangeiros como"ótima"ou"boa"86 % avaliam interação com colegas brasileiros"ótima"ou"boa"63 % acham que o Intercâmbio virtual melhora desempenho acadêmico PROFESSORES 100 % recomendariam a experiência para outros docentes 88 % afirmam que a competência no idioma estrangeiro melhorou. 88 % avaliam como"ótima"e 12 % como"boa"a interação com colegas estrangeiros. 92 % observaram que a interação dos alunos melhorou com a inserção dos projetos colaborativos nas atividades de aula 72 % concordam totalmente que as colaborações contribuem para pesquisas na área do professor 92 % concordam totalmente que o intercâmbio virtual possibilita novas atividades acadêmicas a partir da experiência do parceiro internacional. Ferramentas digitais mais utilizadas Whatsapp E-mail Zoom
+
+--- Loading words for this example (neg): concordar
+
+
+===== EXCERPT: f1_neg_004.txt (text ID t000018) =====
+Text ID: t000018
+Edition: vem_ed_05
+File:    corpus/07_tagged/vem_ed_05/t018.txt
+
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: meta
+QUEM É QUEM Brenda Ivonne Garcia Portillo Brenda Ivonne Garcia Portillo é diretora de projetos de internacionalização da Universidade de Monterrey (UDEM), uma das principais instituições no mundo em Intercâmbios Virtuais. Ela relata os pontos altos dessa história de sucesso. A UDEM começou a fazer COIL (Collaborative Online International Learning, uma forma de intercâmbio virtual) há cerca de 10 anos. Fomos os primeiros no México a colaborar com o SUNY COIL Center [EUA]. Posteriormente nos afiliamos ao consórcio Global Partners for Education, liderado pela East Carolina University [EUA]. Decidimos replicar a metodologia COIL com os parceiros bilaterais. Isso tomou tempo: divulgar o método, estabelecer processos, participar em iniciativas como EVALUATE da Unicollaboration. Criamos oficinas de capacitação para docentes, além de publicações. Assim, a UDEM se tornou referência internacional, presente no comitê organizador da conferência IVEC, membro fundador da LATAM COIL, entre outras ações. As atividades da abordagem COIL devem se ligar aos objetivos de aprendizagem e incluir o elemento internacional. As atividades são o meio para cumprir tais objetivos e, para enriquecê-las, o design de projeto deve selecionar as melhores ferramentas e plataformas tecnológicas. Os projetos COIL se relacionam com a teoria de aprendizagem experiencial de Kolb, pois, ao participar em projetos colaborativos internacionais, os estudantes aprendem por meio da experiência. Desenvolvem empatia, tolerância, respeito. Trabalham com equipes internacionais, relacionam-se com indivíduos de outras culturas, adaptam-se à mudança e tornam-se mais flexíveis. São as competências interculturais, imprescindíveis no mundo globalizado. Em um projeto bem-sucedido, todos contribuem para atingir as metas compartilhadas, encontrando o equilíbrio e a sinergia entre o acadêmico, o formativo e o administrativo. A chave para o êxito da UDEM é o compromisso com as estratégias de internacionalização integradas à prática institucional. Ter um plano estratégico definido permite saber aonde vamos e como atingir os objetivos. Em 2020 praticamente duplicamos a participação em projetos COIL, com 1473 estudantes envolvidos em 65 grupos, sob orientação de 45 professores participantes e 53 universidades parceiras em 21 países. Na Direção de Programas Internacionais da UDEM, existe uma Gerência de Projetos de Internacionalização em Casa, que, entre outras atividades, tais como Programa de Formação em Competências Interculturais e Feira Internacional, coordena os projetos COIL. Somos apenas três na equipe e o trabalho tem sido intenso. Esperamos crescer para dar um seguimento mais adequado às estratégias de internacionalização.
+
+--- Loading words for this example (neg): meta
+
+
+===== EXCERPT: f1_neg_005.txt (text ID t000025) =====
 Text ID: t000025
 Edition: vem_ed_07
 File:    corpus/07_tagged/vem_ed_07/t025.txt
 
-Score (f1_neg): -1
-Loading words (f1_neg), N=7: latinoamericano, física, publicidade, colóquio, médico-hospitalar, agosto, equipamento
+Score (f1_neg): -2
+Loading words (f1_neg), N=2: equipamento, médico-hospitalar
 QUEBRA-GELO QUEBRA-GELO A equipe dos Projetos Colaborativos Internacionais (PCIs) da Unidade de Ensino Superior (Cesu) do Centro Paula Souza vem buscando diversificar parcerias com instituições de ensino superior (IES) em países latinoamericanos. Entre elas, está a universidade colombiana Uniminuto, com a qual foram desenvolvidos quatro projetos entre agosto de 2020 e maio de 2021, nas Fatecs Barueri, Piracicaba, Guaratinguetá e Itaquaquecetuba. Os temas abordados envolveram competências emocionais, aspectos de cultura e educação, publicidade digital e marketing nos dois países. Essas colaborações ocorreram em língua espanhola, mas a Uniminuto oferece cursos de Letras/Língua Portuguesa, e demonstrou interesse em realizar projetos no nosso idioma. A primeira iniciativa para atender essa demanda foi a realização do Colóquio de Literatura Brasileira, oferecido aos estudantes da Uniminuto pelas Fatecs Itaquaquecetuba e Guaratinguetá, em 14 de maio. Nas páginas 2 e 3, você fica sabendo mais sobre as colaborações entre Fatecs e Uniminuto. Na seção “Quem é Quem”, temos o depoimento de James Goodwin, diretor de iniciativas da BridgeValley Community and Technical College (EUA). Em 2019 e 2020, a instituição desenvolveu um projeto sobre equipamentos médico-hospitalares com alunos de Sistemas Biomédicos da Fatec Bauru. E, desde o ano passado, realiza um projeto sobre física das ondas com estudantes de Produção Fonográfica da Fatec Tatuí. Em “Boas Práticas”, apresentamos o relato de Camila Kami, professora de inglês das Fatecs Bauru e Garça. Experiente, Camila atua com PCIs desde o segundo semestre de 2019. Boa leitura!
 
---- Loading words for this example (neg): latinoamericano, física, publicidade, colóquio, médico-hospitalar, agosto, equipamento
+--- Loading words for this example (neg): equipamento, médico-hospitalar
 
 
-===== EXCERPT: f1_neg_005.txt (text ID t000028) =====
+===== EXCERPT: f1_neg_006.txt (text ID t000028) =====
 Text ID: t000028
 Edition: vem_ed_07
 File:    corpus/07_tagged/vem_ed_07/t028.txt
 
-Score (f1_neg): 2
-Loading words (f1_neg), N=11: agendar, slide, disposto, incrementar, rubrica, arquivo, médico-hospitalar, icebreaker, aberto, compartilha, equipamento
+Score (f1_neg): -2
+Loading words (f1_neg), N=2: equipamento, médico-hospitalar
 Incrementar a interação BOAS PRÁTICAS Camila Kami leciona inglês e trabalha com PCIs desde o segundo semestre de 2019, quando iniciou um projeto sobre equipamentos médico-hospitalares com Luiz Roberto Madureira Iório, professor do curso de Sistemas Biomédicos (Fatec Bauru), e Liesa Kyer, da área de enfermagem (BridgeValley Community & Technical College, EUA). Houve ainda uma segunda edição desse PCI em 2020. Neste primeiro semestre de 2021, Camila atuou em dois projetos: um sobre planejamento estratégico de marketing, com os professores Antonio Cesar Dall’Evedove (Fatec Garça) e Paul Barretta (Wagner College, EUA). E outro sobre plano de negócios, com Kleber Luiz Nardoto Milaneze (Fatec Bauru) e Tiffany Lean Macquarrie (PennState Beaver, EUA). A professora compartilha sua experiência a seguir: O planejamento é fundamental para traçar objetivos de aprendizagem e delinear atividades significativas para os alunos de ambas as instituições. Várias reuniões com o parceiro internacional são necessárias para amadurecer o projeto e solucionar dúvidas. É muito importante sugerir aos alunos uma lista de questões para a apresentação individual ou em grupo da primeira fase do projeto, o icebreaker [quebra-gelo]. Um vídeo com várias informações sobre os alunos facilita a interação e as identificações entre os parceiros. Além disso, é interessante sugerir uma ferramenta para a gravação dos vídeos. O PowerPoint narrado apresenta-se como uma ótima sugestão devido à possibilidade de narrar cada slide separadamente e à praticidade em apagar apenas as gravações que não ficaram boas. O arquivo pode ser salvo no formato MP4. Para que o aluno se sinta mais seguro, é recomendável que o professor de inglês revise o texto a ser narrado, identificando trechos que talvez não fossem compreendidos pelo parceiro internacional. Ferramentas como SpeechNinja e YouGlish auxiliam com a pronúncia. Incrementar a interação entre os alunos é um grande desafio. Como na maioria das vezes o projeto é desenvolvido de forma assíncrona, é muito importante agendar, pelo menos, uma reunião síncrona com todos os participantes logo no início do projeto, uma oportunidade para que os alunos vejam os colegas. Nessa reunião, os professores de ambas as instituições mediam a comunicação entre os alunos, encorajando-os a participar. A avaliação do projeto é facilitada por meio da criação de rubricas: os professores explicitam os critérios a serem avaliados. O professor que deseja participar de um PCI precisa estar disposto a conhecer, testar e usar diferentes ferramentas tecnológicas, estar aberto a diálogos constantes com os parceiros internacionais, verificar a entrega das atividades nos prazos definidos, contactar os alunos caso não cumpram alguma etapa, auxiliá-los em suas dúvidas e avaliar o projeto.
 
---- Loading words for this example (neg): agendar, slide, disposto, incrementar, rubrica, arquivo, médico-hospitalar, icebreaker, aberto, compartilha, equipamento
-
-
-===== EXCERPT: f1_neg_006.txt (text ID t000026) =====
-Text ID: t000026
-Edition: vem_ed_07
-File:    corpus/07_tagged/vem_ed_07/t026.txt
-
-Score (f1_neg): 5
-Loading words (f1_neg), N=10: assertividade, prosseguir, semiótico, incluír, publicidade, jargão, publicitário, colóquio, influência, peça
-Brasil e Colômbia em sintonia Em 2020, após uma série de reuniões entre a equipe dos PCIs da Cesu/Centro Paula Souza e da universidade colombiana Uniminuto, começou uma fértil colaboração entre as duas instituições. No segundo semestre de 2020, o professor Joelson Alves do Nascimento (Fatec Barueri) realizou um intercâmbio virtual com o colega Luigi Ramirez (Uniminuto) sobre competências emocionais. Após Instagram, LinkedIn e o quebra-gelo, com troca de informações sobre a faculdade, sobre lazer e cultura, 23 estudantes de Gestão da Tecnologia da Informação compartilharam com os alunos colombianos artigos em espanhol e português sobre o tema das competências emocionais no ambiente de trabalho: empatia, comprometimento, assertividade, relacionamento interpessoal e comunicação. As parcerias prosseguem em 2021: no primeiro semestre, Lilian de Souza (Fatec Piracicaba) e Miguel Angel Nicholls (Uniminuto) abordaram a troca de informações entre culturas. As equipes de estudantes pesquisaram temas como festas, danças, comidas, lazer e educação. Mais sobre o projeto em https://sites.google.com/view/eciaespanol/. Regiane Moreira (Fatec Guaratinguetá) e Mónica Paola Diaz Oliveros (Uniminuto) desenvolveram o PCI"Influência do jargão e uso dos recursos linguísticos e semióticos na publicidade digital", com 24 estudantes brasileiros e 8 colombianos. As equipes mistas estudaram peças publicitárias nas plataformas Facebook, YouTube, Instagram, LinkedIn e Glassdoor, analisando o uso da língua e seus efeitos nas relações sociais e interpessoais, os aspectos semióticos visuais e seus significados possíveis dentro das culturas, encontrando semelhanças e diferenças a partir do visual nos dois países. Elizabeth Herrera Colorado e Tânia Augusta Ferreira (Fatec Itaquaquecetuba) e Mayra Alejandra Rodríguez (Uniminuto) trabalharam"Competência linguística e Marketing"com 26 estudantes no Brasil e 21 na Colômbia. Os objetivos do projeto foram fazer contato com outras culturas, conhecer o consumidor e o mercado internacional, aplicar conceitos de marketing a possíveis situações de novos negócios e planejar lançamento de um produto brasileiro na Colômbia e vice-versa. As colaborações também incluíram o Colóquio de Literatura Brasileira: olhares e impressões, realizado em 14 de maio de 2021 pelas Fatecs Guaratinguetá e Itaquaquecetuba para estudantes da universidade colombiana (leia mais na página 3).
-
---- Loading words for this example (neg): assertividade, prosseguir, semiótico, incluír, publicidade, jargão, publicitário, colóquio, influência, peça
+--- Loading words for this example (neg): equipamento, médico-hospitalar
 
 
 ===== EXCERPT: f1_neg_007.txt (text ID t000027) =====
@@ -146,44 +146,44 @@ Text ID: t000027
 Edition: vem_ed_07
 File:    corpus/07_tagged/vem_ed_07/t027.txt
 
-Score (f1_neg): 11
-Loading words (f1_neg), N=8: moderar, requisito, física, voltado, colóquio, médico-hospitalar, equipamento, mulher
+Score (f1_neg): -2
+Loading words (f1_neg), N=2: equipamento, médico-hospitalar
 Vozes femininas da literatura brasileira O Colóquio de Literatura Brasileira foi um evento organizado pelas Fatecs Guaratinguetá e Itaquaquecetuba com a Uniminuto, em 14 de maio de 2021, e transmitido pela plataforma Lark. Voltado para estudantes de Licenciatura em Línguas Estrangeiras da universidade colombiana, o colóquio foi moderado por Osvaldo Succi Junior, coordenador dos PCIs/Cesu. Contou com a participação dos diretores da Fatec Guaratinguetá, André Amarante, e da Fatec Itaquaquecetuba, Sonia Maria Alvarez. Desta unidade, marcaram presença ainda os coordenadores Francisco Claudio Tavares, do curso de Gestão Comercial, e Aparecido Rodrigues da Silva López-Guerrero, de Gestão da Tecnologia da Informação. Regiane Souza Camargo Moreira (Fatec Guaratinguetá) palestrou sobre"O feminino como representação na Literatura: do Romantismo ao Modernismo". Wilton Garcia (Fatec Itaquaquecetuba) apresentou"Literatura Contemporânea: vozes negras, vozes femininas". Destacou autoras como Sueli Carneiro, fundadora do Geledés - Instituto da Mulher Negra; Djamila Ribeiro, filósofa e feminista negra; e Carolina Maria de Jesus, autora de Quarto de Despejo. Alertou sobre o silenciamento das vozes das mulheres negras na literatura e na sociedade. Javier Guerrero, coordenador de desenvolvimento de professores da Uniminuto, acompanhou o Colóquio. Sobre as parcerias com as Fatecs, comenta:"entre Brasil e Colômbia temos muitas coisas em comum, mas também diferenças, como a língua, e contrastes que nos permitem aprender, e isso é perfeito para as colaborações". QUEM É QUEM James Goodwin é diretor de desenvolvimento estudantil e iniciativas acadêmicas da BridgeValley Community and Technical College (EUA). No segundo semestre de 2019, a instituição iniciou um projeto colaborativo (COIL) sobre equipamentos médico-hospitalares com a Fatec Bauru (leia mais na p.4). Desde 2020, desenvolve um projeto sobre física das ondas, com estudantes de Produção Fonográfica da Fatec Tatuí. Atualmente participam 18 alunos dos EUA e 27 brasileiros, orientados pelos professores Pedro Rosa e Dulce Villa Nova (Fatec Tatuí) e Machele Kindle (BridgeValley). Outros dois projetos estão em andamento em Bridge Valley: com o Symbiosis Center for Management Studies (Índia), com 14 alunos norte-americanos e 28 indianos; e com o La Guardia Community College (EUA), com 12 estudantes de BridgeValley e 20 de La Guardia. Um professor de cada instituição orienta esses COILs."A nossa história com os COILs começou em 2019, com a consultoria de Jon Rubin", conta Goodwin. Rubin foi o criador da iniciativa COIL na State University of New York, em 2006. Para os próximos anos, os objetivos da BridgeValley são:"primeiro, aumentar o número de professores oferecendo COILs e, consequentemente, de alunos participando; e segundo, integrar os COILs ao currículo, como parte dos requisitos de educação geral nos cursos de graduação". Goodwin espera ainda ampliar as parcerias com as Fatecs,"não só nos modelos tradicionais de projetos entre faculdades, mas também com conversas culturais, discussões e intercâmbios virtuais administrativos".
 
---- Loading words for this example (neg): moderar, requisito, física, voltado, colóquio, médico-hospitalar, equipamento, mulher
+--- Loading words for this example (neg): equipamento, médico-hospitalar
 
 
-===== EXCERPT: f1_neg_008.txt (text ID t000015) =====
-Text ID: t000015
-Edition: vem_ed_04
-File:    corpus/07_tagged/vem_ed_04/t015.txt
+===== EXCERPT: f1_neg_008.txt (text ID t000050) =====
+Text ID: t000050
+Edition: vem_ed_12
+File:    corpus/07_tagged/vem_ed_12/t050.txt
 
-Score (f1_neg): -3
-Loading words (f1_neg), N=9: manufatura, mineração, moderar, campus, palestraram, operação, indústria, operacional, fundador
-Diálogos no cone sul Após uma apresentação, em 28 de abril de 2020, sobre os Projetos Colaborativos Internacionais (PCIs) para o Conselho Acadêmico da Universidad Tecnológica de Chile (Inacap), a equipe dos PCIs, a Assessoria de Relações Internacionais do Centro Paula Souza (ARInter) e a Direção para Relações Internacionais da Inacap começaram a desenvolver colaborações entre a universidade chilena e as Fatecs. [saiba mais aqui: https://bit.ly/CPSInacap]. Esse trabalho conduziu a uma série de webinários e um PCI entre a Fatec Campinas e a Diretoria de Estudos Agrários da Inacap. Outubro “Semelhanças e diferenças da logística no Brasil e no Chile”, moderado por Osvaldo Succi Jr., foi transmitido pelo YouTube. Pela Inacap, palestraram Ana Maria Pérez e Marisol Tapia. Também participaram Rodrigo Rojas Toledo, fundador do site Logistica.com (Chile); o especialista em gestão de empresas Eduardo Assêncio (Brasil); Ruy Cordeiro Accioly, coordenador do curso de Logística na Fatec Baixada Santista e Thames Richard Silva, professor na mesma instituição. Novembro “Uso de drones aplicado à mineração e à logística” foi o tema do evento. Representaram a Fatec Americana seu diretor, Wladimir da Costa, e o coordenador do curso de Logística, Nelson Luiz de Souza Corrêa. Por parte da Inacap, Carlos Giannoni Valenzuela, diretor da área de mineração, e Juan Orellana Miranda, assessor desse departamento. Palestraram os professores Vicente Cornago, da Fatec Botucatu (“A utilização do drone na indústria 5.0”); Marcos de Carvalho Dias, da Fatec Americana (“A manufatura avançada e as implicações para a gestão da cadeia de suprimentos”) e Fernando César Miranda, da Fatec Sorocaba (“Visão computacional e drones”). Patrício Marabolí, do campus Iquique da Inacap, abordou “Uso de drones na indústria mineradora, a partir de um enfoque de eficiência operacional”. Dezembro Em 2 de dezembro, a equipe dos PCIs auxiliou no webinário “Desafios tecnológicos para Logística Competitiva”. Após a abertura pelos diretores Héctor Henríquez (Inacap) e Jorge Monteiro Junior (Fatec Baixada Santista), palestraram Antonio Torres, chefe do departamento de operações logísticas (PF Alimentos) e Miguel Enrique Valencia Herrera (Inacap). O lado brasileiro abordou logística no agronegócio, com Ruy Cordeiro Accioly (Fatec Baixada Santista); Tatiane Manzoli e Evelyn Prado (da SAP, multinacional alemã de softwares para gestão de empresas).
+Score (f1_neg): -4
+Loading words (f1_neg), N=4: meta, concordar, letivo, turismo
+QUEBRA-GELO Prospectar novas colaborações, garantir uma média semestral de 25 Projetos Colaborativos Internacionais (PCIs/Cesu) e manter a “boa qualidade dos PCIs relatada pelos participantes por meio de Pesquisas de Percepção aplicadas junto a alunos e professores participantes ao final dos projetos”. Eis algumas das metas do Programa de Línguas e Projetos Internacionais no Plano de Metas 2022 da Unidade do Ensino Superior de Graduação (Cesu). Para avaliar a qualidade dos projetos, a equipe dos PCIs/Cesu desenvolveu um instrumento de pesquisa para verificar a percepção de professores e estudantes envolvidos nos PCIs, ao fim de cada semestre letivo. Os questionários são aplicados na plataforma Microsoft Forms desde o segundo semestre de 2020 e a boa avaliação vem se mantendo ao longo do tempo. Nas páginas 2 e 3 desta edição, você pode conferir uma síntese dos principais resultados colhidos no segundo semestre de 2021. Por exemplo: 96 % dos alunos recomendariam aos colegas realizar um PCI e 93 % acreditam que participar do projeto melhora o desempenho acadêmico e as chances no mercado de trabalho. Todos professores que responderam à pesquisa recomendam os PCIs para os colegas e concordam que a iniciativa possibilita realizar novas atividades acadêmicas, além de melhorar a interação com seus alunos. A equipe dos PCIs vem trabalhando para fortalecer parcerias com Portugal. É o caso da Universidade de Aveiro, que desde o segundo semestre de 2021 desenvolve PCIs com três Fatecs – Guaratinguetá, Lins e Ipiranga –, nas áreas de comunicação empresarial, turismo e marketing. Essas colaborações estão descritas na página 4. Boa leitura!
 
---- Loading words for this example (neg): manufatura, mineração, moderar, campus, palestraram, operação, indústria, operacional, fundador
-
-
-===== EXCERPT: f1_neg_009.txt (text ID t000013) =====
-Text ID: t000013
-Edition: vem_ed_04
-File:    corpus/07_tagged/vem_ed_04/t013.txt
-
-Score (f1_neg): 5
-Loading words (f1_neg), N=5: orgulhar, mineração, dedicação, comemorar, determinação
-PROCURA-SE Quer desenvolver um intercâmbio virtual? Instituições de Ensino estrangeiras buscam professores nas Fatecs em diversas áreas, como: Competências interculturais Gerentes internacionais Mineração e geoprocessamento Mapa de riscos Saúde Meio Ambiente e Sustentabilidade Artes Álgebra e Cálculo História e Ciência Política Caso tenha interesse, escreva para cesu.pci@cps.sp.gov.br e faça parte das seguintes equipes no Teams. Um ano de realizações A Coordenação de Línguas se orgulha das realizações neste 2020 desafiador. A equipe dos Projetos Colaborativos Internacionais demonstrou resiliência e determinação. No primeiro semestre, mesmo com a interrupção de atividades entre março e abril, 240 alunos, 7 professores de 8 Fatecs e 4 IES estrangeiras participaram de intercâmbios virtuais. No segundo semestre, esses números aumentaram para 833, 35, 20 e 17, respectivamente. A revista acadêmica CBTecLE, de Letras e Linguística, publicou 24 artigos no primeiro semestre e 11 no segundo semestre, mais um especial com o Instituto Federal de São Carlos (16 artigos). O Congresso CBTecLE teve 10 horas de sessões online, com 12 palestrantes, 32 videopôsteres e 323 certificados emitidos. Dedicação que se concretizou em resultados: temos muito o que comemorar. QUEBRA-GELO Esta edição 4 traz, na seção"Quem e Quem", o depoimento de Jon Rubin, criador da iniciativa COIL (Collaborative Online International Learning) na State University of New York (SUNY). Uma colaboração com a Universidad Tecnológica de Chile (Inacap) permitiu a realização de uma série de webinários sobre logística com as Fatecs Americana, Baixada Santista e Sorocaba e um PCI com a Fatec Campinas. Na seção ' Boas práticas ', dicas para planejar PCIs, com José Carlos Barbosa Lopes, da Fatec Ipiranga. Boa leitura!
-
---- Loading words for this example (neg): orgulhar, mineração, dedicação, comemorar, determinação
+--- Loading words for this example (neg): meta, concordar, letivo, turismo
 
 
-===== EXCERPT: f1_neg_010.txt (text ID t000014) =====
-Text ID: t000014
-Edition: vem_ed_04
-File:    corpus/07_tagged/vem_ed_04/t014.txt
+===== EXCERPT: f1_neg_009.txt (text ID t000051) =====
+Text ID: t000051
+Edition: vem_ed_12
+File:    corpus/07_tagged/vem_ed_12/t051.txt
 
-Score (f1_neg): 7
-Loading words (f1_neg), N=14: aceito, mídia, campus, filme, persistência, alternar, afetar, emigrar, inspirar, fundador, enviar, lançar, imersão, entusiasmar
-QUEM É QUEM Jon Rubin é consultor internacional na área de intercâmbios virtuais. Foi fundador e diretor do SUNY COIL Center (2006-2017). A seguir, seu depoimento sobre como surgiu o embrião da iniciativa COIL, e como ela se desenvolveu: Passei 6 meses com uma bolsa Fulbright na Bielorússia em 1999. Minha família havia emigrado de lá para os Estados Unidos 80 anos antes. Minha área é a mídia, então pedi aos meus alunos bielorrussos pequenos vídeos sobre suas vidas. Quando voltei para a SUNY [State University of New York] e mostrei esse material, a reação dos alunos foi tão forte que me inspirou a desenvolver o"Cross-Cultural Video Course". Os alunos escolhiam um tema e criavam um filme de quatro cenas, alternando imagens de cada país. Isso foi antes do YouTube ou do Facebook e era um desafio enviar vídeos que levavam horas para fazer a viagem transatlântica. Mas foi uma imersão emocionante em conteúdo intercultural gerado por alunos e me levou a conceber o modelo COIL. Para ter esse modelo de ensino aceito em meu campus, precisei desenvolver parcerias em toda a SUNY. Em 2006, o COIL Center foi lançado, e depois disso foi uma batalha constante para mantê-lo vivo. É preciso persistência para implementar uma prática inovadora. As iniciativas COIL vêm ganhando apoio em todo o mundo, e a covid-19 deixou claro como é importante construir caminhos de troca sem viagens físicas. Além disso, o desenvolvimento de uma iniciativa COIL que beneficie muitos alunos não pode ser apenas um projeto de professores entusiasmados. Requer treinamento, facilitação e gerenciamento para crescer, e isso pressupõe o apoio da universidade. Sempre me interessei em saber como o contexto afeta a maneira como respondemos ao que vivenciamos. Ao desenvolver e apresentar"Floating Cinema"entre 1977 e 2006 [https://floatingcinema.org/], procurei proporcionar aos telespectadores um novo contexto para experimentar filmes - à noite, junto à água nas noites de verão. Ao fazer isso, descobri que certas imagens e sequências eram especialmente evocativas e assumiam novos significados. Do mesmo modo, a iniciativa COIL muda o contexto da experiência de aprendizagem, para uma em que alunos e instrutores de outras culturas participam. Isso leva a remodelar a experiência de ensino-aprendizagem, vista de uma forma totalmente nova. Até agora não havia nenhum site onde as instituições que desenvolvem COIL ou Intercâmbios Virtuais pudessem se encontrar. Por esse motivo, criei o COIL Connect [https://coilconnect.org], um diretório público de instituições de ensino superior envolvidas em intercâmbios virtuais, com o propósito de facilitar parcerias acadêmicas. O Centro Paula Souza é um dos membros.
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: letivo
+PESQUISA DE PERCEPÇÃO SOBRE OS PCIs Em nove anos de realização de Projetos Colaborativos Internacionais nas Fatecs, aproximadamente 5.000 pessoas participaram dessas atividades de Internacionalização em Casa. Somente em 2021, foram 69 PCIs, com cerca de 1.800 participantes de 32 Fatecs: 725 alunos no primeiro semestre e mais de 1.000 no segundo semestre. Para 93 % dos 593 estudantes que responderam à pesquisa de percepção sobre os PCIs realizados nas Fatecs durante o segundo semestre de 2021, participar do projeto melhora o desempenho acadêmico e as chances de sucesso no mercado de trabalho. Assim como na pesquisa anterior, realizada no primeiro semestre de 2021, os maiores desafios para os alunos foram administrar o tempo, interagir e comunicar-se com a equipe. As pesquisas de percepção, realizadas desde 2020 para professores e estudantes envolvidos nos PCIs das Fatecs, são aplicadas no fim de cada semestre letivo. Esse instrumento foi desenvolvido pela equipe dos PCIs/Cesu para avaliação e melhoria contínua dos projetos. Resumos sobre os principais resultados das pesquisas anteriores (segundo semestre de 2020 e primeiro semestre de 2021) estão publicados nas edições 5, 8 e 9 de VEm: https://cesu.cps.sp.gov.br/vem-newsletter-bimestral-dos-projetos-colaborativos-internacionais-pci/
 
---- Loading words for this example (neg): aceito, mídia, campus, filme, persistência, alternar, afetar, emigrar, inspirar, fundador, enviar, lançar, imersão, entusiasmar
+--- Loading words for this example (neg): letivo
+
+
+===== EXCERPT: f1_neg_010.txt (text ID t000052) =====
+Text ID: t000052
+Edition: vem_ed_12
+File:    corpus/07_tagged/vem_ed_12/t052.txt
+
+Score (f1_neg): -1
+Loading words (f1_neg), N=1: concordar
+A AVALIAÇÃO DOS PROFESSORES No segundo semestre de 2021, 38 docentes responderam à pesquisa de percepção. Seis deles participaram em dois ou mais PCIs e 15 realizaram o projeto pela primeira vez. Na pesquisa anterior, relativa ao primeiro semestre de 2021, esse número era de apenas 8 em 30 professores. Isso mostra que a divulgação dos PCIs e a capacitação dos docentes, desenvolvida pela equipe dos PCIs/Cesu, vem diversificando o time de participantes envolvidos. Entre agosto e dezembro de 2021, 25 Fatecs e 23 instituições de Ensino superior internacionais participaram dos PCIs. Todos os professores que responderam à pesquisa recomendariam um PCI para seus colegas de Fatec e concordam que os PCIs possibilitam novas atividades acadêmicas. Como houve professores envolvidos em mais de um projeto, ao todo o questionário retornou 45 respostas, das quais 35 pretendem manter projeto e parceiro. Três pretendem continuar com o projeto, mas trocar de parceiro; 2 desejam manter o parceiro, porém, trocar o projeto e 4 querem buscar novo parceiro e projeto. No entender dos pesquisados, as palavras-chave para o sucesso de um PCI são comprometimento, organização, motivação, engajamento, flexibilidade, foco e interação.
+
+--- Loading words for this example (neg): concordar
