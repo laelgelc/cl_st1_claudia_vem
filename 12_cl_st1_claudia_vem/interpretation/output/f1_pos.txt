@@ -1,0 +1,73 @@
+## Interpretation of f1 (positive)
+
+**Recommended label: Academic dissemination and institutional development of inclusive internationalisation**
+
+This pole encodes discourse that **reports, discusses and legitimises virtual exchange as an institutional and pedagogical approach to internationalisation**. Academic events and research provide the settings in which practices are shared, evaluated and connected to inclusion, intercultural belonging and critical learning.
+
+The interpretation combines two closely connected strands:
+
+1. **Academic-professional dissemination:** coverage of conferences, panels, thematic discussions, research and project presentations.
+2. **Institutional and socially oriented internationalisation:** embedding virtual exchange in curricula and institutional policies while addressing access, linguistic mediation, identity and critical engagement.
+
+Neither strand alone adequately captures the complete loading pattern.
+
+### 1. Evidence from the lexical loadings
+
+The twelve loading words form several overlapping semantic clusters:
+
+| Lexical cluster | Loading words | Discourse contribution |
+|---|---|---|
+| Academic reporting and knowledge circulation | **cobertura** (1.03), **painel** (.89), **temático** (.80), **descrever** (1.08) | Reporting events, organising discussion and describing practices or findings |
+| Research and institutional embedding | **tese** (1.01), **institucionalização** (.95), **eixo** (.76) | Connecting projects to scholarly inquiry, institutional structures and pedagogical organising principles |
+| Inclusion and intercultural identification | **pertencimento** (1.08), **inclusão** (.84) | Presenting internationalisation as access to participation and recognition of cultural identities |
+| Linguistic and critical mediation | **recepção** (.96), **tradução** (.84), **crítico** (.77) | Interpreting cultural productions, mediating languages and developing critical engagement |
+
+These groupings are contextual rather than fixed dictionary categories. For example, **eixo** denotes both an administrative area and a pedagogical guiding principle in the examples. **Tradução** includes practical language mediation but also editorial translation of presentation titles. **Crítico** covers critical reception, literacy, thinking and examination of theory and practice.
+
+The full loading set therefore supports a broader interpretation than simply “conference reporting” or “decolonial education”: it links **knowledge circulation, institutional organisation and socially attentive pedagogy**.
+
+### 2. Evidence from the high-scoring excerpts
+
+The most concentrated illustration is **t000143, edition 27, score 12**, which contains all twelve loading words. Its coverage of the Jornada de PCIs brings together:
+
+- **cobertura**, **painéis temáticos** and descriptions of presentations;
+- research represented by a doctoral **tese**;
+- explicit **institucionalização** of Internationalisation at Home;
+- **inclusão** through overcoming financial and linguistic barriers;
+- identity and **pertencimento**;
+- **recepção crítica** of audiovisual productions;
+- practical **traduções** in a nursing collaboration.
+
+Crucially, these words occur across different sections of a multi-presentation report. Their concentration reflects the text’s breadth as well as the thematic connections among the presentations; it should not be treated as evidence that every word belongs to one narrowly defined discourse.
+
+The other excerpts establish that the interpretation is not dependent solely on this report:
+
+- **Edition 25** repeatedly combines event organisation with inclusion. The RedAES report links **mesas temáticas** to accessibility and implementation challenges; the Red LatAM COIL report combines **painel** and **inclusão** with community building and socially relevant project design.
+- **Edition 27’s opinion article** connects **tese** and **pertencimento** to research-informed reflection on identity, reciprocal learning and decolonial internationalisation.
+- **Edition 29** links **crítico** and **inclusão** to equitable partnerships, accessible technologies, critical literacy and socially engaged projects. Its symposium report also discusses the relationship between research and practice.
+- **Edition 31** extends this discourse to responsible internationalisation, ethical global engagement, critical thinking and research-based evaluation of learning.
+
+Decoloniality is thus an important illustrated strand, but **not a sufficient label for the entire pole**. Several examples concern institutional support, socioemotional competencies and professional preparation without centring decolonial critique.
+
+### 3. Editions most strongly associated with the pole
+
+| Edition | Mean f1 | N | SD |
+|---|---:|---:|---:|
+| **27** | **7.00** | 2 | 7.07 |
+| **25** | **1.33** | 6 | 1.03 |
+| **29** | **1.33** | 3 | 1.15 |
+| **31** | **1.33** | 6 | 0.82 |
+| **23** | **1.20** | 5 | 0.45 |
+| **10, 20** | **1.17** | 6 each | 1.17 each |
+
+**Edition 27 is the exceptional positive concentration**, but its mean is based on only two texts scoring 12 and 2. Its high variability indicates that the comprehensive Jornada report largely accounts for its prominence.
+
+**Editions 25, 29 and 31 provide the clearest corroborating evidence**, combining relatively high edition means with supplied examples of academic dissemination and inclusive, critical internationalisation. Edition 23 and editions 10 and 20 also associate strongly with the pole, although their specific discourse contributions cannot be established from the excerpts supplied.
+
+### Possible labels
+
+1. **Academic dissemination and institutional development of inclusive internationalisation** — **preferred**, because it accommodates the complete loading pattern and the range of examples.
+2. **Research-informed, inclusive virtual-exchange discourse** — foregrounds the relationship between scholarship, project practice and equitable participation, but makes event coverage less explicit.
+3. **Academic-event reporting and critical intercultural pedagogy** — captures the prominent reporting format and pedagogical concerns, though it underrepresents institutionalisation.
+
+Overall, f1 positive is best understood as **the academic and institutional articulation of virtual exchange, circulated through events and research and framed by inclusive, intercultural and critical educational aims**.

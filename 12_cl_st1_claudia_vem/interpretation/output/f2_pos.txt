@@ -1,0 +1,84 @@
+## Factor f2 (positive): Building and sustaining collaborative international learning
+
+**Recommended label:** **Building and sustaining collaborative international learning**
+
+This pole encodes a discourse in which international educational collaboration is presented as an ongoing achievement: participants construct shared knowledge and relationships, coordinate activities across different contexts, and cultivate partnerships with lasting educational value. Its central concern is not simply participation in international exchange, but **how collaboration becomes meaningful, workable, and durable**.
+
+### Possible labels
+
+| Label | Interpretive emphasis |
+|---|---|
+| **Building and sustaining collaborative international learning** | Best overall fit: combines relational construction, practical coordination, and continuity. |
+| **Cultivating durable intercultural partnerships** | Highlights trust, reciprocity, institutional support, and long-term relationships. Slightly underrepresents task management and learning processes. |
+| **Coordinating collaboration for lasting educational impact** | Foregrounds planning, temporal constraints, shared responsibilities, and durable learning outcomes. Slightly less explicit about the intercultural and relational character of the examples. |
+
+## 1. Lexical evidence: construction, coordination, and durability
+
+The loading vocabulary supports three connected components.
+
+### Constructing relationships and shared learning
+
+The strong loading of **construção (1.11)**, alongside **interconectar (.95)**, points toward the creation of connections, collective meanings, and educational relationships. In the examples, construction is explicitly collaborative:
+
+- “**construção coletiva de sentido**” in the Brazil–Japan PCI account (t000189);
+- “**construção conjunta de conhecimento**” in *Cultivando PCIs duradouros* (t000185);
+- construction of relationships and “pontes com alicerces humanos” in the IVES report (t000187).
+
+**Interconectar** appears through descriptions of a “mundo interconectado” in t000189 and t000154. These contexts locate collaborative learning within wider global interdependence rather than treating connections as purely technical.
+
+### Sustaining collaboration through practical coordination
+
+**Depender (1.15)**, the strongest loading, combines with **fluxo (.88)**, **hora (.86)**, **gerenciar (.55)**, and **atribuição (.38)** to suggest conditions, responsibilities, and the organisation of ongoing activity.
+
+The examples give this vocabulary concrete discourse functions:
+
+- In t000189, project sustainability “**depende**” on teachers’ commitment; the “**fluxo de atividades**” requires substantial work behind the scenes.
+- In t000185, “**gerenciar o tempo**” is a central challenge, while durable partnerships “**dependem**” on institutional relationships and support.
+- In t000184, **atribuições** refers to the proposed work around which students develop a more solid collaborative relationship.
+
+These words should not all be treated as intrinsically relational or managerial. In t000184, for instance, *dependendo* concerns how creative processes vary by location. Nevertheless, their co-occurrence across the pole is consistent with attention to the contextual conditions under which collaboration operates.
+
+### Durability, improvement, and demonstrated value
+
+**Duradouro (1.10)** is especially diagnostic. It describes several forms of persistence:
+
+- durable partnerships and collaborations;
+- lasting knowledge;
+- enduring academic, personal, and professional effects;
+- “pontes duradouras” between participants.
+
+**Aprimor (.31)** adds a developmental emphasis: collaboration improves skills, educational quality, and practice. **Revelar (.83)** supports a discourse of making benefits and underlying conditions visible—numbers reveal transformative reach in t000191, while a teacher’s statement reveals the commitment sustaining the project in t000189.
+
+The weaker items **particularidade (.33)** and **moderno (.34)** broaden the lexical profile toward contextual specificity and contemporary relevance. *Particularidade* appears in the denim project’s technical and cultural subject matter; *moderno* is not illustrated in the supplied excerpts. Neither should determine the label independently.
+
+## 2. Excerpt evidence: collaboration as a cultivated process
+
+The excerpts substantiate two closely linked discourses.
+
+**First, a relational-pedagogical discourse:** learning becomes meaningful through interaction, negotiated understanding, trust, and shared knowledge construction. The opinion articles and symposium accounts repeatedly describe internationalisation as a human encounter, with effects extending beyond language practice or task completion.
+
+**Second, a practical-strategic discourse:** successful collaboration requires project design, realistic schedules, flexibility, teacher engagement, evaluation, institutional backing, and continued adjustment.
+
+The clearest integration occurs in:
+
+- **t000189, edition 35, score 7:** seven loading words connect logistical coordination, teacher commitment, collective meaning-making, global interconnectedness, and durable bridges.
+- **t000185, edition 34, score 5:** five loading words organise an explicit account of planning, executing, evaluating, and sustaining PCIs.
+
+The other excerpts reinforce this interpretation through lasting learning outcomes, institutional consolidation, and examples of relationships becoming stronger through collaborative work. Their often affirmative tone supports the presentation of collaboration as educationally valuable, but the pole is more specific than generic celebration of internationalisation.
+
+## 3. Editions driving the pole
+
+The highest edition means are:
+
+| Edition | Mean f2 | N | SD |
+|---|---:|---:|---:|
+| **vem_ed_35** | **2.60** | 5 | 2.70 |
+| **vem_ed_34** | **2.40** | 5 | 1.95 |
+| **vem_ed_29** | **1.67** | 3 | 1.15 |
+| **vem_ed_28** | **1.00** | 5 | 1.00 |
+
+**Editions 35 and 34 are the principal edition-level drivers.** Their supplied texts explicitly foreground cooperation, human relationships, project continuity, and the conditions for sustainable partnerships. Edition 29 provides supporting evidence through intercultural exchange, interconnectedness, skill improvement, and lasting effects.
+
+Edition 28 also scores strongly, but no excerpt is supplied, so its thematic contribution cannot be specified. The small edition samples and substantial variation—particularly in edition 35—also caution against treating these themes as uniform across every excerpt or inferring a general chronological trend.
+
+**Overall, this pole is best interpreted as discourse about constructing, coordinating, and sustaining international educational collaboration so that it produces durable relationships and meaningful learning.**

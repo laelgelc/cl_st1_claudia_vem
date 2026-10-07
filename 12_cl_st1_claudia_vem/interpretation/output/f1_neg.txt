@@ -1,0 +1,55 @@
+## Interpretation of f1 (negative pole)
+
+**Recommended label: “Planning, implementation and evaluation of applied virtual-exchange projects.”**
+
+This pole encodes discourse that presents international collaboration as a **concrete educational undertaking**: projects have objectives, curricular settings, subject areas, practical requirements, motivated participants and evaluated outcomes. It combines institutional accounts of programme development with practitioner accounts of how collaborations are organised and made effective.
+
+The interpretation should remain moderately broad. The loadings include both project-management vocabulary and subject-specific terms, while the excerpts illustrate planning advice, partnership profiles, editorial summaries and perception surveys. The pole therefore cannot be reduced to a single topic such as medical technology or to one communicative function such as evaluation.
+
+### 1. Lexical evidence: objectives, educational organisation and applied subject matter
+
+The strongest loading, **meta (−.59)**, provides a clear organising centre: explicit goals for projects and for the expansion of international collaboration. Several other words support an operational and institutional interpretation:
+
+- **letivo (−.42)** and **ementa (−.36)** locate collaboration within academic scheduling and curricular organisation.
+- **assessora (−.35)**, and the parenthesised **campus (−.36)** and **fundador (−.34)**, suggest institutional settings, roles and organisational histories. These are supporting cues rather than sufficient evidence for a separate leadership discourse.
+- **concordar (−.44)** supports participant evaluation, particularly agreement with statements about projects’ academic benefits.
+- **paixão (−.34)** introduces an affective component: personal commitment and enthusiasm as resources for successful implementation.
+
+The subject-specific vocabulary is equally important: **equipamento (−.47)**, **gastronomia (−.47)**, **médico-hospitalar (−.38)** and **turismo (−.32)** indicate concrete technical, professional and cultural content. These words prevent the interpretation from becoming exclusively administrative. The pole concerns the organisation and evaluation of collaborations **anchored in identifiable educational activities and fields**.
+
+Not all these words are well represented in the supplied examples. In particular, *ementa*, *assessora* and *campus* extend the curricular-institutional interpretation beyond what the excerpts alone demonstrate, but their precise discourse roles cannot be established without their concordances.
+
+### 2. Excerpt evidence: making projects work and demonstrating their value
+
+The examples reveal three overlapping discourses.
+
+**Practical project design and implementation.**  
+The edition 5 account “Planejamento e paixão” combines **meta**, **equipamento**, **gastronomia** and **paixão**. It discusses clear goals, deadlines, technological difficulties, motivation and emotional competencies. Importantly, the loading words perform different functions: *gastronomia* names an icebreaker topic, while *equipamento* concerns access constraints. Neither is simply a specialised project theme here.
+
+The UDEM profile connects **metas compartilhadas** with learning objectives, technological choices, teacher preparation and an institutional internationalisation strategy. Edition 7’s “Incrementar a interação” similarly offers guidance on planning, communication, synchronous meetings, rubrics and monitoring participation.
+
+**Applied disciplinary collaboration.**  
+Edition 7 repeatedly identifies projects involving **equipamentos médico-hospitalares**, connecting international exchange to biomedical and nursing education. Edition 12 mentions **turismo** alongside business communication and marketing. These examples substantiate the loading-based interpretation of professionally and disciplinarily situated collaboration.
+
+**Evaluation and institutional validation.**  
+The edition 5 and edition 12 surveys use **concordar** to report teachers’ endorsement of academic benefits. Edition 12 also links **meta** and **letivo** to programme targets and semester-based evaluation. This is discourse of perceived effectiveness and continuous improvement—not necessarily independent proof of learning gains.
+
+### 3. Editions driving the pole
+
+| Edition | Mean f1 | Interpretation |
+|---|---:|---|
+| **vem_ed_05** | **−2.00** | Strong blend of goals, enthusiasm, implementation advice, institutional strategy and participant evaluation. |
+| **vem_ed_07** | **−2.00** | Consistent negative scores across all three analysed texts; strongly associated with repeated medical-equipment project references. |
+| **vem_ed_12** | **−1.75** | Programme targets, semester-based perception surveys and applied partnerships, including tourism. |
+
+These are the clearest edition-level drivers. Editions **9 (−1.00)** and **2 (−0.75)** also lean towards this pole, but no supplied excerpts establish their particular contributions.
+
+Edition 7 warrants caution: all three texts repeat **equipamento/médico-hospitalar**. Its consistent scores may partly reflect repeated coverage of one collaboration, rather than three independent manifestations of the full discourse dimension.
+
+## Possible labels
+
+1. **Planning, implementation and evaluation of applied virtual-exchange projects** — the best overall fit, integrating the lexical profile and the excerpts.
+2. **Curricularly embedded international collaboration and programme development** — foregrounds academic organisation, institutional strategy and expansion, but captures enthusiasm and participant evaluation less directly.
+3. **Practice-oriented accounts of virtual-exchange organisation and perceived success** — captures practitioner guidance and favourable survey reporting, though it is less explicit about disciplinary content.
+
+Overall, this pole represents **the practical and institutional work of organising subject-grounded international collaborations, sustaining participation and reporting their educational value**.

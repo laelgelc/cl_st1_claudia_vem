@@ -1,0 +1,59 @@
+## Proposed interpretation of f3 (positive)
+
+**Recommended label: Institutional coordination and inclusive professional formation through virtual exchange**
+
+This pole encodes discourse that presents international collaboration as an **institutionally organised, actively supported route to students’ global professional development**. It combines accounts of partnership-building and project implementation with advocacy for wider participation, intercultural learning, and the formation of globally capable young professionals.
+
+The interpretation is broader than any one project topic: the excerpts connect international offices, institutional leaders, teachers, and student teams within a shared discourse of making international learning work and extending its benefits.
+
+### Possible labels
+
+| Label | Emphasis and justification |
+|---|---|
+| **Institutional coordination and inclusive professional formation through virtual exchange** | Best captures the combination of organisational infrastructure, practical support, participation, and professional-development aims. |
+| **Enabling participation in international collaborative learning** | Emphasises the work of creating partnerships, sustaining engagement, and making international experiences available to more students. |
+| **Institutional advocacy and practical support for internationalisation at home** | Highlights the mixture of leadership interviews, promotional editorials, project reports, and advice for teachers. Particularly appropriate if the label should foreground communicative function. |
+
+## 1. What the lexical loadings contribute
+
+The loadings suggest several overlapping components rather than a single, tightly bounded subject field.
+
+- **Institutional infrastructure and communication:** *escritório* (.88), *e-mail* (.74), and *gerenciar* (.41) support an organisational reading. In the excerpts, *escritório* identifies international or global-learning offices and their directors. *E-mail* marks the channel through which an institutional interview was obtained; it should not, by itself, be treated as evidence about students’ collaborative communication.
+- **Dated reporting of project activity:** *fevereiro* (.86) anchors accounts of awards, partnership meetings, and the initiation of student interactions. Its strong loading indicates that time-specific reporting contributes substantially to the pole, although February itself is not a discourse theme.
+- **Participation, reach, and beneficiaries:** *menos* (.88), *inclusão* (.50), *jovem* (.49), *tecnólogo* (.39), and *todo* (.31) collectively support a discourse of participation and educational benefit. Their functions are context-dependent: *menos* occurs in minimum-participation formulations such as “pelo menos uma vez” and in the affordability claim “menos custosa”; *todo* helps express collective involvement or broad coverage.
+- **Effort and project content:** *energia* (.69) has two distinct meanings in the samples: teachers’ energy and sustained presence, and energy as a collaborative research topic. Both must be retained; the loading cannot be reduced to motivational language alone.
+- **A less securely interpretable contribution:** *revelar* (.34) lacks direct illustration in the supplied excerpts, so it should carry limited interpretive specificity.
+
+Thus, the lexical evidence supports institutional organisation, participation, and formation, but also shows that **reporting conventions and particular project topics help constitute the factor**.
+
+## 2. What the examples contribute
+
+The excerpts supply the discourse relationships that the loading list alone cannot establish.
+
+**Institutional partnership-building and leadership** are prominent in the Durban international-office interview, the Viseu partnership report, and the Florida International University collaboration. These texts identify responsible actors, describe coordination, and present collaboration as a planned institutional undertaking.
+
+**Practical facilitation and sustained engagement** are especially clear in “Presença e energia.” Successful collaboration requires aligned teachers, group leadership, linguistic support, monitoring, and attention to interpersonal skills. Here, the loading words *menos*, *todo*, and *energia* occur within advice about keeping participants involved. The resilience report similarly describes adjustments that allow projects to continue despite disruption.
+
+**Inclusive access and global professional formation** connect these operational accounts to their educational rationale. The edition 08 interview links *menos* to lower-cost participation and *jovem* to cultural intelligence, innovation, and professional preparation. Edition 01 repeatedly uses *tecnólogo* in claims about international professionalisation and linguistic, intercultural, and teamwork competencies. The Durban interview explicitly advocates inclusion and diversity and proposes participation by all students at least once.
+
+These examples therefore support an **enabling and legitimating discourse**: they explain how international collaboration is organised, why it deserves institutional support, and what students gain from participating.
+
+## 3. Which editions drive the pole?
+
+The strongest edition means are:
+
+| Edition | Mean f3 | N | SD |
+|---|---:|---:|---:|
+| **vem_ed_06** | **2.75** | 4 | 1.71 |
+| **vem_ed_01** | **2.00** | 4 | 1.15 |
+| **vem_ed_08** | **1.80** | 5 | 0.84 |
+
+These editions provide all ten supplied excerpts, making them the clearest evidenced drivers.
+
+- **Edition 06** combines international-office leadership, partnership development, and pedagogical guidance. Its four supplied scores range from 1 to 5, indicating uneven but broad representation.
+- **Edition 01** combines inaugural advocacy, professional formation, project organisation, and continuity under pandemic disruption.
+- **Edition 08** foregrounds institutional strategy, scalable access, and young people’s professional development. Only two of its five texts are supplied, so its interpretation remains partial.
+
+Editions 03, 11, and 27 also have positive means of 1.00, but without excerpts their thematic contribution cannot be specified.
+
+**Overall, the recommended label captures the shared institutional and educational discourse without mistaking incidental markers such as *fevereiro*, or one research topic such as energy, for the pole’s defining meaning.**

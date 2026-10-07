@@ -1,0 +1,67 @@
+## Factor f3 (negative): Institutional reporting on internationalisation events and initiatives
+
+**Recommended label:** **Institutional reporting on internationalisation events and initiatives**
+
+This pole brings together discourse that **documents, publicises and evaluates institutional internationalisation activity**: webinars, conferences, international visits, partnerships and COIL/PCI initiatives. It combines calendar-based reporting with accounts of institutional actors, thematic programming, dissemination and outcomes.
+
+The interpretation should remain qualified: the strongest examples are concentrated in one edition, and **“outubro” is a particularly strong lexical anchor**. The pole therefore appears to capture an edition-sensitive reporting configuration, rather than a fully general discourse of internationalisation.
+
+### 1. What the loadings indicate
+
+The loading vocabulary suggests several connected strands:
+
+| Lexical strand | Loading words | Interpretive contribution |
+|---|---|---|
+| Calendar-based reporting | **outubro** (−.79), **mês** (−.30) | Situates activities in an institutional calendar and supports retrospective reporting. |
+| Dissemination and evaluation | **canal** (−.83), **respondente** (−.74), **recorde** (−.40) | Suggests communication outlets, participant feedback and attention to institutional achievements. |
+| Thematic and curricular organisation | **enfocar** (−.75), **eixo** (−.54), **temático** (−.45), **ementa** (−.31) | Points to the definition and presentation of academic themes, programme content and curricular organisation. |
+| Institutional actors and settings | **campus** (−.39), **fundador** (−.38) | Supports accounts of institutional locations, leadership and the development of initiatives. |
+| Technical subject matter | **veículo** (−.74) | Adds a substantive, applied-project component rather than merely an event-reporting function. |
+
+These strands support a broader interpretation than “October news” alone. Nevertheless, not every word has an equally secure discourse interpretation. **Recorde** and **ementa** are absent from the supplied examples, so their achievement-oriented and curricular meanings remain provisional here. **Redondar** (−.30) is opaque and should not carry interpretive weight without checking its concordances or lemmatisation.
+
+Importantly, **veículo** refers to actual vehicles in the strongest excerpt, not to a communication medium. Its high loading indicates that applied technical project content also contributes to the pole.
+
+### 2. What the examples show
+
+The strongest example, **t000167, edition 32, score −5**, integrates the main discourse strands in reporting the *Jornada dos PCIs 2025*:
+
+- **outubro** dates the event and project activity;
+- **canal** identifies access to recordings;
+- **respondente** introduces participant-satisfaction evidence;
+- **enfocar** specifies a project’s thematic focus;
+- **veículo** occurs in an account of technical testing and its educational outcomes.
+
+The text makes internationalisation visible through an organised event, named participants, thematic presentations, participation figures, feedback and reported benefits. This is not just an announcement: it also **demonstrates institutional activity and effectiveness**.
+
+Other edition-32 examples extend this pattern through conference participation, a webinar and a round-table discussion. The editorial, **t000166**, explicitly gathers these activities into an October–November institutional retrospective.
+
+The opinion article, **t000172**, adds a related discourse of **pedagogical and human-impact advocacy**. It argues for institutional support through student testimony, confidence, empathy and professional development. However, its listed loading words are only **canal, outubro** and **mês**. Consequently, transformative pedagogy is a meaningful supporting strand, but not a sufficiently strong lexical basis for naming the entire pole.
+
+Edition 4 broadens the interpretation beyond recent event coverage. **T000015** reports a chronological webinar series, with **outubro, campus** and **fundador** anchoring dates, institutional settings and participant credentials. **T000014**, Jon Rubin’s profile, uses **campus, fundador** and **mês** within an account of COIL’s origins, institutional support and partnership infrastructure.
+
+Edition 26’s international-visits report similarly uses **outubro** and **mês** to document partnership activity and prospective collaboration.
+
+**T000016 should not be treated as affirmative evidence:** it has a positive score (+1) and no listed negative-pole loading words, despite appearing in the example set.
+
+### 3. Which editions drive the pole?
+
+The lowest edition means are:
+
+| Edition | Mean f3 | N |
+|---|---:|---:|
+| **vem_ed_32** | **−1.857** | 7 |
+| **vem_ed_04** | **−1.000** | 4 |
+| **vem_ed_26** | **−0.800** | 5 |
+| **vem_ed_15** | **−0.600** | 5 |
+| **vem_ed_16** | **−0.400** | 5 |
+
+**Edition 32 is the clearest driver**, supplying six examples and the lowest mean. Editions 4 and 26 provide corroborating evidence. Editions 15 and 16 also contribute by mean score, but their specific discourse contribution cannot be established without excerpts. Edition 16’s high SD (2.074) indicates substantial internal variation.
+
+### Possible labels
+
+1. **Institutional reporting on internationalisation events and initiatives** — the best overall fit, accommodating events, partnerships, institutional histories and outcomes.
+2. **Calendar-based reporting and dissemination of internationalisation activity** — foregrounds the strongest temporal and communication vocabulary.
+3. **Institutional showcasing of internationalisation programmes and outcomes** — captures achievements, feedback and benefits, although “showcasing” is less applicable to some descriptive passages.
+
+Overall, the first label offers the strongest balance between the **full-corpus lexical evidence** and the **limited, edition-concentrated examples**.

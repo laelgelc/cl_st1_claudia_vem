@@ -1,0 +1,64 @@
+## Proposed interpretation: **Calendar-anchored reporting of academic events and institutional participation**
+
+Factor **f2 (negative)** most plausibly encodes discourse that **reports, schedules and gives institutional visibility to academic events**, particularly those involving language education, internationalisation and Projetos Colaborativos Internacionais (PCIs). Its characteristic focus is on **when events take place, how their programmes are organised, who participates, and what knowledge or experience is presented**.
+
+The pole is therefore best understood as an **academic-event and institutional-agenda discourse**, rather than simply a discourse about internationalisation. Internationalisation supplies much of the subject matter in the excerpts, but the loadings more directly identify the calendar, programme and organisational framing through which that subject matter is communicated.
+
+### Possible labels
+
+1. **Calendar-anchored academic-event reporting** — the strongest overall label, capturing both the prominent temporal vocabulary and the reporting of congresses, panels, workshops and presentations.
+2. **Academic events and institutional participation** — foregrounds the newsletter’s documentation of staff involvement, institutional representation and dissemination of PCI experiences.
+3. **Academic-event agendas and professional knowledge exchange** — captures the combination of programme organisation and the circulation of pedagogical knowledge through round tables, posters and other sessions.
+
+The first is the most securely grounded in the full loading profile; the second and third make explicit discourse functions particularly visible in the examples.
+
+## 1. Evidence from the lexical loadings
+
+The loadings form several related clusters:
+
+| Lexical cluster | Loading words | Interpretive contribution |
+|---|---|---|
+| Calendar and scheduling | **setembro** (−.77), **tarde** (−.41), **fevereiro** (−.33), **letivo** (−.33) | Locates activities within dated events, daily schedules and the academic calendar. |
+| Event formats and programme organisation | **mesa** (−.67), **redondar** (−.49), **pôster** (−.41), **temático** (−.40) | Identifies round tables, poster presentations and thematically organised sessions. |
+| Institutional organisation and coordination | **escritório** (−.59), **eixo** (−.49), **meta** (−.33), **recepção** (−.31) | Suggests a broader organisational layer involving institutional units, objectives and arrangements. |
+| Less diagnostically specific vocabulary | **menos** (−.57), **concordar** (−.30) | Requires contextual evidence before being assigned a distinctive discourse function. |
+
+The combination of **setembro**, **mesa**, **redondar** and **pôster** is especially diagnostic. It suggests not merely temporal reference, but **dated academic occasions with recognisable presentation formats**. In the examples, *redondar* corresponds to *redonda* in *mesa redonda*; it should be interpreted as a processing or lemmatisation feature of this event expression, not as an independent semantic category.
+
+The remaining vocabulary prevents the interpretation from being restricted entirely to congress reports. **Fevereiro** and **letivo**, for example, suggest a wider academic-calendar component, while the organisational terms support an institutional coordination layer. However, their precise functions cannot all be established from the supplied excerpts.
+
+## 2. Evidence from the excerpts
+
+The strongest examples realise the event-reporting interpretation directly:
+
+- **t000096, t000098 and t000099, from edition 20**, each score **−3** and contain the reported loading combination **setembro, mesa, redondar**. They document the VI CBTecLE through dates, opening proceedings, round tables, workshops, named participants and presented work.
+- **t000161, from edition 31**, scores **−4** and contains **setembro, mesa, pôster, tarde**. Its account of the VII CBTecLE follows the event programme: opening ceremony, round tables, an afternoon workshop, oral communications, a poster and a subsequent conference session.
+
+These texts do more than announce events. They **record institutional presence and participation**, identify organisers and speakers, and summarise the professional knowledge circulated through the programme. This supports a secondary interpretation of **institutional visibility and professional knowledge exchange**.
+
+The other negative-scoring examples broaden the event repertoire to colloquia, webinars and Spanish-language conferences. Several score only **−1**, with **setembro** as their sole reported loading word. They support the calendar-anchored interpretation, but provide less independent lexical evidence for the full event-format cluster.
+
+## 3. Editions driving the pole
+
+The lowest edition means are:
+
+| Edition | Mean f2 | N |
+|---|---:|---:|
+| **vem_ed_20** | **−1.667** | 6 |
+| **vem_ed_31** | **−1.167** | 6 |
+| vem_ed_03 | −0.750 | 4 |
+| vem_ed_25 | −0.667 | 6 |
+| vem_ed_30 | −0.600 | 5 |
+| vem_ed_24 | −0.400 | 5 |
+
+**Editions 20 and 31 are the clearest drivers**, combining the lowest means with directly illustrated coverage of the VI and VII CBTecLE and associated events. Their relatively substantial standard deviations also indicate that this discourse is not equally strong in every excerpt within those editions.
+
+Editions **03, 25, 30 and 24** contribute to the pole statistically, but their specific discourse content cannot be determined without corresponding examples.
+
+## Qualification and final recommendation
+
+The supplied examples are heavily concentrated in two event-rich editions. Moreover, **setembro is the strongest loading**, so part of the pole’s coherence may reflect an edition-specific reporting cycle. The interpretation should therefore retain the calendar component rather than treating the pole as a wholly general measure of academic exchange.
+
+Excerpt **t000165** should not be used as direct evidence: its supplied score is **+1**, and it contains no identified negative-pole loading words.
+
+**Recommended label: _Calendar-anchored academic-event reporting and institutional participation_.** This captures the strongest corpus-wide lexical signals while accommodating the excerpts’ documentation of institutional representation, professional development and dissemination of PCI experience.
