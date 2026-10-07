@@ -41,12 +41,43 @@ python select_keywords_deprecated.py --num-keywords 40
 ```text
 corpus/09_kw_selected/
 ```
-### Current method: stratified keyword selection
+### Current method: stratified keyword selection (deprecated)
 
 **Purpose:** Select keywords by edition, with a maximum quota per VEm edition.
 ```bash
 python select_kws_stratified.py \
     --per-edition 200 \
+    --max-total 0
+```
+**Output:**
+```text
+corpus/09_kw_selected_deprecated_2/
+```
+### Keyword-selection summary
+
+Each VEm edition is allowed up to **200 keywords**.
+
+The final selection produced:
+
+- **1,990** consolidated keywords before de-duplication
+- **1,321** unique keywords after de-duplication
+- **669** duplicates removed
+
+Final output:
+```text
+corpus/09_kw_selected/keywords.txt
+```
+Final unique keyword count:
+```text
+1321
+```
+
+### Current method: stratified keyword selection
+
+**Purpose:** Select keywords by edition, with a maximum quota per VEm edition.
+```bash
+python select_kws_stratified.py \
+    --per-edition 2 \
     --max-total 0
 ```
 **Output:**
@@ -71,6 +102,7 @@ Final unique keyword count:
 ```text
 1321
 ```
+
 ---
 
 ## 4. Reset Column Outputs
