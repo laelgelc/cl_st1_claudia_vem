@@ -86,13 +86,13 @@ corpus/09_kw_selected/
 ```
 ### Keyword-selection summary
 
-Each VEm edition is allowed up to **200 keywords**.
+Each VEm edition is allowed up to **2 keywords**.
 
 The final selection produced:
 
-- **1,990** consolidated keywords before de-duplication
-- **1,321** unique keywords after de-duplication
-- **669** duplicates removed
+- **70** consolidated keywords before de-duplication
+- **70** unique keywords after de-duplication
+- **0** duplicates removed
 
 Final output:
 ```text
@@ -100,7 +100,7 @@ corpus/09_kw_selected/keywords.txt
 ```
 Final unique keyword count:
 ```text
-1321
+70
 ```
 
 ---
