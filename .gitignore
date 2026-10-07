@@ -207,3 +207,4 @@ marimo/_lsp/
 __marimo__/
 
 # cl_st1_claudia_vem
+!12_cl_st1_claudia_vem/**/*.log

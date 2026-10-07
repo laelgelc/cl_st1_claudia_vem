@@ -1,0 +1,40 @@
+ 
+ 1          OPTIONS NONOTES NOSTIMER NOSOURCE NOSYNTAXCHECK;
+ 68         
+ 69         proc factor fuzz=0.3 data= polychor (type=corr) OUTSTAT= rotatedfinal NOPRINT
+ 70         method=principal
+ 71         scree
+ 72         mineigen=0
+ 73         priors=max
+ 74         nfactors= &extractfactors
+ 75         rotate=promax
+ 76         heywood
+ 77         nobs=&nobs;
+ 78         var &highcomm ;
+ 79         run;
+ 
+ WARNING: The number of observations is not greater than the number of variables.
+ NOTE: 6 factors will be retained by the NFACTOR criterion.
+ NOTE: Rotation converged.  Criterion changed from 437951.666 to 603740.582 in 11 cycles.
+ NOTE: The data set WORK.ROTATEDFINAL has 1378 observations and 1320 variables.
+ NOTE: At least one W.D format was too small for the number to be printed. The decimal may be shifted by the "BEST" format.
+ NOTE: PROCEDURE FACTOR used (Total process time):
+       real time           0.86 seconds
+       user cpu time       0.83 seconds
+       system cpu time     0.03 seconds
+       memory              20625.84k
+       OS Memory           46276.00k
+       Timestamp           12/08/2026 08:42:34 PM
+       Step Count                        226  Switch Count  4
+       Page Faults                       0
+       Page Reclaims                     2015
+       Page Swaps                        0
+       Voluntary Context Switches        355
+       Involuntary Context Switches      4
+       Block Input Operations            0
+       Block Output Operations           42792
+       
+ 
+ 80         
+ 81         OPTIONS NONOTES NOSTIMER NOSOURCE NOSYNTAXCHECK;
+ 91         

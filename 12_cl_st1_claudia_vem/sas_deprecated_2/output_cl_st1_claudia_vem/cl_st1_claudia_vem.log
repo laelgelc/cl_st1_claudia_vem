@@ -1,0 +1,33 @@
+ 
+ 1          OPTIONS NONOTES NOSTIMER NOSOURCE NOSYNTAXCHECK;
+ 68         
+ 69         OPTIONS VALIDVARNAME=ANY;
+ 70         
+ 71         proc corr data = &project outplc = polychor polychoric noprint;
+ 72         var &names ;
+ 73         run;
+ 
+ WARNING: The number of groups for variable v001087 is less than 2, the affected polychoric correlations are set to missing.
+ WARNING: The number of groups for variable v001238 is less than 2, the affected polychoric correlations are set to missing.
+ WARNING: The number of groups for variable v001239 is less than 2, the affected polychoric correlations are set to missing.
+ NOTE: The data set WORK.POLYCHOR has 1324 observations and 1323 variables.
+ NOTE: PROCEDURE CORR used (Total process time):
+       real time           5:41.29
+       user cpu time       5:38.63
+       system cpu time     0.37 seconds
+       memory              514012.40k
+       OS Memory           581128.00k
+       Timestamp           12/08/2026 08:37:08 PM
+       Step Count                        83  Switch Count  2
+       Page Faults                       0
+       Page Reclaims                     124473
+       Page Swaps                        0
+       Voluntary Context Switches        32
+       Involuntary Context Switches      1178
+       Block Input Operations            0
+       Block Output Operations           28720
+       
+ 
+ 74         
+ 75         OPTIONS NONOTES NOSTIMER NOSOURCE NOSYNTAXCHECK;
+ 85         
