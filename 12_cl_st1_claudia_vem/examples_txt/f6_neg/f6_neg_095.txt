@@ -1,7 +1,0 @@
-Text ID: t000174
-Edition: vem_ed_33
-File:    corpus/07_tagged/vem_ed_33/t174.txt
-
-Score (f6_neg): 1
-Loading words (f6_neg), N=0: 
-Oficina online sobre projetos COIL As professoras Patrícia Patrício e Regiane Camargo, da equipe de Apoio à Internacionalização do Ensino Superior (AIES) da Divisão de Extensão e Pesquisa (Depes) da Coordenadoria de Ensino Superior de Graduação (CGESG) do Centro Paula Souza (CPS), ministraram a oficina online “Formación de pares y diseño COIL”, durante a Terceira Jornada COIL UNAM 2025, realizada em 12 de novembro de 2025. O evento organizado pela UNAM (México) teve como tema “Colaboración sin fronteras para el aprendizaje global”. Após apresentar dados institucionais sobre os Projetos Colaborativos Internacionais (PCIs) realizados nas Fatecs do CPS e sintetizar a estrutura geral de um projeto COIL (Collaborative Online International Learning), as professoras conduziram uma atividade prática de esboço de projeto COIL, em salas de grupo no Zoom. Os participantes definiram tema, objetivo de aprendizagem, atividade colaborativa principal e ferramentas tecnológicas. Compartilharam essas informações no Padlet e socializaram suas ideias na sala principal do Zoom. Finalizando a oficina, a professora Patrícia abordou recursos de avaliação dos PCIs utilizados pela equipe AIES/Depes/CGESG, como a ferramenta GDD (Good, Difficult, Different) e as Pesquisas de Percepção realizadas com alunos e professores. Os números 5, 8, 9, 12, 14, 17, 23 e 26 de VEm trazem resumos sobre essas pesquisas.

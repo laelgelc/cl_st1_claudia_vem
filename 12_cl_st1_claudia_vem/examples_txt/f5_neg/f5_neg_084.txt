@@ -1,7 +1,0 @@
-Text ID: t000112
-Edition: vem_ed_22
-File:    corpus/07_tagged/vem_ed_22/t112.txt
-
-Score (f5_neg): 2
-Loading words (f5_neg), N=1: f6 score: 4
-Equipe dos PCIs na DUOC UC (Chile) Osvaldo Succi Junior, coordenador dos Projetos Colaborativos Internacionais da Unidade do Ensino Superior de Graduação (PCIs/Cesu) do Centro Paula Souza, e Regiane Souza Camargo Moreira, responsável pelos PCIs em espanhol, foram convidados pela Vice-Reitoria Acadêmica do Instituto Profesional DUOC UC (Chile) para oferecer workshops sobre a metodologia COIL (Collaborative Online International Learning) de Intercâmbios Virtuais e participar de seminários da “1ª Semana de Internacionalização em Casa”. O evento ocorreu na instituição chilena entre 27 de novembro e 1º de dezembro de 2023, no centro de educação continuada da DUOC UC em Santiago e no campus Valparaíso. As atividades foram organizadas para diversos perfis de público acadêmico: workshops para professores iniciantes em COIL (72 participantes), experientes na metodologia (12 participantes), masterclass sobre Internacionalização em Casa e seminário para grupo administrativo sobre essa temática. O primeiro Intercâmbio Virtual (ou PCI, como é chamado no Centro Paula Souza) foi realizado na Fatec Americana, em 2013, precedendo todas as instituições de ensino superior brasileiras. Em uma década, os mais de 500 PCIs envolveram 50 Fatecs, 9.934 alunos e 49 instituições de ensino superior em 18 países. Hoje, o Centro Paula Souza está entre as principais instituições do mundo em Intercâmbios Virtuais do tipo COIL.

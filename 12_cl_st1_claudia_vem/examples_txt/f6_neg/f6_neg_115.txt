@@ -1,7 +1,0 @@
-Text ID: t000114
-Edition: vem_ed_22
-File:    corpus/07_tagged/vem_ed_22/t114.txt
-
-Score (f6_neg): 3
-Loading words (f6_neg), N=0: 
-Fatecs em evento on-line de universidade indiana O evento on-line Student´s Research Conclave, organizado em 15 de dezembro de 2023 pelo Symbiosis Centre for Management Studies (Pune, Índia), selecionou trabalhos de 33 Instituições de Ensino Superior do Brasil (Fatecs/Centro Paula Souza), Índia, Catar e Zimbábue. Marcaram presença quatro trabalhos das Fatecs Baixada Santista, Itaquaquecetuba e Pompeia – este último, derivou de estudo realizado sobre escassez de água no Nordeste brasileiro durante um Projeto Colaborativo Internacional (PCI/Cesu). O trabalho da Fatec Baixada Santista ficou em segundo lugar geral e primeiro lugar na área de finanças, ganhando destaque no portal do Governo de São Paulo: https://www.saopaulo.sp.gov.br/ultimas-noticias/equipe-de-alunos-da-fatec-baixada-santista-e-vice-campea-em-evento-na-india/ Os seguintes artigos das Fatecs serão publicados no Annual Research Journal of SCMS 2024: Fatec Baixada Santista - Application of Principal Component Analysis (PCA) on a dataset of shares traded on the Brazilian Stock Exchange (B3) in the period 2018 – 2022: A feasibility study, dos estudantes Flávia Aparecida do Valle Escórcio; Gabriel Luiz dos Santos Silva e Thalita Carvalho Routh, orientados por Alexandre Garcia de Oliveira;

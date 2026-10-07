@@ -1,7 +1,0 @@
-Text ID: t000151
-Edition: vem_ed_29
-File:    corpus/07_tagged/vem_ed_29/t151.txt
-
-Score (f3_neg): 4
-Loading words (f3_neg), N=1: f4 score: 3
-Leitores Aos Osvaldo Succi Jr. Coordenador PCIs Os Projetos Colaborativos Internacionais (PCIs) são parte da área técnica de Apoio à Internacionalização do Ensino Superior, na Divisão de Extensão e Pesquisa do Ensino Superior (Depes) da Unidade do Ensino Superior de Graduação (Cesu) do Centro Paula Souza. Em 8 de maio de 2025, a equipe organizou a quarta edição do International Virtual Exchange Symposium (IVES Cesu 2025), evento online dedicado a debater a situação dos Intercâmbios Virtuais a partir de diversas perspectivas internacionais. Neste ano, contamos com as palestras de João Monteiro, do ISP Gaya (Portugal), Stephanie Doscher, da University of Minnesota (EUA), Julia Bacca e Diana Garzon, da Uniminuto (Colômbia) e Adam Freed, da University of Michigan (EUA). Uma síntese do evento encontra-se nesta edição, que também relata minha apresentação na Conferência Internacional Faubai 2025, realizada presencialmente em Brasília, de 26 a 30 de abril. Na seção “Artigo de Opinião”, temos o relato de Neusa Haruka Sezaki Gritti, responsável pelo apoio administrativo e pedagógico à equipe de Apoio à Internacionalização do Ensino Superior e professora de Inglês nas Fatecs Mogi das Cruzes e Sebrae, sobre a importância da troca cultural na realização do PCI. Quer contribuir você também? Acesse https://publicacoescesu.cps.sp.gov.br/VEm/about/submissions Dúvidas? Escreva para cesu.pci@cps.sp.gov.br. Boa leitura!

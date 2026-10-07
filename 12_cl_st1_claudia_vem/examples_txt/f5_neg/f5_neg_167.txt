@@ -1,7 +1,0 @@
-Text ID: t000181
-Edition: vem_ed_34
-File:    corpus/07_tagged/vem_ed_34/t181.txt
-
-Score (f5_neg): 3
-Loading words (f5_neg), N=1: avaliação
-Aos Leitores Osvaldo Succi Jr. - Coordenador de Projetos Este número de VEm convida a refletir sobre a consolidação e o futuro dos Projetos Colaborativos Internacionais (PCIs) desenvolvidos nas Fatecs. Em março de 2026, representei o Centro Paula Souza (CPS) e a América Latina no webinar organizado pela Fundação COIL Connect, que celebrou os 20 anos da abordagem COIL (Collaborative Online International Learning). O evento gratuito reuniu vozes de diferentes continentes para discutir conquistas, desafios e o papel central das relações humanas na educação global. Na FAUBAI 2026, apresentei três trabalhos, evidenciando experiências que reafirmam o impacto dos PCIs na educação profissional e tecnológica. A edição apresenta ainda um PCI realizado entre a Fatec Americana e o CEAM (Peru) na área têxtil, ilustrando como o Intercâmbio Virtual promove aprendizagem significativa, diálogo intercultural e desenvolvimento profissional. Para produzir o Artigo de Opinião, reunimos a equipe de Apoio à Internacionalização do Ensino Superior da Divisão de Extensão e Pesquisa da Coordenadoria Geral de Ensino Superior de Graduação do CPS e dialogamos sobre aprendizagens acumuladas pela equipe, apontando fatores de sucesso dos PCIs e cuidados no planejamento, execução e avaliação, para que se tornem colaborações duradouras. Deseja contribuir com Artigo de Opinião? Escreva para cgesg.pci@cps.sp.gov.br. Boa leitura!
