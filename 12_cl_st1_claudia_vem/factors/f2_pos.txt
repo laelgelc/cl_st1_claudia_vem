@@ -1,0 +1,2 @@
+variables loading on this pole = 12
+depender (1.15), construção (1.11), duradouro (1.10), interconectar (.95), fluxo (.88), hora (.86), revelar (.83), gerenciar (.55), atribuição (.38), moderno (.34), particularidade (.33), aprimor (.31)

@@ -1,0 +1,2 @@
+variables loading on this pole = 12
+descrever (1.08), pertencimento (1.08), cobertura (1.03), tese (1.01), recepção (.96), institucionalização (.95), painel (.89), inclusão (.84), tradução (.84), temático (.80), crítico (.77), eixo (.76)

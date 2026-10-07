@@ -1,0 +1,2 @@
+variables loading on this pole = 12
+meta (-.59), equipamento (-.47), gastronomia (-.47), concordar (-.44), letivo (-.42), médico-hospitalar (-.38), (campus (-.36)), ementa (-.36), assessora (-.35), (fundador (-.34)), paixão (-.34), turismo (-.32)
