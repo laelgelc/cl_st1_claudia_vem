@@ -1,0 +1,2941 @@
+text ID: t000001
+filename: vem_ed_01/t001.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): tecnólogo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000002
+filename: vem_ed_01/t002.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 3
+f3 pos words (N=3): fevereiro, tecnólogo, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000003
+filename: vem_ed_01/t003.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): tecnólogo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000004
+filename: vem_ed_01/t004.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 3
+f3 pos words (N=3): escritório, fevereiro, energia
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000005
+filename: vem_ed_02/t005.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): equipamento
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000006
+filename: vem_ed_02/t006.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000007
+filename: vem_ed_02/t007.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): canal
+
+=============================================
+
+text ID: t000008
+filename: vem_ed_02/t008.txt
+
+f1 score: -2
+f1 pos words (N=0): 
+f1 neg words (N=2): equipamento, médico-hospitalar
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000009
+filename: vem_ed_03/t009.txt
+
+f1 score: 1
+f1 pos words (N=1): recepção
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): setembro
+
+f3 score: 2
+f3 pos words (N=2): escritório, tecnólogo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000010
+filename: vem_ed_03/t010.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): turismo
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 2
+f3 pos words (N=2): escritório, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000011
+filename: vem_ed_03/t011.txt
+
+f1 score: 1
+f1 pos words (N=1): painel
+f1 neg words (N=0): 
+
+f2 score: -2
+f2 pos words (N=0): 
+f2 neg words (N=2): setembro, pôster
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000012
+filename: vem_ed_03/t012.txt
+
+f1 score: 3
+f1 pos words (N=3): recepção, tradução, eixo
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=1): todo
+f3 neg words (N=1): canal
+
+=============================================
+
+text ID: t000013
+filename: vem_ed_04/t013.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): hora
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000014
+filename: vem_ed_04/t014.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): hora
+f2 neg words (N=0): 
+
+f3 score: -2
+f3 pos words (N=1): todo
+f3 neg words (N=3): campus, fundador, mês
+
+=============================================
+
+text ID: t000015
+filename: vem_ed_04/t015.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -3
+f3 pos words (N=0): 
+f3 neg words (N=3): outubro, campus, fundador
+
+=============================================
+
+text ID: t000016
+filename: vem_ed_04/t016.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): setembro
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000017
+filename: vem_ed_05/t017.txt
+
+f1 score: -2
+f1 pos words (N=0): 
+f1 neg words (N=2): meta, paixão
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): mês
+
+=============================================
+
+text ID: t000018
+filename: vem_ed_05/t018.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): meta
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=1): todo
+f3 neg words (N=1): fundador
+
+=============================================
+
+text ID: t000019
+filename: vem_ed_05/t019.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): concordar
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): e-mail
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000020
+filename: vem_ed_05/t020.txt
+
+f1 score: -4
+f1 pos words (N=0): 
+f1 neg words (N=4): meta, equipamento, gastronomia, paixão
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): setembro
+
+f3 score: 2
+f3 pos words (N=2): energia, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000021
+filename: vem_ed_06/t021.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): escritório
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000022
+filename: vem_ed_06/t022.txt
+
+f1 score: 1
+f1 pos words (N=1): inclusão
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): mesa
+
+f3 score: 5
+f3 pos words (N=5): escritório, menos, fevereiro, e-mail, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000023
+filename: vem_ed_06/t023.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): turismo
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 2
+f3 pos words (N=2): fevereiro, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000024
+filename: vem_ed_06/t024.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 3
+f3 pos words (N=3): menos, energia, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000025
+filename: vem_ed_07/t025.txt
+
+f1 score: -2
+f1 pos words (N=0): 
+f1 neg words (N=2): equipamento, médico-hospitalar
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000027
+filename: vem_ed_07/t027.txt
+
+f1 score: -2
+f1 pos words (N=0): 
+f1 neg words (N=2): equipamento, médico-hospitalar
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000028
+filename: vem_ed_07/t028.txt
+
+f1 score: -2
+f1 pos words (N=0): 
+f1 neg words (N=2): equipamento, médico-hospitalar
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 2
+f3 pos words (N=2): menos, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000029
+filename: vem_ed_08/t029.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000030
+filename: vem_ed_08/t030.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 3
+f3 pos words (N=3): menos, jovem, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000031
+filename: vem_ed_08/t031.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 2
+f3 pos words (N=2): jovem, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000032
+filename: vem_ed_08/t032.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): letivo
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 2
+f3 pos words (N=2): e-mail, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000033
+filename: vem_ed_08/t033.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000034
+filename: vem_ed_09/t034.txt
+
+f1 score: -3
+f1 pos words (N=0): 
+f1 neg words (N=3): meta, ementa, assessora
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000035
+filename: vem_ed_09/t035.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): assessora
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000036
+filename: vem_ed_09/t036.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000037
+filename: vem_ed_09/t037.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000038
+filename: vem_ed_09/t038.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): ementa
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000039
+filename: vem_ed_10/t039.txt
+
+f1 score: 2
+f1 pos words (N=2): painel, temático
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000040
+filename: vem_ed_10/t040.txt
+
+f1 score: 2
+f1 pos words (N=2): painel, temático
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000041
+filename: vem_ed_10/t041.txt
+
+f1 score: 2
+f1 pos words (N=2): painel, temático
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000042
+filename: vem_ed_10/t042.txt
+
+f1 score: 1
+f1 pos words (N=1): painel
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000043
+filename: vem_ed_10/t043.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): ementa
+
+f2 score: 1
+f2 pos words (N=1): hora
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000044
+filename: vem_ed_10/t044.txt
+
+f1 score: 1
+f1 pos words (N=1): tese
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000045
+filename: vem_ed_11/t045.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 2
+f3 pos words (N=2): fevereiro, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000046
+filename: vem_ed_11/t046.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): fevereiro
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000048
+filename: vem_ed_11/t048.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): hora
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000049
+filename: vem_ed_11/t049.txt
+
+f1 score: 2
+f1 pos words (N=2): tese, tradução
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): hora
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000050
+filename: vem_ed_12/t050.txt
+
+f1 score: -4
+f1 pos words (N=0): 
+f1 neg words (N=4): meta, concordar, letivo, turismo
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000051
+filename: vem_ed_12/t051.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): letivo
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000052
+filename: vem_ed_12/t052.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): concordar
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000053
+filename: vem_ed_12/t053.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): turismo
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): pôster
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000055
+filename: vem_ed_13/t055.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): fluxo
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000056
+filename: vem_ed_13/t056.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): fluxo
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000057
+filename: vem_ed_13/t057.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000058
+filename: vem_ed_14/t058.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): letivo
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -2
+f3 pos words (N=0): 
+f3 neg words (N=2): canal, outubro
+
+=============================================
+
+text ID: t000059
+filename: vem_ed_14/t059.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 2
+f3 pos words (N=2): e-mail, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000060
+filename: vem_ed_14/t060.txt
+
+f1 score: 1
+f1 pos words (N=1): painel
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000061
+filename: vem_ed_14/t061.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): letivo
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 2
+f3 pos words (N=2): fevereiro, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000062
+filename: vem_ed_14/t062.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): concordar
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 2
+f3 pos words (N=2): e-mail, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000063
+filename: vem_ed_15/t063.txt
+
+f1 score: 1
+f1 pos words (N=1): eixo
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): tarde
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): canal
+
+=============================================
+
+text ID: t000064
+filename: vem_ed_15/t064.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -2
+f3 pos words (N=0): 
+f3 neg words (N=2): canal, outubro
+
+=============================================
+
+text ID: t000065
+filename: vem_ed_15/t065.txt
+
+f1 score: 1
+f1 pos words (N=1): eixo
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000066
+filename: vem_ed_15/t066.txt
+
+f1 score: 1
+f1 pos words (N=1): eixo
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): tarde
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000067
+filename: vem_ed_15/t067.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): hora
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000068
+filename: vem_ed_16/t068.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): atribuição
+f2 neg words (N=0): 
+
+f3 score: -2
+f3 pos words (N=0): 
+f3 neg words (N=2): outubro, campus
+
+=============================================
+
+text ID: t000069
+filename: vem_ed_16/t069.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 3
+f3 pos words (N=3): menos, e-mail, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000070
+filename: vem_ed_16/t070.txt
+
+f1 score: 0
+f1 pos words (N=1): inclusão
+f1 neg words (N=1): equipamento
+
+f2 score: 2
+f2 pos words (N=2): construção, atribuição
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=1): todo
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000071
+filename: vem_ed_16/t071.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): setembro
+
+f3 score: -2
+f3 pos words (N=0): 
+f3 neg words (N=2): canal, outubro
+
+=============================================
+
+text ID: t000072
+filename: vem_ed_16/t072.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): hora
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=1): todo
+f3 neg words (N=2): outubro, campus
+
+=============================================
+
+text ID: t000074
+filename: vem_ed_17/t074.txt
+
+f1 score: 0
+f1 pos words (N=1): crítico
+f1 neg words (N=1): turismo
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000075
+filename: vem_ed_17/t075.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000077
+filename: vem_ed_17/t077.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): respondente
+
+=============================================
+
+text ID: t000078
+filename: vem_ed_17/t078.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): concordar
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=1): todo
+f3 neg words (N=1): respondente
+
+=============================================
+
+text ID: t000079
+filename: vem_ed_17/t079.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=1): todo
+f3 neg words (N=1): enfocar
+
+=============================================
+
+text ID: t000080
+filename: vem_ed_17/t080.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): enfocar
+
+=============================================
+
+text ID: t000081
+filename: vem_ed_18/t081.txt
+
+f1 score: 1
+f1 pos words (N=1): cobertura
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): tarde
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000082
+filename: vem_ed_18/t082.txt
+
+f1 score: 0
+f1 pos words (N=1): tradução
+f1 neg words (N=1): turismo
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000083
+filename: vem_ed_18/t083.txt
+
+f1 score: 2
+f1 pos words (N=2): cobertura, crítico
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000084
+filename: vem_ed_18/t084.txt
+
+f1 score: 1
+f1 pos words (N=1): crítico
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000085
+filename: vem_ed_19/t085.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): energia
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000087
+filename: vem_ed_19/t087.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): gerenciar
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000088
+filename: vem_ed_19/t088.txt
+
+f1 score: 1
+f1 pos words (N=1): tradução
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000089
+filename: vem_ed_19/t089.txt
+
+f1 score: 1
+f1 pos words (N=1): painel
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): construção
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000090
+filename: vem_ed_19/t090.txt
+
+f1 score: 1
+f1 pos words (N=1): painel
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): gerenciar
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000091
+filename: vem_ed_19/t091.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): gerenciar
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000092
+filename: vem_ed_19/t092.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): energia
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000093
+filename: vem_ed_19/t093.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): energia
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000094
+filename: vem_ed_19/t094.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 2
+f3 pos words (N=2): energia, jovem
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000095
+filename: vem_ed_19/t095.txt
+
+f1 score: 3
+f1 pos words (N=3): painel, inclusão, tradução
+f1 neg words (N=0): 
+
+f2 score: 2
+f2 pos words (N=2): construção, gerenciar
+f2 neg words (N=0): 
+
+f3 score: 3
+f3 pos words (N=3): energia, jovem, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000096
+filename: vem_ed_20/t096.txt
+
+f1 score: 3
+f1 pos words (N=3): painel, temático, eixo
+f1 neg words (N=0): 
+
+f2 score: -3
+f2 pos words (N=0): 
+f2 neg words (N=3): setembro, mesa, redondar
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000097
+filename: vem_ed_20/t097.txt
+
+f1 score: 1
+f1 pos words (N=1): eixo
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): setembro
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000098
+filename: vem_ed_20/t098.txt
+
+f1 score: 1
+f1 pos words (N=1): eixo
+f1 neg words (N=0): 
+
+f2 score: -3
+f2 pos words (N=0): 
+f2 neg words (N=3): setembro, mesa, redondar
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000099
+filename: vem_ed_20/t099.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: -3
+f2 pos words (N=0): 
+f2 neg words (N=3): setembro, mesa, redondar
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000100
+filename: vem_ed_20/t100.txt
+
+f1 score: 2
+f1 pos words (N=2): painel, temático
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000101
+filename: vem_ed_20/t101.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000103
+filename: vem_ed_21/t103.txt
+
+f1 score: 2
+f1 pos words (N=2): cobertura, painel
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000104
+filename: vem_ed_21/t104.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): assessora
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000105
+filename: vem_ed_21/t105.txt
+
+f1 score: 1
+f1 pos words (N=1): painel
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000106
+filename: vem_ed_21/t106.txt
+
+f1 score: 1
+f1 pos words (N=1): crítico
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000107
+filename: vem_ed_21/t107.txt
+
+f1 score: 1
+f1 pos words (N=1): institucionalização
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000108
+filename: vem_ed_21/t108.txt
+
+f1 score: 0
+f1 pos words (N=1): institucionalização
+f1 neg words (N=1): meta
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000109
+filename: vem_ed_21/t109.txt
+
+f1 score: 1
+f1 pos words (N=1): painel
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000110
+filename: vem_ed_22/t110.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000111
+filename: vem_ed_22/t111.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): meta
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000112
+filename: vem_ed_22/t112.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=1): todo
+f3 neg words (N=1): campus
+
+=============================================
+
+text ID: t000113
+filename: vem_ed_22/t113.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000115
+filename: vem_ed_22/t115.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000118
+filename: vem_ed_23/t118.txt
+
+f1 score: 1
+f1 pos words (N=1): tradução
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000119
+filename: vem_ed_23/t119.txt
+
+f1 score: 1
+f1 pos words (N=1): tradução
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000122
+filename: vem_ed_23/t122.txt
+
+f1 score: 1
+f1 pos words (N=1): tradução
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000123
+filename: vem_ed_23/t123.txt
+
+f1 score: 1
+f1 pos words (N=1): tradução
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): hora
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000124
+filename: vem_ed_23/t124.txt
+
+f1 score: 2
+f1 pos words (N=2): cobertura, recepção
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000125
+filename: vem_ed_24/t125.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): setembro
+
+f3 score: -2
+f3 pos words (N=0): 
+f3 neg words (N=2): outubro, recorde
+
+=============================================
+
+text ID: t000126
+filename: vem_ed_24/t126.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -2
+f3 pos words (N=0): 
+f3 neg words (N=2): outubro, recorde
+
+=============================================
+
+text ID: t000127
+filename: vem_ed_24/t127.txt
+
+f1 score: 1
+f1 pos words (N=1): inclusão
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): setembro
+
+f3 score: 1
+f3 pos words (N=2): energia, todo
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000128
+filename: vem_ed_24/t128.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000129
+filename: vem_ed_24/t129.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000131
+filename: vem_ed_25/t131.txt
+
+f1 score: 2
+f1 pos words (N=2): inclusão, temático
+f1 neg words (N=0): 
+
+f2 score: -2
+f2 pos words (N=0): 
+f2 neg words (N=2): setembro, mesa
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000132
+filename: vem_ed_25/t132.txt
+
+f1 score: 2
+f1 pos words (N=2): inclusão, temático
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): mesa
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000133
+filename: vem_ed_25/t133.txt
+
+f1 score: 2
+f1 pos words (N=2): inclusão, crítico
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=1): hora
+f2 neg words (N=1): mesa
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000134
+filename: vem_ed_25/t134.txt
+
+f1 score: 2
+f1 pos words (N=2): painel, inclusão
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): setembro
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000135
+filename: vem_ed_25/t135.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): setembro
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000136
+filename: vem_ed_25/t136.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): construção
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=1): todo
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000137
+filename: vem_ed_26/t137.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: -2
+f2 pos words (N=0): 
+f2 neg words (N=2): mesa, redondar
+
+f3 score: -1
+f3 pos words (N=1): tecnólogo
+f3 neg words (N=2): outubro, mês
+
+=============================================
+
+text ID: t000138
+filename: vem_ed_26/t138.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 2
+f2 pos words (N=2): revelar, particularidade
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=1): todo
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000139
+filename: vem_ed_26/t139.txt
+
+f1 score: 1
+f1 pos words (N=1): recepção
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -2
+f3 pos words (N=0): 
+f3 neg words (N=2): outubro, mês
+
+=============================================
+
+text ID: t000140
+filename: vem_ed_26/t140.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): particularidade
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000141
+filename: vem_ed_26/t141.txt
+
+f1 score: 2
+f1 pos words (N=2): tese, inclusão
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=1): tecnólogo
+f3 neg words (N=1): mês
+
+=============================================
+
+text ID: t000143
+filename: vem_ed_27/t143.txt
+
+f1 score: 12
+f1 pos words (N=12): descrever, pertencimento, cobertura, tese, recepção, institucionalização, painel, inclusão, tradução, temático, crítico, eixo
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=1): todo
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000145
+filename: vem_ed_27/t145.txt
+
+f1 score: 2
+f1 pos words (N=2): pertencimento, tese
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): revelar
+f2 neg words (N=0): 
+
+f3 score: 2
+f3 pos words (N=2): e-mail, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000146
+filename: vem_ed_28/t146.txt
+
+f1 score: 1
+f1 pos words (N=1): descrever
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 2
+f3 pos words (N=2): fevereiro, tecnólogo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000147
+filename: vem_ed_28/t147.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 2
+f2 pos words (N=2): interconectar, moderno
+f2 neg words (N=0): 
+
+f3 score: 2
+f3 pos words (N=2): tecnólogo, todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000148
+filename: vem_ed_28/t148.txt
+
+f1 score: 1
+f1 pos words (N=1): crítico
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=1): todo
+f3 neg words (N=2): outubro, mês
+
+=============================================
+
+text ID: t000149
+filename: vem_ed_28/t149.txt
+
+f1 score: 1
+f1 pos words (N=1): descrever
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): construção
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000150
+filename: vem_ed_28/t150.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 2
+f2 pos words (N=2): construção, moderno
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000152
+filename: vem_ed_29/t152.txt
+
+f1 score: 2
+f1 pos words (N=2): tradução, crítico
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): aprimor
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=1): todo
+f3 neg words (N=1): canal
+
+=============================================
+
+text ID: t000153
+filename: vem_ed_29/t153.txt
+
+f1 score: 2
+f1 pos words (N=2): inclusão, crítico
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): interconectar
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000154
+filename: vem_ed_29/t154.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 3
+f2 pos words (N=3): duradouro, interconectar, aprimor
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000155
+filename: vem_ed_30/t155.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): pôster
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): veículo
+
+=============================================
+
+text ID: t000156
+filename: vem_ed_30/t156.txt
+
+f1 score: 1
+f1 pos words (N=1): crítico
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): pôster
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000157
+filename: vem_ed_30/t157.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): pôster
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000158
+filename: vem_ed_30/t158.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=1): todo
+f3 neg words (N=1): veículo
+
+=============================================
+
+text ID: t000159
+filename: vem_ed_30/t159.txt
+
+f1 score: 1
+f1 pos words (N=1): inclusão
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000160
+filename: vem_ed_31/t160.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): setembro
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000161
+filename: vem_ed_31/t161.txt
+
+f1 score: 1
+f1 pos words (N=1): crítico
+f1 neg words (N=0): 
+
+f2 score: -4
+f2 pos words (N=0): 
+f2 neg words (N=4): setembro, mesa, pôster, tarde
+
+f3 score: 1
+f3 pos words (N=1): menos
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000162
+filename: vem_ed_31/t162.txt
+
+f1 score: 2
+f1 pos words (N=2): tese, crítico
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): setembro
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000163
+filename: vem_ed_31/t163.txt
+
+f1 score: 2
+f1 pos words (N=2): inclusão, crítico
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): setembro
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000164
+filename: vem_ed_31/t164.txt
+
+f1 score: 1
+f1 pos words (N=1): eixo
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): setembro
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000165
+filename: vem_ed_31/t165.txt
+
+f1 score: 2
+f1 pos words (N=2): tradução, crítico
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): moderno
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000166
+filename: vem_ed_32/t166.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -2
+f3 pos words (N=0): 
+f3 neg words (N=2): outubro, mês
+
+=============================================
+
+text ID: t000167
+filename: vem_ed_32/t167.txt
+
+f1 score: 2
+f1 pos words (N=2): temático, eixo
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -5
+f3 pos words (N=0): 
+f3 neg words (N=5): canal, outubro, enfocar, respondente, veículo
+
+=============================================
+
+text ID: t000168
+filename: vem_ed_32/t168.txt
+
+f1 score: 1
+f1 pos words (N=1): temático
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000169
+filename: vem_ed_32/t169.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): mesa
+
+f3 score: 0
+f3 pos words (N=1): todo
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000170
+filename: vem_ed_32/t170.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=1): todo
+f3 neg words (N=2): canal, outubro
+
+=============================================
+
+text ID: t000171
+filename: vem_ed_32/t171.txt
+
+f1 score: 1
+f1 pos words (N=1): crítico
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000172
+filename: vem_ed_32/t172.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): paixão
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -3
+f3 pos words (N=0): 
+f3 neg words (N=3): canal, outubro, mês
+
+=============================================
+
+text ID: t000173
+filename: vem_ed_33/t173.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): gastronomia
+
+f2 score: 1
+f2 pos words (N=1): revelar
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): fevereiro
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000174
+filename: vem_ed_33/t174.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000176
+filename: vem_ed_33/t176.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): aprimor
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=1): fevereiro
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000177
+filename: vem_ed_33/t177.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000178
+filename: vem_ed_33/t178.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: -1
+f2 pos words (N=0): 
+f2 neg words (N=1): setembro
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000179
+filename: vem_ed_33/t179.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000180
+filename: vem_ed_33/t180.txt
+
+f1 score: -1
+f1 pos words (N=0): 
+f1 neg words (N=1): gastronomia
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000181
+filename: vem_ed_34/t181.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): duradouro
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000182
+filename: vem_ed_34/t182.txt
+
+f1 score: 0
+f1 pos words (N=1): crítico
+f1 neg words (N=1): paixão
+
+f2 score: 3
+f2 pos words (N=3): depender, construção, duradouro
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000183
+filename: vem_ed_34/t183.txt
+
+f1 score: 2
+f1 pos words (N=2): pertencimento, inclusão
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=0): 
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000184
+filename: vem_ed_34/t184.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 3
+f2 pos words (N=3): depender, atribuição, particularidade
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000185
+filename: vem_ed_34/t185.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 5
+f2 pos words (N=5): depender, construção, duradouro, hora, gerenciar
+f2 neg words (N=0): 
+
+f3 score: 1
+f3 pos words (N=1): todo
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000186
+filename: vem_ed_35/t186.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 2
+f2 pos words (N=2): construção, revelar
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000187
+filename: vem_ed_35/t187.txt
+
+f1 score: 2
+f1 pos words (N=2): inclusão, crítico
+f1 neg words (N=0): 
+
+f2 score: 1
+f2 pos words (N=1): construção
+f2 neg words (N=0): 
+
+f3 score: -1
+f3 pos words (N=1): todo
+f3 neg words (N=2): canal, recorde
+
+=============================================
+
+text ID: t000189
+filename: vem_ed_35/t189.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 7
+f2 pos words (N=7): depender, construção, duradouro, interconectar, fluxo, hora, revelar
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
+text ID: t000190
+filename: vem_ed_35/t190.txt
+
+f1 score: 1
+f1 pos words (N=1): recepção
+f1 neg words (N=0): 
+
+f2 score: 0
+f2 pos words (N=0): 
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=1): todo
+f3 neg words (N=1): outubro
+
+=============================================
+
+text ID: t000191
+filename: vem_ed_35/t191.txt
+
+f1 score: 0
+f1 pos words (N=0): 
+f1 neg words (N=0): 
+
+f2 score: 3
+f2 pos words (N=3): construção, duradouro, revelar
+f2 neg words (N=0): 
+
+f3 score: 0
+f3 pos words (N=0): 
+f3 neg words (N=0): 
+
+=============================================
+
